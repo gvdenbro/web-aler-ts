@@ -1,7 +1,6 @@
 import { test, expect, ElementHandle } from '@playwright/test';
 
-// const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
-const age: number = 6;
+const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
 
 interface Dienst {
   naam: string;
@@ -22,7 +21,7 @@ for (const dienst of diensten) {
 
     await page.goto(`https://tickets.vgc.be/activity/index?&vrijeplaatsen=1&Age%5B%5D=${age - 1}%2C${age + 1}&entity=${dienst.id}`);
 
-    const locator = page.getByRole('link', { name: 'Bekijk' });
+    const locator = page.locator('#wall').getByRole('link');
     
     await expect.poll(async () => locator.count()).toBeGreaterThan(0);
 
