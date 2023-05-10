@@ -1,5 +1,7 @@
 import { test, expect, ElementHandle } from '@playwright/test';
+import turndown from 'turndown';
 
+const turndownService = new turndown({ emDelimiter: '*' }).remove('script');
 const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
 
 interface Dienst {
@@ -36,10 +38,11 @@ for (const dienst of diensten) {
       const mainContent = await page.locator('#main-content');
 
       await expect(mainContent).toBeVisible();
-
+      
       const htmlContent = await mainContent.innerHTML();
 
-      console.info(htmlContent);
+      const markdownContent = turndownService.turndown(`<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+      console.info(markdownContent);
 
       page.context().clearCookies(); // clear cookies because otherwise we end up in an error because of some bug on the website
       await page.goBack();
