@@ -1,8 +1,9 @@
-import { test, expect, ElementHandle } from '@playwright/test';
-import turndown from 'turndown';
+import { test, expect } from '@playwright/test';
+import { emptyDirectory } from './fs-utils';
+import { createMarkdown } from './md-utils';
 
-const turndownService = new turndown({ emDelimiter: '*' }).remove('script');
 const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
+const vgcScrapesDirectory: string = './scrapes/vgc'
 
 interface Dienst {
   naam: string;
@@ -16,6 +17,12 @@ const diensten: Array<Dienst> = [
   { naam: 'dezeyp', id: 276 },
   { naam: 'deplatoo', id: 286 }
 ]
+
+test.beforeAll(async ({}, testInfo) => {
+  if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
+    emptyDirectory(vgcScrapesDirectory);
+  }
+});
 
 for (const dienst of diensten) {
 
@@ -35,14 +42,23 @@ for (const dienst of diensten) {
 
       await activity.click();
 
+      await page.$$eval('a', (links) => {
+        links.forEach(link => {
+          link.href = link.href
+        })
+      });
+
       const mainContent = await page.locator('#main-content');
 
       await expect(mainContent).toBeVisible();
-      
+
+      const ogUrl = await page.locator("meta[property='og:url']").getAttribute("content");
+
+      expect(ogUrl).toBeDefined();
+
       const htmlContent = await mainContent.innerHTML();
 
-      const markdownContent = turndownService.turndown(`<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
-      console.info(markdownContent);
+      createMarkdown(`${vgcScrapesDirectory}/${dienst.naam}/${ogUrl}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
       page.context().clearCookies(); // clear cookies because otherwise we end up in an error because of some bug on the website
       await page.goBack();
