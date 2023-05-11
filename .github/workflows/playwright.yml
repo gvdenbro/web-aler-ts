@@ -28,6 +28,7 @@ jobs:
     - name: Commit and push if changes occured
       id: try-commit-push
       # multiline 'changes' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
+      # changing from set-output to GITHUB_OUTPUT https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
       run: |-
         git config --global user.name 'gvdenbro from gh action'
         git config --global user.email 'gvdenbro@users.noreply.github.com'
@@ -39,8 +40,8 @@ jobs:
         changes="${changes//'%'/'%25'}"
         changes="${changes//$'\n'/'%0A'}"
         changes="${changes//$'\r'/'%0D'}"
-        echo "::set-output name=web-aler-ts-changes::$changes"
-        echo "::set-output name=web-aler-ts-url::$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)"
+        echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
+        echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
     - name: Notify telegram
       uses: appleboy/telegram-action@master
       if: ${{ success() && steps.try-commit-push.outputs.web-aler-ts-changes != ''}}
