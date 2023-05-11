@@ -19,12 +19,12 @@ jobs:
       run: npx playwright install --with-deps firefox
     - name: Run Playwright tests
       run: npx playwright test --project=firefox
-    - uses: actions/upload-artifact@v3
-      if: always()
-      with:
-        name: playwright-report
-        path: playwright-report/
-        retention-days: 15
+    # - uses: actions/upload-artifact@v3
+    #   if: always()
+    #   with:
+    #     name: playwright-report
+    #     path: playwright-report/
+    #     retention-days: 15
     - name: Commit and push if changes occured
       id: try-commit-push
       # multiline 'changes' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
