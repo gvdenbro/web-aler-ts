@@ -42,12 +42,6 @@ for (const dienst of diensten) {
 
       await activity.click();
 
-      await page.$$eval('a', (links) => {
-        links.forEach(link => {
-          link.href = link.href
-        })
-      });
-
       const mainContent = await page.locator('#main-content');
 
       await expect(mainContent).toBeVisible();
