@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { emptyDirectory } from './fs-utils';
+import { removeDirectory } from './fs-utils';
 import { createMarkdown } from './md-utils';
 
 const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
@@ -20,7 +20,7 @@ const diensten: Array<Dienst> = [
 
 test.beforeAll(async ({}, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-    emptyDirectory(vgcScrapesDirectory);
+    removeDirectory(vgcScrapesDirectory);
   }
 });
 

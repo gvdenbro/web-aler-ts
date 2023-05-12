@@ -1,28 +1,15 @@
 import fs from 'fs';
 import path from 'path';
 
-export function emptyDirectory(directoryPath: string): void {
+export function removeDirectory(directoryPath: string): void {
 
   if (!fs.existsSync(directoryPath)) {
     return;
   }
 
-  const files = fs.readdirSync(directoryPath);
-
-  for (const file of files) {
-
-    const filePath = path.join(directoryPath, file);
-    const isDirectory = fs.statSync(filePath).isDirectory();
-
-    if (isDirectory) {
-      emptyDirectory(filePath);
-    } else {
-      fs.unlinkSync(filePath);
-    }
-  }
-
-  fs.rmdirSync(directoryPath);
+  fs.rmSync(directoryPath, { recursive: true });
 }
+
 export function createFile(filePath: string, content: string): void {
 
   const dir = path.dirname(filePath);
