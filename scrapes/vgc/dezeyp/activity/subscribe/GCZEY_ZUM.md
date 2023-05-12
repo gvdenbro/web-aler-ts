@@ -38,6 +38,6 @@ Wachtwoord \*
 
 Ben je nog niet geregistreerd, klik dan op de knop registreer.
 
-[Registreer hier](/registration)
+[Registreer hier](https://tickets.vgc.be/registration)
 
 [Source](https://tickets.vgc.be/activity/subscribe/GCZEY_ZUM)
