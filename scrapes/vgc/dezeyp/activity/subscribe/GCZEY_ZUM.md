@@ -1,9 +1,5 @@
 ### ZUMBA
 
-zombie test
-
-gerg test
-
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/633c12a26c002_db15123d-1_-_OK.jfif)
 
 01/01/1900 - 01/01/2020
