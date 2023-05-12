@@ -37,9 +37,6 @@ jobs:
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         git push
         changes="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/')"
-        changes="${changes//'%'/'%25'}"
-        changes="${changes//$'\n'/'%0A'}"
-        changes="${changes//$'\r'/'%0D'}"
         echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
     - name: Notify telegram
