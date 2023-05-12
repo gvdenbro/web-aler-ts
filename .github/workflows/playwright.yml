@@ -27,7 +27,6 @@ jobs:
     #     retention-days: 15
     - name: Commit and push if changes occured
       id: try-commit-push
-      # multiline 'changes' are escaped according to https://github.community/t/set-output-truncates-multiline-strings/16852/2
       # changing from set-output to GITHUB_OUTPUT https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
       run: |-
         git config --global user.name 'gvdenbro from gh action'
@@ -36,9 +35,7 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         git push
-        changes="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/')"
-        changes="${changes//'%'/'%25'}"
-        changes="${changes//$'\r'/'%0D'}"
+        changes="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
         echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
     - name: Notify telegram
