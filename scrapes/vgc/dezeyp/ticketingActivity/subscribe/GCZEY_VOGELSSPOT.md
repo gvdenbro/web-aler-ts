@@ -1,7 +1,5 @@
 ### BEGELEIDE WANDELING 'Vogels spotten voor beginners'
 
-gerg gerg
-
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/63e9f171e46d3_WS1510_-_VOGEL_MET_VERREKIJKER_-_1_laag.jpg)
 
 GC De Zeyp  
