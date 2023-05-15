@@ -26,6 +26,7 @@ jobs:
     #     retention-days: 15
     - name: Commit and push if changes occured
       id: try-commit-push
+      if: success()
       # changing from set-output to GITHUB_OUTPUT https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
       run: |-
         git config --global user.name 'gvdenbro from gh action'
