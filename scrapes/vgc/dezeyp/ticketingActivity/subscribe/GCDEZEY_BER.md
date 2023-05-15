@@ -1,7 +1,5 @@
 ### CONCERT Bertels - Koch duo
 
-gergerggerg
-
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6340140313d94_WS1510_-_C@H_-_BERTELS_-_KOCH.jpg)
 
 GC De Zeyp  
