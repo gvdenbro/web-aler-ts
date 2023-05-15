@@ -3,14 +3,12 @@ import { removeDirectory } from './fs-utils';
 
 const brScrapesDirectory: string = './scrapes/buienradar'
 
+test.beforeEach(async ({ context }) => {
+  // block cookie consent popup
+  await context.route(/https:\/\/cdn\.cookielaw\.org/, route => route.abort());
+});
+
 test("buienradar jette 3 uur", async ({ page, context }) => {
-  
-  await context.route("**/*", (request) => { // block cookie consent popup
-    request.request().url().startsWith("https://cdn.cookielaw.org")
-      ? request.abort()
-      : request.continue();
-    return;
-  });
 
   await page.goto("https://www.buienradar.be/weer/jette/be/2794914/buienradar/3uurs");
 
