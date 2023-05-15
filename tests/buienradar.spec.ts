@@ -23,5 +23,5 @@ test("buienradar jette 3 uur", async ({ page }) => {
   const rainBox = page.locator('#graphHolderOverview');
 
   await expect(rainBox).toBeVisible();
-  await rainBox.screenshot({ path: `./scrapes/buienradar/screenshot.png` });
+  await rainBox.screenshot({ path: `${brScrapesDirectory}/screenshot.png` });
 });
