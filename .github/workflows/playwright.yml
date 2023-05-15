@@ -34,14 +34,14 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         git push
-        changes="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
-        echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
+        vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
+        echo "web-aler-ts-vgcchanges=$vgcchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-    - name: Notify telegram
+    - name: Notify vgc telegram
       uses: appleboy/telegram-action@master
-      if: ${{ success() && steps.try-commit-push.outputs.web-aler-ts-changes != ''}}
+      if: ${{ success() && steps.try-commit-push.outputs.web-aler-ts-vgcchanges != ''}}
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: "[web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
+        message: "[vgc web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-vgcchanges}}"
         format: markdown
