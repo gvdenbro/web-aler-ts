@@ -35,7 +35,9 @@ jobs:
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         git push
         vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
+        brchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A --exit-code ':scrapes/buienradar/*')"
         echo "web-aler-ts-vgcchanges=$vgcchanges" >> $GITHUB_OUTPUT
+        echo "web-aler-ts-brchanges=$brchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
     - name: Notify vgc telegram
       uses: appleboy/telegram-action@master
@@ -44,4 +46,13 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: "[vgc web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-vgcchanges}}"
+        format: markdown
+    - name: Notify buienradar telegram
+      uses: appleboy/telegram-action@master
+      if: ${{ success() && steps.try-commit-push.outputs.web-aler-ts-brchanges != ''}}
+      with:
+        to: ${{ secrets.TELEGRAM_TO }}
+        token: ${{ secrets.TELEGRAM_TOKEN }}
+        message: "[buienradar web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}})"
+        photo: scrapes/buienradar/screenshot.png
         format: markdown
