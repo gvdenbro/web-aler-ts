@@ -36,7 +36,7 @@ jobs:
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         git push
         vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
-        brchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A --exit-code ':scrapes/buienradar/*')"
+        brchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/buienradar/*')"
         echo "web-aler-ts-vgcchanges=$vgcchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-brchanges=$brchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
