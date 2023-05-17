@@ -4,9 +4,13 @@ on:
     - cron: "5/30 4-21 * * *"
   workflow_dispatch:
 jobs:
-  test:
-    timeout-minutes: 60
+  tests:
+    timeout-minutes: 25
     runs-on: ubuntu-latest
+    outputs:
+      web-aler-ts-vgcchanges: ${{steps.try-commit-push.outputs.web-aler-ts-vgcchanges}}
+      web-aler-ts-brchanges: ${{steps.try-commit-push.outputs.web-aler-ts-brchanges}}
+      web-aler-ts-url: ${{steps.try-commit-push.outputs.web-aler-ts-url}}
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
@@ -36,24 +40,34 @@ jobs:
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
         vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
         brchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/buienradar/*')"
+        git push
         echo "web-aler-ts-vgcchanges=$vgcchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-brchanges=$brchanges" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-        git push
+  notify-vgc:
+    timeout-minutes: 25
+    runs-on: ubuntu-latest
+    needs: tests
+    steps:
     - name: Notify vgc telegram
       uses: appleboy/telegram-action@master
-      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-vgcchanges != ''}}
+      if: ${{ success() && needs.tests.outputs.web-aler-ts-vgcchanges != ''}}
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: "[vgc web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-vgcchanges}}"
+        message: "[vgc web alerts - view changes](${{needs.tests.outputs.web-aler-ts-url}}):\n${{needs.tests.outputs.web-aler-ts-vgcchanges}}"
         format: markdown
+  notify-buienradar:
+    timeout-minutes: 25
+    runs-on: ubuntu-latest
+    needs: tests
+    steps:
     - name: Notify buienradar telegram
       uses: appleboy/telegram-action@master
-      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-brchanges != ''}}
+      if: ${{ success() && needs.tests.outputs.web-aler-ts-brchanges != ''}}
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: "[buienradar web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}})"
+        message: "[buienradar web alerts - view changes](${{needs.tests.outputs.web-aler-ts-url}})"
         photo: scrapes/buienradar/screenshot.png
         format: markdown
