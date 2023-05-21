@@ -18,15 +18,19 @@ test("buienradar jette 3 uur", async ({ page, context }) => {
   // get rid of popup
   await popup.click();
 
-  const noRainLabel = page.locator('.categoryLabel', { hasText: 'Geen neerslag verwacht' });
-
-  if (await noRainLabel.isVisible()) {
-    removeDirectory(brScrapesDirectory);
-    return;
-  }
-
   const rainBox = page.locator('#graphHolderOverview');
 
   await expect(rainBox).toBeVisible();
+
+  const rainLabel = rainBox.locator('.categoryLabel');
+
+  if (await rainLabel.isVisible()) {
+    const rainLabelContent = await rainLabel.textContent();
+    if (rainLabelContent?.includes('Geen neerslag verwacht') || rainLabelContent?.trim() === '') {
+      removeDirectory(brScrapesDirectory);
+      return;
+    }
+  }
+
   await rainBox.screenshot({ path: `${brScrapesDirectory}/screenshot.png` });
 });
