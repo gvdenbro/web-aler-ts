@@ -34,7 +34,7 @@ en maakt de papa dezelfde mopjes. Maar dit jaar hebben de kinderen er genoeg van
 
 ###### Inschrijvingsdata
 
-1.  21/04/2023 12:00 tot 25/05/2023 12:00 (Iedereen)
+1.  21/04/2023 12:00 tot 26/05/2023 15:00 (Iedereen)
 
 Gelieve uw login gegevens in te vullen:
 
