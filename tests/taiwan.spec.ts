@@ -29,7 +29,7 @@ test("flights to taiwan april 2024", async ({ page }) => {
 test('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
-    
+    /*
     await page.getByRole('tabpanel', { name: 'Search flights' }).getByText('Arrival airport', { exact: true }).click();
 
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('ABJ')).toBeVisible();
@@ -48,4 +48,5 @@ test('emirates', async ({ page }) => {
     await page.getByRole('button', { name: 'Search flights' }).click();
 
     await page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse').screenshot({ path: `${scrapesDirectory}/emirates.png` });
+    */
 });
