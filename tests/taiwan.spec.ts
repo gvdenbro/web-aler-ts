@@ -9,6 +9,12 @@ test.beforeAll(async ({ }, testInfo) => {
         removeDirectory(scrapesDirectory);
     }
 });
+
+test.beforeEach(async ({ context }) => {
+    // block cookie consent popup for emirates
+    await context.route(/https:\/\/api\.boxever\.com/, route => route.abort());
+  });
+
 /*
 test("flights to taiwan april 2024", async ({ page }) => {
 
@@ -25,6 +31,9 @@ test('emirates', async ({ page }) => {
     await page.goto('https://www.emirates.com/be/english/');
     
     await page.getByRole('tabpanel', { name: 'Search flights' }).getByText('Arrival airport', { exact: true }).click();
+
+    await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('ABJ')).toBeVisible();
+    
     await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE');
     await page.getByText('TPE').click();
     await page.getByLabel('My dates are flexible (-/+ 3 days)').check();
