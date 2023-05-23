@@ -15,7 +15,8 @@ const diensten: Array<Dienst> = [
   { naam: 'demarkten', id: 244 },
   { naam: 'nekkersdal', id: 241 },
   { naam: 'dezeyp', id: 276 },
-  { naam: 'deplatoo', id: 286 }
+  { naam: 'deplatoo', id: 286 },
+  { naam: 'derinck', id: 281 },
 ]
 
 test.beforeAll(async ({}, testInfo) => {
