@@ -38,7 +38,7 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest scraping data: ${timestamp}" || exit 0
-        vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=AM --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
+        vgcchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A --exit-code ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
         brchanges="$(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/buienradar/*')"
         git push
         echo "web-aler-ts-vgcchanges=$vgcchanges" >> $GITHUB_OUTPUT
