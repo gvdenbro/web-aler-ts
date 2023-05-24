@@ -12,7 +12,7 @@ test.beforeAll(async ({ }, testInfo) => {
 
 test.beforeEach(async ({ context }) => {
     // block cookie consent popup for emirates
-    await context.route(/https:\/\/api\.boxever\.com/, route => route.abort());
+    await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
   });
 
 /*
