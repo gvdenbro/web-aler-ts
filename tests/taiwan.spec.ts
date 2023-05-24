@@ -1,6 +1,5 @@
 import { test, expect } from '@playwright/test';
 import { removeDirectory } from './fs-utils';
-import { createMarkdown } from './md-utils';
 
 const scrapesDirectory: string = './scrapes/taiwan'
 
@@ -53,5 +52,9 @@ test('emirates', async ({ page }) => {
     await page.getByRole('cell', { name: '14 Apr 24' }).getByText('14').click();
     await page.getByRole('button', { name: 'Search flights' }).click();
 
-    await page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse').screenshot({ path: `${scrapesDirectory}/emirates.png` });
+    const gridResultPage = page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse');
+
+    await expect(gridResultPage).toBeVisible({timeout: 30000});
+
+    await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
 });
