@@ -13,7 +13,7 @@ test.beforeAll(async ({ }, testInfo) => {
 test.beforeEach(async ({ context }) => {
     // block cookie consent popup for emirates
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
-  });
+});
 
 /*
 test("flights to taiwan april 2024", async ({ page }) => {
@@ -29,16 +29,22 @@ test("flights to taiwan april 2024", async ({ page }) => {
 test('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
-    /*
-    await page.getByRole('tabpanel', { name: 'Search flights' }).getByText('Arrival airport', { exact: true }).click();
 
+    await page.getByRole('tabpanel', { name: 'Search flights' }).locator('button[name="clear Departure airport"]').click();
+    // make sure the autocomplete list appears for departure
+    await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByText('ABJ').first()).toBeVisible();
+
+    await page.getByRole('textbox', { name: 'Departure airport' }).type('BRU', {delay: 100});
+    await page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('BRU', { exact: true }).click();
+
+    // make sure the autocomplete list appears for arrival
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('ABJ')).toBeVisible();
-    
-    await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE');
+
+    await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE', {delay: 100});
     await page.getByText('TPE').click();
     await page.getByLabel('My dates are flexible (-/+ 3 days)').check();
 
-    while(! await page.getByText('March2024').isVisible()) {
+    while (! await page.getByText('March2024').isVisible()) {
         await page.getByRole('link', { name: 'Next Month' }).click();
     }
 
@@ -48,5 +54,4 @@ test('emirates', async ({ page }) => {
     await page.getByRole('button', { name: 'Search flights' }).click();
 
     await page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse').screenshot({ path: `${scrapesDirectory}/emirates.png` });
-    */
 });
