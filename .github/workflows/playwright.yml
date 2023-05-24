@@ -16,10 +16,17 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 18
+    - uses: actions/cache@v3
+      id: playwright-cache
+      with:
+        path: |
+          ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
     - name: Install dependencies
       run: npm ci
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps firefox
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
     - name: Run Playwright tests
       run: npx playwright test --project=firefox
     - uses: actions/upload-artifact@v3
