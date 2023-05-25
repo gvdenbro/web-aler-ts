@@ -58,12 +58,10 @@ test('emirates', async ({ page }) => {
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
     await page.evaluate(() => {
-        const hiddenElements = document.querySelectorAll(".visually-hidden");
-        if (hiddenElements) {
-            hiddenElements.forEach(el => el.remove());
-        }
+        document.querySelectorAll(".visually-hidden").forEach(el => el.remove());
+        document.querySelectorAll(".carrier-imposed-span").forEach(el => el.remove());
     });
     
-    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table>`, {handleTables: true});
+    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, {handleTables: true});
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
 });
