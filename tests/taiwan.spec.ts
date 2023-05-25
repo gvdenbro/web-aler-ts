@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { removeDirectory } from './fs-utils';
+import { createMarkdown } from './md-utils';
 
 const scrapesDirectory: string = './scrapes/taiwan'
 
@@ -33,13 +34,13 @@ test('emirates', async ({ page }) => {
     // make sure the autocomplete list appears for departure
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByText('ABJ').first()).toBeVisible();
 
-    await page.getByRole('textbox', { name: 'Departure airport' }).type('BRU', {delay: 100});
+    await page.getByRole('textbox', { name: 'Departure airport' }).type('BRU', { delay: 100 });
     await page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('BRU', { exact: true }).click();
 
     // make sure the autocomplete list appears for arrival
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('ABJ')).toBeVisible();
 
-    await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE', {delay: 100});
+    await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE', { delay: 100 });
     await page.getByText('TPE').click();
     await page.getByLabel('My dates are flexible (-/+ 3 days)').check();
 
@@ -54,7 +55,15 @@ test('emirates', async ({ page }) => {
 
     const gridResultPage = page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse');
 
-    await expect(gridResultPage).toBeVisible({timeout: 30000});
+    await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
+    await page.evaluate(() => {
+        const hiddenElements = document.querySelectorAll(".visually-hidden");
+        if (hiddenElements) {
+            hiddenElements.forEach(el => el.remove());
+        }
+    });
+    
+    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table>`, {handleTables: true});
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
 });
