@@ -7,7 +7,7 @@
 Campus Comenius  
 Dapperenstraat 20, 1081 Koekelberg
 
-80 vrije plaatsen
+75 vrije plaatsen
 
 Voormiddag
 
