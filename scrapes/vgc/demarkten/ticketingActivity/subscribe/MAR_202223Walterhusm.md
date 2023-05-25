@@ -7,7 +7,7 @@ Oude Graanmarkt 5, 1000 Brussel
 
 08/06/2023
 
-MAR\_202223Walterhusm
+MAR_202223Walterhusm
 
 Vanaf 18:30 tot 21:30
 
@@ -30,13 +30,13 @@ Info: De Markten, [demarkten@demarkten.be](mailto:cursussen@demarkten.be), 02 51
 
 #### Prijslijst
 
-*   ###### Ticket:
+* ###### Ticket:
     
-    *   Standaardprijs: €10,00
-    *   Paspartoe-Kansentarief: €2,00 geldig vanaf 03/04/2023
-    *   Seniorentarief: €8,00 geldig vanaf 03/04/2023
-    *   \-26 jaar: €8,00 geldig vanaf 03/04/2023
-    *   Werkzoekende: €8,00
+    * Standaardprijs: €10,00
+    * Paspartoe-Kansentarief: €2,00 geldig vanaf 03/04/2023
+    * Seniorentarief: €8,00 geldig vanaf 03/04/2023
+    * -26 jaar: €8,00 geldig vanaf 03/04/2023
+    * Werkzoekende: €8,00
 
   
 
@@ -46,7 +46,7 @@ Info: De Markten, [demarkten@demarkten.be](mailto:cursussen@demarkten.be), 02 51
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -54,17 +54,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 

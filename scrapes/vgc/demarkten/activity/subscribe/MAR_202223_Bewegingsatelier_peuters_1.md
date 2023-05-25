@@ -37,9 +37,9 @@ Info: De Markten, [cursussen@demarkten.be](mailto:cursussen@demarkten.be), 02 51
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres \* 
+Gebruikersnaam / E-mailadres * 
 
-Wachtwoord \* 
+Wachtwoord * 
 
   
 

@@ -1,13 +1,13 @@
 ### Bewegingsatelier - kleuters voorjaar
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/5efb3ecab2a27_2019_bewegingsatelier_kleuters_©Herman_Genbrugge@Stadsbiografie_Brussel_(web).JPG)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/5efb3ecab2a27_2019_bewegingsatelier_kleuters_©Herman_Genbrugge@Stadsbiografie_Brussel_%28web%29.JPG)
 
 GC De Markten  
 Oude Graanmarkt 5, 1000 Brussel
 
 Voormiddag
 
-MAR\_202223\_Bewegingsatelier\_kleuters1
+MAR\_202223\_Bewegingsatelier_kleuters1
 
 Gaat door op:  
 11/02/2023, 18/02/2023, 04/03/2023, 11/03/2023, 18/03/2023, 25/03/2023, 01/04/2023, 22/04/2023, 29/04/2023, 06/05/2023, 13/05/2023, 27/05/2023, 03/06/2023, 10/06/2023, 17/06/2023, 24/06/2023
@@ -38,9 +38,9 @@ Info: De Markten, [cursussen@demarkten.be](mailto:cursussen@demarkten.be), 02 51
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres \* 
+Gebruikersnaam / E-mailadres * 
 
-Wachtwoord \* 
+Wachtwoord * 
 
   
 

@@ -7,7 +7,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 27/05/2023
 
-GCZEY\_VOGELSSPOT
+GCZEY_VOGELSSPOT
 
 Vanaf 09:30 tot 12:00
 
@@ -23,9 +23,9 @@ Start en eindpunt in GC De Zeyp
 
 #### Prijslijst
 
-*   ###### Ticket:
+* ###### Ticket:
     
-    *   Standaardprijs: €0,00
+    * Standaardprijs: €0,00
 
   
 
@@ -35,7 +35,7 @@ Start en eindpunt in GC De Zeyp
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -43,17 +43,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 

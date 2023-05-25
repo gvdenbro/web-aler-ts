@@ -9,7 +9,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 01/12/2023
 
-GCDEZEY\_AM
+GCDEZEY_AM
 
 Vanaf 20:00 tot 21:15
 
@@ -26,7 +26,7 @@ Niet enkel hun vriendschap, maar ook hun gezamenlijke appreciatie voor het onder
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -34,17 +34,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 

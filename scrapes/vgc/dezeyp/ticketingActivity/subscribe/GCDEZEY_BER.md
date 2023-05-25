@@ -7,7 +7,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 26/01/2024
 
-GCDEZEY\_BER
+GCDEZEY_BER
 
 Vanaf 20:00 tot 21:15
 
@@ -24,7 +24,7 @@ Bertels en Koch proberen aan de hand van oude instrumenten de muzikale evolutie 
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -32,17 +32,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 

@@ -11,7 +11,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 Voormiddag
 
-GCZEY\_ZUM
+GCZEY_ZUM
 
 Gaat door op:  
 05/02/2023, 12/02/2023, 19/02/2023, 05/03/2023, 12/03/2023, 19/03/2023, 26/03/2023, 02/04/2023, 23/04/2023, 30/04/2023, 07/05/2023, 14/05/2023, 21/05/2023, 28/05/2023, 04/06/2023, 11/06/2023
@@ -30,9 +30,9 @@ Zumba, dat is fitnessoefeningen op ritmische muziek. De bewegingen zijn gebaseer
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres \* 
+Gebruikersnaam / E-mailadres * 
 
-Wachtwoord \* 
+Wachtwoord * 
 
   
 

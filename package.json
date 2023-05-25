@@ -8,7 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.33.0",
-    "turndown": "^7.1.2"
+    "@joplin/turndown": "^4.0.65",
+    "@joplin/turndown-plugin-gfm": "^1.0.47",
+    "@playwright/test": "^1.33.0"
   }
 }

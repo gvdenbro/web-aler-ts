@@ -7,7 +7,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 16/06/2023
 
-GCDEZEY\_VIL
+GCDEZEY_VIL
 
 Vanaf 20:00 tot 21:15
 
@@ -26,7 +26,7 @@ Silviu Dumitrache studeerde aan het Koninklijk Conservatorium van Brussel. Hij i
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -34,17 +34,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 

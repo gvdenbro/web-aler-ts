@@ -11,7 +11,7 @@ Dapperenstraat 20, 1081 Koekelberg
 
 Voormiddag
 
-PLA\_23mobimobi
+PLA_23mobimobi
 
 Gaat door op:  
 26/05/2023
@@ -38,9 +38,9 @@ en maakt de papa dezelfde mopjes. Maar dit jaar hebben de kinderen er genoeg van
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres \* 
+Gebruikersnaam / E-mailadres * 
 
-Wachtwoord \* 
+Wachtwoord * 
 
   
 

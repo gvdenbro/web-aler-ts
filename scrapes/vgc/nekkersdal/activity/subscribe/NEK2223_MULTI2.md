@@ -13,7 +13,7 @@ Emile Bockstaellaan 107, 1020 Laken
 
 Voormiddag
 
-NEK2223\_MULTI2
+NEK2223_MULTI2
 
 Gaat door op:  
 01/10/2022, 08/10/2022, 15/10/2022, 22/10/2022, 29/10/2022, 12/11/2022, 19/11/2022, 26/11/2022, 03/12/2022, 10/12/2022, 17/12/2022, 14/01/2023, 21/01/2023, 28/01/2023, 04/02/2023, 11/02/2023, 18/02/2023, 04/03/2023, 11/03/2023, 18/03/2023, 25/03/2023, 22/04/2023, 29/04/2023, 06/05/2023, 27/05/2023, 03/06/2023
@@ -34,9 +34,9 @@ Voor kinderen die het Nederlands begrijpen en spreken.
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres \* 
+Gebruikersnaam / E-mailadres * 
 
-Wachtwoord \* 
+Wachtwoord * 
 
   
 

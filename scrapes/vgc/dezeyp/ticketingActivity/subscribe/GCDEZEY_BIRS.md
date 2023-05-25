@@ -7,7 +7,7 @@ Zeypstraat 47, 1083 Ganshoren
 
 30/05/2023
 
-GCDEZEY\_BIRS
+GCDEZEY_BIRS
 
 Vanaf 20:00 tot 21:15
 
@@ -21,11 +21,11 @@ Organisatie: GC De Zeyp ism auteurslezingen.be, DC De Rotonde, Nederlandstalige 
 
 #### Prijslijst
 
-*   ###### Ticket:
+* ###### Ticket:
     
-    *   Standaardprijs: €6,00
-    *   Korting: €5,00
-    *   Paspartoe-Kansentarief: €2,00
+    * Standaardprijs: €6,00
+    * Korting: €5,00
+    * Paspartoe-Kansentarief: €2,00
 
   
 
@@ -35,7 +35,7 @@ Organisatie: GC De Zeyp ism auteurslezingen.be, DC De Rotonde, Nederlandstalige 
 
 Stap 1 van 3
 
-    
+ 
 
 ### Persoonlijke info
 
@@ -43,17 +43,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail \* 
+E-mail * 
 
-Verifieer e-mail \* 
+Verifieer e-mail * 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam \* 
+Voornaam * 
 
-Familienaam \* 
+Familienaam * 
 
 Volgende
 
