@@ -15,17 +15,6 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-/*
-test("flights to taiwan april 2024", async ({ page }) => {
-
-    await page.goto("https://matrix.itasoftware.com/flights?search=eyJ0eXBlIjoicm91bmQtdHJpcCIsInNsaWNlcyI6W3sib3JpZ2luIjpbIkJSVSJdLCJkZXN0IjpbIlRQRSJdLCJkYXRlcyI6eyJzZWFyY2hEYXRlVHlwZSI6InNwZWNpZmljIiwiZGVwYXJ0dXJlRGF0ZSI6IjIwMjQtMDMtMzAiLCJkZXBhcnR1cmVEYXRlVHlwZSI6ImRlcGFydCIsImRlcGFydHVyZURhdGVNb2RpZmllciI6IjAiLCJkZXBhcnR1cmVEYXRlUHJlZmVycmVkVGltZXMiOltdLCJyZXR1cm5EYXRlIjoiMjAyNC0wNC0xNCIsInJldHVybkRhdGVUeXBlIjoiYXJyaXZlIiwicmV0dXJuRGF0ZU1vZGlmaWVyIjoiMCIsInJldHVybkRhdGVQcmVmZXJyZWRUaW1lcyI6W119fV0sIm9wdGlvbnMiOnsiY2FiaW4iOiJDT0FDSCIsInN0b3BzIjoiMSIsImV4dHJhU3RvcHMiOiIwIiwiYWxsb3dBaXJwb3J0Q2hhbmdlcyI6ImZhbHNlIiwic2hvd09ubHlBdmFpbGFibGUiOiJ0cnVlIn0sInBheCI6eyJhZHVsdHMiOiIyIiwiY2hpbGRyZW4iOiIxIn0sInNvbHV0aW9uIjp7InNlc3Npb25JZCI6InM4STBkcEFIcmg2akw0bnpCRFVBcDQ1WUoiLCJBZCI6dHJ1ZSwibmgiOiIwZkltemU3Z204SzdTUk9EcGJmS0lFVSIsIkdpIjpudWxsfX0%3D");
-
-    await expect(page.getByRole('columnheader', { name: 'Price Filter' })).toBeVisible({ timeout: 60_000 });
-
-    await page.screenshot({ path: `${scrapesDirectory}/screenshot.png` });
-});
-*/
-
 test('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
@@ -61,7 +50,48 @@ test('emirates', async ({ page }) => {
         document.querySelectorAll(".visually-hidden").forEach(el => el.remove());
         document.querySelectorAll(".carrier-imposed-span").forEach(el => el.remove());
     });
-    
-    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, {handleTables: true});
+
+    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
+});
+
+test('turkish-airlines', async ({ page }) => {
+    await page.goto('https://www.turkishairlines.com/');
+
+    await page.getByRole('button', { name: 'I accept all cookies' }).click();
+
+    await page.locator('#portInputFrom').click();
+    await page.locator('#portInputFrom').clear();
+    await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
+    await page.locator('#portInputFrom').type('BRU', {delay: 300});
+    await page.locator('#originSelector').getByText('(BRU)').first().click();
+
+    await page.locator('#portInputTo').click();
+    await page.locator('#portInputTo').clear();
+    await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
+    await page.locator('#portInputTo').type('TPE', {delay: 300});
+    await page.locator('#destinationSelector').getByText('(TPE)').first().click();
+
+    await page.locator('label').filter({ hasText: 'Flexible dates' }).locator('span').first().click();
+
+    while (! await page.getByText('March 2024').isVisible()) {
+        await page.getByTitle('Next').first().click();
+    }
+
+    await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '30' }).click()
+
+    await page.getByTitle('Next').first().click();
+    await expect(page.getByText('April 2024')).toBeVisible();
+
+    await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '14' }).first().click();
+
+    await page.getByRole('link', { name: 'OK', exact: true }).click();
+    await page.getByRole('button', { name: 'Search flights' }).click();
+
+    const gridResultPage = page.locator('#availabilitybrandedinternational_container div table.table');
+
+    await expect(gridResultPage).toBeVisible({ timeout: 30000 });
+
+    createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
+    await gridResultPage.screenshot({ path: `${scrapesDirectory}/turkish-airlines.png` });
 });
