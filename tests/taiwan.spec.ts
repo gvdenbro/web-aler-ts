@@ -60,8 +60,13 @@ test('turkish-airlines', async ({ page }) => {
 
     await page.getByRole('button', { name: 'I accept all cookies' }).click();
 
+    await expect(page.locator('#originSelector .port-info')).toHaveText(/\S/, {timeout: 30000});
+    await expect(page.locator('#portInputTo')).toBeFocused();
+
     await page.locator('#portInputFrom').click();
+    await page.locator('#portInputFrom').focus();
     await page.locator('#portInputFrom').clear();
+    
     await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
     await page.locator('#portInputFrom').type('BRU', {delay: 300});
     await page.locator('#originSelector').getByText('(BRU)').first().click();
