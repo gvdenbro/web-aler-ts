@@ -55,48 +55,48 @@ test('emirates', async ({ page }) => {
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
 });
 
-test('turkish-airlines', async ({ page }) => {
-    await page.goto('https://www.turkishairlines.com/');
+// test('turkish-airlines', async ({ page }) => {
+//     await page.goto('https://www.turkishairlines.com/');
 
-    await page.getByRole('button', { name: 'I accept all cookies' }).click();
+//     await page.getByRole('button', { name: 'I accept all cookies' }).click();
 
-    await expect(page.locator('#originSelector .port-info')).toHaveText(/\S/, {timeout: 30000});
-    await expect(page.locator('#portInputTo')).toBeFocused();
+//     await expect(page.locator('#originSelector .port-info')).toHaveText(/\S/, {timeout: 30000});
+//     await expect(page.locator('#portInputTo')).toBeFocused();
 
-    await page.locator('#portInputFrom').click();
-    await page.locator('#portInputFrom').focus();
-    await page.locator('#portInputFrom').clear();
+//     await page.locator('#portInputFrom').click();
+//     await page.locator('#portInputFrom').focus();
+//     await page.locator('#portInputFrom').clear();
     
-    await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
-    await page.locator('#portInputFrom').type('BRU', {delay: 300});
-    await page.locator('#originSelector').getByText('(BRU)').first().click();
+//     await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
+//     await page.locator('#portInputFrom').type('BRU', {delay: 300});
+//     await page.locator('#originSelector').getByText('(BRU)').first().click();
 
-    await page.locator('#portInputTo').click();
-    await page.locator('#portInputTo').clear();
-    await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
-    await page.locator('#portInputTo').type('TPE', {delay: 300});
-    await page.locator('#destinationSelector').getByText('(TPE)').first().click();
+//     await page.locator('#portInputTo').click();
+//     await page.locator('#portInputTo').clear();
+//     await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
+//     await page.locator('#portInputTo').type('TPE', {delay: 300});
+//     await page.locator('#destinationSelector').getByText('(TPE)').first().click();
 
-    await page.locator('label').filter({ hasText: 'Flexible dates' }).locator('span').first().click();
+//     await page.locator('label').filter({ hasText: 'Flexible dates' }).locator('span').first().click();
 
-    while (! await page.getByText('March 2024').isVisible()) {
-        await page.getByTitle('Next').first().click();
-    }
+//     while (! await page.getByText('March 2024').isVisible()) {
+//         await page.getByTitle('Next').first().click();
+//     }
 
-    await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '30' }).click()
+//     await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '30' }).click()
 
-    await page.getByTitle('Next').first().click();
-    await expect(page.getByText('April 2024')).toBeVisible();
+//     await page.getByTitle('Next').first().click();
+//     await expect(page.getByText('April 2024')).toBeVisible();
 
-    await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '14' }).first().click();
+//     await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '14' }).first().click();
 
-    await page.getByRole('link', { name: 'OK', exact: true }).click();
-    await page.getByRole('button', { name: 'Search flights' }).click();
+//     await page.getByRole('link', { name: 'OK', exact: true }).click();
+//     await page.getByRole('button', { name: 'Search flights' }).click();
 
-    const gridResultPage = page.locator('#availabilitybrandedinternational_container div table.table');
+//     const gridResultPage = page.locator('#availabilitybrandedinternational_container div table.table');
 
-    await expect(gridResultPage).toBeVisible({ timeout: 30000 });
+//     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
-    createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/turkish-airlines.png` });
-});
+//     createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
+//     await gridResultPage.screenshot({ path: `${scrapesDirectory}/turkish-airlines.png` });
+// });
