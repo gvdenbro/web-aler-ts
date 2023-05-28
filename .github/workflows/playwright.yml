@@ -59,7 +59,7 @@ jobs:
     needs: tests
     if: ${{ success() && needs.tests.outputs.web-aler-ts-vgcchanges != ''}}
     steps:
-    - name: Notify vgc telegram
+    - name: vgc telegram
       uses: appleboy/telegram-action@master
       with:
         to: ${{ secrets.TELEGRAM_TO }}
@@ -72,8 +72,9 @@ jobs:
     needs: tests
     if: ${{ success() && needs.tests.outputs.web-aler-ts-brchanges != ''}}
     steps:
-    - name: Notify buienradar telegram
-      uses: appleboy/telegram-action@master
+    - uses: actions/checkout@v3
+    - uses: appleboy/telegram-action@master
+      name: buienradar telegram
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
