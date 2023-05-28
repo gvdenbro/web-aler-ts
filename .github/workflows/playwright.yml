@@ -79,5 +79,5 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: "[buienradar web alerts - view changes](${{needs.tests.outputs.web-aler-ts-url}})"
-        photo: scrapes/buienradar/screenshot.png
+        photo: ./scrapes/buienradar/screenshot.png
         format: markdown
