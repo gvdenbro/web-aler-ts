@@ -73,11 +73,11 @@ jobs:
     if: ${{ success() && needs.tests.outputs.web-aler-ts-brchanges != ''}}
     steps:
     - uses: actions/checkout@v3
-    - uses: appleboy/telegram-action@master
-      name: buienradar telegram
+    - name: buienradar telegram
+      uses: appleboy/telegram-action@master
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: "[buienradar web alerts - view changes](${{needs.tests.outputs.web-aler-ts-url}})"
-        photo: ./scrapes/buienradar/screenshot.png
+        photo: scrapes/buienradar/screenshot.png
         format: markdown
