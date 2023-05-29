@@ -1,14 +1,11 @@
-name: Reusable workflow
+name: _reusable workflow
 on:
   workflow_call:
     inputs:
       playwright-test-cmd:
         required: true
         type: string
-      git-cmd:
-        required: true
-        type: string
-      telegram-msg:
+      diff-cmd:
         required: true
         type: string
 jobs:
@@ -50,7 +47,8 @@ jobs:
         git config --global user.email 'gvdenbro@users.noreply.github.com'
         git add -A
         timestamp=$(date -u)
-        ${{ inputs.git-cmd }}
+        git commit -m "Latest scraping ${{ github.workflow }}: ${timestamp}" || exit 0
+        ${{ inputs.diff-cmd }}
         echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
         git pull --rebase
@@ -61,5 +59,5 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: "[${{ inputs.telegram-msg }}](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
+        message: "[${{ github.workflow }} web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
         format: markdown

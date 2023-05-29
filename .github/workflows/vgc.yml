@@ -4,11 +4,8 @@ on:
     - cron: "5/30 4-21 * * *"
   workflow_dispatch:
 jobs:
-  call-reusable-workflow:
+  tests:
     uses: ./.github/workflows/_reusable.yml
     with:
       playwright-test-cmd: npx playwright test tests/vgc.spec.ts --project=firefox
-      git-cmd: |-
-        git commit -m "Latest scraping vgc: ${timestamp}" || exit 0
-        changes="$(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
-      telegram-msg: vgc web alerts - view changes
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
