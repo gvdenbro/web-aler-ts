@@ -1,0 +1,58 @@
+name: vgc
+on:
+  schedule:
+    - cron: "5/30 4-21 * * *"
+  workflow_dispatch:
+jobs:
+  tests:
+    timeout-minutes: 25
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - uses: actions/cache@v3
+      id: playwright-cache
+      with:
+        path: |
+          ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+    - name: Install dependencies
+      run: npm ci
+    - name: Install Playwright Browsers
+      run: npx playwright install --with-deps firefox
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
+    - name: Run Playwright tests
+      run: npx playwright test tests/vgc.spec.ts --project=firefox
+    - uses: actions/upload-artifact@v3
+      if: failure()
+      with:
+        name: playwright-outcome
+        path: | 
+          playwright-report
+          test-results
+        retention-days: 15
+    - name: Commit and push if changes occured
+      id: try-commit-push
+      if: success()
+      # changing from set-output to GITHUB_OUTPUT https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/
+      run: |-
+        git config --global user.name 'gvdenbro from gh action'
+        git config --global user.email 'gvdenbro@users.noreply.github.com'
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest scraping vgc: ${timestamp}" || exit 0
+        changes="$(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/vgc*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')"
+        echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
+        echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+        git pull --rebase
+        git push
+    - name: Notify Telegram
+      uses: appleboy/telegram-action@master
+      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-changes != ''}}
+      with:
+        to: ${{ secrets.TELEGRAM_TO }}
+        token: ${{ secrets.TELEGRAM_TOKEN }}
+        message: "[vgc web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
+        format: markdown
