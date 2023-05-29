@@ -63,7 +63,6 @@ test('turkish-airlines', async ({ page }) => {
     await expect(page.locator('#originSelector .port-info')).toHaveText(/\S/, {timeout: 30000});
     await expect(page.locator('#portInputTo')).toBeFocused();
 
-    
     await page.locator('#portInputTo').click();
     await page.locator('#portInputTo').clear();
     await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
