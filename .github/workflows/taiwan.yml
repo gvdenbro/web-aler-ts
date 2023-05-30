@@ -8,4 +8,4 @@ jobs:
     uses: ./.github/workflows/_reusable.yml
     with:
       playwright-test-cmd: npx playwright test tests/taiwan.spec.ts --project=firefox
-      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=AM ':scrapes/taiwan/*')
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=AM ':scrapes/taiwan/*.md')
