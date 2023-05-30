@@ -1,0 +1,11 @@
+name: taiwan
+on:
+  schedule:
+    - cron: "25/30 4-21 * * *"
+  workflow_dispatch:
+jobs:
+  tests:
+    uses: ./.github/workflows/_reusable.yml
+    with:
+      playwright-test-cmd: npx playwright test tests/taiwan.spec.ts --project=firefox
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=AM ':scrapes/taiwan/*')
