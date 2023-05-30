@@ -57,7 +57,7 @@ test('emirates', async ({ page }) => {
 });
 
 test('turkish-airlines', async ({ page }) => {
-    await page.goto('https://www.turkishairlines.com/');
+    await page.goto('https://www.turkishairlines.com/en-int/index.html');
 
     await page.getByRole('button', { name: 'I accept all cookies' }).click();
 
