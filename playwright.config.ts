@@ -45,6 +45,8 @@ export default defineConfig({
       use: {
         ...devices['Desktop Firefox'],
         viewport: { width: 1920, height: 1080 },
+        locale: 'en-BE',
+        timezoneId: 'Europe/Brussels',
       },
     },
 
