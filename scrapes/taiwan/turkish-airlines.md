@@ -8,6 +8,8 @@
 | Departure<br><br>30 Saturday March 2024 | EUR1,231.62 | EUR1,231.62 | EUR1,298.62 | EUR1,231.62 | EUR1,089.62 | EUR1,089.62 | EUR1,089.62 |
 | Departure<br><br>31 Sunday March 2024 | EUR1,312.62 | EUR1,312.62 | EUR1,379.62 | EUR1,312.62 | EUR1,169.62 | EUR1,169.62 | EUR1,169.62 |
 | Departure<br><br>01 Monday April 2024 | EUR1,408.62 | EUR1,408.62 | EUR1,475.62 | EUR1,408.62 | EUR1,265.62 | EUR1,265.62 | EUR1,265.62 |
-
+| Departure<br><br>02 Tuesday April 2024 | EUR1,312.62 | EUR1,312.62 | EUR1,379.62 | EUR1,312.62 | EUR1,169.62 | EUR1,169.62 | EUR1,169.62 |
+| Next |
+| Lowest fare — No flight or seat availability |     |     |     |     |     |     |     |
 
 ![](turkish-airlines.png)
