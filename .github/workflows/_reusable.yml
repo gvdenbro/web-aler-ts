@@ -56,7 +56,7 @@ jobs:
         changes="${{ inputs.diff-cmd }}"
         echo "web-aler-ts-changes=$changes" >> $GITHUB_OUTPUT
         echo "web-aler-ts-url=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-        git pull
+        git pull --no-rebase
         git push
     - name: Notify Telegram
       uses: appleboy/telegram-action@master
