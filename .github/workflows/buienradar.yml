@@ -9,3 +9,6 @@ jobs:
     with:
       playwright-test-cmd: npx playwright test tests/buienradar.spec.ts --project=firefox
       diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=A ':scrapes/buienradar/*')
+    secrets:
+      telegram-to: ${{ secrets.TELEGRAM_TO }}
+      telegram-token: ${{ secrets.TELEGRAM_TOKEN }}

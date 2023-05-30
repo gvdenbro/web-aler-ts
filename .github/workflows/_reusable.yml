@@ -8,6 +8,11 @@ on:
       diff-cmd:
         required: true
         type: string
+    secrets:
+      telegram-to:
+        required: true
+      telegram-token:
+        required: true
 jobs:
   tests:
     timeout-minutes: 25
@@ -57,7 +62,7 @@ jobs:
       uses: appleboy/telegram-action@master
       if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-changes != ''}}
       with:
-        to: ${{ secrets.TELEGRAM_TO }}
-        token: ${{ secrets.TELEGRAM_TOKEN }}
+        to: ${{ secrets.telegram-to }}
+        token: ${{ secrets.telegram-token }}
         message: "[${{ github.workflow }} web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
         format: markdown
