@@ -49,6 +49,7 @@ test('emirates', async ({ page }) => {
     await page.evaluate(() => {
         document.querySelectorAll(".visually-hidden").forEach(el => el.remove());
         document.querySelectorAll(".carrier-imposed-span").forEach(el => el.remove());
+        document.querySelectorAll("table img").forEach(el => el.remove());
     });
 
     createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
