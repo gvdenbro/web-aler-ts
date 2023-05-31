@@ -1,7 +1,7 @@
 name: taiwan
 on:
   schedule:
-    - cron: "25/30 4-21 * * *"
+    - cron: "30 4-22/6 * * *"
   workflow_dispatch:
 jobs:
   tests:
