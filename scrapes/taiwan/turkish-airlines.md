@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Departure<br><br>27 Wednesday March 2024 | EUR1,231.65 | EUR1,231.65 | EUR1,298.65 | EUR1,231.65 | EUR1,089.65 | EUR1,089.65 | EUR1,089.65 |
 | Departure<br><br>28 Thursday March 2024 | EUR1,231.65 | EUR1,231.65 | EUR1,298.65 | EUR1,231.65 | EUR1,089.65 | EUR1,089.65 | EUR1,089.65 |
-| Departure<br><br>29 Friday March 2024 | EUR1,312.65 | EUR1,312.65 | EUR1,379.65 | EUR1,312.65 | EUR1,169.65 | EUR1,169.65 | EUR1,169.65 |
+| Departure<br><br>29 Friday March 2024 | EUR1,408.65 | EUR1,408.65 | EUR1,475.65 | EUR1,408.65 | EUR1,265.65 | EUR1,265.65 | EUR1,265.65 |
 | Departure<br><br>30 Saturday March 2024 | EUR1,231.65 | EUR1,231.65 | EUR1,298.65 | EUR1,231.65 | EUR1,089.65 | EUR1,089.65 | EUR1,089.65 |
 | Departure<br><br>31 Sunday March 2024 | EUR1,312.65 | EUR1,312.65 | EUR1,379.65 | EUR1,312.65 | EUR1,169.65 | EUR1,169.65 | EUR1,169.65 |
 | Departure<br><br>01 Monday April 2024 | EUR1,408.65 | EUR1,408.65 | EUR1,475.65 | EUR1,408.65 | EUR1,265.65 | EUR1,265.65 | EUR1,265.65 |
