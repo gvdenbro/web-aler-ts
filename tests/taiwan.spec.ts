@@ -46,14 +46,18 @@ test('emirates', async ({ page }) => {
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
+    await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
+
     await page.evaluate(() => {
         document.querySelectorAll(".visually-hidden").forEach(el => el.remove());
         document.querySelectorAll(".carrier-imposed-span").forEach(el => el.remove());
         document.querySelectorAll("table img").forEach(el => el.remove());
+        document.querySelectorAll(".from-txt").forEach(el => el.remove());
+        document.querySelectorAll(".masthead-converted-type").forEach(el => el.remove());
+        document.querySelectorAll(".lowest-price").forEach(el => el.remove());
     });
 
     createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
 });
 
 test('turkish-airlines', async ({ page }) => {
