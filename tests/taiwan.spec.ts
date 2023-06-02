@@ -102,6 +102,11 @@ test('turkish-airlines', async ({ page }) => {
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
-    createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/turkish-airlines.png` });
+
+    await page.evaluate(() => {
+        document.querySelectorAll(".price-column-currency").forEach(el => el.remove());
+    });
+
+    createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
 });
