@@ -1,7 +1,7 @@
 name: buienradar
 on:
   schedule:
-    - cron: "15/30 4-21 * * *"
+    - cron: "15/20 4-22 * * *"
   workflow_dispatch:
 jobs:
   tests:
