@@ -4,7 +4,7 @@ import { createMarkdown } from './md-utils';
 
 const scrapesDirectory: string = './scrapes/prices'
 
-test.beforeAll(async ({}, testInfo) => {
+test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
     removeDirectory(scrapesDirectory);
   }
@@ -16,6 +16,9 @@ test.beforeEach(async ({ context }) => {
 });
 
 test("hurricane-xlt-2", async ({ page, context }, testInfo) => {
+
+  // getting rid of locale selection popup
+  context.addCookies([{ name: "locale_pref", value: "nl_BE", domain: "www.teva-eu.com", path: "/" }]);
 
   await page.goto("https://www.teva-eu.com/nl/be/men-sandals/hurricane-xlt-2/1019234.html");
 

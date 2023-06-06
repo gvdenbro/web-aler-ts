@@ -3,7 +3,7 @@
 {
 	"name": "Playwright dev container",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/playwright:v1.33.0-jammy",
+	"image": "mcr.microsoft.com/playwright:v1.34.3-jammy",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
