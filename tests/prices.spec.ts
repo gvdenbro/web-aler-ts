@@ -19,7 +19,7 @@ test("hurricane-xlt-2", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.teva-eu.com/nl/be/men-sandals/hurricane-xlt-2/1019234.html");
 
-  await expect(page.locator('.d-none > .prices > .price')).toBeVisible();
+  await expect(page.locator('.d-none > .prices > .price')).toBeVisible({ timeout: 30_000 });
 
   const htmlContent = await page.locator('.d-none > .prices > .price').innerHTML();
 
