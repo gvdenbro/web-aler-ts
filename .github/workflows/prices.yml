@@ -1,4 +1,4 @@
-name: buienradar
+name: prices
 on:
   schedule:
     - cron: "45 4-22 * * *"
