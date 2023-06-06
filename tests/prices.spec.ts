@@ -11,7 +11,6 @@ test.beforeAll(async ({ }, testInfo) => {
 });
 
 test.beforeEach(async ({ context }) => {
-  // block cookie consent popup
   await context.route(/(.*forter.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
