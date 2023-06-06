@@ -1,0 +1,14 @@
+name: buienradar
+on:
+  schedule:
+    - cron: "45 4-22 * * *"
+  workflow_dispatch:
+jobs:
+  tests:
+    uses: ./.github/workflows/_reusable.yml
+    with:
+      playwright-test-cmd: npx playwright test tests/prices.spec.ts --project=firefox
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=AM ':scrapes/prices/*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
+    secrets:
+      telegram-to: ${{ secrets.TELEGRAM_TO }}
+      telegram-token: ${{ secrets.TELEGRAM_TOKEN }}
