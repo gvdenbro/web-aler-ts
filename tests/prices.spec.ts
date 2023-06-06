@@ -12,7 +12,7 @@ test.beforeAll(async ({}, testInfo) => {
 
 test.beforeEach(async ({ context }) => {
   // block cookie consent popup
-  await context.route(/https:\/\/cdn\.cookielaw\.org/, route => route.abort());
+  await context.route(/(.*forter.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
 test("hurricane-xlt-2", async ({ page, context }, testInfo) => {
