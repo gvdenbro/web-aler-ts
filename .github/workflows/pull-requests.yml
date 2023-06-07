@@ -2,6 +2,7 @@ name: _pull request
 on: pull_request
 jobs:
   tests:
+    name: playwright tests
     timeout-minutes: 25
     runs-on: ubuntu-latest
     steps:
