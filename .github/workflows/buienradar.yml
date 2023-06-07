@@ -8,7 +8,7 @@ jobs:
     uses: ./.github/workflows/_reusable.yml
     with:
       playwright-test-cmd: npx playwright test tests/buienradar.spec.ts --project=firefox
-      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=M ':scrapes/buienradar/*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=AM ':scrapes/buienradar/*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
       notfication-img: scrapes/buienradar/buienradar-jette-3-uur.png
     secrets:
       telegram-to: ${{ secrets.TELEGRAM_TO }}
