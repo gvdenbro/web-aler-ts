@@ -8,6 +8,9 @@ on:
       diff-cmd:
         required: true
         type: string
+      notfication-img:
+        required: false
+        type: string
     secrets:
       telegram-to:
         required: true
@@ -60,9 +63,18 @@ jobs:
         git push
     - name: Notify Telegram
       uses: appleboy/telegram-action@master
-      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-changes != ''}}
+      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-changes != '' && inputs.notfication-img == ''}}
       with:
         to: ${{ secrets.telegram-to }}
         token: ${{ secrets.telegram-token }}
         message: "[${{ github.workflow }} web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
         format: markdown
+    - name: Notify Telegram with img
+      uses: appleboy/telegram-action@master
+      if: ${{ steps.try-commit-push.conclusion == 'success' && steps.try-commit-push.outputs.web-aler-ts-changes != '' && inputs.notfication-img != ''}}
+      with:
+        to: ${{ secrets.telegram-to }}
+        token: ${{ secrets.telegram-token }}
+        message: "[${{ github.workflow }} web alerts - view changes](${{steps.try-commit-push.outputs.web-aler-ts-url}}):\n${{steps.try-commit-push.outputs.web-aler-ts-changes}}"
+        format: markdown
+        photo: ${{ inputs.notfication-img }}
