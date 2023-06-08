@@ -7,8 +7,6 @@
 GC De Zeyp  
 Zeypstraat 47, 1083 Ganshoren
 
-8 vrije plaatsen
-
 Voormiddag
 
 GCZEY_ZUM

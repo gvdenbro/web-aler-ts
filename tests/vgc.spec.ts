@@ -19,7 +19,7 @@ const diensten: Array<Dienst> = [
   { naam: 'derinck', id: 281 },
 ]
 
-test.beforeAll(async ({}, testInfo) => {
+test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
     removeDirectory(vgcScrapesDirectory);
   }
@@ -50,6 +50,10 @@ for (const dienst of diensten) {
       const ogUrl = await page.locator("meta[property='og:url']").getAttribute("content");
 
       expect(ogUrl).toBeDefined();
+
+      await page.evaluate(() => {
+        document.querySelectorAll(".badge").forEach(el => el.remove());
+      });
 
       const htmlContent = await mainContent.innerHTML();
 
