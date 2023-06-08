@@ -27,7 +27,7 @@ L. van Beethoven - Strijkkwartet Op.59 No.2
 60 minuten  
   
   
-Info: De Markten, [demarkten@demarkten.be](mailto:cursussen@demarkten.be), 02 512 34 25  
+Info: De Markten, [demarkten@demarkten.be](mailto:cursussen@demarkten.be), 02 512 34 25
 
 #### Prijslijst
 
@@ -45,28 +45,8 @@ Info: De Markten, [demarkten@demarkten.be](mailto:cursussen@demarkten.be), 02 51
 
 1.  03/04/2023 17:30 tot 08/06/2023 17:30 (Iedereen)
 
-Stap 1 van 3
+#### Inschrijven niet mogelijk
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail * 
-
-Verifieer e-mail * 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam * 
-
-Familienaam * 
-
-Volgende
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/MAR_202223Walterhusm)
