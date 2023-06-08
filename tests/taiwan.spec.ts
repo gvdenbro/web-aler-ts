@@ -23,7 +23,7 @@ test('emirates', async ({ page }) => {
     // make sure the autocomplete list appears for departure
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByText('ABJ').first()).toBeVisible();
 
-    await page.getByRole('textbox', { name: 'Departure airport' }).type('BRU', { delay: 100 });
+    await page.getByRole('textbox', { name: 'Departure airport' }).type('(BRU)', { delay: 100 });// adding parenthesis cause sometimes start typing too early
     await page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('BRU', { exact: true }).click();
 
     // make sure the autocomplete list appears for arrival

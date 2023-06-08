@@ -39,9 +39,9 @@ export default defineConfig({
       use: {
         ...devices['Desktop Firefox'],
         viewport: { width: 1920, height: 1080 },
-        //locale: 'fr-FR',
-        //timezoneId: 'Europe/Brussels',
-        //userAgent: "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0"
+        timezoneId: 'Europe/Malta',
+        locale: 'en-MT',
+        userAgent: "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0"
       },
     },
   ],
