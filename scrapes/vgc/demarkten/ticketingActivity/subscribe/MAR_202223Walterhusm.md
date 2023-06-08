@@ -15,9 +15,10 @@ Het ZENNE Quartet confronteert nieuwe muziek met bekende meesterwerken; samen me
 Samen met de Brusselse componist Walter Hus voert het Zenne Quartet zijn volledige oeuvre a-in strijkkwartet (7 strijkkwartetten en "Five to Five") uit en nemen ze het SOOND-label op. De samenwerking met Hus komt in beeld in de documentaire "Walter Hus, a musical journey" - een film van Astrid Mertens die in oktober 2022 in Première ging op het Filmfestival Gent.  
 De werken van Walter Hus komen in verschillende vormen aan bod: in dialoog met een meesterwerk uit het repertoire, tot een totale onderdompeling in de wereld van de componist via zijn composities en in de documentaire "Walter Hus, a Musical Journey".  
   
+**Documentaire = VOLZET voor het concert om 20u zijn er nog plaatsen!  
+**  
 Programma:  
-18u30 - Documentaire film: Walter Hus – a musical story van ASTRID MERTENS - (NL en ondertitels FR/ENG) - 52 minuten  
-19u30 - Pauze met hapjes  
+18u30 - Documentaire film: VOLZET  
 20u00  
 Concert Zenne Quartet  
 Zenne Quartet: Claire Bourdet, Chikako Hosoda, Karel Coninx, David Poskin  
