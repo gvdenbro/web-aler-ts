@@ -37,9 +37,9 @@ test('emirates', async ({ page }) => {
         await page.getByRole('link', { name: 'Next Month' }).click();
     }
 
-    await page.getByRole('cell', { name: '30 Mar 24' }).getByText('30').click();
+    await page.getByRole('cell', { name: '28 Mar 24' }).getByText('28').click();
     await page.getByRole('link', { name: 'Next Month' }).click();
-    await page.getByRole('cell', { name: '14 Apr 24' }).getByText('14').click();
+    await page.getByRole('cell', { name: '12 Apr 24' }).getByText('12').click();
     await page.getByRole('button', { name: 'Search flights' }).click();
 
     const gridResultPage = page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse');
@@ -80,12 +80,12 @@ test('turkish-airlines', async ({ page }) => {
         await page.getByTitle('Next').first().click();
     }
     
-    await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '30' }).click()
+    await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '28' }).click()
     
     await page.getByTitle('Next').first().click();
     await expect(page.getByText('April 2024')).toBeVisible();
     
-    await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '14' }).click();
+    await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '12' }).click();
     
     await page.getByRole('link', { name: 'OK', exact: true }).click();
     
