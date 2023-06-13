@@ -72,7 +72,7 @@ test("ketjes-atelier", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.essegem.be/activiteiten/ketjesatelier-0");
 
-  const mainContent = await page.locator('#content .activity-left');
+  const mainContent = page.locator('#content .activity-left');
 
   await expect(mainContent).toBeVisible();
 
