@@ -64,8 +64,6 @@ voor lagereschoolkinderen uit het Nederlandstalig onderwijs - aantrekken: kleren
 
 ![](/sites/essegem/files/styles/article_detail/public/viks/f-c4359e8267e44d3e98b5223c6a8fca67.png?itok=csFyrRrP)
 
-© Usman Khalid
-
 ![](ketjes-atelier.png)
 
 [Source](https://www.essegem.be/activiteiten/ketjesatelier-0)
