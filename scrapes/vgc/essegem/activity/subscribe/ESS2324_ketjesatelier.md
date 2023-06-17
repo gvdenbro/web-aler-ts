@@ -1,6 +1,6 @@
 ### Ketjesatelier
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/612f916bebb77_Ketjeskunst_©_Usman_Khalid_%2873%29.jpg)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/648cd7996bccf_KetjesAtelier1.jpg)
 
 De inschrijvingen zijn nog niet begonnen.
 

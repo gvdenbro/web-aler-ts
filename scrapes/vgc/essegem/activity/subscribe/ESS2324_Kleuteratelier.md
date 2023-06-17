@@ -1,6 +1,6 @@
 ### Kleuteratelier
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/612f917d39b8a_Kleuteratelier_©_Usman_Khalid_%2880%29.jpg)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/648cd73f06eda_Kleuteratelier1.jpg)
 
 De inschrijvingen zijn nog niet begonnen.
 
