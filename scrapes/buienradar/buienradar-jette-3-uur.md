@@ -1,4 +1,4 @@
-Na 13:10 matige neerslag verwacht
+Na 12:55 matige neerslag verwacht
 
 ![](buienradar-jette-3-uur.png)
 
