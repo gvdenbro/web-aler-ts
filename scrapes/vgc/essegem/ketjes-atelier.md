@@ -62,8 +62,6 @@ Extra informatie
 
 voor lagereschoolkinderen uit het Nederlandstalig onderwijs - aantrekken: kleren om in te spelen, meebrengen: een goede regenjas - opvang voor (vanaf 13.30 u.) en na (tot 17.30 u.)
 
-![](/sites/essegem/files/styles/article_detail/public/viks/f-c4359e8267e44d3e98b5223c6a8fca67.png?itok=csFyrRrP)
-
 ![](ketjes-atelier.png)
 
 [Source](https://www.essegem.be/activiteiten/ketjesatelier-0)
