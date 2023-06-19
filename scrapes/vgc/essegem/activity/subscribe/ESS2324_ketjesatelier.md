@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/648cd7996bccf_KetjesAtelier1.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 19/06/2023 09:00 tot 04/10/2023 13:00 (Iedereen)
-
 2012 - 2017
 
 GC Essegem  
