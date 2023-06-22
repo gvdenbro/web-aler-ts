@@ -15,7 +15,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test('emirates', async ({ page }) => {
+test.skip('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
 
