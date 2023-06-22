@@ -1,7 +1,7 @@
 name: epso
 on:
   schedule:
-    - cron: "35 4-22/6 * * *"
+    - cron: "35 7-19/6 * * *"
   workflow_dispatch:
 jobs:
   tests:
