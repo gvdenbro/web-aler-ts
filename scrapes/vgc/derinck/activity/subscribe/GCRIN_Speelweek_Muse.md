@@ -28,7 +28,9 @@ We zijn vooral benieuwd naar jouw beweeg-ideetjes en maak-spelletjes om samen te
 En wie weet worden we wel een reus ….  
 
 Kleren die vuil mogen worden. Ze gaan namelijk tekenen, schilderen en veel plezier beleven.  
-Wees vrijdag op tijd omdat wij een afscheidsmoment organiseren.
+Wees vrijdag op tijd omdat wij een afscheidsmoment organiseren.  
+  
+Er is opvang van 8:30 tot 9:30 & 16:30 tot 17:30
 
 ###### Inschrijvingsdata
 
