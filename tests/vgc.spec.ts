@@ -47,17 +47,22 @@ for (const dienst of diensten) {
 
       await expect(mainContent).toBeVisible();
 
-      const ogUrl = await page.locator("meta[property='og:url']").getAttribute("content");
+      const metaTag = page.locator("meta[property='og:url']");
 
-      expect(ogUrl).toBeDefined();
+      if (await metaTag.count() > 0) {
 
-      await page.evaluate(() => {
-        document.querySelectorAll(".badge").forEach(el => el.remove());
-      });
+        const ogUrl = await metaTag.getAttribute("content");
 
-      const htmlContent = await mainContent.innerHTML();
+        expect(ogUrl).toBeDefined();
 
-      createMarkdown(`${scrapesDirectory}/${dienst.naam}/${ogUrl}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+        await page.evaluate(() => {
+          document.querySelectorAll(".badge").forEach(el => el.remove());
+        });
+
+        const htmlContent = await mainContent.innerHTML();
+
+        createMarkdown(`${scrapesDirectory}/${dienst.naam}/${ogUrl}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+      }
 
       page.context().clearCookies(); // clear cookies because otherwise we end up in an error because of some bug on the website
       await page.goBack();
