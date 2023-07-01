@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/649ab8d7d7505_clem-onojeghuo-Cap_Chay.jpg)
 
-De ticketverkoop is nog niet gestart.
-
-* 01/07/2023 09:00 tot 18/08/2023 16:00 (Iedereen)
-
 01/09/2023
 
 RIN\_koken\_4
