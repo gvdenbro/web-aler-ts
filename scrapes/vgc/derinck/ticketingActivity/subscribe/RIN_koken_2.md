@@ -15,6 +15,7 @@ Met zelfgemaakt zuurdesem van fruit en bloemen leren Les Gastrosophes jou om foc
 Beleef een (h)eerlijke reis in de wereld van de zero waste, een verbindend moment met je collega-foodies en bovenal een gezellige namiddag! Samen bereiden jullie de maaltijden voor Resto Guido van die avond voor. Duik nadien nog dieper de wereld in van het eerlijke voedsel met de film “La Part des Autres” (Jean-Baptiste Delpias & Olivier Payage).  
   
   
+  
 
 #### Prijslijst
 
@@ -28,8 +29,28 @@ Beleef een (h)eerlijke reis in de wereld van de zero waste, een verbindend momen
 
 1.  01/07/2023 09:00 tot 18/08/2023 16:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail * 
+
+Verifieer e-mail * 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam * 
+
+Familienaam * 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/RIN_koken_2)

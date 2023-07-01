@@ -13,6 +13,7 @@ Voor deze kookworkshop nemen de jongeren van het Jeugdhuis de keuken over. Op he
 Laat je leiden door een bende enthousiaste jongeren, beleef een verbindend moment met je collega-foodies en geniet bovenal een gezellige namiddag! Samen bereiden jullie de maaltijden voor Resto Guido van die avond voor. Geniet nadien van nog meer jong Anderlechts talent met de vertoning en prijsuitreiking van de Anderlecht Youth Film Awards.  
   
   
+  
 
 #### Prijslijst
 
@@ -26,8 +27,28 @@ Laat je leiden door een bende enthousiaste jongeren, beleef een verbindend momen
 
 1.  01/07/2023 09:00 tot 18/08/2023 16:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail * 
+
+Verifieer e-mail * 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam * 
+
+Familienaam * 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/RIN_koken_3)
