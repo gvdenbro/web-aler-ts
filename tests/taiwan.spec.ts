@@ -15,7 +15,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test.skip('emirates', async ({ page }) => {
+test('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
 
@@ -24,22 +24,22 @@ test.skip('emirates', async ({ page }) => {
     await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByText('ABJ').first()).toBeVisible();
 
     await page.getByRole('textbox', { name: 'Departure airport' }).type('(BRU)', { delay: 100 });// adding parenthesis cause sometimes start typing too early
-    await page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('BRU', { exact: true }).click();
+    await page.getByRole('listbox', { name: 'All locations' }).getByText('BRU', { exact: true }).click();
 
     // make sure the autocomplete list appears for arrival
-    await expect(page.getByRole('tabpanel', { name: 'Search flights' }).getByRole('list').getByText('ABJ')).toBeVisible();
+    await expect(page.getByRole('listbox', { name: 'All locations' }).getByText('ABJ')).toBeVisible();
 
     await page.getByRole('textbox', { name: 'Arrival airport' }).type('TPE', { delay: 100 });
     await page.getByText('TPE').click();
     await page.getByLabel('My dates are flexible (-/+ 3 days)').check();
 
     while (! await page.getByText('March2024').isVisible()) {
-        await page.getByRole('link', { name: 'Next Month' }).click();
+        await page.getByRole('button', { name: 'Next Month' }).click();
     }
 
-    await page.getByRole('cell', { name: '28 Mar 24' }).getByText('28').click();
-    await page.getByRole('link', { name: 'Next Month' }).click();
-    await page.getByRole('cell', { name: '12 Apr 24' }).getByText('12').click();
+    await page.getByRole('button', { name: 'Thursday, 28 March 2024' }).click();
+    await page.getByRole('button', { name: 'Next Month' }).click();
+    await page.getByRole('button', { name: 'Friday, 12 April 2024' }).click();
     await page.getByRole('button', { name: 'Search flights' }).click();
 
     const gridResultPage = page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse');
