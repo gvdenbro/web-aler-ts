@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6483241507153_WS1510-120_-_MULTIMOVE_-_KIKKERS.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 03/07/2023 10:00 tot 01/07/2024 15:00 (Iedereen)
-
 GC De Zeyp  
 Zeypstraat 47, 1083 Ganshoren
 

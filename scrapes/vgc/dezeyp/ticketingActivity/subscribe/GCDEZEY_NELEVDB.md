@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/646dd8d786eff_WS1510-120_-_Nele_vdb.jpg)
 
-De ticketverkoop is nog niet gestart.
-
-* 03/07/2023 10:00 tot 30/12/2024 15:00 (Iedereen)
-
 GC De Zeyp  
 Zeypstraat 47, 1083 Ganshoren
 
