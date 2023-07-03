@@ -15,6 +15,7 @@ Vanaf 20:00 tot 21:15
 Lin Chin-Cheng, geboren in Taiwan maar al jaren gesetteld in België, weet als geen ander de toeschouwer onder te dompelen in het gehele klankspectrum van de marimba. Met 2, 4 of 6 stokken. Lin kan alle akkoorden aan zoals een pianist dit kan. Dit bewees hij de voorbije jaren zowel in binnen- als buitenland. In 2018 schitterde hij ondermeer in Carnegie Hall (New York) en in 2019 was hij te gast in Tokyo Opera City (Japan).  
   
   
+  
 
 #### Prijslijst
 
@@ -31,8 +32,28 @@ Lin Chin-Cheng, geboren in Taiwan maar al jaren gesetteld in België, weet als g
 
 1.  03/07/2023 10:00 tot 05/07/2024 15:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail * 
+
+Verifieer e-mail * 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam * 
+
+Familienaam * 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/GCDEZEY_LINCH)

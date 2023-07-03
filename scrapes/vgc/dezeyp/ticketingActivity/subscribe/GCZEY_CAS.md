@@ -16,7 +16,7 @@ Vanaf 14:30 tot 15:45
 Casper en Emma gaan op safari naar Afrika. Ze worden al gauw vrienden met Tiri en haar knuffel Schildpad. Op safari vinden ze een leeuwenjong dat ze Leo noemen. Het beestje wil niet eten en ze denken dat het zijn moeder mist. Ze gaan daarom zoeken naar Leo's moeder.  
   
   
-2015 - Duur: 75 min
+2015 - Duur: 75 min  
 
 #### Prijslijst
 
@@ -30,8 +30,28 @@ Casper en Emma gaan op safari naar Afrika. Ze worden al gauw vrienden met Tiri e
 
 1.  03/07/2023 10:00 tot 31/07/2024 15:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail * 
+
+Verifieer e-mail * 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam * 
+
+Familienaam * 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/GCZEY_CAS)

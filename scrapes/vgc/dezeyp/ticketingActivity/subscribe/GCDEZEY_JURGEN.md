@@ -16,7 +16,7 @@ Op het podium brengt Jürgen een mengeling van gedichten, verhaaltjes, ontroerin
   
   
 Organisatie: GC De Zeyp ism Auteurslezingen.be, DC De Rotonde, Nederlandstalige Bibliotheek, Davidsfonds, Willemsfonds en  
-Cultuursmakers - afdelingen Ganshoren
+Cultuursmakers - afdelingen Ganshoren  
 
 #### Prijslijst
 
@@ -32,8 +32,28 @@ Cultuursmakers - afdelingen Ganshoren
 
 1.  03/07/2023 10:00 tot 01/07/2024 15:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail * 
+
+Verifieer e-mail * 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam * 
+
+Familienaam * 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/GCDEZEY_JURGEN)
