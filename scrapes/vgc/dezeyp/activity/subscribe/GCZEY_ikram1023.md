@@ -1,6 +1,6 @@
 ### FAMILIEZONDAG Koken met Ikram (5+) - 10-2023
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/648c22d1e3d2a_WS1510-120_-_NL_KOKEN.jpg)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/64a3d31a63300_WS1510-120_-_20230319_130544.jpg)
 
 GC De Zeyp  
 Zeypstraat 47, 1083 Ganshoren
