@@ -2,7 +2,7 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/649a978631dcf_zomersconcert.jpg)
 
-GC De Markten  
+GC De Markten-spo  
 Oude Graanmarkt 5, 1000 Brussel
 
 24/08/2023
