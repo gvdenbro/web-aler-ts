@@ -31,11 +31,11 @@ for (const dienst of diensten) {
 
     await page.goto(`https://tickets.vgc.be/activity/index?&vrijeplaatsen=1&Age%5B%5D=${age - 1}%2C${age + 1}&entity=${dienst.id}`);
 
-    const results = page.locator('#wall');
+    const results = page.locator('#wall > .items');
 
     await expect(results).toBeVisible();
 
-    const links = results.getByRole('link');
+    const links = results.getByRole('link').filter({hasNotText: 'Lees meer'});
 
     const activities = await links.all();
 
