@@ -21,13 +21,23 @@ test('southwest-12-30', async ({ page }, testInfo) => {
 });
 
 test('southwest-01-04', async ({ page }, testInfo) => {
-    
+
     await southwest(page, testInfo, '1/04', 'After 6pm', 'LAS', 'LAX');
 });
 
 test('southwest-01-05', async ({ page }, testInfo) => {
-    
+
     await southwest(page, testInfo, '1/05', 'Before noon', 'LAS', 'LAX');
+});
+
+test('united-01-04', async ({ page }, testInfo) => {
+
+    await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'LAS', 'LAX');
+});
+
+test('united-01-05', async ({ page }, testInfo) => {
+
+    await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'LAS', 'LAX');
 });
 
 async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
@@ -38,17 +48,17 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
 
     await page.getByText('Depart Date').click();
 
-    await page.getByText('Depart Date').first().type(date, {delay: 300})
+    await page.getByText('Depart Date').first().type(date, { delay: 300 })
 
     await page.getByRole('combobox', { name: 'Depart' }).click();
 
-    await page.getByRole('combobox', { name: 'Depart' }).type(depart, {delay: 300})
+    await page.getByRole('combobox', { name: 'Depart' }).type(depart, { delay: 300 })
 
     await page.getByRole('button', { name: depart }).first().click();
 
     await page.getByRole('combobox', { name: 'Arrive' }).click();
 
-    await page.getByRole('combobox', { name: 'Arrive' }).type(arrive, {delay: 300})
+    await page.getByRole('combobox', { name: 'Arrive' }).type(arrive, { delay: 300 })
 
     await page.getByRole('button', { name: arrive }).first().click();
 
@@ -71,6 +81,53 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
         document.querySelectorAll('[data-test="fare-button--business-select"]').forEach(el => el.remove());
         document.querySelectorAll('[data-test="fare-button--anytime"]').forEach(el => el.remove());
         document.querySelectorAll('[data-test="fare-button--wanna-get-away-plus"]').forEach(el => el.remove());
+    });
+
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
+}
+
+async function united(page: Page, testInfo: TestInfo, date: string, when: 'Evening' | 'Early morning' | 'Morning' | 'Anytime', depart: string, arrive: string) {
+
+    await page.goto('https://www.united.com/en/be/book-flight/united-one-way');
+
+    await page.getByLabel('Nonstop only').click();
+
+    await page.getByRole('combobox', { name: 'departing' }).clear();
+
+    await page.getByRole('combobox', { name: 'departing' }).type(depart, { delay: 300 })
+
+    await page.getByRole('button', { name: depart }).first().click();
+
+    await page.getByRole('combobox', { name: 'destination' }).clear();
+
+    await page.getByRole('combobox', { name: 'destination' }).type(arrive, { delay: 300 })
+
+    await page.getByRole('button', { name: arrive }).first().click();
+
+    await page.getByRole('combobox', { name: 'Time of day' }).selectOption(when);
+
+    await page.getByPlaceholder('Depart').clear();
+    await page.getByPlaceholder('Depart').click();
+
+    while (! await page.getByRole('button', { name: date }).isVisible()) {
+        await page.getByRole('button', { name: 'Move forward to switch to the next month.' }).click();
+    }
+
+    await page.getByRole('button', { name: date }).click();
+
+
+    await page.getByRole('button', { name: 'Find flights' }).click();
+
+    const gridResultPage = page.locator('#flightResults-content');
+
+    await expect(gridResultPage).toHaveText(/.*Displaying .*/, { timeout: 30000 });
+
+    await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+
+    await page.evaluate(() => {
+        document.querySelectorAll('[aria-describedby="ECO-BASIC"]').forEach(el => el.remove());
+        document.querySelectorAll('[aria-describedby="ECONOMY-UNRESTRICTED"]').forEach(el => el.remove());
+        document.querySelectorAll('[aria-describedby="MIN-BUSINESS-OR-FIRST"]').forEach(el => el.remove());
     });
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
