@@ -54,27 +54,27 @@ Learn more about carbon emissions
 
 Economy
 
-€78
+€86
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-€78
+€86
 
 Economy
 
-€78
+€86
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-€78
+€86
 
 Flight Information
 
