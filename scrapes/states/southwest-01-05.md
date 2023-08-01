@@ -8,7 +8,7 @@
     
     1h 10m
     
-    64 Dollars$64
+    80 Dollars$80
     
 * \# 353 Opens flyout.
     
@@ -20,7 +20,7 @@
     
     1h 15m
     
-    94 Dollars$94
+    99 Dollars$99
     
 * \# 3666 Opens flyout.
     
@@ -32,7 +32,7 @@
     
     1h 20m
     
-    114 Dollars$114
+    119 Dollars$119
     
     3 left
     

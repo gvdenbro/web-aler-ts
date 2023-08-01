@@ -78,4 +78,8 @@ Select fare for Economy
 
 Displaying 1 of 1
 
+Did you find what you were looking for?
+
+YesNo
+
 ![](united-01-05.png)
