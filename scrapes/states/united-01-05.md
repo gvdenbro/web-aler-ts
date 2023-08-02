@@ -1,35 +1,3 @@
-**Depart on:** 5 January
-
-Compare fare typesShow 7-day calendar
-
-Basic Economy(most restrictive)
-
-Link. Select to sort results by Basic Economy (most restrictive) from lowest to highest price.
-
-arrow-up
-
-Economy
-
-Link. Select to sort results by Economy from lowest to highest price.
-
-arrow-up
-
-Economy(fully refundable)
-
-Link. Select to sort results by Economy (fully refundable) from lowest to highest price.
-
-arrow-up
-
-First(2-cabin)
-
-Link. Select to sort results by First (2-cabin) from lowest to highest price.
-
-arrow-up
-
-Flight details section.
-
-Seats details section.
-
 Flight Information
 
 NONSTOP
@@ -75,11 +43,5 @@ Add to cart
 Select fare for Economy
 
 €86
-
-Displaying 1 of 1
-
-Did you find what you were looking for?
-
-YesNo
 
 ![](united-01-05.png)
