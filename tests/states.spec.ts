@@ -118,9 +118,9 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
 
     await page.getByRole('button', { name: 'Find flights' }).click();
 
-    const gridResultPage = page.locator('#flightResults-content');
-
-    await expect(gridResultPage).toHaveText(/.*Displaying .*/, { timeout: 30000 });
+    await expect(page.locator('#flightResults-content')).toHaveText(/.*Displaying .*/, { timeout: 30000 });
+    
+    const gridResultPage = page.locator('#flightResults-content').getByRole('grid');
 
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 
