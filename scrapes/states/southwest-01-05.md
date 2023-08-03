@@ -20,7 +20,7 @@
     
     1h 15m
     
-    99 Dollars$99
+    80 Dollars$80
     
 * \# 3666 Opens flyout.
     
@@ -32,9 +32,9 @@
     
     1h 20m
     
-    114 Dollars$114
+    99 Dollars$99
     
-    1 left
+    5 left
     
 
 ![](southwest-01-05.png)
