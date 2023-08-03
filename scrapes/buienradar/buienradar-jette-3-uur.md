@@ -1,4 +1,4 @@
-Na 13:15 lichte neerslag verwacht
+Na 13:40 lichte neerslag verwacht
 
 ![](buienradar-jette-3-uur.png)
 
