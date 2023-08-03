@@ -10,8 +10,6 @@
     
     70 Dollars$70
     
-    4 left
-    
 * \# 2815 Opens flyout.
     
     Departs 9:50PM
