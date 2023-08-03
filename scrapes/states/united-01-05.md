@@ -16,10 +16,6 @@ UA 1363 (Boeing 737-800)Flight Number UA 1363. Aircraft Boeing 737-800
 
 DetailsSeats
 
-64 kg CO<sub>2</sub>Carbon emissions estimate: 64 kilograms. This is a lower emissions flight.
-
-Learn more about carbon emissions
-
 Economy
 
 €86

@@ -8,7 +8,9 @@
     
     1h 15m
     
-    80 Dollars$80
+    70 Dollars$70
+    
+    4 left
     
 * \# 2815 Opens flyout.
     
