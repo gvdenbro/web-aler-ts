@@ -20,7 +20,7 @@
     
     1h 10m
     
-    70 Dollars$70
+    64 Dollars$64
     
 
 ![](southwest-01-04.png)

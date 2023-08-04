@@ -34,7 +34,7 @@
     
     99 Dollars$99
     
-    5 left
+    3 left
     
 
 ![](southwest-01-05.png)
