@@ -26,9 +26,9 @@ Prijs 2e kind: €170,00
 Paspartoe-Kansentarief: €80,00  
 *
 
-In het kleuteratelier doen we van alles leuks: luisteren naar verhalen, knutselen, en vooral veel spelen. We experimenteren met kleuren, vormen, materialen en bewegingen. Zo ontwikkelt jouw kleuter een creatieve geest.  
+In het kleuteratelier doen we van alles leuks: luisteren naar verhalen, knutselen, en vooral veel spelen. We experimenteren met kleuren, vormen, materialen en beweging. Zo ontwikkelt jouw kleuter een creatieve geest.  
 
-*Voor kinderen uit de 2de tot 3de kleuterklas van het Nederlandstalig onderwijs. Niet op feestdagen en tijdens schoolvakanties. Er is opvang voorzien voor (vanaf 13.30 uur) en na (tot 17.30 uur) de activiteit. Meebrengen: een schort die vuil mag worden.*  
+*Voor kinderen uit de 2de tot 3de kleuterklas van het Nederlandstalig onderwijs (of met een Nederlandstalige ouder). Niet op feestdagen en tijdens schoolvakanties. Er is opvang voorzien voor (vanaf 13.30 uur) en na (tot 17.30 uur) de activiteit. Meebrengen: een schort die vuil mag worden.*  
   
 *Gespreid betalen is mogelijk, neem contact met ons op.*  
   

@@ -27,7 +27,7 @@ Paspartoe-Kansentarief: €21,25
 
 Vangen, dribbelen, werpen, klauteren, springen, landen, trekken, duwen, zwaaien… Samen met een professionele sportcoach ontdekt jouw kleuter plezier in bewegen op een speelse manier. Goed voor de motorische vaardigheden, behendigheid en spierkracht. Dé perfecte start van een sportief en gezond leven!
 
-*Voor kinderen uit de tweede en derde kleuterklas uit het Nederlandstalig onderwijs. Niet op feestdagen en tijdens schoolvakanties.  
+*Voor kinderen uit de tweede en derde kleuterklas uit het Nederlandstalig onderwijs (of met een Nederlandstalige ouder). Niet op feestdagen en tijdens schoolvakanties.  
   
 ****Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) \- 02 427 80 39***
 
