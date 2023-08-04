@@ -11,7 +11,7 @@ ESS2324_familietheater2409
 
 Vanaf 11:00 tot 11:45
 
-Meneerke maakt walvissenkaas. Kaas gemaakt van walvissenmelk. Walvissen melken is niet eenvoudig. Meneerke weet van welke muziek walvissen rustig worden. Dan is de kaas overheerlijk! Tot op een dag de kaas erg zout smaakt... zout van de tranen van walvis. Samen met zagevis en hamerhaai gaat Meneerke op zoek naar een oplossing.  
+Meneerke maakt walvissenkaas. Kaas van walvissenmelk. Walvissen melken is niet eenvoudig. Meneerke weet van welke muziek walvissen rustig worden. Dan is de kaas overheerlijk! Tot op een dag de kaas erg zout smaakt... zout van de tranen van walvis. Samen met zagevis en hamerhaai gaat Meneerke op zoek naar een oplossing.  
   
 Wim Van de Velde vertelt een sprankelend verhaal met kleurrijke klanken over, naast, tegen en zelfs in een reuzenwalvis.  
   
