@@ -32,9 +32,7 @@
     
     1h 20m
     
-    99 Dollars$99
-    
-    3 left
+    104 Dollars$104
     
 
 ![](southwest-01-05.png)
