@@ -29,8 +29,8 @@ test('southwest-01-05', async ({ page }, testInfo) => {
 
     await southwest(page, testInfo, '1/05', 'Before noon', 'PHX', 'LAX');
 });
-
-test('united-01-04', async ({ page }, testInfo) => {
+// skipping because no flights in the evening
+test.skip('united-01-04', async ({ page }, testInfo) => {
 
     await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'PHX', 'LAX');
 });
