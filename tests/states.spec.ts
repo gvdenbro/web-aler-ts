@@ -15,29 +15,29 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test('southwest-12-30', async ({ page }, testInfo) => {
+test('southwest-12-29', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '12/30', 'Before noon', 'SAN', 'PHX');
+    await southwest(page, testInfo, '12/29', 'Before noon', 'SAN', 'PHX');
 });
 
 test('southwest-01-04', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '1/04', 'After 6pm', 'LAS', 'LAX');
+    await southwest(page, testInfo, '1/04', 'After 6pm', 'PHX', 'LAX');
 });
 
 test('southwest-01-05', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '1/05', 'Before noon', 'LAS', 'LAX');
+    await southwest(page, testInfo, '1/05', 'Before noon', 'PHX', 'LAX');
 });
 
 test('united-01-04', async ({ page }, testInfo) => {
 
-    await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'LAS', 'LAX');
+    await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'PHX', 'LAX');
 });
 
 test('united-01-05', async ({ page }, testInfo) => {
 
-    await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'LAS', 'LAX');
+    await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'PHX', 'LAX');
 });
 
 async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
