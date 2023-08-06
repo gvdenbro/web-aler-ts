@@ -1,38 +1,26 @@
-* \# 1369 Opens flyout.
+* \# 189 Opens flyout.
     
-    Departs 7:15AM
+    Departs 6:25AM
     
-    Arrives 8:25AM
-    
-    Nonstop
-    
-    1h 10m
-    
-    64 Dollars$64
-    
-* \# 353 Opens flyout.
-    
-    Departs 8:20AM
-    
-    Arrives 9:35AM
+    Arrives 7:00AM
     
     Nonstop
     
-    1h 15m
+    1h 35m
     
-    80 Dollars$80
+    79 Dollars$79
     
-* \# 3666 Opens flyout.
+* \# 505 Opens flyout.
     
-    Departs 10:00AM
+    Departs 9:35AM
     
-    Arrives 11:20AM
+    Arrives 10:10AM
     
     Nonstop
     
-    1h 20m
+    1h 35m
     
-    104 Dollars$104
+    118 Dollars$118
     
 
 ![](southwest-01-05.png)

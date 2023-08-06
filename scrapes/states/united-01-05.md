@@ -2,46 +2,46 @@ Flight Information
 
 NONSTOP
 
-07:45Departing at 07:45
+06:30Departing at 06:30
 
-08:59Arriving at 08:59
+07:04Arriving at 07:04
 
-LASOrigin Las Vegas, NV, US (LAS)
+PHXOrigin Phoenix, AZ, US (PHX)
 
-1H, 14MDuration 1 hours and 14 minutes
+1H, 34MDuration 1 hours and 34 minutes
 
 LAXDestination Los Angeles, CA, US (LAX)
 
-UA 1363 (Boeing 737-800)Flight Number UA 1363. Aircraft Boeing 737-800
+UA 1395 (Boeing 737-900)Flight Number UA 1395. Aircraft Boeing 737-900
 
 DetailsSeats
 
-64 kg CO<sub>2</sub>Carbon emissions estimate: 64 kilograms. This is a lower emissions flight.
+76 kg CO<sub>2</sub>Carbon emissions estimate: 76 kilograms. This is a lower emissions flight.
 
 Learn more about carbon emissions
 
 Economy
 
-€79
+€100
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-€79
+€100
 
 Economy
 
-€79
+€100
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-€79
+€100
 
 ![](united-01-05.png)
