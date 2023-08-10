@@ -15,7 +15,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test('emirates', async ({ page }) => {
+test.skip('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
 
@@ -60,7 +60,7 @@ test('emirates', async ({ page }) => {
     createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
 });
 
-test('turkish-airlines', async ({ page }) => {
+test.skip('turkish-airlines', async ({ page }) => {
     await page.goto('https://www.turkishairlines.com/en-int/index.html');
 
     await page.getByRole('button', { name: 'I accept all cookies' }).click();
