@@ -15,7 +15,7 @@ Beleef een culinaire reis naar Nigeria, een verbindend moment met je collega-foo
   
   
 
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+###### *Sorry, deze activiteit is volledig uitverkocht.*
 
 #### Prijslijst
 
