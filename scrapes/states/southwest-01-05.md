@@ -20,9 +20,7 @@
     
     1h 35m
     
-    111 Dollars$111
-    
-    1 left
+    118 Dollars$118
     
 
 ![](southwest-01-05.png)
