@@ -22,7 +22,7 @@ Learn more about carbon emissions
 
 Economy
 
-€100
+€92
 
 United Economy (K)
 
@@ -30,11 +30,11 @@ Add to cart
 
 Select fare for Economy
 
-€100
+€92
 
 Economy
 
-€100
+€92
 
 United Economy (K)
 
@@ -42,6 +42,6 @@ Add to cart
 
 Select fare for Economy
 
-€100
+€92
 
 ![](united-01-05.png)
