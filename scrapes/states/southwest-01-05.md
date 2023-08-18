@@ -8,7 +8,7 @@
     
     1h 35m
     
-    69 Dollars$69
+    74 Dollars$74
     
 * \# 505 Opens flyout.
     
@@ -20,7 +20,9 @@
     
     1h 35m
     
-    118 Dollars$118
+    111 Dollars$111
+    
+    2 left
     
 
 ![](southwest-01-05.png)
