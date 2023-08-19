@@ -30,7 +30,7 @@ test("terra-fi-5-universal", async ({ page, context }, testInfo) => {
 });
 
 async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
-  
+
   // getting rid of locale selection popup
   context.addCookies([{ name: "locale_pref", value: "nl_BE", domain: "www.teva-eu.com", path: "/" }]);
 
@@ -77,13 +77,31 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
 
   expect(container).toBeVisible();
 
-  const match = container.filter({hasText: /teva|merrell/i}).first();
-  
+  const match = container.filter({ hasText: /teva|merrell/i }).first();
+
   if (await match.isVisible()) {
-    
+
     const htmlContent = await match.innerHTML();
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-  
+
     await match.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
   }
+});
+
+test("bol-bosch-zamo", async ({ page, context }, testInfo) => {
+
+  context.addCookies([{ name: "bolConsentChoices", value: "source#OFC|version#6|int-tran#false|ext-tran#false|int-beh#false|ext-beh#false", domain: ".www.bol.com", path: "/" }]);
+  context.addCookies([{ name: "locale", value: "BE", domain: ".www.bol.com", path: "/" }]);
+
+  await page.goto("https://www.bol.com/be/fr/p/bosch-zamo-telemetre-portee-jusqu-a-20-metres/9200000095919159/");
+
+  const price = page.locator('[data-test="priceBlockPrice"]');
+
+  expect(price).toBeVisible();
+
+  const htmlContent = await price.innerHTML();
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+
+  await page.locator('[data-test="product-page-columns"]').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+
 });
