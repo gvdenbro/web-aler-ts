@@ -68,3 +68,22 @@ test("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
   await page.locator('#center_column .primary_block.row').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
+
+test("zalando-lounge", async ({ page, context }, testInfo) => {
+
+  await page.goto("https://www.zalando-lounge.be/blog/merken");
+
+  const container = page.locator('#react-container');
+
+  expect(container).toBeVisible();
+
+  const match = container.filter({hasText: /teva|merrell/i}).first();
+  
+  if (await match.isVisible()) {
+    
+    const htmlContent = await match.innerHTML();
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+  
+    await match.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  }
+});
