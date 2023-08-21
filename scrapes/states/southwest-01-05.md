@@ -8,7 +8,7 @@
     
     1h 35m
     
-    79 Dollars$79
+    69 Dollars$69
     
 * \# 505 Opens flyout.
     
