@@ -1,12 +1,14 @@
 import { test, expect } from '@playwright/test';
-import { removeDirectory } from './fs-utils';
+import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
+import { appendPriceAsString } from './prices-utils';
 
 const scrapesDirectory: string = './scrapes/prices'
 
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-    removeDirectory(scrapesDirectory);
+    removeFiles(scrapesDirectory, 'md');
+    removeFiles(scrapesDirectory, 'png');
   }
 });
 
@@ -100,8 +102,12 @@ test("bol-bosch-zamo", async ({ page, context }, testInfo) => {
   expect(price).toBeVisible();
 
   const htmlContent = await price.innerHTML();
+  
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
+  
   await page.locator('[data-test="product-page-columns"]').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
-
+  
+  const textContent = await price.innerText();
+  
+  appendPriceAsString(`${scrapesDirectory}/prices.csv`, testInfo.title, textContent);
 });

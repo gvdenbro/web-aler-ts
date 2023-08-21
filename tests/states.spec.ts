@@ -1,12 +1,14 @@
-import { test, expect, Page, TestInfo } from '@playwright/test';
-import { removeDirectory } from './fs-utils';
+import { test, expect, Page, TestInfo, Locator } from '@playwright/test';
+import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
+import { appendPriceAsString } from './prices-utils';
 
 const scrapesDirectory: string = './scrapes/states'
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-        removeDirectory(scrapesDirectory);
+        removeFiles(scrapesDirectory, 'md');
+        removeFiles(scrapesDirectory, 'png');
     }
 });
 
@@ -84,6 +86,15 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
     });
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
+
+    const locators = await gridResultPage.getByRole('listitem').all();
+
+    for (const locator of locators) {
+
+        const flightNumber = await locator.locator('.flight-numbers--flight-number').locator('.actionable--text').textContent();
+        const fare = await locator.locator('.select-detail--fare').locator('.actionable--text').locator('.swa-g-screen-reader-only').textContent();
+        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare);
+    }
 }
 
 async function united(page: Page, testInfo: TestInfo, date: string, when: 'Evening' | 'Early morning' | 'Morning' | 'Anytime', depart: string, arrive: string) {
@@ -119,7 +130,7 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
     await page.getByRole('button', { name: 'Find flights' }).click();
 
     await expect(page.locator('#flightResults-content')).toHaveText(/.*Displaying .*/, { timeout: 30000 });
-    
+
     const gridResultPage = page.locator('#flightResults-content').getByRole('grid');
 
     await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });

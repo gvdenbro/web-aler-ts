@@ -10,7 +10,15 @@ export function removeDirectory(directoryPath: string): void {
   fs.rmSync(directoryPath, { recursive: true });
 }
 
-export function createFile(filePath: string, content: string  | NodeJS.ArrayBufferView): void {
+export function removeFiles(directoryPath: string, extension: string): void {
+
+  const files = fs.readdirSync(directoryPath);
+  files.filter(file => file.endsWith(extension)).forEach((file) => {
+    fs.unlinkSync(path.resolve(directoryPath, file));
+  });
+}
+
+export function createFile(filePath: string, content: string | NodeJS.ArrayBufferView): void {
 
   const dir = path.dirname(filePath);
 
