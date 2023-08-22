@@ -14,7 +14,10 @@ Voormiddag
 NEK2324_MULT3S1
 
 Gaat door op:  
-23/09/2023, 30/09/2023, 07/10/2023, 14/10/2023, 21/10/2023, 28/10/2023, 25/11/2023, 02/12/2023, 09/12/2023, 16/12/2023
+23/09/2023, 30/09/2023, 07/10/2023, 14/10/2023, 21/10/2023, 28/10/2023, 18/11/2023, 25/11/2023, 02/12/2023, 09/12/2023, 16/12/2023
+
+Gaat niet door op:  
+04/11/2023, 11/11/2023
 
 Van 11:30 tot 12:30
 
@@ -24,7 +27,11 @@ Paspartoe-Kansentarief: €7,50
 
 Een uurtje sportplezier voor de allerkleinsten. Lopen, balspelen en motorische vaardigheden.
 
-Voor kinderen die het Nederlands begrijpen en spreken.
+Voor kinderen die het Nederlands begrijpen en spreken.  
+  
+Gelieve je kind op tijd te komen halen, zodat de volgende les kan beginnen. Wachten kan je als ouder in het Nic Nac café of op de binnenkoer, maar niet in de sportzaal zelf.  
+  
+Deelnemers aan semester 1 krijgen voorrang bij de inschrijvingen voor semester 2.
 
 ###### Inschrijvingsdata
 

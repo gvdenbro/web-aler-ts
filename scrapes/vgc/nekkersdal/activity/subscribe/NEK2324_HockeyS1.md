@@ -14,7 +14,10 @@ Namiddag
 NEK2324_HockeyS1
 
 Gaat door op:  
-26/09/2023, 03/10/2023, 10/10/2023, 17/10/2023, 24/10/2023, 31/10/2023, 07/11/2023, 14/11/2023, 21/11/2023, 28/11/2023, 05/12/2023, 12/12/2023, 19/12/2023
+26/09/2023, 03/10/2023, 10/10/2023, 17/10/2023, 24/10/2023, 07/11/2023, 14/11/2023, 21/11/2023, 28/11/2023, 05/12/2023, 12/12/2023, 19/12/2023
+
+Gaat niet door op:  
+31/10/2023
 
 Van 16:00 tot 17:00
 
@@ -28,6 +31,8 @@ De lessen worden gegeven door jongeren uit de buurt, ondersteund door de vzw. Lo
 
 Elke dinsdag 16u-17u in de Toneelhangaar van GC Nekkersdal.  
 Prijs: 75 euro per semester, paspartoeprijs 18,75 euro.  
+  
+Inclusief: een maandelijkse wedstrijd op zaterdag tegen een andere wijk + een ontmoeting met een professionele hockeyspeler.  
 
 ###### Inschrijvingsdata
 
