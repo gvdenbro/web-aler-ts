@@ -2,7 +2,7 @@ import { test, expect, Page, TestInfo, Locator } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
-import { generateSvg } from './graph-utils';
+import { generatePng, generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/states'
 
@@ -15,10 +15,11 @@ test.beforeAll(async ({ }, testInfo) => {
 
 test.afterAll(async ({ }) => {
 
-    generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
+    generatePng(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.png`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
         return {
             $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
             data: { values: data },
+            autosize: { resize: true },
             mark: {
                 type: 'line',
                 point: {
@@ -29,9 +30,11 @@ test.afterAll(async ({ }) => {
             encoding: {
                 x: { field: 'timestamp', type: 'temporal', title: 'Time' },
                 y: { field: 'price', type: 'quantitative', title: 'Price' },
-                color: { field: 'identifier', type: 'nominal', legend: {
-                    labelLimit: 320
-                } },
+                color: {
+                    field: 'identifier', type: 'nominal', legend: {
+                        labelLimit: 320
+                    }
+                },
                 //row: { field: "identifier", type: "nominal", title: "Flight" }
             }
         }
