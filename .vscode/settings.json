@@ -7,6 +7,6 @@
     "spellright.documentTypes": [
         "markdown",
         "latex",
-        "plaintext"
+        "text"
     ]
 }
