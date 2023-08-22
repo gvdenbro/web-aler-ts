@@ -13,7 +13,7 @@ test.beforeAll(async ({ }, testInfo) => {
     }
 });
 
-test.afterAll(async ({ }, testInfo) => {
+test.afterAll(async ({ }) => {
 
     generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
         return {
@@ -29,7 +29,9 @@ test.afterAll(async ({ }, testInfo) => {
             encoding: {
                 x: { field: 'timestamp', type: 'temporal', title: 'Time' },
                 y: { field: 'price', type: 'quantitative', title: 'Price' },
-                color: { field: 'identifier', type: 'nominal' },
+                color: { field: 'identifier', type: 'nominal', legend: {
+                    labelLimit: 320
+                } },
                 //row: { field: "identifier", type: "nominal", title: "Flight" }
             }
         }

@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
+import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/prices'
 
@@ -11,6 +12,32 @@ test.beforeAll(async ({ }, testInfo) => {
     removeFiles(scrapesDirectory, 'png');
   }
 });
+
+test.afterAll(async ({ }) => {
+
+  generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
+      return {
+          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+          data: { values: data },
+          mark: {
+              type: 'line',
+              point: {
+                  filled: false,
+                  fill: 'white'
+              }
+          },
+          encoding: {
+              x: { field: 'timestamp', type: 'temporal', title: 'Time' },
+              y: { field: 'price', type: 'quantitative', title: 'Price' },
+              color: { field: 'identifier', type: 'nominal', legend: {
+                  labelLimit: 320
+              } },
+              //row: { field: "identifier", type: "nominal", title: "Flight" }
+          }
+      }
+  });
+});
+
 
 test.beforeEach(async ({ context }) => {
   await context.route(/(.*forter.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
