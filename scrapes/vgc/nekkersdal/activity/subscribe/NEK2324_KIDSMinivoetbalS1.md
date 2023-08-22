@@ -2,6 +2,10 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6308c0018e8a7_NEK20_Cursussen_c_Wim_Wetsels-045.jpg)
 
+De inschrijvingen zijn nog niet begonnen.
+
+* 07/09/2023 09:00 tot 31/10/2023 13:00 (Iedereen)
+
 2016 - 2017
 
 GC Nekkersdal  
@@ -35,7 +39,7 @@ Deelnemers aan semester 1 krijgen voorrang bij de inschrijvingen voor semester 2
 
 ###### Inschrijvingsdata
 
-1.  25/08/2021 09:00 tot 24/09/2021 13:00 (Iedereen)
+1.  07/09/2023 09:00 tot 31/10/2023 13:00 (Iedereen)
 
 Gelieve uw login gegevens in te vullen:
 

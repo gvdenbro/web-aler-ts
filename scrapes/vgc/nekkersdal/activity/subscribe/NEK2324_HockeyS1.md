@@ -2,6 +2,10 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/63244719cf3b3_hockey_1.png)
 
+De inschrijvingen zijn nog niet begonnen.
+
+* 07/09/2023 09:00 tot 31/10/2023 09:00 (Iedereen)
+
 2015 - 2017
 
 GC Nekkersdal  
@@ -36,7 +40,7 @@ Inclusief: een maandelijkse wedstrijd op zaterdag tegen een andere wijk + een on
 
 ###### Inschrijvingsdata
 
-1.  19/09/2022 09:00 tot 16/12/2022 09:00 (Iedereen)
+1.  07/09/2023 09:00 tot 31/10/2023 09:00 (Iedereen)
 
 Gelieve uw login gegevens in te vullen:
 
