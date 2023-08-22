@@ -2,6 +2,7 @@ import { test, expect, Page, TestInfo, Locator } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
+import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/states'
 
@@ -10,6 +11,29 @@ test.beforeAll(async ({ }, testInfo) => {
         removeFiles(scrapesDirectory, 'md');
         removeFiles(scrapesDirectory, 'png');
     }
+});
+
+test.afterAll(async ({ }, testInfo) => {
+
+    generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
+        return {
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            data: { values: data },
+            mark: {
+                type: 'line',
+                point: {
+                    filled: false,
+                    fill: 'white'
+                }
+            },
+            encoding: {
+                x: { field: 'timestamp', type: 'temporal', title: 'Time' },
+                y: { field: 'price', type: 'quantitative', title: 'Price' },
+                color: { field: 'identifier', type: 'nominal' },
+                //row: { field: "identifier", type: "nominal", title: "Flight" }
+            }
+        }
+    });
 });
 
 test.beforeEach(async ({ context }) => {
@@ -92,7 +116,7 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
     for (const locator of locators) {
 
         const flightNumber = await locator.locator('.flight-numbers--flight-number').locator('.actionable--text').textContent();
-        const fare = await locator.locator('.select-detail--fare').locator('.actionable--text').locator('.swa-g-screen-reader-only').textContent();
+        const fare = await locator.locator('.select-detail--fare').locator('.actionable--text').locator('.currency-box').locator('.swa-g-screen-reader-only').textContent();
         appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare);
     }
 }
