@@ -2,9 +2,9 @@ Flight Information
 
 NONSTOP
 
-06:30Departing at 06:30
+6:30 AMDeparting at 6:30 AM
 
-07:04Arriving at 07:04
+7:04 AMArriving at 7:04 AM
 
 PHXOrigin Phoenix, AZ, US (PHX)
 
@@ -22,7 +22,7 @@ Learn more about carbon emissions
 
 Economy
 
-€101
+$109
 
 United Economy (K)
 
@@ -30,11 +30,11 @@ Add to cart
 
 Select fare for Economy
 
-€101
+$109
 
 Economy
 
-€101
+$109
 
 United Economy (K)
 
@@ -42,6 +42,6 @@ Add to cart
 
 Select fare for Economy
 
-€101
+$109
 
 ![](united-01-05.png)
