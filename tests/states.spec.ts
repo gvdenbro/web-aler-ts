@@ -65,15 +65,22 @@ test('southwest-01-05', async ({ page }, testInfo) => {
 
     await southwest(page, testInfo, '1/05', 'Before noon', 'PHX', 'LAX');
 });
-// skipping because no flights in the evening
-test.skip('united-01-04', async ({ page }, testInfo) => {
 
-    await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'PHX', 'LAX');
-});
+test.describe('US locale', () => {
 
-test('united-01-05', async ({ page }, testInfo) => {
-
-    await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'PHX', 'LAX');
+    test.use({ locale: 'en-US' });
+    // making sure we get prices in dollars
+    
+    // skipping because no flights in the evening
+    test.skip('united-01-04', async ({ page }, testInfo) => {
+    
+        await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'PHX', 'LAX');
+    });
+    
+    test('united-01-05', async ({ page }, testInfo) => {
+    
+        await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'PHX', 'LAX');
+    });
 });
 
 async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
@@ -172,8 +179,19 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
     await page.evaluate(() => {
         document.querySelectorAll('[aria-describedby="ECO-BASIC"]').forEach(el => el.remove());
         document.querySelectorAll('[aria-describedby="ECONOMY-UNRESTRICTED"]').forEach(el => el.remove());
+        document.querySelectorAll('[aria-describedby="ECONOMY-MERCH-EPLUS"]').forEach(el => el.remove());
         document.querySelectorAll('[aria-describedby="MIN-BUSINESS-OR-FIRST"]').forEach(el => el.remove());
     });
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
+
+    const locators = await gridResultPage.getByRole('row').filter({hasText: "NONSTOP"}).all();
+
+    for (const locator of locators) {
+
+        const flightNumber = await locator.locator('css=[class^=app-components-Shopping-FlightBaseCard-styles__descriptionStyle]').locator('[aria-hidden="true"]').textContent();
+        const fare = await locator.locator('css=[class^=app-components-Shopping-PriceCard-styles__priceValue]').first().textContent();
+
+        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare);
+    }
 }
