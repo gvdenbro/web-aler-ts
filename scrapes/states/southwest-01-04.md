@@ -8,9 +8,7 @@
     
     1h 30m
     
-    91 Dollars$9164 Dollars$64
-    
-    1 left
+    79 Dollars$79
     
 * \# 2467 Opens flyout.
     
@@ -22,7 +20,7 @@
     
     1h 25m
     
-    91 Dollars$9164 Dollars$64
+    79 Dollars$79
     
 
 ![](southwest-01-04.png)
