@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
-import { generatePng, generateSvg } from './graph-utils';
+import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/prices'
 
@@ -15,7 +15,7 @@ test.beforeAll(async ({ }, testInfo) => {
 
 test.afterAll(async ({ }) => {
 
-  generatePng(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.png`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
+  generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
       return {
           $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
           data: { values: data },

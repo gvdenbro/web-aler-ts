@@ -2,7 +2,7 @@ import { test, expect, Page, TestInfo, Locator } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
-import { generatePng, generateSvg } from './graph-utils';
+import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/states'
 
@@ -15,11 +15,11 @@ test.beforeAll(async ({ }, testInfo) => {
 
 test.afterAll(async ({ }) => {
 
-    generatePng(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.png`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
+    generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
         return {
             $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
             data: { values: data },
-            autosize: { resize: true },
+            //autosize: { resize: true },
             mark: {
                 type: 'line',
                 point: {
@@ -27,6 +27,10 @@ test.afterAll(async ({ }) => {
                     fill: 'white'
                 }
             },
+            transform: [
+                { calculate: "split(datum.identifier, '-', 1)[0]", as: "company" },
+                { calculate: "join([split(datum.identifier, '-')[1], split(datum.identifier, '-')[2]], '-')", as: "day" }
+            ],
             encoding: {
                 x: { field: 'timestamp', type: 'temporal', title: 'Time' },
                 y: { field: 'price', type: 'quantitative', title: 'Price' },
@@ -35,7 +39,8 @@ test.afterAll(async ({ }) => {
                         labelLimit: 320
                     }
                 },
-                //row: { field: "identifier", type: "nominal", title: "Flight" }
+                row: { field: "day", type: "nominal" },
+                column: { field: "company", type: "nominal" }
             }
         }
     });
@@ -128,7 +133,7 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
 
 async function united(page: Page, testInfo: TestInfo, date: string, when: 'Evening' | 'Early morning' | 'Morning' | 'Anytime', depart: string, arrive: string) {
 
-    await page.goto('https://www.united.com/en/be/book-flight/united-one-way');
+    await page.goto('https://www.united.com/en/us/book-flight/united-one-way');
 
     await page.getByLabel('Nonstop only').click();
 
