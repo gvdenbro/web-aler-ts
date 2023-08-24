@@ -7,7 +7,7 @@ jobs:
   tests:
     uses: ./.github/workflows/_reusable.yml
     with:
-      playwright-test-cmd: npx playwright test tests/states.spec.ts --project=firefox && ffmpeg -i scrapes/states/prices.svg scrapes/states/prices.png
+      playwright-test-cmd: npx playwright test tests/states.spec.ts --project=firefox
       diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=M ':scrapes/states/*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
     secrets:
       telegram-to: ${{ secrets.TELEGRAM_TO }}
