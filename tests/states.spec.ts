@@ -192,6 +192,6 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
         const flightNumber = await locator.locator('css=[class^=app-components-Shopping-FlightBaseCard-styles__descriptionStyle]').locator('[aria-hidden="true"]').textContent();
         const fare = await locator.locator('css=[class^=app-components-Shopping-PriceCard-styles__priceValue]').first().textContent();
 
-        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare);
+        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare, []);
     }
 }
