@@ -1,4 +1,4 @@
-import { test, expect, Page, TestInfo, Locator } from '@playwright/test';
+import { test, expect, Page, TestInfo } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
