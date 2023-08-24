@@ -7,7 +7,7 @@ Leopold I-straat 329, 1090 Jette
 
 24/03/2024
 
-ESS2324_familietheater2403
+ESS2324\_familietheater2403
 
 Vanaf 11:00 tot 11:50
 
@@ -20,7 +20,7 @@ Een poëtische voorstelling **voor families met kinderen vanaf 7 jaar** over ver
   
 *Online verkoop stopt 1 uur voor aanvang van de voorstelling.*  
   
-***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) \- 02 427 80 39***  
+***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
   
 
 #### Prijslijst
@@ -28,7 +28,7 @@ Een poëtische voorstelling **voor families met kinderen vanaf 7 jaar** over ver
 * ###### Ticket:
     
     * Standaardprijs: €6,00
-    * -12 jaar: €4,00
+    * \-12 jaar: €4,00
     * Paspartoe-Kansentarief: €2,00
 
   
@@ -47,17 +47,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail * 
+E-mail \* 
 
-Verifieer e-mail * 
+Verifieer e-mail \* 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam * 
+Voornaam \* 
 
-Familienaam * 
+Familienaam \* 
 
 Volgende
 

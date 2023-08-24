@@ -15,7 +15,7 @@ Emile Bockstaellaan 107, 1020 Laken
 
 Namiddag
 
-NEK2324_HockeyS1
+NEK2324\_HockeyS1
 
 Gaat door op:  
 26/09/2023, 03/10/2023, 10/10/2023, 17/10/2023, 24/10/2023, 07/11/2023, 14/11/2023, 21/11/2023, 28/11/2023, 05/12/2023, 12/12/2023, 19/12/2023
@@ -44,9 +44,9 @@ Inclusief: een maandelijkse wedstrijd op zaterdag tegen een andere wijk + een on
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres * 
+Gebruikersnaam / E-mailadres \* 
 
-Wachtwoord * 
+Wachtwoord \* 
 
   
 

@@ -15,7 +15,7 @@ Emile Bockstaellaan 107, 1020 Laken
 
 Namiddag
 
-NEK2324_KIDSMinivoetbalS1
+NEK2324\_KIDSMinivoetbalS1
 
 Gaat door op:  
 23/09/2023, 30/09/2023, 07/10/2023, 14/10/2023, 21/10/2023, 28/10/2023, 18/11/2023, 25/11/2023, 02/12/2023, 09/12/2023, 16/12/2023
@@ -43,9 +43,9 @@ Deelnemers aan semester 1 krijgen voorrang bij de inschrijvingen voor semester 2
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres * 
+Gebruikersnaam / E-mailadres \* 
 
-Wachtwoord * 
+Wachtwoord \* 
 
   
 

@@ -7,7 +7,7 @@ Leopold I-straat 329, 1090 Jette
 
 21/01/2024
 
-ESS2324_familietheater2101
+ESS2324\_familietheater2101
 
 Vanaf 11:00 tot 12:00
 
@@ -19,7 +19,7 @@ Een visuele en pakkende voorstelling waarin Mohanad **families met kinderen vana
   
 *Online verkoop stopt 1 uur voor aanvang van de voorstelling.*  
   
-***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) \- 02 427 80 39***  
+***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
   
 
 #### Prijslijst
@@ -28,7 +28,7 @@ Een visuele en pakkende voorstelling waarin Mohanad **families met kinderen vana
     
     * Standaardprijs: €6,00
     * Paspartoe-Kansentarief: €2,00
-    * -12 jaar: €4,00
+    * \-12 jaar: €4,00
 
   
 
@@ -46,17 +46,17 @@ Om tickets te kopen gelieve eerst uw e-mailadres in te geven
 
   
 
-E-mail * 
+E-mail \* 
 
-Verifieer e-mail * 
+Verifieer e-mail \* 
 
 Volgende
 
 ### Gelieve uw voor en achternaam op te geven.
 
-Voornaam * 
+Voornaam \* 
 
-Familienaam * 
+Familienaam \* 
 
 Volgende
 

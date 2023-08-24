@@ -9,7 +9,7 @@ Leopold I-straat 329, 1090 Jette
 
 Namiddag
 
-ESS2324_Kleuteratelier
+ESS2324\_Kleuteratelier
 
 Gaat door op:  
 13/09/2023, 20/09/2023, 27/09/2023, 04/10/2023, 11/10/2023, 18/10/2023, 25/10/2023, 08/11/2023, 15/11/2023, 22/11/2023, 29/11/2023, 06/12/2023, 13/12/2023, 20/12/2023, 10/01/2024, 17/01/2024, 24/01/2024, 31/01/2024, 07/02/2024, 21/02/2024, 28/02/2024, 06/03/2024, 13/03/2024, 20/03/2024, 27/03/2024, 17/04/2024, 24/04/2024, 08/05/2024, 15/05/2024, 22/05/2024, 29/05/2024, 05/06/2024, 12/06/2024, 19/06/2024, 26/06/2024
@@ -30,7 +30,7 @@ In het kleuteratelier doen we van alles leuks: luisteren naar verhalen, knutsele
   
 *Gespreid betalen is mogelijk, neem contact met ons op.*  
   
-***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) \- 02 427 80 39***  
+***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
 
 ###### Inschrijvingsdata
 
@@ -38,9 +38,9 @@ In het kleuteratelier doen we van alles leuks: luisteren naar verhalen, knutsele
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres * 
+Gebruikersnaam / E-mailadres \* 
 
-Wachtwoord * 
+Wachtwoord \* 
 
   
 

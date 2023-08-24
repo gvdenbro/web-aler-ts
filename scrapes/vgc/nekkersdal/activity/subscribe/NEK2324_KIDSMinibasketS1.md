@@ -15,7 +15,7 @@ Emile Bockstaellaan 107, 1020 Laken
 
 Namiddag
 
-NEK2324_KIDSMinibasketS1
+NEK2324\_KIDSMinibasketS1
 
 Gaat door op:  
 27/09/2023, 04/10/2023, 11/10/2023, 18/10/2023, 25/10/2023, 08/11/2023, 22/11/2023, 29/11/2023, 06/12/2023, 13/12/2023, 20/12/2023
@@ -43,9 +43,9 @@ Deelnemers aan semester 1 krijgen voorrang bij de inschrijvingen voor semester 2
 
 Gelieve uw login gegevens in te vullen:
 
-Gebruikersnaam / E-mailadres * 
+Gebruikersnaam / E-mailadres \* 
 
-Wachtwoord * 
+Wachtwoord \* 
 
   
 
