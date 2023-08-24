@@ -27,10 +27,6 @@ test.afterAll(async ({ }) => {
                     fill: 'white'
                 }
             },
-            transform: [
-                { calculate: "split(datum.identifier, '-', 1)[0]", as: "company" },
-                { calculate: "join([split(datum.identifier, '-')[1], split(datum.identifier, '-')[2]], '-')", as: "day" }
-            ],
             encoding: {
                 x: { field: 'timestamp', type: 'temporal', title: 'Time' },
                 y: { field: 'price', type: 'quantitative', title: 'Price' },
@@ -39,7 +35,7 @@ test.afterAll(async ({ }) => {
                         labelLimit: 320
                     }
                 },
-                row: { field: "day", type: "nominal" },
+                row: { field: "flightDate", type: "nominal" },
                 column: { field: "company", type: "nominal" }
             }
         }
@@ -53,37 +49,31 @@ test.beforeEach(async ({ context }) => {
 
 test('southwest-12-29', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '12/29', 'Before noon', 'SAN', 'PHX');
+    await southwest(page, testInfo, new Date(Date.UTC(2023, 11, 29)), 'Before noon', 'SAN', 'PHX');
 });
 
 test('southwest-01-04', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '1/04', 'After 6pm', 'PHX', 'LAX');
+    await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'After 6pm', 'PHX', 'LAX');
 });
 
 test('southwest-01-05', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, '1/05', 'Before noon', 'PHX', 'LAX');
+    await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 5)), 'Before noon', 'PHX', 'LAX');
 });
 
-test.describe('US locale', () => {
+// skipping because no flights in the evening
+test.skip('united-01-04', async ({ page }, testInfo) => {
 
-    test.use({ locale: 'en-US' });
-    // making sure we get prices in dollars
-    
-    // skipping because no flights in the evening
-    test.skip('united-01-04', async ({ page }, testInfo) => {
-    
-        await united(page, testInfo, 'Thursday, January 4, 2024', 'Evening', 'PHX', 'LAX');
-    });
-    
-    test('united-01-05', async ({ page }, testInfo) => {
-    
-        await united(page, testInfo, 'Friday, January 5, 2024', 'Early morning', 'PHX', 'LAX');
-    });
+    await united(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'Evening', 'PHX', 'LAX');
 });
 
-async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
+test('united-01-05', async ({ page }, testInfo) => {
+
+    await united(page, testInfo, new Date(Date.UTC(2024, 0, 5)), 'Early morning', 'PHX', 'LAX');
+});
+
+async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
 
     await page.goto('https://www.southwest.com/');
 
@@ -91,7 +81,11 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
 
     await page.getByText('Depart Date').click();
 
-    await page.getByText('Depart Date').first().type(date, { delay: 300 })
+    const month = date.getMonth() + 1;
+    // '12/29', '1/04', '1/05'
+    const day = date.getDate().toString().padStart(2, "0");
+
+    await page.getByText('Depart Date').first().type(`${month}/${day}`, { delay: 300 })
 
     await page.getByRole('combobox', { name: 'Depart' }).click();
 
@@ -134,11 +128,11 @@ async function southwest(page: Page, testInfo: TestInfo, date: string, when: 'Be
 
         const flightNumber = await locator.locator('.flight-numbers--flight-number').locator('.actionable--text').textContent();
         const fare = await locator.locator('.select-detail--fare').locator('.actionable--text').locator('.currency-box').locator('.swa-g-screen-reader-only').textContent();
-        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare);
+        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare, ["southwest", flightNumber, date.toISOString().substring(0, 10), depart, arrive]);
     }
 }
 
-async function united(page: Page, testInfo: TestInfo, date: string, when: 'Evening' | 'Early morning' | 'Morning' | 'Anytime', depart: string, arrive: string) {
+async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening' | 'Early morning' | 'Morning' | 'Anytime', depart: string, arrive: string) {
 
     await page.goto('https://www.united.com/en/us/book-flight/united-one-way');
 
@@ -161,11 +155,13 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
     await page.getByPlaceholder('Depart').clear();
     await page.getByPlaceholder('Depart').click();
 
-    while (! await page.getByRole('button', { name: date }).isVisible()) {
+    const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+
+    while (! await page.getByRole('button', { name: formattedDate }).isVisible()) {
         await page.getByRole('button', { name: 'Move forward to switch to the next month.' }).click();
     }
 
-    await page.getByRole('button', { name: date }).click();
+    await page.getByRole('button', { name: formattedDate }).click();
 
 
     await page.getByRole('button', { name: 'Find flights' }).click();
@@ -185,13 +181,13 @@ async function united(page: Page, testInfo: TestInfo, date: string, when: 'Eveni
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
 
-    const locators = await gridResultPage.getByRole('row').filter({hasText: "NONSTOP"}).all();
+    const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).all();
 
     for (const locator of locators) {
 
         const flightNumber = await locator.locator('css=[class^=app-components-Shopping-FlightBaseCard-styles__descriptionStyle]').locator('[aria-hidden="true"]').textContent();
         const fare = await locator.locator('css=[class^=app-components-Shopping-PriceCard-styles__priceValue]').first().textContent();
 
-        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare, []);
+        appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${flightNumber}`, fare, ["united", flightNumber, date.toISOString().substring(0, 10), depart, arrive]);
     }
 }
