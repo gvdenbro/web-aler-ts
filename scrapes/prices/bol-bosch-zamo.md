@@ -1,4 +1,4 @@
-52 <sup>99</sup>
+52 <sup>46</sup>
 
 ![](bol-bosch-zamo.png)
 
