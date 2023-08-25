@@ -31,6 +31,8 @@ jobs:
         path: |
           ~/.cache/ms-playwright
         key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json') }}
+    - name: show installed fonts
+      run:  'fc-list : family | sort | uniq'
     - name: Install dependencies
       run: npm ci
     - name: Install Playwright Browsers
