@@ -39,7 +39,7 @@ test.afterAll(async ({ }) => {
                 column: { field: "company", type: "nominal" }
             },
             config: {
-                font: "Ubuntu Mono, Regular"
+                font: "Liberation Mono"
             }
         }
     });
