@@ -22,7 +22,5 @@
     
     111 Dollars$111
     
-    1 left
-    
 
 ![](southwest-01-05.png)
