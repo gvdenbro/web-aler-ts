@@ -14,12 +14,12 @@ export function generateSvg(dataFilePath: string, svgFilePath: string, dataParse
     const view = new View(parse(vegaSpec), { renderer: 'none' });
     view.toSVG().then(svg => {
       fs.writeFileSync(svgFilePath, svg);
-    });
-    // hack in order to have a png version for telegram
-    // vega-lite can generate png with the help of a 'canvas' lib, but results are not great
-    // so using vega-lite to export to svg and use svg2img to convert to png 🤮
-    svg2img(svgFilePath, function (error, buffer) {
-      fs.writeFileSync(svgFilePath.replace('.svg', '.png'), buffer);
+      // hack in order to have a png version for telegram
+      // vega-lite can generate png with the help of a 'canvas' lib, but results are not great
+      // so using vega-lite to export to svg and use svg2img to convert to png 🤮
+      svg2img(svgFilePath, function (error, buffer) {
+        fs.writeFileSync(svgFilePath.replace('.svg', '.png'), buffer);
+      });
     });
   });
 }

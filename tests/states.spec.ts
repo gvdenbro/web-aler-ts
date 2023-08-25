@@ -37,6 +37,9 @@ test.afterAll(async ({ }) => {
                 },
                 row: { field: "flightDate", type: "nominal" },
                 column: { field: "company", type: "nominal" }
+            },
+            config: {
+                font: "Ubuntu Mono, Regular"
             }
         }
     });
