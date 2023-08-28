@@ -16,26 +16,28 @@ test.beforeAll(async ({ }, testInfo) => {
 test.afterAll(async ({ }) => {
 
   generateSvg(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`, { 'identifier': 'string', 'timestamp': 'date:%Q', 'price': 'integer' }, (data) => {
-      return {
-          $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
-          data: { values: data },
-          autosize: { resize: true },
-          mark: {
-              type: 'line',
-              point: {
-                  filled: false,
-                  fill: 'white'
-              }
+    return {
+      $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+      data: { values: data },
+      autosize: { resize: true },
+      mark: {
+        type: 'line',
+        point: {
+          filled: false,
+          fill: 'white'
+        }
+      },
+      encoding: {
+        x: { field: 'timestamp', type: 'temporal', title: 'Time' },
+        y: { field: 'price', type: 'quantitative', title: 'Price' },
+        color: {
+          field: 'identifier', type: 'nominal', legend: {
+            labelLimit: 320
           },
-          encoding: {
-              x: { field: 'timestamp', type: 'temporal', title: 'Time' },
-              y: { field: 'price', type: 'quantitative', title: 'Price' },
-              color: { field: 'identifier', type: 'nominal', legend: {
-                  labelLimit: 320
-              } },
-              //row: { field: "identifier", type: "nominal", title: "Flight" }
-          }
+          row: { field: "group", type: "nominal" },
+        },
       }
+    }
   });
 });
 
@@ -118,24 +120,26 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
   }
 });
 
-test("bol-bosch-zamo", async ({ page, context }, testInfo) => {
+test("zalando-teva-42", async ({ page, context }, testInfo) => {
 
-  context.addCookies([{ name: "bolConsentChoices", value: "source#OFC|version#6|int-tran#false|ext-tran#false|int-beh#false|ext-beh#false", domain: ".www.bol.com", path: "/" }]);
-  context.addCookies([{ name: "locale", value: "BE", domain: ".www.bol.com", path: "/" }]);
+  await page.goto("https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true");
 
-  await page.goto("https://www.bol.com/be/fr/p/bosch-zamo-telemetre-portee-jusqu-a-20-metres/9200000095919159/");
+  const articles = page.locator('article header');
 
-  const price = page.locator('[data-test="priceBlockPrice"]');
+  expect(articles.nth(0)).toBeVisible();
 
-  expect(price).toBeVisible();
+  const elements = await articles.all();
 
-  const htmlContent = await price.innerHTML();
-  
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-  
-  await page.locator('[data-test="product-page-columns"]').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
-  
-  const textContent = await price.innerText();
-  
-  appendPriceAsString(`${scrapesDirectory}/prices.csv`, testInfo.title, textContent);
+  for (const locator of elements) {
+
+    const title = (await locator.locator('h3').nth(1).textContent())?.trim().replace(/\s|\//g, "_");
+    const price = await locator.locator('section').textContent();
+
+    await locator.screenshot({ path: `${scrapesDirectory}/${testInfo.title}-${title}.png` });
+
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}-${title}.md`, `<div><div>${price}</div><p><img src="${testInfo.title}-${title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+
+    appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
+  }
+
 });
