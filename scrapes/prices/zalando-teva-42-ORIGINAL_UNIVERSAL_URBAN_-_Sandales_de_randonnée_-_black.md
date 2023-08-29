@@ -1,4 +1,4 @@
-€ 59,95
+à partir de € 58,10
 
 ![](zalando-teva-42-ORIGINAL_UNIVERSAL_URBAN_-_Sandales_de_randonnée_-_black.png)
 
