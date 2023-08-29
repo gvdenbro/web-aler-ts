@@ -36,6 +36,9 @@ test.afterAll(async ({ }) => {
           },
           row: { field: "group", type: "nominal" },
         },
+      },
+      config: {
+          font: "Liberation Mono"
       }
     }
   });
@@ -43,7 +46,7 @@ test.afterAll(async ({ }) => {
 
 
 test.beforeEach(async ({ context }) => {
-  await context.route(/(.*forter.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
+  await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
 test("hurricane-xlt-2", async ({ page, context }, testInfo) => {
@@ -133,7 +136,7 @@ test("zalando-teva-42", async ({ page, context }, testInfo) => {
   for (const locator of elements) {
 
     const title = (await locator.locator('h3').nth(1).textContent())?.trim().replace(/\s|\//g, "_");
-    const price = await locator.locator('section').textContent();
+    const price = await locator.locator('section > p').first().textContent();
 
     await locator.screenshot({ path: `${scrapesDirectory}/${testInfo.title}-${title}.png` });
 
