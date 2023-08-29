@@ -127,7 +127,7 @@ test("zalando-teva-42", async ({ page, context }, testInfo) => {
 
   await page.goto("https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true");
 
-  const articles = page.locator('article header');
+  const articles = page.locator('article header').filter({hasText: /teva/i});
 
   expect(articles.nth(0)).toBeVisible();
 
