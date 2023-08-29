@@ -16,7 +16,7 @@ UA 1395 (Boeing 737-900)Flight Number UA 1395. Aircraft Boeing 737-900
 
 DetailsSeats
 
-77 kg CO<sub>2</sub>Carbon emissions estimate: 77 kilograms. This is a lower emissions flight.
+80 kg CO<sub>2</sub>Carbon emissions estimate: 80 kilograms. This is a lower emissions flight.
 
 Learn more about carbon emissions
 
