@@ -43,5 +43,3 @@ Add to cart
 Select fare for Economy
 
 $109
-
-![](united-01-05.png)

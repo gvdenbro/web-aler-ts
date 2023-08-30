@@ -45,6 +45,3 @@
     1h 20m
     
     163 Dollars$163
-    
-
-![](southwest-12-29.png)
