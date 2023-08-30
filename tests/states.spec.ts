@@ -115,7 +115,8 @@ async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Befo
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+    // await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+    // <p><img src="${testInfo.title}.png"></img></p>
 
     await page.evaluate(() => {
         document.querySelectorAll('[data-test="fare-button--business-select"]').forEach(el => el.remove());
@@ -123,7 +124,7 @@ async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Befo
         document.querySelectorAll('[data-test="fare-button--wanna-get-away-plus"]').forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}</div>`);
 
     const locators = await gridResultPage.getByRole('listitem').all();
 
@@ -173,7 +174,8 @@ async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening
 
     const gridResultPage = page.locator('#flightResults-content').getByRole('grid');
 
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+    // await gridResultPage.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+    // <p><img src="${testInfo.title}.png"></img></p>
 
     await page.evaluate(() => {
         document.querySelectorAll('[aria-describedby="ECO-BASIC"]').forEach(el => el.remove());
@@ -182,7 +184,7 @@ async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening
         document.querySelectorAll('[aria-describedby="MIN-BUSINESS-OR-FIRST"]').forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}<p><img src="${testInfo.title}.png"></img></p></div>`);
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}</div>`);
 
     const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).all();
 
