@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test';
+import { test, expect, Page, TestInfo } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
@@ -39,8 +39,8 @@ test.afterAll(async ({ }) => {
           field: 'identifier', type: 'nominal', legend: {
             labelLimit: 320
           },
-          row: { field: "group", type: "nominal" },
         },
+        row: { field: "group", type: "nominal" },
       },
       config: {
         font: "Liberation Mono"
@@ -128,11 +128,21 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
   }
 });
 
-test("zalando-teva-42", async ({ page, context }, testInfo) => {
+test("zalando-teva-42", async ({ page }, testInfo) => {
 
-  await page.goto("https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true");
+  await zalando(page, testInfo, "https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true", /teva/i);
+});
 
-  const articles = page.locator('article header').filter({ hasText: /teva/i });
+test("zalando-poncho", async ({ page }, testInfo) => {
+
+  await zalando(page, testInfo, "https://fr.zalando.be/homme/?q=poncho+imperm%C3%A9able&sold_by_zalando=true", /poncho/i);
+});
+
+async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegExp) {
+
+  await page.goto(url);
+
+  const articles = page.locator('article header').filter({ hasText: filter });
 
   expect(articles.nth(0)).toBeVisible();
 
@@ -149,5 +159,5 @@ test("zalando-teva-42", async ({ page, context }, testInfo) => {
 
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
   }
+}
 
-});
