@@ -29,7 +29,12 @@ test.afterAll(async ({ }) => {
       },
       encoding: {
         x: { field: 'timestamp', type: 'temporal', title: 'Time' },
-        y: { field: 'price', type: 'quantitative', title: 'Price' },
+        y: {
+          field: 'price', type: 'quantitative', title: 'Price',
+          axis: {// we store the price in cents, so on the axis we divide by 100 for a prettier display
+            labelExpr: "format(datum.value / 100, '.0f')"
+          }
+        },
         color: {
           field: 'identifier', type: 'nominal', legend: {
             labelLimit: 320
@@ -38,7 +43,7 @@ test.afterAll(async ({ }) => {
         },
       },
       config: {
-          font: "Liberation Mono"
+        font: "Liberation Mono"
       }
     }
   });
@@ -127,7 +132,7 @@ test("zalando-teva-42", async ({ page, context }, testInfo) => {
 
   await page.goto("https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true");
 
-  const articles = page.locator('article header').filter({hasText: /teva/i});
+  const articles = page.locator('article header').filter({ hasText: /teva/i });
 
   expect(articles.nth(0)).toBeVisible();
 
