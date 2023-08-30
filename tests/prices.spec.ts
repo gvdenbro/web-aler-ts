@@ -36,12 +36,13 @@ test.afterAll(async ({ }) => {
           }
         },
         color: {
-          field: 'identifier', type: 'nominal', legend: {
+          field: 'item', type: 'nominal', legend: {
             labelLimit: 320
           },
         },
         row: { field: "group", type: "nominal" },
       },
+      resolve: { scale: { color: 'independent', y: 'independent', x: 'independent' } },// make sure each facet has its own legend
       config: {
         font: "Liberation Mono"
       }
