@@ -20,4 +20,6 @@
     
     1h 35m
     
-    111 Dollars$111
+    99 Dollars$99
+    
+    1 left
