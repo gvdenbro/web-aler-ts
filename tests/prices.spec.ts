@@ -35,6 +35,7 @@ test.afterAll(async ({ }) => {
           field: 'item', type: 'nominal', legend: {
             labelLimit: 320
           },
+          sort: { field: "price", order: 'descending', op: 'median' }
         },
         row: { field: "group", type: "nominal" },
       },
