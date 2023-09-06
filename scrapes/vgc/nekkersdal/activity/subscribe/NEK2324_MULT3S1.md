@@ -1,6 +1,6 @@
-### Kleutersport 3 semester 1
+### Kleutersport 3 semester 1 (5-6j)
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6308c08b183bd_NEK20_Cursussen_c_Wim_Wetsels-171.jpg)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/64f8859a450f2_f-8ce1c835f72f4e209c342213ac68f225.png)
 
 De inschrijvingen zijn nog niet begonnen.
 

@@ -1,6 +1,6 @@
 ### Minivoetbal (6 tot 7 jaar) semester 1
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6308c0018e8a7_NEK20_Cursussen_c_Wim_Wetsels-045.jpg)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/64f88618b8d3e_f-f28423ddd10b447ba8e659aa799889fe.png)
 
 De inschrijvingen zijn nog niet begonnen.
 
