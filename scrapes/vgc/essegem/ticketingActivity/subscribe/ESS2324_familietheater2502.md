@@ -19,7 +19,7 @@ Een woordeloze voorstelling **voor families met kinderen vanaf 3 jaar** die poë
   
 *Online verkoop stopt 1 uur voor aanvang van de voorstelling.*  
   
-***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
+****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
   
 
 #### Prijslijst

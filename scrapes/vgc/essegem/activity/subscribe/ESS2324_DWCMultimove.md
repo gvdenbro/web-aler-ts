@@ -29,7 +29,7 @@ Vangen, dribbelen, werpen, klauteren, springen, landen, trekken, duwen, zwaaienâ
 
 *Voor kinderen uit de tweede en derde kleuterklas uit het Nederlandstalig onderwijs (of met een Nederlandstalige ouder). Niet op feestdagen en tijdens schoolvakanties.  
   
-****Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***
+*****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****
 
 ###### Inschrijvingsdata
 

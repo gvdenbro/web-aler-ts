@@ -19,7 +19,7 @@ Kleuterconcert met zelfgeschreven en bestaande dierenliedjes in verschillende ta
   
 *Online verkoop stopt 1 uur voor aanvang van de voorstelling.*  
   
-***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
+****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
   
 
 #### Prijslijst
