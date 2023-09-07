@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/64f8859a450f2_f-8ce1c835f72f4e209c342213ac68f225.png)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 07/09/2023 09:00 tot 31/10/2023 12:00 (Iedereen)
-
 2017 - 2018
 
 GC Nekkersdal  

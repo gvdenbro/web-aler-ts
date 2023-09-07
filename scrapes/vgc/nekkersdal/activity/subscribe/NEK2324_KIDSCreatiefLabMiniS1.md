@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6308bd400d4f3_NEK20_Cursussen_c_Wim_Wetsels-144.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 07/09/2023 09:00 tot 31/10/2023 13:00 (Iedereen)
-
 2018 - 2019
 
 GC Nekkersdal  
