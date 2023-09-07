@@ -7,8 +7,6 @@
 GC Nekkersdal  
 Emile Bockstaellaan 107, 1020 Laken
 
-**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
-
 Namiddag
 
 NEK2324\_HockeyS1
