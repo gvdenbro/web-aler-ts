@@ -52,17 +52,17 @@ test.beforeEach(async ({ context }) => {
   await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
-test("hurricane-xlt-2", async ({ page, context }, testInfo) => {
+test.skip("hurricane-xlt-2", async ({ page, context }, testInfo) => {
 
   await scrapeTevaURL(context, page, testInfo, "https://www.teva-eu.com/nl/be/men-sandals/hurricane-xlt-2/1019234.html");
 });
 
-test("zymic", async ({ page, context }, testInfo) => {
+test.skip("zymic", async ({ page, context }, testInfo) => {
 
   await scrapeTevaURL(context, page, testInfo, "https://www.teva-eu.com/nl/be/men-sandals/zymic/1124049.html");
 });
 
-test("terra-fi-5-universal", async ({ page, context }, testInfo) => {
+test.skip("terra-fi-5-universal", async ({ page, context }, testInfo) => {
 
   await scrapeTevaURL(context, page, testInfo, "https://www.teva-eu.com/nl/be/men-sandals/terra-fi-5-universal/1102456.html");
 });
