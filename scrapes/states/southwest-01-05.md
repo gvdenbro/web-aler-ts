@@ -22,4 +22,4 @@
     
     111 Dollars$111
     
-    4 left
+    3 left
