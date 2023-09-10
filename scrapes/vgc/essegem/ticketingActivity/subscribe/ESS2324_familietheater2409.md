@@ -23,7 +23,7 @@ Innemend, visueel en interactief theater over vriendschap en schoonheid, **leuk 
 ****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
   
 
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+###### *Sorry, deze activiteit is volledig uitverkocht.*
 
 #### Prijslijst
 
