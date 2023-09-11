@@ -1,3 +1,3 @@
-à partir de € 102,95
+€ 102,95
 
 [Source](https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true)
