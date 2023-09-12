@@ -16,6 +16,10 @@ UA 2339 (Boeing 737 MAX 8)Flight Number UA 2339. Aircraft Boeing 737 MAX 8
 
 DetailsSeats
 
+58 kg CO<sub>2</sub>Carbon emissions estimate: 58 kilograms. This is a lower emissions flight.
+
+Learn more about carbon emissions
+
 Economy
 
 $75
