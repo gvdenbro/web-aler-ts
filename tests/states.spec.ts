@@ -46,30 +46,29 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test('southwest-12-29', async ({ page }, testInfo) => {
+test('southwest-12-28-san-las', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, new Date(Date.UTC(2023, 11, 29)), 'Before noon', 'SAN', 'PHX');
+    await southwest(page, testInfo, new Date(Date.UTC(2023, 11, 28)), 'Before noon', 'SAN', 'LAS');
 });
 
-test('southwest-01-04', async ({ page }, testInfo) => {
+test.skip('united-12-28-morning-san-las', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'After 6pm', 'PHX', 'LAX');
+    await united(page, testInfo, new Date(Date.UTC(2023, 11, 28)), 'Morning', 'SAN', 'LAS');
 });
 
-test('southwest-01-05', async ({ page }, testInfo) => {
+test.skip('united-12-28-early-morning-san-las', async ({ page }, testInfo) => {
 
-    await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 5)), 'Before noon', 'PHX', 'LAX');
+    await united(page, testInfo, new Date(Date.UTC(2023, 11, 28)), 'Early morning', 'SAN', 'LAS');
 });
 
-// skipping because no flights in the evening
-test.skip('united-01-04', async ({ page }, testInfo) => {
+test('southwest-01-04-after6pm-las-lax', async ({ page }, testInfo) => {
 
-    await united(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'Evening', 'PHX', 'LAX');
+    await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'After 6pm', 'LAS', 'LAX');
 });
 
-test('united-01-05', async ({ page }, testInfo) => {
+test('united-01-04-san-las', async ({ page }, testInfo) => {
 
-    await united(page, testInfo, new Date(Date.UTC(2024, 0, 5)), 'Early morning', 'PHX', 'LAX');
+    await united(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'Evening', 'LAS', 'LAX');
 });
 
 async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Before noon' | 'After 6pm' | 'Noon - 6pm' | 'All day', depart: string, arrive: string) {
@@ -182,7 +181,7 @@ async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}</div>`);
 
-    const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).all();
+    const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).filter({hasNotText: "Operated by JSX Air"}).all();
 
     for (const locator of locators) {
 
