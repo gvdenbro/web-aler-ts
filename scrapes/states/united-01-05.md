@@ -22,24 +22,24 @@ Learn more about carbon emissions
 
 Economy
 
-$89
+$109
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-$89
+$109
 
 Economy
 
-$89
+$109
 
-United Economy (G)
+United Economy (K)
 
 Add to cart
 
 Select fare for Economy
 
-$89
+$109
