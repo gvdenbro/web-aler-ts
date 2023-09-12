@@ -19,10 +19,7 @@ test.afterAll(async ({ }) => {
     return {
       $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
       data: { values: data },
-      mark: {
-        type: 'line',
-        point: true
-      },
+      mark: 'line',
       encoding: {
         x: { field: 'timestamp', type: 'temporal', title: 'Time' },
         y: {
