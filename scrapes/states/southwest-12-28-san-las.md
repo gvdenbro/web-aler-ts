@@ -46,4 +46,4 @@
     
     99 Dollars$99
     
-    1 left
+    3 left
