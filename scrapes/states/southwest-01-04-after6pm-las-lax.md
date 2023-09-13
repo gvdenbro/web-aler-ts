@@ -8,7 +8,7 @@
     
     1h 15m
     
-    70 Dollars$70
+    73 Dollars$73
     
 * \# 2815 Opens flyout.
     
@@ -20,4 +20,4 @@
     
     1h 10m
     
-    70 Dollars$70
+    73 Dollars$73
