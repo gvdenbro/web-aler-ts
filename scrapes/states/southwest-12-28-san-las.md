@@ -22,6 +22,8 @@
     
     80 Dollars$80
     
+    5 left
+    
 * \# 716 Opens flyout.
     
     Departs 9:35AM
@@ -44,6 +46,4 @@
     
     1h 20m
     
-    99 Dollars$99
-    
-    3 left
+    105 Dollars$105
