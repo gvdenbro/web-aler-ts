@@ -22,7 +22,7 @@
     
     80 Dollars$80
     
-    5 left
+    3 left
     
 * \# 716 Opens flyout.
     
