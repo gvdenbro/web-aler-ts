@@ -13,7 +13,7 @@ Kom erbij & ontdek
 
 ### Dagelijkse deals tot -75%\* korting
 
-Zie meer(95)
+Zie meer(96)
 
 * ![Marc O'Polo - Schoenen](https://img01.ztat.net/zl-campaign-banners-albums/albums/Q783U/ijcfn2dnph7sr13b78fbsj0961.jpg?imwidth=640)
     
@@ -273,4 +273,4 @@ U vindt ons ook op
 
 ![](zalando-lounge.png)
 
-[Source](https://www.zalando-lounge.be/blog/merken/#/)
+[Source](https://www.zalando-lounge.be/blog/merken/)
