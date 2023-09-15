@@ -1,7 +1,7 @@
 name: states
 on:
-  schedule:
-    - cron: "45 4-22/6 * * *"
+  # schedule:
+  #   - cron: "45 4-22/6 * * *"
   workflow_dispatch:
 jobs:
   tests:
