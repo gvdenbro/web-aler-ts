@@ -112,7 +112,7 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
 
   expect(container).toBeVisible();
 
-  const match = container.filter({ hasText: /teva|merrell/i }).first();
+  const match = container.filter({ hasText: /merrell|poncho/i }).first();
 
   if (await match.isVisible()) {
 
@@ -123,7 +123,7 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
   }
 });
 
-test("zalando-teva-42", async ({ page }, testInfo) => {
+test.skip("zalando-teva-42", async ({ page }, testInfo) => {
 
   await zalando(page, testInfo, "https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true", /teva/i);
 });
@@ -148,11 +148,8 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
     const title = (await locator.locator('h3').nth(1).textContent())?.trim().replace(/\s|\//g, "_");
     const price = await locator.locator('section > p').first().textContent();
 
-    // await locator.screenshot({ path: `${scrapesDirectory}/${testInfo.title}-${title}.png` });
-    // <p><img src="${testInfo.title}-${title}.png"></img></p>
     createMarkdown(`${scrapesDirectory}/${testInfo.title}-${title}.md`, `<div><div>${price}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
   }
 }
-
