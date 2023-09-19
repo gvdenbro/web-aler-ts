@@ -32,7 +32,7 @@ for (let name in queries) {
 
         const query = queries[name];
 
-        await page.goto(`https://epso.europa.eu/en/job-opportunities/open-for-application?field_epso_domain_target_id_1=${query.domainId}&field_epso_location_target_id_1=1149&institution=All&field_epso_type_of_contract_target_id=${query.contractTypeId}`);
+        await page.goto(`https://eu-careers.europa.eu/en/job-opportunities/open-for-application?field_epso_location_target_id_1=1149&field_epso_domain_target_id_1=${query.domainId}&institution=All&field_epso_type_of_contract_target_id=${query.contractTypeId}`);
 
         const results = page.locator('.ecl-row');
 
@@ -50,7 +50,7 @@ for (let name in queries) {
 
             await expect(mainContent).toBeVisible();
 
-            const idLocator = page.locator(".field--name-field-epso-ref-temp-number > .field__item");
+            const idLocator = page.locator(".refs > .field__item, .field--name-field-epso-ref-temp-number > .field__item");
 
             await expect(idLocator).toHaveText(/\S+/);
 
