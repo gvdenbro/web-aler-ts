@@ -146,9 +146,9 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
   for (const locator of elements) {
 
     const title = (await locator.locator('h3').nth(1).textContent())?.trim().replace(/\s|\//g, "_");
-    const price = await locator.locator('section > p').first().textContent();
+    const price = (await locator.locator('section > p').first().textContent()) || '';
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}-${title}.md`, `<div><div>${price}</div><p><a href="${page.url()}">Source</a></p></div>`);
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}-${title}.md`, `<div><div>${price.match(/\d+/g)?.join('') || ''}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
   }
