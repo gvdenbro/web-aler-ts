@@ -46,7 +46,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test('southwest-12-28-san-las', async ({ page }, testInfo) => {
+test.skip('southwest-12-28-san-las', async ({ page }, testInfo) => {
 
     await southwest(page, testInfo, new Date(Date.UTC(2023, 11, 28)), 'Before noon', 'SAN', 'LAS');
 });
@@ -61,12 +61,12 @@ test.skip('united-12-28-early-morning-san-las', async ({ page }, testInfo) => {
     await united(page, testInfo, new Date(Date.UTC(2023, 11, 28)), 'Early morning', 'SAN', 'LAS');
 });
 
-test('southwest-01-04-after6pm-las-lax', async ({ page }, testInfo) => {
+test.skip('southwest-01-04-after6pm-las-lax', async ({ page }, testInfo) => {
 
     await southwest(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'After 6pm', 'LAS', 'LAX');
 });
 
-test('united-01-04-san-las', async ({ page }, testInfo) => {
+test.skip('united-01-04-san-las', async ({ page }, testInfo) => {
 
     await united(page, testInfo, new Date(Date.UTC(2024, 0, 4)), 'Evening', 'LAS', 'LAX');
 });
