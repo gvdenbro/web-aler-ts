@@ -6,7 +6,7 @@ import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/spalat'
 
-test.use({ 
+test.use({
   locale: 'ro-RO,en;q=0.5',
   timezoneId: 'Europe/Bucharest',
 });
@@ -85,11 +85,9 @@ test("emag-LG-F2WR509SWW", async ({ page }, testInfo) => {
 
 async function emag(page: Page, testInfo: TestInfo, url: string) {
 
-  await page.goto(url);
+  await page.waitForTimeout(3000);
 
-  if (await page.getByText("Validează").isVisible()) {
-    await page.getByText("Validează").click();
-  }
+  await page.goto(url);
 
   const price = (((await page.locator(".pricing-block .product-new-price").last().textContent()) || '').match(/\d+/g)?.join('') || '').slice(0, -2);
 
