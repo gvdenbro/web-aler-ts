@@ -6,6 +6,11 @@ import { generateSvg } from './graph-utils';
 
 const scrapesDirectory: string = './scrapes/spalat'
 
+test.use({ 
+  locale: 'ro-RO,en;q=0.5',
+  timezoneId: 'Europe/Bucharest',
+});
+
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
     removeFiles(scrapesDirectory, 'md');
