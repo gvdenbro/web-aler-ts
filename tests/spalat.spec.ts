@@ -68,17 +68,17 @@ async function altex(page: Page, testInfo: TestInfo, url: string) {
   appendPriceAsString(`${scrapesDirectory}/spalat.csv`, `${testInfo.title}`, price);
 }
 
-test("emag-LG-F2WR508SBM", async ({ page }, testInfo) => {
+test.skip("emag-LG-F2WR508SBM", async ({ page }, testInfo) => {
 
   await emag(page, testInfo, "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-8-kg-1200-rpm-clasa-a-motor-direct-drive-smart-diagnosis-negru-f2wr508sbm/pd/DLY0B3YBM/");
 });
 
-test("emag-LG-F2WR508S0W", async ({ page }, testInfo) => {
+test.skip("emag-LG-F2WR508S0W", async ({ page }, testInfo) => {
 
   await emag(page, testInfo, "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-8-kg-1200-rpm-clasa-a-motor-direct-drive-smart-diagnosis-alb-f2wr508s0w/pd/DXY0B3YBM/");
 });
 
-test("emag-LG-F2WR509SWW", async ({ page }, testInfo) => {
+test.skip("emag-LG-F2WR509SWW", async ({ page }, testInfo) => {
 
   await emag(page, testInfo, "https://www.emag.ro/masina-de-spalat-rufe-slim-lg-9-kg-1200-rpm-clasa-a-motor-direct-drive-smart-diagnosis-alb-f2wr509sww/pd/D1FDFMYBM/");
 });
