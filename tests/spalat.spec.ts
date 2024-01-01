@@ -89,6 +89,10 @@ async function emag(page: Page, testInfo: TestInfo, url: string) {
 
   await page.goto(url);
 
+  if (await page.getByText("Validează").isVisible()) {
+    await page.getByText("Validează").click();
+  }
+
   const price = (((await page.locator(".pricing-block .product-new-price").last().textContent()) || '').match(/\d+/g)?.join('') || '').slice(0, -2);
 
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${price}</div><p><a href="${page.url()}">Source</a></p></div>`);
