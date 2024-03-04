@@ -10,7 +10,7 @@
   "devDependencies": {
     "@joplin/turndown": "^4.0.73",
     "@joplin/turndown-plugin-gfm": "^1.0.55",
-    "@playwright/test": "^1.42.0",
+    "@playwright/test": "^1.42.1",
     "svg2img": "^1.0.0-beta.2",
     "vega": "^5.27.0",
     "vega-lite": "^5.16.3"
