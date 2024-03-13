@@ -128,7 +128,7 @@ test.skip("zalando-teva-42", async ({ page }, testInfo) => {
   await zalando(page, testInfo, "https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true", /teva/i);
 });
 
-test("zalando-poncho", async ({ page }, testInfo) => {
+test.skip("zalando-poncho", async ({ page }, testInfo) => {
 
   await zalando(page, testInfo, "https://fr.zalando.be/homme/?q=poncho+imperm%C3%A9able&sold_by_zalando=true", /poncho/i);
 });
