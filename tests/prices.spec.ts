@@ -123,6 +123,20 @@ test("zalando-lounge", async ({ page, context }, testInfo) => {
   }
 });
 
+
+test("cheleatandc", async ({ page, context }, testInfo) => {
+
+  await page.goto("https://florinchelea.be/fr/terms");
+
+  const container = page.locator('.terms').first();
+
+  expect(container).toBeVisible();
+
+  const htmlContent = await container.innerHTML();
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+
+});
+
 test.skip("zalando-teva-42", async ({ page }, testInfo) => {
 
   await zalando(page, testInfo, "https://fr.zalando.be/homme/teva__taille-42/?sold_by_zalando=true", /teva/i);
