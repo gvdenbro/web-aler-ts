@@ -12,8 +12,8 @@ interface Dienst {
 
 const diensten: Array<Dienst> = [
   { naam: 'essegem', id: 109 },
-  { naam: 'nekkersdal', id: 241 },
-  { naam: 'deplatoo', id: 286 },
+  // { naam: 'nekkersdal', id: 241 },
+  // { naam: 'deplatoo', id: 286 },
 ]
 
 test.beforeAll(async ({ }, testInfo) => {
@@ -26,7 +26,11 @@ for (const dienst of diensten) {
 
   test(`vgc tickets [${dienst.naam}]`, async ({ page }) => {
 
-    await page.goto(`https://tickets.vgc.be/activity/index?&vrijeplaatsen=1&Age%5B%5D=${age - 1}%2C${age + 1}&entity=${dienst.id}`);
+    const url = `https://tickets.vgc.be/activity/index?&vrijeplaatsen=1&Age%5B%5D=${age - 1}%2C${age + 1}&entity=${dienst.id}`
+
+    console.log(`Scraping ${url}`);
+
+    await page.goto(url);
 
     const results = page.locator('#wall');
 

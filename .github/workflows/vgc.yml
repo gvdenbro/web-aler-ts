@@ -1,7 +1,7 @@
 name: vgc
 on:
-  # schedule:
-  #   - cron: "5 4-21 * * *"
+  schedule:
+    - cron: "5 4-21 * * *"
   workflow_dispatch:
 jobs:
   tests:
