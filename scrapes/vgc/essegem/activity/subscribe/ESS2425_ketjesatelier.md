@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/666c349324b40_Ketjesatelier1_Kinderateliers_23-24_©_Marjon_Udo_%28131%29.JPG)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 17/06/2024 09:00 tot 25/09/2024 16:00 (Iedereen)
-
 2013 - 2018
 
 GC Essegem  

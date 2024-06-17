@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/666c315f0a43f_Multimove1_Kinderateliers_23-24_©_Marjon_Udo_%2842%29.JPG)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 17/06/2024 09:00 tot 27/09/2024 16:00 (Iedereen)
-
 2019 - 2020
 
 GC Essegem  
