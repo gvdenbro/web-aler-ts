@@ -15,7 +15,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*appdynamics.*)|(.*google.*)|(.*one.trust.*)|(.*boxever.*)/, route => route.abort());
 });
 
-test.skip('emirates', async ({ page }) => {
+test('emirates', async ({ page }) => {
 
     await page.goto('https://www.emirates.com/be/english/');
 
@@ -33,13 +33,13 @@ test.skip('emirates', async ({ page }) => {
     await page.getByText('TPE').click();
     await page.getByLabel('My dates are flexible (-/+ 3 days)').check();
 
-    while (! await page.getByText('March2024').isVisible()) {
+    while (! await page.getByText('April2025').isVisible()) {
         await page.getByRole('button', { name: 'Next Month' }).click();
     }
 
-    await page.getByRole('button', { name: 'Thursday, 28 March 2024' }).click();
+    await page.getByRole('button', { name: 'Saturday, 05 April 2025' }).click();
     await page.getByRole('button', { name: 'Next Month' }).click();
-    await page.getByRole('button', { name: 'Friday, 12 April 2024' }).click();
+    await page.getByRole('button', { name: 'Sunday, 20 April 2025' }).click();
     await page.getByRole('button', { name: 'Search flights' }).click();
 
     const gridResultPage = page.getByText('Your trip, Brussels - Taipei (Return) Outbound BRU - TPE Economy Outbound Brusse');

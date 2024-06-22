@@ -1,12 +1,12 @@
 |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Inbound<br><br>TPE - BRU<br><br>Economy<br><br>Inbound Taipei to Taipei in Economy Class | **Monday**<br><br>25 March | **Tuesday**<br><br>26 March | **Wednesday**<br><br>27 March | **Thursday**<br><br>28 March | **Friday**<br><br>29 March | **Saturday**<br><br>30 March | **Sunday**<br><br>31 March |
-| **Tuesday**<br><br>9 April | **997** | **997** | **997** | **1,307** | **1,332** | **1,332** | **1,307** |
-| **Wednesday**<br><br>10 April | **997** | **997** | **997** | **1,307** | **1,332** | **1,332** | **1,307** |
-| **Thursday**<br><br>11 April | **1,032** | **1,032** | **1,032** | **1,307** | **1,332** | **1,332** | **1,307** |
-| **Friday**<br><br>12 April | **1,072** | **1,072** | **1,072** | **1,307** | **1,332** | **1,332** | **1,307** |
-| **Saturday**<br><br>13 April | **1,307** | **1,307** | **1,307** | **1,487** | **1,512** | **1,512** | **1,487** |
-| **Sunday**<br><br>14 April | **1,057** | **1,057** | **1,057** | **1,332** | **1,357** | **1,357** | **1,332** |
-| **Monday**<br><br>15 April | **1,032** | **1,032** | **1,032** | **1,307** | **1,332** | **1,332** | **1,307** |
+| Inbound<br><br>TPE - BRU<br><br>Economy<br><br>Inbound Taipei to Taipei in Economy Class | **Wednesday**<br><br>2 April | **Thursday**<br><br>3 April | **Friday**<br><br>4 April | **Saturday**<br><br>5 April | **Sunday**<br><br>6 April | **Monday**<br><br>7 April | **Tuesday**<br><br>8 April |
+| **Thursday**<br><br>17 April | **1,001** | **1,320** | **1,345** | **1,412** | **1,320** | **1,037** | **1,037** |
+| **Friday**<br><br>18 April | **1,037** | **1,320** | **1,345** | **1,412** | **1,320** | **1,073** | **1,073** |
+| **Saturday**<br><br>19 April | **1,103** | **1,345** | **1,370** | **1,437** | **1,345** | **1,139** | **1,139** |
+| **Sunday**<br><br>20 April | **1,103** | **1,345** | **1,370** | **1,437** | **1,345** | **1,139** | **1,139** |
+| **Monday**<br><br>21 April | **1,037** | **1,320** | **1,345** | **1,412** | **1,320** | **1,073** | **1,073** |
+| **Tuesday**<br><br>22 April | **1,001** | **1,320** | **1,345** | **1,412** | **1,320** | **1,037** | **1,037** |
+| **Wednesday**<br><br>23 April | **1,001** | **1,320** | **1,345** | **1,412** | **1,320** | **1,037** | **1,037** |
 
 ![](emirates.png)
