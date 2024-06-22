@@ -60,45 +60,47 @@ test('emirates', async ({ page }) => {
     createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
 });
 
-test.skip('turkish-airlines', async ({ page }) => {
+test('turkish-airlines', async ({ page }) => {
     await page.goto('https://www.turkishairlines.com/en-int/index.html');
 
     await page.getByRole('button', { name: 'I accept all cookies' }).click();
 
-    await expect(page.locator('#originSelector .port-info')).toHaveText(/\S/, {timeout: 30000});
-    await expect(page.locator('#portInputTo')).toBeFocused();
+    // await expect(page.locator('#fromPort')).toHaveText(/\S/, {timeout: 30000});
+    // await expect(page.locator('#toPort')).toBeFocused();
 
-    await page.locator('#portInputTo').click();
-    await page.locator('#portInputTo').clear();
-    await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
-    await page.locator('#portInputTo').type('TPE', {delay: 300});
-    await page.locator('#destinationSelector').getByText('(TPE)').first().click();
+    await page.locator('#toPort').click();
+    await page.locator('#toPort').clear();
+    // await expect(page.locator('#destinationSelector').getByText('See all destinations')).toBeVisible();
+    await page.locator('#toPort').type('TPE', {delay: 300});
+    await page.getByText('(TPE)').first().click();
     
-    await page.locator('label').filter({ hasText: 'Flexible dates' }).click();
+    await page.locator('#flexibleDates').click();
     
-    while (! await page.getByText('March 2024').isVisible()) {
-        await page.getByTitle('Next').first().click();
+    while (! await page.getByText('April 2025').isVisible()) {
+        // await page.getByTitle('Next').first().click();
+        await page.getByRole('button', { name: '›' }).click()
     }
     
-    await page.getByText('NextMarch 2024MoTuWeThFrSaSu 123456789101112131415161718192021222324252627282930').getByRole('link', { name: '28' }).click()
+    await page.getByLabel('April 5, 2025').click();
+
+    // await page.getByTitle('Next').first().click();
+    // await expect(page.getByText('April 2024')).toBeVisible();
+    await page.getByLabel('April 20, 2025').click();
     
-    await page.getByTitle('Next').first().click();
-    await expect(page.getByText('April 2024')).toBeVisible();
+    // await page.getByText('NextApril 2025MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '20' }).click();
     
-    await page.getByText('NextApril 2024MoTuWeThFrSaSu123456789101112131415161718192021222324252627282930').getByRole('link', { name: '12' }).click();
+    await page.getByRole('button', { name: 'OK', exact: true }).click();
     
-    await page.getByRole('link', { name: 'OK', exact: true }).click();
+    await page.locator('#fromPort').click();
+    await page.locator('#fromPort').clear();
     
-    await page.locator('#portInputFrom').click();
-    await page.locator('#portInputFrom').clear();
-    
-    await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
-    await page.locator('#portInputFrom').type('BRU', {delay: 300});
-    await page.locator('#originSelector').getByText('(BRU)').first().click();
+    // await expect(page.locator('#originSelector').getByText('See all destinations')).toBeVisible();
+    await page.locator('#fromPort').type('BRU', {delay: 300});
+    await page.getByText('(BRU)').first().click();
 
     await page.getByRole('button', { name: 'Search flights' }).click();
 
-    const gridResultPage = page.locator('#availabilitybrandedinternational_container div table.table');
+    const gridResultPage = page.locator('table');
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
