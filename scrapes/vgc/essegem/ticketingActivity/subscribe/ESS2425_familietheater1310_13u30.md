@@ -12,7 +12,7 @@ ESS2425_familietheater1310_13u30
 Vanaf 13:30 tot 14:30
 
 Wat als op een ochtend geen ronde maar een vierkante zon opkomt? Ben je dan voor of tegen die nieuwe zon?  
-In en rondom een houten miniatuurtheater ontvouwt zich een wereld waarin een grote verandering plaatsvindt. 2D wordt 3D, abstracte vormen worden dieren, een vlak krijgt diepgang … Een nieuwe wereld verschijnt!  
+<br/>In en rondom een houten miniatuurtheater ontvouwt zich een wereld waarin een grote verandering plaatsvindt. 2D wordt 3D, abstracte vormen worden dieren, een vlak krijgt diepgang … Een nieuwe wereld verschijnt!  
 <br/>Een absurde, fantasierijke en poëtische reis doorheen verschillende werelden in een minitheater **voor families met kinderen vanaf 4 jaar**.  
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 *Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.**  

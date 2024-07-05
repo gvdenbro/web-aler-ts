@@ -12,7 +12,7 @@ ESS2425_familietheater2909
 Vanaf 11:00 tot 11:45
 
 Dit is mijn straat. Hier woon ik, in huis nummer 2. Sommige mensen zeggen dat het maar een klein straatje is. Ze denken dat een straat pas groot is als er veel huizen in staan. Of heel veel mensen in die huizen wonen. Maar zo is het niet. Een straat meet je aan de verhalen die er schuilen.  
-In ‘Mijn Straat’ komen verhalen uit alle windstreken samen op één stoep, prachtig vormgegeven in kleurrijke miniatuurdecors van illustrator Tim Polfliet.  
+<br/>In ‘Mijn Straat’ komen verhalen uit alle windstreken samen op één stoep, prachtig vormgegeven in kleurrijke miniatuurdecors van illustrator Tim Polfliet.  
 <br/>Een miniatuur verteltheater boordevol geuren, kleuren, klanken, poppen en … verhalen **voor families met kinderen vanaf 5 jaar**.  
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 **Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.***  

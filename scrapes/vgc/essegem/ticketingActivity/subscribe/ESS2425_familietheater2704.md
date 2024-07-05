@@ -12,7 +12,7 @@ ESS2425_familietheater2704
 Vanaf 11:00 tot 11:45
 
 Welkom in een wereld vol kleurrijke vormen, herkenbare taferelen, knotsgekke figuren en spectaculaire stunts, waarin geanimeerde beelden samensmelten met verrassende muziek en abstracte geluiden. Spits je oren, open je ogen en doe mee!  
-In ‘2 ogen, 2 oren’ fungeert Rémi Decker als eenmansband waarbij hij zijn talent als multi-instrumentalist en foley-artiest inzet.  
+<br/>In ‘2 ogen, 2 oren’ fungeert Rémi Decker als eenmansband waarbij hij zijn talent als multi-instrumentalist en foley-artiest inzet.  
 <br/>Een interactieve, audiovisuele voorstelling **voor families met kinderen vanaf 2,5 jaar** waarin beelden en bruitage samensmelten.  
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 ***Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.****  

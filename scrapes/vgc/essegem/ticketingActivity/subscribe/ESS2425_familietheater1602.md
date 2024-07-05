@@ -12,7 +12,7 @@ ESS2425_familietheater1602
 Vanaf 11:00 tot 11:50
 
 Bruno en zijn buurmeisje zien hun stad ten onder gaan aan oorlog. Samen vinden ze manieren om te ontsnappen aan de chaos. Hun vriendschap overstijgt alles!  
-Griet Herssens neemt je mee in haar papieren wereld, voor een feeëriek verhaal over ontmoetingen en klein avontuur.  
+<br/>Griet Herssens neemt je mee in haar papieren wereld, voor een feeëriek verhaal over ontmoetingen en klein avontuur.  
 <br/>Een surrealistische pop-upperformance **voor families met kinderen vanaf 5 jaar** waarin wreedheid en schoonheid hand in hand gaan.  
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 ***Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.****  
