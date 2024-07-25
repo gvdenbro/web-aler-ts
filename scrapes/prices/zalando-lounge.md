@@ -266,4 +266,4 @@ U vindt ons ook op
 
 ![](zalando-lounge.png)
 
-[Source](https://www.zalando-lounge.be/blog/merken/)
+[Source](https://www.zalando-lounge.be/blog/merken/#/)
