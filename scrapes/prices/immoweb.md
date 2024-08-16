@@ -299,8 +299,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/a6b777fc-aa07-4008-849a-3b8f87c1901b/736x736/1a6e5f6e6433e1f5054fc63b18ebbf11.jpg)
     
-    nouveau
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/20077284)
     -----------------------------------------------------------------------------------------
     
