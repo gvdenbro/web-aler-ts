@@ -172,15 +172,19 @@ test("immoweb", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest");
 
-  const popup = page.getByTestId('uc-customize-button');
+  try {
+    const popup = page.getByTestId('uc-customize-button');
+    await expect(popup).toBeVisible();
+    await popup.click();
+  
+    const denyButton = page.getByTestId('uc-deny-all-button');
+  
+    await expect(denyButton).toBeVisible();
+    await denyButton.click();
 
-  await expect(popup).toBeVisible();
-  await popup.click();
-
-  const denyButton = page.getByTestId('uc-deny-all-button');
-
-  await expect(denyButton).toBeVisible();
-  await denyButton.click();
+  } catch(err) {
+    // ignore - sometimes we don't get the popup
+  }
 
   const mainContent = page.locator('#main-content');
 
