@@ -423,8 +423,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/2cc94689-a545-4d19-90c7-a7d7b938830b/736x736/66506af3d26bbcdb1d082e833555c27a.jpg)
     
-    nouveau
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20070303)
     -------------------------------------------------------------------------------------------------------
     
