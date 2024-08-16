@@ -194,3 +194,26 @@ test("immoweb", async ({ page, context }, testInfo) => {
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
 });
+
+// https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1
+
+test("immovlan", async ({ page, context }, testInfo) => {
+
+  await page.goto("https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1");
+
+  try {
+    const popup = page.getByLabel('Accepter & Fermer: Accepter');
+    await expect(popup).toBeVisible();
+    await popup.click();
+  } catch(err) {
+    // ignore - sometimes we don't get the popup
+  }
+
+  const mainContent = page.locator("#search-results");
+
+  expect(mainContent).toBeVisible();
+
+  const htmlContent = await mainContent.innerHTML();
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+
+});
