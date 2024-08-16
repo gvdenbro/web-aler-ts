@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-32 résultats (1 - 20) TESTEEUUUH DON'1T BOTHER
+32 résultats (1 - 20)
 
 Alerte Trier
 
