@@ -141,7 +141,7 @@ Appeler
 
 +32 2 344 44 22
 
-[![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
+[![Appartement à louer Laeken (VBB53541)](/images/nopic.png "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
 
 **925 €**
 
