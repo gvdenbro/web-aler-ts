@@ -80,7 +80,7 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
   await page.locator('.product-option-box').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 }
 
-test("briare-mosaicshop", async ({ page, context }, testInfo) => {
+test.skip("briare-mosaicshop", async ({ page, context }, testInfo) => {
 
   await page.goto("https://mosaicshop.be/en/products/briare-harmonie-25mm-prunelle-2772?variant=39543751245953");
 
@@ -91,7 +91,7 @@ test("briare-mosaicshop", async ({ page, context }, testInfo) => {
   await page.locator('.grid.product-single').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
 
-test("briare-cotemosaique", async ({ page, context }, testInfo) => {
+test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
   context.addCookies([{ name: "__lglaw", value: "0", domain: "www.cotemosaique.com", path: "/" }]);
 
@@ -104,7 +104,7 @@ test("briare-cotemosaique", async ({ page, context }, testInfo) => {
   await page.locator('#center_column .primary_block.row').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
 
-test("zalando-lounge", async ({ page, context }, testInfo) => {
+test.skip("zalando-lounge", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.zalando-lounge.be/blog/merken");
 
@@ -167,3 +167,26 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
   }
 }
+
+test("immoweb", async ({ page, context }, testInfo) => {
+
+  await page.goto("https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest");
+
+  const popup = page.getByTestId('uc-customize-button');
+
+  await expect(popup).toBeVisible();
+  await popup.click();
+
+  const denyButton = page.getByTestId('uc-deny-all-button');
+
+  await expect(denyButton).toBeVisible();
+  await denyButton.click();
+
+  const mainContent = page.locator('#main-content');
+
+  expect(mainContent).toBeVisible();
+
+  const htmlContent = await mainContent.innerHTML();
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+
+});
