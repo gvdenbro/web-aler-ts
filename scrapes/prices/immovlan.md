@@ -91,7 +91,7 @@ Appeler
 
 +32 2 640 40 60
 
-[![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](https://api-core.immovlan.be/v1/property/RBO06005/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
+[![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](/images/nopic.png "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
 
 **900 €**
 
