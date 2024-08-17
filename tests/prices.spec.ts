@@ -217,12 +217,7 @@ test("immovlan", async ({ page, context }, testInfo) => {
 
   expect(mainContent).toBeVisible();
 
-  // sroll down to page to load all lazy loaded content
-  await page.evaluate(() => {
-    window.scrollTo(0, document.body.scrollHeight);
-  });
-  // wait for 1 second to load dynamic content
-  await page.waitForTimeout(1000);
+  await page.getByText('Précédent Suivant').scrollIntoViewIfNeeded();
 
   const htmlContent = await mainContent.innerHTML();
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
