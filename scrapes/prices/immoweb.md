@@ -406,8 +406,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/4ce1f3d1-1a1f-4df7-8510-1e95cf3910a9/736x736/01221796d2ad0caf07d8c7ae2850e8bf.jpg)
     
-    nouveau
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20074941)
     ----------------------------------------------------------------------------------------
     
