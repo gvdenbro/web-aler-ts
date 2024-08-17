@@ -190,6 +190,10 @@ test("immoweb", async ({ page, context }, testInfo) => {
 
   expect(mainContent).toBeVisible();
 
+  await page.evaluate(() => {
+    document.querySelectorAll('.flag-list__text').forEach(el => el.remove());
+  });
+
   const htmlContent = await mainContent.innerHTML();
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
