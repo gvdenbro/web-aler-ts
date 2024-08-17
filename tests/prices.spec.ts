@@ -201,6 +201,21 @@ test("immoweb", async ({ page, context }, testInfo) => {
 
 // https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1
 
+let scroll = async (args) => {
+  const {direction, speed} = args;
+  const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+  const scrollHeight = () => document.body.scrollHeight;
+  const start = direction === "down" ? 0 : scrollHeight();
+  const shouldStop = (position) => direction === "down" ? position > scrollHeight() : position < 0;
+  const increment = direction === "down" ? 100 : -100;
+  const delayTime = speed === "slow" ? 50 : 10;
+  console.error(start, shouldStop(start), increment)
+  for (let i = start; !shouldStop(i); i += increment) {
+      window.scrollTo(0, i);
+      await delay(delayTime);
+  }
+};
+
 test("immovlan", async ({ page, context }, testInfo) => {
 
   await page.goto("https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1");
@@ -217,7 +232,8 @@ test("immovlan", async ({ page, context }, testInfo) => {
 
   expect(mainContent).toBeVisible();
 
-  await page.getByText('Précédent Suivant').scrollIntoViewIfNeeded();
+  // load lazy images
+  await page.evaluate(scroll, {direction: "down", speed: "slow"});
 
   const htmlContent = await mainContent.innerHTML();
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
