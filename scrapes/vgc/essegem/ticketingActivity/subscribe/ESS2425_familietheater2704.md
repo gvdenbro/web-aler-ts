@@ -19,6 +19,8 @@ Welkom in een wereld vol kleurrijke vormen, herkenbare taferelen, knotsgekke fig
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
