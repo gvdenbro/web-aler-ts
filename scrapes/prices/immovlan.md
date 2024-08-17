@@ -141,7 +141,7 @@ Appeler
 
 +32 2 344 44 22
 
-[![Appartement à louer Laeken (VBB53541)](/images/nopic.png "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
+[![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
 
 **925 €**
 
@@ -166,7 +166,7 @@ Appeler
 
 +32 2 410 10 30
 
-[![Appartement à louer Laeken (VBB53540)](/images/nopic.png "Appartement à louer Laeken &#40;VBB53540&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer Laeken (VBB53540)")
+[![Appartement à louer Laeken (VBB53540)](https://api-core.immovlan.be/v1/property/VBB53540/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53540&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer Laeken (VBB53540)")
 
 **900 €**
 
@@ -191,7 +191,7 @@ Appeler
 
 +32 2 410 10 30
 
-[![Appartement à louer Laeken (VBB53539)](/images/nopic.png "Appartement à louer Laeken &#40;VBB53539&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer Laeken (VBB53539)")
+[![Appartement à louer Laeken (VBB53539)](https://api-core.immovlan.be/v1/property/VBB53539/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53539&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer Laeken (VBB53539)")
 
 **900 €**
 
@@ -216,7 +216,7 @@ Appeler
 
 +32 2 410 10 30
 
-[![Appartement à louer Laeken (VBB53538)](/images/nopic.png "Appartement à louer Laeken &#40;VBB53538&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer Laeken (VBB53538)")
+[![Appartement à louer Laeken (VBB53538)](https://api-core.immovlan.be/v1/property/VBB53538/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53538&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer Laeken (VBB53538)")
 
 **900 €**
 
@@ -241,7 +241,7 @@ Appeler
 
 +32 2 410 10 30
 
-[![Appartement à louer Koekelberg (VBB53175)](/images/nopic.png "Appartement à louer Koekelberg &#40;VBB53175&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175 "Appartement à louer Koekelberg (VBB53175)")
+[![Appartement à louer Koekelberg (VBB53175)](https://api-core.immovlan.be/v1/property/VBB53175/thumbnail-webp/Medium "Appartement à louer Koekelberg &#40;VBB53175&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175 "Appartement à louer Koekelberg (VBB53175)")
 
 **1 150 €**
 
@@ -266,7 +266,7 @@ Appeler
 
 +32 2 318 62 66
 
-[![Appartement à louer Molenbeek-Saint-Jean (RBN75199)](/images/nopic.png "Appartement à louer Molenbeek-Saint-Jean &#40;RBN75199&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199 "Appartement à louer Molenbeek-Saint-Jean (RBN75199)")
+[![Appartement à louer Molenbeek-Saint-Jean (RBN75199)](https://api-core.immovlan.be/v1/property/RBN75199/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBN75199&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199 "Appartement à louer Molenbeek-Saint-Jean (RBN75199)")
 
 **950 €**
 
@@ -291,7 +291,7 @@ Appeler
 
 +32 2 344 44 22
 
-[![Appartement à louer Jette (RWC36006)](/images/nopic.png "Appartement à louer Jette &#40;RWC36006&#41;")<br>Loué](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/rwc36006 "Appartement à louer Jette (RWC36006)")
+[![Appartement à louer Jette (RWC36006)](https://api-core.immovlan.be/v1/property/RWC36006/thumbnail-webp/Medium "Appartement à louer Jette &#40;RWC36006&#41;")<br>Loué](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/rwc36006 "Appartement à louer Jette (RWC36006)")
 
 **920 €**
 
@@ -314,7 +314,7 @@ Appeler
 
 +32 475 39 83 03
 
-[![Studio à louer Jette (VWD08243)](/images/nopic.png "Studio à louer Jette &#40;VWD08243&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd08243 "Studio à louer Jette (VWD08243)")
+[![Studio à louer Jette (VWD08243)](https://api-core.immovlan.be/v1/property/VWD08243/thumbnail-webp/Medium "Studio à louer Jette &#40;VWD08243&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd08243 "Studio à louer Jette (VWD08243)")
 
 **850 €**
 
@@ -337,7 +337,7 @@ Appeler
 
 +32 484 08 87 17
 
-[![Appartement à louer Jette (VBB51785)](/images/nopic.png "Appartement à louer Jette &#40;VBB51785&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer Jette (VBB51785)")
+[![Appartement à louer Jette (VBB51785)](https://api-core.immovlan.be/v1/property/VBB51785/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB51785&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer Jette (VBB51785)")
 
 **835 €**
 
@@ -362,7 +362,7 @@ Appeler
 
 +32 2 268 18 88
 
-[![Appartement à louer Laeken (VBB51683)](/images/nopic.png "Appartement à louer Laeken &#40;VBB51683&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683 "Appartement à louer Laeken (VBB51683)")
+[![Appartement à louer Laeken (VBB51683)](https://api-core.immovlan.be/v1/property/VBB51683/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB51683&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683 "Appartement à louer Laeken (VBB51683)")
 
 **1 150 €**
 
@@ -387,7 +387,7 @@ Appeler
 
 +32 2 533 40 40
 
-[![Rez-De-Chaussée à louer Koekelberg (VBB45984)](/images/nopic.png "Rez-De-Chaussée à louer Koekelberg &#40;VBB45984&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984 "Rez-De-Chaussée à louer Koekelberg (VBB45984)")
+[![Rez-De-Chaussée à louer Koekelberg (VBB45984)](https://api-core.immovlan.be/v1/property/VBB45984/thumbnail-webp/Medium "Rez-De-Chaussée à louer Koekelberg &#40;VBB45984&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984 "Rez-De-Chaussée à louer Koekelberg (VBB45984)")
 
 **1 000 €**
 
@@ -412,7 +412,7 @@ Appeler
 
 +32 473 47 51 07
 
-[![Appartement à louer Jette (VBB44150)](/images/nopic.png "Appartement à louer Jette &#40;VBB44150&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer Jette (VBB44150)")
+[![Appartement à louer Jette (VBB44150)](https://api-core.immovlan.be/v1/property/VBB44150/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB44150&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer Jette (VBB44150)")
 
 **850 €**
 
@@ -437,7 +437,7 @@ Appeler
 
 +32 2 479 67 90
 
-[![Rez-De-Chaussée à louer Jette (VBB43423)](/images/nopic.png "Rez-De-Chaussée à louer Jette &#40;VBB43423&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer Jette (VBB43423)")
+[![Rez-De-Chaussée à louer Jette (VBB43423)](https://api-core.immovlan.be/v1/property/VBB43423/thumbnail-webp/Medium "Rez-De-Chaussée à louer Jette &#40;VBB43423&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer Jette (VBB43423)")
 
 **900 €**
 
@@ -462,7 +462,7 @@ Appeler
 
 +32 2 428 21 21
 
-[![Studio à louer Jette (VWD09853)](/images/nopic.png "Studio à louer Jette &#40;VWD09853&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer Jette (VWD09853)")
+[![Studio à louer Jette (VWD09853)](https://api-core.immovlan.be/v1/property/VWD09853/thumbnail-webp/Medium "Studio à louer Jette &#40;VWD09853&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer Jette (VWD09853)")
 
 **825 €**
 
@@ -485,7 +485,7 @@ Appeler
 
 +32 472 62 91 18
 
-[![Appartement à louer Jette (VBB36146)](/images/nopic.png "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
+[![Appartement à louer Jette (VBB36146)](https://api-core.immovlan.be/v1/property/VBB36146/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
 
 **825 €**
 
