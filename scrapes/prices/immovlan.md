@@ -462,7 +462,7 @@ Appeler
 
 +32 2 428 21 21
 
-[![Studio à louer Jette (VWD09853)](https://api-core.immovlan.be/v1/property/VWD09853/thumbnail-webp/Medium "Studio à louer Jette &#40;VWD09853&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer Jette (VWD09853)")
+[![Studio à louer Jette (VWD09853)](/images/nopic.png "Studio à louer Jette &#40;VWD09853&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer Jette (VWD09853)")
 
 **825 €**
 
@@ -485,7 +485,7 @@ Appeler
 
 +32 472 62 91 18
 
-[![Appartement à louer Jette (VBB36146)](https://api-core.immovlan.be/v1/property/VBB36146/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
+[![Appartement à louer Jette (VBB36146)](/images/nopic.png "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
 
 **825 €**
 
