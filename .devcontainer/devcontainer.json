@@ -1,9 +1,10 @@
 {
 	"name": "Playwright dev container",
-	"image": "mcr.microsoft.com/playwright:v1.44.0-jammy",
+	"image": "mcr.microsoft.com/playwright:v1.46.0-jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {
 			"configureZshAsDefaultShell": true
+
 		},
 		"ghcr.io/devcontainers/features/desktop-lite:1": {
 			"VNC_RESOLUTION": "1920x1080x16"

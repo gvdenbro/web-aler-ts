@@ -239,3 +239,56 @@ test("immovlan", async ({ page, context }, testInfo) => {
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
 
 });
+
+// test("zimmo", async ({ page, context }, testInfo) => {
+
+//   await page.goto("https://www.zimmo.be/fr/");
+
+//   try {
+//     const popup = page.getByLabel('Accepter & Fermer: Accepter');
+//     await expect(popup).toBeVisible();
+//     await popup.click();
+//   } catch(err) {
+//     // ignore - sometimes we don't get the popup
+//   }
+
+//   await page.getByRole('button', { name: 'À louer' }).click();
+//   await page.getByPlaceholder('Commune ou code postal').click();
+//   await page.getByPlaceholder('Commune ou code postal').fill('1090');
+//   await page.getByText('Jette (1090)').click();
+//   await page.getByRole('button', { name: 'Type' }).click();
+//   await page.locator('label').filter({ hasText: 'Appartement' }).click();
+//   await page.getByRole('button', { name: 'Prix' }).click();
+//   await page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...').click();
+//   await page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...').fill('750');
+//   await page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...').click();
+//   await page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...').fill('1150');
+//   await page.getByRole('button', { name: 'Rechercher' }).click();
+
+//   // await page.getByRole('button', { name: 'Modifier les critères de' }).click();
+//   // await page.getByRole('button', { name: 'à vendre' }).click();
+//   // await page.getByText('à louer', { exact: true }).click();
+//   // await page.locator('app-query-price-selector').getByRole('button', { name: 'Faites votre choix' }).click();
+//   // const minPrice = page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...');
+//   // await minPrice.click();
+//   // await minPrice.fill('750');
+//   // const maxPrice = page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...');
+//   // await maxPrice.click();
+//   // await maxPrice.fill('1150');
+//   // await page.locator('app-query-type-selector').getByRole('button', { name: 'Faites votre choix' }).click();
+//   // await page.locator('label').filter({ hasText: 'Appartement' }).click();
+//   // await page.getByPlaceholder('Commune ou code postal').click();
+//   // await page.getByPlaceholder('Commune ou code postal').fill('1090');
+//   // await page.getByText('Jette (1090)').click();
+  
+//   const mainContent = page.locator("#search-results");
+
+//   expect(mainContent).toBeVisible();
+
+//   // load lazy images
+//   await page.evaluate(scroll, {direction: "down", speed: "slow"});
+
+//   const htmlContent = await mainContent.innerHTML();
+//   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+
+// });
