@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 59 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 58 biens"
 ==============================================================
 
 * [Studio](https://www.immoweb.be/fr/annonce/studio/a-louer/jette/1090/20103269)
@@ -44,21 +44,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/021df0e5-22ac-4a53-b2e1-41d517fc84e8/736x736/d187ed65b1930af960cc02cc02f323b9.jpg)
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20102178)
-    --------------------------------------------------------------------------------------------
-    
-    775 € (+ 40 €) 775€ + 40€ par mois
-    
-    1 ch. 1 chambre · 50 m² mètres carrés
-    
-    1020 Bruxelles
-    
-    APPT MEUBLE 50M2 1CH SDD LIV CUIS.EQ BUAND
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/ef385969-913b-476a-81cd-9e807564d8fe/736x736/17cad47cbc1c88ca92f36a0ac11e0cb8.jpg)
-    
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20100952)
     --------------------------------------------------------------------------------------------
     
@@ -72,6 +57,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/4b8fc6a2-262a-46c6-b3c4-59fdf3aff6a6/736x736/be27beaea371c7fa41a39bf86102b692.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20100856)
     -------------------------------------------------------------------------------------------------------
     
@@ -82,8 +69,6 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/f3342d73-c7f2-4092-80a0-c2721ccf2406/736x736/b6ce176f9f418b12197091f53cf3328e.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20100279)
     -------------------------------------------------------------------------------------------------------
@@ -97,6 +82,8 @@
     App. 1ch avec bureau/dressing et terrasse (Parc Scheutbos)
     
     ![](https://media-resize.immowebstatic.be/classifieds/a5e1647d-0c46-444d-b5a2-0721ff92d383/736x736/fb1de822fd20a87f92d52aaf26791011.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20098713)
     -------------------------------------------------------------------------------------------------------
@@ -113,8 +100,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/5cf1b9bb-a48a-49a7-ba91-343132920997/736x736/82b2d8508f7d840c35bc7437e08af0cb.jpg)
     
-* Publicité
-    
 * [Studio](https://www.immoweb.be/fr/annonce/studio/a-louer/molenbeek-saint-jean/1080/20098624)
     ---------------------------------------------------------------------------------------------
     
@@ -123,6 +108,8 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/27253dd1-6d0e-4de2-8c4d-44392178c4af/736x736/91ef24e2223a245095983f56e4e55976.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20097422)
     --------------------------------------------------------------------------------------------
@@ -248,8 +235,6 @@
     
     ![](https://assets.immoweb.be/215/images/artworks/placeholders/placeholder-card.svg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20082500)
     --------------------------------------------------------------------------------------------
     
@@ -262,6 +247,8 @@
     TOUS SERVICES FOURNIS! Meublé, lumineux, belle vue, parking
     
     ![](https://media-resize.immowebstatic.be/classifieds/1ac72428-a894-4b61-b905-ec6c958c6445/736x736/7149414b422c14704505d292f35ff017.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/koekelberg/1081/20075186)
     ---------------------------------------------------------------------------------------------
@@ -396,6 +383,17 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/924db86d-bebc-448b-b73b-18f51af785ec/736x736/8249ca6bc3f27a0762387c7942160227.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/sint-jans-molenbeek/1080/20071411)
+    ------------------------------------------------------------------------------------------------------
+    
+    1 100 € (+ 130 €) 1100€ + 130€ par mois
+    
+    1 ch. 1 chambre · 70 m² mètres carrés
+    
+    1080 Sint-Jans-Molenbeek
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/770674b2-7c5d-42c7-bfdd-803bdbcac01b/736x736/e133293da54095025ff3e1aa649d77ff.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
