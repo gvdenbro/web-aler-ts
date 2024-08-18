@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-32 résultats (1 - 20)
+33 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
+
+[![Appartement à louer Laeken (RBO46081)](https://api-core.immovlan.be/v1/property/RBO46081/thumbnail-webp/Medium "Appartement à louer Laeken &#40;RBO46081&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081 "Appartement à louer Laeken (RBO46081)")
+
+**950 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+« Appartement d'une chambre avec balcon à louer à Laeken. Idéalement situé à proximité du domaine royal verdoyant de Laeken. Transports en commun disponibles et à proximité du centre de Laeken. » Disposition de la propriété : Hall d'entrée - cuisine spacieuse - salon avec de grandes fenêtres et une agréable terrasse attenante - chambre séparée - salle de bain avec baignoire+douche, lavabo - toilettes individuelles - cave Provision mensuelle de 90 euros : nettoyage + entretien des parties communes, chauffage et eau chaude Electricité + eau froide : compteurs individuels Vous planifiez une visite de cet appartement ? Faites une demande via ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081)
+
+**52** m²
+
+![Dewaele Brussels Tour & Taxi](https://api-core.immovlan.be/v1/prouser/01215981/logo/French/webp/Small "Dewaele Brussels Tour & Taxi")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081)
+
+E-mail
+
+Appeler
+
++32 2 223 23 23
 
 [![Appartement à louer Molenbeek-Saint-Jean (VBB57560)](https://api-core.immovlan.be/v1/property/VBB57560/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB57560&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb57560 "Appartement à louer Molenbeek-Saint-Jean (VBB57560)")
 
@@ -484,31 +509,6 @@ E-mail
 Appeler
 
 +32 472 62 91 18
-
-[![Appartement à louer Jette (VBB36146)](https://api-core.immovlan.be/v1/property/VBB36146/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
-
-**825 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE : appartement situé à proximité de la place cardinal mercier, entre le cimetière de Jette et la rue Jules Lahaye A proximité de commerces (Lidle et aldi), écoles (Collège Saint-Pierre, collège sacré-coeur,..) à 5 minutes à pied et desservi par de nombreux transports en commun, tel que tram 19 et 51, bus 88/53. Nous vous présentons cet appartement de 55m² au 1er étage d'une petite copropriété, sans ascenseur. L’appartement se compose comme suit : hall d'entrée donnant accès au séjour, et chambre, cuisine et balcon et salle de douche. Le loyer s’élève à 825€/mois Les charges s’élèvent à 120€ et comprennent une provision d'eau, provision de chauffage et frais communs de l'immeuble. Obligation de louer un garage pour 100€/mois supplémentaire Type de chauffage : collectif Le bien sera libre le 1er septembre 2024 N'hésitez pas à consultez notre site ### ) pour découvrir la localisation du bien sur notre carte interactive reprenant tous les points d’intérêts et facilités autour du bien. Sur notre site, vous aurez également le confort de fixer directement un rdv en ligne. Vous pouvez aussi nous contacter au ### Descriptif et mesurage émis à titre indicatif et non contractuel sous réserve d'erreur et/ou omission. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146)
-
-**1** Chambre(s) **55** m² **2 m²** Terrasse
-
-![Immo Balcaen](https://api-core.immovlan.be/v1/prouser/IN00001092/logo/French/webp/Small "Immo Balcaen")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146)
-
-E-mail
-
-Appeler
-
-+32 2 268 18 88
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
