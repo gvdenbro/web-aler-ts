@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-34 résultats (1 - 20)
+35 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
+
+[![Appartement à louer Jette (VBB58175)](https://api-core.immovlan.be/v1/property/VBB58175/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58175&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175 "Appartement à louer Jette (VBB58175)")
+
+**1 000 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175 "Appartement à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1090 Jette
+
+ERA Chatelain vous présente ce charmant appartement 2 chambres, idéalement situé au coeur de la commune de Jette. Ce dernier se compose d'un hall d'entrée, d'une lumineux séjour, d'une cuisine équipée, de 2 chambres, un salle de bain ainsi que d'une cave. Eléments techniques : Double vitrage, chaudière collective gaz, PEB E. Situation idéale, à proximité de nombreux commerces, transports en commun, écoles, parcs et hopital. Charges : 75€ Provision pour le chauffage Disponibilité : 1er octobre 2024 Infos et visites : ### . Découvrez tous nos biens à louer à Bruxelles, disponibles en exclusivité sur notre site era.be/chatelain. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175)
+
+**2** Chambre(s) **81** m² **1** Salle(s) de bain
+
+![ERA - Châtelain Schuman](https://api-core.immovlan.be/v1/prouser/IN00564009/logo/French/webp/Small "ERA - Châtelain Schuman")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175)
+
+E-mail
+
+Appeler
+
++32 2 705 07 00
 
 [![Appartement à louer Laeken (VBB58155)](https://api-core.immovlan.be/v1/property/VBB58155/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB58155&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer Laeken (VBB58155)")
 
@@ -486,31 +511,6 @@ E-mail
 Appeler
 
 +32 473 47 51 07
-
-[![Appartement à louer Jette (VBB44150)](https://api-core.immovlan.be/v1/property/VBB44150/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB44150&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer Jette (VBB44150)")
-
-**850 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Jette quartier Miroir à proximité des transports en communs et des commerces. Bel appartement 2 chambres de +/-74m² situé au 3eme étage d'un petit immeuble. Hall d'entrée - Salon/living avec carrelage au sol - Cuisine semi équipée (hotte, évier, meubles) possibilité lave vaisselle - 2 chambres de +/-16m² et +/-13m² - Salle de bain (bain, lavabo, toilette) - Buanderie - Cave - Libre le 01/08/2024 - Loyer : 850€ + charges provisions : 100€/mois (communs, gestion) - PEB : D- - Nos annonces ne sont pas contractuels. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150)
-
-**2** Chambre(s) **74** m² **1** Salle(s) de bain
-
-![HOME HORIZON SPRL](https://api-core.immovlan.be/v1/prouser/VLAN96050493/logo/French/webp/Small "HOME HORIZON SPRL")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150)
-
-E-mail
-
-Appeler
-
-+32 2 479 67 90
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
