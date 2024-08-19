@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 60 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 59 biens"
 ==============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104888)
