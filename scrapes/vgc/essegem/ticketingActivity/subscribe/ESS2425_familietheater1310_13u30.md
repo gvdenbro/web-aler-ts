@@ -24,6 +24,8 @@ Wat als op een ochtend geen ronde maar een vierkante zon opkomt? Ben je dan voor
 * ###### Ticket:
     
     * Standaardprijs: €6,00
+    * \-12 jaar: €4,00
+    * Paspartoe-Kansentarief: €2,00
 
   
 
