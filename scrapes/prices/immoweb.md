@@ -1,6 +1,36 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 58 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 60 biens"
 ==============================================================
 
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104888)
+    ----------------------------------------------------------------------------------------
+    
+    1 000 € (+ 75 €) 1000€ + 75€ par mois
+    
+    2 ch. 2 chambres · 81 m² mètres carrés
+    
+    1090 Jette
+    
+    JETTE - APPARTEMENT 2 CHAMBRES DE 81M²
+    
+    ![ERA Châtelain - Schuman](https://media.immowebstatic.be/customers/0012p00002TxttcAAB/logo/b018ae55c19ea579ede8b36b04ebee88.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/3c824c6c-890d-42ee-b2d6-662a09931175/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104865)
+    ----------------------------------------------------------------------------------------
+    
+    850 € (+ 50 €) 850€ + 50€ par mois
+    
+    1 ch. 1 chambre · 35 m² mètres carrés
+    
+    1090 Jette
+    
+    Appartement une chambre récemment rénové
+    
+    ![TREVI NORD](https://media.immowebstatic.be/customers/0012p00002TxtwiAAB/logo/9ab7aa3be9d1b6e02e5ec6286d42b187.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/4e4692a7-3c72-43a7-a32a-09995383e489/736x736/d00bf540df7c330faa190ff129ad914d.jpg)
+    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20104737)
     ---------------------------------------------------------------------------------------------------------------
     
@@ -26,6 +56,8 @@
     Appartement van 94m2 met parking
     
     ![](https://media-resize.immowebstatic.be/classifieds/72294e71-5040-4422-a81b-4791e7769651/736x736/065f695ce9700e4d9c7248d0a8f12bd8.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laken/1020/20103700)
     ----------------------------------------------------------------------------------------
@@ -112,8 +144,6 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/f3342d73-c7f2-4092-80a0-c2721ccf2406/736x736/b6ce176f9f418b12197091f53cf3328e.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20100279)
     -------------------------------------------------------------------------------------------------------
@@ -226,6 +256,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/c94f1056-e508-4495-82de-06abdc19b962/736x736/b5563a5b9527b1a041d7794eeddbb68f.jpg)
     
+* Publicité
+    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20090106)
     ---------------------------------------------------------------------------------------------------------------
     
@@ -251,8 +283,6 @@
     Appt 1 chambre meublé
     
     ![](https://media-resize.immowebstatic.be/classifieds/c20c72be-4116-4f6d-adfc-de4614caac8a/736x736/4fbf90e608b9277b2db89852810b0084.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20085783)
     -------------------------------------------------------------------------------------------------------
@@ -376,28 +406,6 @@
     1090 JETTE
     
     ![](https://media-resize.immowebstatic.be/classifieds/d9756c7f-5ebe-4dd5-913d-ecf23914d148/736x736/b7e440d3f4d3cc7fca3daba4095b7a31.jpg)
-    
-* [Penthouse](https://www.immoweb.be/fr/annonce/penthouse/a-louer/brussel/1020/20076220)
-    --------------------------------------------------------------------------------------
-    
-    1 100 €/mois 1100€ par mois
-    
-    1 ch. 1 chambre · 82 m² mètres carrés
-    
-    1020 Brussel
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/4ce1f3d1-1a1f-4df7-8510-1e95cf3910a9/736x736/01221796d2ad0caf07d8c7ae2850e8bf.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20074941)
-    ----------------------------------------------------------------------------------------
-    
-    850 € (+ 150 €) 850€ + 150€ par mois
-    
-    1 ch. 1 chambre · 47 m² mètres carrés
-    
-    1090 Jette
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/87c38b39-2c6f-4173-94ab-beede5047898/736x736/366861e05c64036c9046d51ad093d2d8.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
