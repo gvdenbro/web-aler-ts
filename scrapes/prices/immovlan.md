@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-32 résultats (1 - 20)
+33 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
+
+[![Appartement à louer Jette (VBB58096)](https://api-core.immovlan.be/v1/property/VBB58096/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58096&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096 "Appartement à louer Jette (VBB58096)")
+
+**850 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096 "Appartement à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1090 Jette
+
+JETTE, dans une petite copropriété à faibles charges, bel appartement une chambre récemment rénové de ±34m² situé au 4ème étage sans ascenseur. Il se compose comme suit : séjour de ±24m², chambre de ±10m², salle de douche (douche, WC, lavabo). Toutes les superficies sont données à titre indicatif. Charges de 50€/mois (eau froide, communs). PEB F 72kg CO2 (m²/an). RENSEIGNEMENTS TREVI LOCATION : ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096)
+
+**1** Chambre(s) **34** m² **1** Salle(s) de bain
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
 
 [![Appartement à louer Laeken (RBO46081)](https://api-core.immovlan.be/v1/property/RBO46081/thumbnail-webp/Medium "Appartement à louer Laeken &#40;RBO46081&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081 "Appartement à louer Laeken (RBO46081)")
 
@@ -486,29 +511,6 @@ E-mail
 Appeler
 
 +32 2 428 21 21
-
-[![Studio à louer Jette (VWD09853)](https://api-core.immovlan.be/v1/property/VWD09853/thumbnail-webp/Medium "Studio à louer Jette &#40;VWD09853&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer Jette (VWD09853)")
-
-**825 €**
-
-[Studio à louer](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853 "Studio à louer")
----------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-BEAU STUDIO \[salon, cuisine super équipée & salle de bain\] À JETTE en plein verdure, calme et proche de tout transport en commun et commodités (gare, tram, bus, parc, hôpitaux, commerce, restaurants, …) 🏢 Studio de 42m2 au 1er étage dans un nouveau bel immeuble avec ascenseur. Le studio est composé d'une salle de séjour avec une cuisine américaine super équipée, une salle de douche (italienne), un balcon et une cave. 🚍 Transport en commun : tram 9 - bus13 et 83 - train gare de Jette à 2-5 minutes à pied. 📍 4 rue Gaston Biernaux à 1090 Bruxelles 💶 Prix : 900€ par mois loyer \[y inclus charges commun : nettoyage commun, ascenseur, entretien , etc...\]. 📅 Disponible à partir de 1/8/24 ❗Domiciliation: Merci d'envoyer une preuve de solvabilité (Trois récentes fiches de paie et carte d'identité). [En savoir plus ?](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853)
-
-**1** Chambre(s) **42** m² **4 m²** Terrasse
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd09853)
-
-E-mail
-
-Appeler
-
-+32 472 62 91 18
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
