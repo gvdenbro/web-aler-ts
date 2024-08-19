@@ -21,7 +21,7 @@
     
     850 € (+ 50 €) 850€ + 50€ par mois
     
-    1 ch. 1 chambre · 35 m² mètres carrés
+    1 ch. 1 chambre · 34 m² mètres carrés
     
     1090 Jette
     
