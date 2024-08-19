@@ -116,31 +116,6 @@ Appeler
 
 +32 2 640 40 60
 
-[![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](https://api-core.immovlan.be/v1/property/RBO06005/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
-
-**900 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer")
----------------------------------------------------------------------------------------------------------------------------------
-
-1080 Molenbeek-Saint-Jean
-
-Immo Groot Leeuw vous présente cet appartement récent situé sur le Boulevard Louis Mettewie. L'appartement se trouve au 4e étage et est spacieux à l'intérieur, avec un salon et une salle à manger lumineux, une cuisine ouverte, une chambre spacieuse avec salle de bain attenante et une buanderie. De plus, il y a une place de parking souterraine, une cave et un local à vélos.Les plus : Très bon EPC, proche des transports en commun, ascenseur dans l'immeubleCharges de 75EUR/ mois pour le chauffage privatif + eau chaude et l'entretien des communs + ascenceur. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
-
-**1** Chambre(s) **66** m² **10 m²** Terrasse
-
-![IGL](https://api-core.immovlan.be/v1/prouser/00051730/logo/French/webp/Small "IGL")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
-
-E-mail
-
-Appeler
-
-+32 2 378 04 44
-
 [![Appartement à louer Molenbeek-Saint-Jean (RBL80392)](https://api-core.immovlan.be/v1/property/RBL80392/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBL80392&#41;")<br>Best of](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer Molenbeek-Saint-Jean (RBL80392)")
 
 **1 100 €**
@@ -165,6 +140,31 @@ E-mail
 Appeler
 
 +32 2 344 44 22
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](https://api-core.immovlan.be/v1/property/RBO06005/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Immo Groot Leeuw vous présente cet appartement récent situé sur le Boulevard Louis Mettewie. L'appartement se trouve au 4e étage et est spacieux à l'intérieur, avec un salon et une salle à manger lumineux, une cuisine ouverte, une chambre spacieuse avec salle de bain attenante et une buanderie. De plus, il y a une place de parking souterraine, une cave et un local à vélos.Les plus : Très bon EPC, proche des transports en commun, ascenseur dans l'immeubleCharges de 75EUR/ mois pour le chauffage privatif + eau chaude et l'entretien des communs + ascenceur. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
+
+**1** Chambre(s) **66** m² **10 m²** Terrasse
+
+![IGL](https://api-core.immovlan.be/v1/prouser/00051730/logo/French/webp/Small "IGL")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
+
+E-mail
+
+Appeler
+
++32 2 378 04 44
 
 [![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
 
