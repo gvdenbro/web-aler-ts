@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-33 résultats (1 - 20)
+34 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
+
+[![Appartement à louer Laeken (VBB58155)](https://api-core.immovlan.be/v1/property/VBB58155/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB58155&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer Laeken (VBB58155)")
+
+**1 050 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+A proximité du Parc de Laeken et de l'Atomium, des commerces et transports, superbe de +/- 80 m² se composant comme suit : - Hall d'entrée de +/- 8 m² (carrelage) - Toilette séparée avec lave-mains (carrelage) - Séjour de +/- 28 m²(carrelage) - Cuisine équipée de +/- 9 m² (taques vitrocéramiques, hotte, four, frigo et congélateur) (carrelage) - Chambre 1 de +/- 12 m² (carrelage) - Balcon de +/- 2,5 m² - Chambre 2 de +/- 14,5 m² (carrelage) - Salle de bain de +/- 3,6 m² (bain et meuble lavabo) (carrelage) - Débarras de +/- 1 m² (carrelage) Informations complémentaires - Etage 2/3 avec ascenseur - Provision mensuelle de charges de 185€ (communs, eau chaude et chauffage) - PEB E 248 kWh/m²/an 53 kg CO²/m²/an - Libre le 01/09/2024 - Châssis PVC - Double vitrage - Porte blindée - Vidéophone [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155)
+
+**2** Chambre(s) **80** m² **3 m²** Terrasse
+
+![Sorimo](https://api-core.immovlan.be/v1/prouser/IN00001114/logo/French/webp/Small "Sorimo")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155)
+
+E-mail
+
+Appeler
+
++32 2 772 80 20
 
 [![Appartement à louer Jette (VBB58096)](https://api-core.immovlan.be/v1/property/VBB58096/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58096&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096 "Appartement à louer Jette (VBB58096)")
 
@@ -486,31 +511,6 @@ E-mail
 Appeler
 
 +32 2 479 67 90
-
-[![Rez-De-Chaussée à louer Jette (VBB43423)](https://api-core.immovlan.be/v1/property/VBB43423/thumbnail-webp/Medium "Rez-De-Chaussée à louer Jette &#40;VBB43423&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer Jette (VBB43423)")
-
-**900 €**
-
-[Rez-De-Chaussée à louer](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer")
-------------------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE (réf.: 9751) Dans un excellent quartier résidentiel, magnifique appartement entièrement remis à neuf au rez-de-chaussée d'un petit immeuble de 4 étages. Il comprend un hall d'entrée, très lumineux séjour-salle à manger avec cuisine américaine, une chambre avec terrasse, une salle de douche, un wc séparé, une pièce de rangement et un beau jardin de 11 m². Immeuble bien fréquenté, à proximité des transports en commun, du ring et des commerces. Facilité de parking aux abords. Loyer: 900€/mois + 50€ de charges. Renseignements et visites CENTURY 21 Miroir ### [En savoir plus ?](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423)
-
-**1** Chambre(s) **50** m²
-
-![Century 21 - Miroir](https://api-core.immovlan.be/v1/prouser/IN00001536/logo/French/webp/Small "Century 21 - Miroir")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423)
-
-E-mail
-
-Appeler
-
-+32 2 428 21 21
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
