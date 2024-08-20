@@ -166,31 +166,6 @@ Appeler
 
 +32 2 899 43 21
 
-[![Appartement à louer Laeken (VBB55907)](https://api-core.immovlan.be/v1/property/VBB55907/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB55907&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer Laeken (VBB55907)")
-
-**800 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-Laeken, De Wand, très joli duplex aux étages 2 et 3 d'un petit immeuble comprenant: séjour de 34m², cuisine américaine super équipée, 1 chambre de 11m², 1 bureau en mezzanine 10m², salle de bains. Tout parquet ! Cave. Très lumineux et de bon goût ! PEB: F [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
-
-**1** Chambre(s) **81** m² **1** Salle(s) de bain
-
-![Immo Clairière](https://api-core.immovlan.be/v1/prouser/IN00001727/logo/French/webp/Small "Immo Clairière")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
-
-E-mail
-
-Appeler
-
-+32 2 640 40 60
-
 [![Appartement à louer Molenbeek-Saint-Jean (RBL80392)](https://api-core.immovlan.be/v1/property/RBL80392/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBL80392&#41;")<br>Best of](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer Molenbeek-Saint-Jean (RBL80392)")
 
 **1 100 €**
@@ -215,6 +190,31 @@ E-mail
 Appeler
 
 +32 2 344 44 22
+
+[![Appartement à louer Laeken (VBB55907)](https://api-core.immovlan.be/v1/property/VBB55907/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB55907&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer Laeken (VBB55907)")
+
+**800 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+Laeken, De Wand, très joli duplex aux étages 2 et 3 d'un petit immeuble comprenant: séjour de 34m², cuisine américaine super équipée, 1 chambre de 11m², 1 bureau en mezzanine 10m², salle de bains. Tout parquet ! Cave. Très lumineux et de bon goût ! PEB: F [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
+
+**1** Chambre(s) **81** m² **1** Salle(s) de bain
+
+![Immo Clairière](https://api-core.immovlan.be/v1/prouser/IN00001727/logo/French/webp/Small "Immo Clairière")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
+
+E-mail
+
+Appeler
+
++32 2 640 40 60
 
 [![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](https://api-core.immovlan.be/v1/property/RBO06005/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
 
