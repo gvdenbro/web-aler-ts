@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-35 résultats (1 - 20)
+36 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
+
+[![Appartement à louer Ganshoren (VBB58721)](https://api-core.immovlan.be/v1/property/VBB58721/thumbnail-webp/Medium "Appartement à louer Ganshoren &#40;VBB58721&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721 "Appartement à louer Ganshoren (VBB58721)")
+
+**890 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721 "Appartement à louer")
+----------------------------------------------------------------------------------------------------------------------
+
+1083 Ganshoren
+
+TRIOR vous propose à proximité du Shopping Basilix, ce bel appartement situé au 4ième étage comprenant : living avec cuisine super équipée ouverte, 1 chambre, salle de bains (avec emplacement machine à laver), hall de jour avec placards, wc, terrasse. NON FUMEUR - PAS D'ANIMAUX- GARANT OBLIGATOIRE . Charges : 110€ (communs, ascenseur, chauffage, eau). PEB : E+ // CO² 53. Disponible au 01/10/2024. Une visite ? Appelez-nous ! (Les visites ne peuvent être planifiées que par téléphone). Descriptif complet sur www.TRIOR.be [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721)
+
+**1** Chambre(s) **50** m² **4 m²** Terrasse
+
+![TRIOR Jette](https://api-core.immovlan.be/v1/prouser/VLAN96070995/logo/French/webp/Small "TRIOR Jette")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721)
+
+E-mail
+
+Appeler
+
++32 2 430 37 30
 
 [![Appartement à louer Jette (VBB58175)](https://api-core.immovlan.be/v1/property/VBB58175/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58175&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175 "Appartement à louer Jette (VBB58175)")
 
@@ -486,31 +511,6 @@ E-mail
 Appeler
 
 +32 2 533 40 40
-
-[![Rez-De-Chaussée à louer Koekelberg (VBB45984)](https://api-core.immovlan.be/v1/property/VBB45984/thumbnail-webp/Medium "Rez-De-Chaussée à louer Koekelberg &#40;VBB45984&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984 "Rez-De-Chaussée à louer Koekelberg (VBB45984)")
-
-**1 000 €**
-
-[Rez-De-Chaussée à louer](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984 "Rez-De-Chaussée à louer")
------------------------------------------------------------------------------------------------------------------------------------
-
-1081 Koekelberg
-
-Première occupation après rénovation complète tout en préservant les éléments d'époque (parquet à chevron, moulures, boiseries, radiateurs, etc.) pour ce rez-de-chaussée très lumineux, d'une superficie de ± 70 m², situé dans le quartier Royal de Koekelberg entre la place de Bastogne et la Basilique. Il se compose comme suit : hall d'entrée avec vestiaire, séjour (± 25 m²), chambre à coucher spacieuse (± 18 m²), cuisine hyper-équipée (four, lave-vaisselle, vitrocéramique, réfrigérateur, congélateur, hotte) avec coin à déjeuner et emplacement pour lave-linge, salle de bain avec douche à l'italienne, toilette séparée, et grande terrasse (± 22 m²) accessible par la cuisine. Châssis double vitrage et volets. Une cave privative complète l'ensemble. Parking aisé dans le quartier. Provision mensuelle de 150 € pour l'eau chaude, le chauffage et les communs ; compteurs individuels séparés pour l'eau froide et l'électricité. Libre immédiatement. Agencement idéal pour une personne seule ou un couple. Bail 3 ou 9 ans. A découvrir sans tarder ! [En savoir plus ?](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984)
-
-**1** Chambre(s) **70** m² **22 m²** Terrasse
-
-![PROPCO](https://api-core.immovlan.be/v1/prouser/VLAN96027427/logo/French/webp/Small "PROPCO")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1081/koekelberg/vbb45984)
-
-E-mail
-
-Appeler
-
-+32 473 47 51 07
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
