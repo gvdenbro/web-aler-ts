@@ -1,6 +1,17 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 66 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 67 biens"
 ==============================================================
 
+* [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/brussel/1020/20108283)
+    --------------------------------------------------------------------------------------------------
+    
+    950 €/mois 950€ par mois
+    
+    1 ch. 1 chambre · 100 m² mètres carrés
+    
+    1020 Brussel
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/ae1dcf83-47cd-4d96-a16b-3c71ba6125c7/736x736/5a29d1b55dce770e546e0451c273d11b.jpg)
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20108121)
     --------------------------------------------------------------------------------------------
     
@@ -44,6 +55,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/132a4521-3bef-4e89-99e4-58631118ca13/736x736/a1d28a2041fd5f00280c0b0a7efcde19.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/9765749)
     ----------------------------------------------------------------------------------------
     
@@ -59,8 +72,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/0fe0f151-3c12-5dfb-a705-e988237872bd/736x736/7cdf1051f0ff5488dc2b6a643c1a7894.jpg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20106180)
     --------------------------------------------------------------------------------------------
     
@@ -71,6 +82,8 @@
     1083 Ganshoren
     
     ![](https://media-resize.immowebstatic.be/classifieds/b00e66d7-aa6f-47cd-924e-f56c24178f7b/736x736/cd2cdabcc177436df388274716347e97.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105677)
     ----------------------------------------------------------------------------------------
@@ -87,8 +100,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/e54c4792-c779-4f33-a219-535b72217473/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20105662)
     --------------------------------------------------------------------------------------------
     
@@ -104,6 +115,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/92474f8f-c84f-4c59-a39f-81dc9a3aeb77/736x736/26e71d1f03f5a904bd2d3c6f8f612b0b.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105625)
     ----------------------------------------------------------------------------------------
     
@@ -116,8 +129,6 @@
     Appartement plein de charme et lumineux
     
     ![](https://media-resize.immowebstatic.be/classifieds/f303d4b1-bb78-4c99-be64-1d2230102f6f/736x736/d998142a15525a87d0f1c9a9427673c0.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104888)
     ----------------------------------------------------------------------------------------
@@ -257,6 +268,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/f3342d73-c7f2-4092-80a0-c2721ccf2406/736x736/b6ce176f9f418b12197091f53cf3328e.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20100279)
     -------------------------------------------------------------------------------------------------------
     
@@ -269,8 +282,6 @@
     App. 1ch avec bureau/dressing et terrasse (Parc Scheutbos)
     
     ![](https://media-resize.immowebstatic.be/classifieds/a5e1647d-0c46-444d-b5a2-0721ff92d383/736x736/fb1de822fd20a87f92d52aaf26791011.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20098713)
     -------------------------------------------------------------------------------------------------------
@@ -395,17 +406,6 @@
     Bel appartement 2 chambres dans le quartier Tours et Taxi
     
     ![](https://media-resize.immowebstatic.be/classifieds/c275fa0f-db98-4e6b-94d8-12d6e0df412a/736x736/6afbef5b3a1c17c3bc1b87d58ac69adf.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20012928)
-    ----------------------------------------------------------------------------------------
-    
-    1 100 € (+ 200 €) 1100€ + 200€ par mois
-    
-    2 ch. 2 chambres
-    
-    1090 Jette
-    
-    ![](https://assets.immoweb.be/216/images/artworks/placeholders/placeholder-card.svg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
