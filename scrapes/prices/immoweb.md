@@ -377,7 +377,7 @@
     
     1090 Jette
     
-    ![](https://assets.immoweb.be/215/images/artworks/placeholders/placeholder-card.svg)
+    ![](https://assets.immoweb.be/216/images/artworks/placeholders/placeholder-card.svg)
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20082500)
     --------------------------------------------------------------------------------------------
