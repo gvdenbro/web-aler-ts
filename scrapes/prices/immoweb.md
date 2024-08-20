@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 63 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 62 biens"
 ==============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20106180)
@@ -299,19 +299,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/40db2ca8-6199-4e87-9439-a68f0f76c3a0/736x736/f42a9a7ed6e6664b9caa7932b85d27c2.jpg)
     
-* [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/jette/1090/20090189)
-    ------------------------------------------------------------------------------------------------
-    
-    1 000 € (+ 50 €) 1000€ + 50€ par mois
-    
-    1 ch. 1 chambre · 83 m² mètres carrés
-    
-    1090 Jette
-    
-    Rez-de-chaussée
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/c94f1056-e508-4495-82de-06abdc19b962/736x736/b5563a5b9527b1a041d7794eeddbb68f.jpg)
-    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20090106)
     ---------------------------------------------------------------------------------------------------------------
     
@@ -404,6 +391,21 @@
     ![TREVI NORD](https://media.immowebstatic.be/customers/0012p00002TxtwiAAB/logo/9ab7aa3be9d1b6e02e5ec6286d42b187.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/1eeedd50-1d24-48c5-9a3c-be398d8b050f/736x736/528756debfa926462ac2c67b92e52d35.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/20077436)
+    -----------------------------------------------------------------------------------------
+    
+    925 € (+ 70 €) 925€ + 70€ par mois
+    
+    1 ch. 1 chambre · 60 m² mètres carrés
+    
+    1020 Laeken
+    
+    Appartement 1 chambre aux portes de Bruxelles
+    
+    ![TREVI NORD](https://media.immowebstatic.be/customers/0012p00002TxtwiAAB/logo/9ab7aa3be9d1b6e02e5ec6286d42b187.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/1232992d-b65c-4b0d-9fe9-39c642109860/736x736/f9363fed8222a33143488ef9c9d3e137.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
