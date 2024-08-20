@@ -99,7 +99,7 @@
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20106180)
     --------------------------------------------------------------------------------------------
     
-    825 € (+ 125 €) 825€ + 125€ par mois
+    825 € (+ 100 €) 825€ + 100€ par mois
     
     1 ch. 1 chambre · 65 m² mètres carrés
     
