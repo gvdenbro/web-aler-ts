@@ -1,6 +1,17 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 68 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 69 biens"
 ==============================================================
 
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108926)
+    -------------------------------------------------------------------------------------------------------
+    
+    890 € (+ 20 €) 890€ + 20€ par mois
+    
+    1 ch. 1 chambre · 60 m² mètres carrés
+    
+    1080 Molenbeek-Saint-Jean
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/d37dc35f-87d9-40d2-aed8-783aafb82d2c/736x736/b8d699b6bbe878b2d60107bfa0000cdf.jpg)
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108768)
     -------------------------------------------------------------------------------------------------------
     
@@ -38,6 +49,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/5d1d878d-44d1-4cfe-a196-0d8b45dd061f/736x736/13ccb0922811b43e3997c29d715713f4.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108080)
     -------------------------------------------------------------------------------------------------------
     
@@ -50,8 +63,6 @@
     Appt 2 chambres très lumineux-85m2-Prince de Liège
     
     ![](https://media-resize.immowebstatic.be/classifieds/220b877b-f2b0-459c-84d5-fc34291ea3f7/736x736/125a1a47811b80ea7f84ebacbc9b0502.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20106884)
     ----------------------------------------------------------------------------------------
@@ -68,6 +79,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/132a4521-3bef-4e89-99e4-58631118ca13/736x736/a1d28a2041fd5f00280c0b0a7efcde19.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/9765749)
     ----------------------------------------------------------------------------------------
     
@@ -83,8 +96,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/0fe0f151-3c12-5dfb-a705-e988237872bd/736x736/7cdf1051f0ff5488dc2b6a643c1a7894.jpg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20106180)
     --------------------------------------------------------------------------------------------
     
@@ -95,6 +106,8 @@
     1083 Ganshoren
     
     ![](https://media-resize.immowebstatic.be/classifieds/b00e66d7-aa6f-47cd-924e-f56c24178f7b/736x736/cd2cdabcc177436df388274716347e97.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105677)
     ----------------------------------------------------------------------------------------
@@ -110,8 +123,6 @@
     ![ERA Châtelain - Schuman](https://media.immowebstatic.be/customers/0012p00002TxttcAAB/logo/b018ae55c19ea579ede8b36b04ebee88.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/e54c4792-c779-4f33-a219-535b72217473/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20105662)
     --------------------------------------------------------------------------------------------
@@ -255,6 +266,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/021df0e5-22ac-4a53-b2e1-41d517fc84e8/736x736/d187ed65b1930af960cc02cc02f323b9.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20100952)
     --------------------------------------------------------------------------------------------
     
@@ -267,8 +280,6 @@
     BASILIQUE - Appartement 2 chambres + balcon
     
     ![](https://media-resize.immowebstatic.be/classifieds/4b8fc6a2-262a-46c6-b3c4-59fdf3aff6a6/736x736/be27beaea371c7fa41a39bf86102b692.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20100856)
     -------------------------------------------------------------------------------------------------------
@@ -391,19 +402,6 @@
     Appartement à louer
     
     ![](https://media-resize.immowebstatic.be/classifieds/2b106979-8f58-4c97-8c3a-1b59790b3828/736x736/28ab683675435c991d94560cdc725162.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20088885)
-    ----------------------------------------------------------------------------------------
-    
-    995 € (+ 55 €) 995€ + 55€ par mois
-    
-    1 ch. 1 chambre · 65 m² mètres carrés
-    
-    1090 Jette
-    
-    Appt 1 chambre meublé
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/c20c72be-4116-4f6d-adfc-de4614caac8a/736x736/4fbf90e608b9277b2db89852810b0084.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
