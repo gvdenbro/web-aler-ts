@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 73 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 72 biens"
 ==============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20111188)
