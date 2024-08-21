@@ -1,6 +1,19 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 71 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 72 biens"
 ==============================================================
 
+* [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/jette/1090/20112003)
+    ------------------------------------------------------------------------------------------------
+    
+    950 € (+ 150 €) 950€ + 150€ par mois
+    
+    1 ch. 1 chambre
+    
+    1090 Jette
+    
+    Bel appartement 1 chambre avec jardin
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/b6c01906-b3bc-4331-867b-68861bf07077/736x736/d3c04da99ca1c4d2003401428a5b701f.jpg)
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20111188)
     -------------------------------------------------------------------------------------------------------
     
@@ -44,6 +57,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/6de9ae62-5a02-4651-85e5-44b93b20c6c6/736x736/b1c9c76dac88881b6767423126269dc7.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20072528)
     ----------------------------------------------------------------------------------------
     
@@ -58,8 +73,6 @@
     ![Home Invest Belgium sa](https://media.immowebstatic.be/customers/0012p00002TxtcQAAR/logo/fcf14f86d1e8b588057297cb209bf896.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/67243842-9075-4a82-9661-cd4c00bc3f2d/736x736/bbe680b705735ce23e0d2bf599eba188.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20088634)
     -------------------------------------------------------------------------------------------------------
@@ -76,6 +89,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/2bad3159-9a3a-4dc2-bc56-6deb10bdc164/736x736/b51131d4b29a1ee2fd6ce0fba8757848.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108926)
     -------------------------------------------------------------------------------------------------------
     
@@ -86,8 +101,6 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/d37dc35f-87d9-40d2-aed8-783aafb82d2c/736x736/b8d699b6bbe878b2d60107bfa0000cdf.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108768)
     -------------------------------------------------------------------------------------------------------
@@ -100,6 +113,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/f6e97d02-1ab9-40e3-a884-de4eacad3260/736x736/fd4015944aff16f55e13a2c33ac8ef33.jpg)
     
+* Publicité
+    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/brussel/1020/20108283)
     --------------------------------------------------------------------------------------------------
     
@@ -110,8 +125,6 @@
     1020 Brussel
     
     ![](https://media-resize.immowebstatic.be/classifieds/ae1dcf83-47cd-4d96-a16b-3c71ba6125c7/736x736/5a29d1b55dce770e546e0451c273d11b.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20108121)
     --------------------------------------------------------------------------------------------
@@ -253,6 +266,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/ed745006-04d1-4adc-a4cc-2785105a683b/736x736/0656ead5fbbe74e1fdcec87f7c81f48d.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20103758)
     ----------------------------------------------------------------------------------------
     
@@ -265,8 +280,6 @@
     Appartement van 94m2 met parking
     
     ![](https://media-resize.immowebstatic.be/classifieds/72294e71-5040-4422-a81b-4791e7769651/736x736/065f695ce9700e4d9c7248d0a8f12bd8.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laken/1020/20103700)
     ----------------------------------------------------------------------------------------
@@ -399,17 +412,6 @@
     Lumineux et Moderne
     
     ![](https://media-resize.immowebstatic.be/classifieds/c9a62bc3-a642-41fc-ae59-5e12180f3421/736x736/d917fbfc9e93d8f96c7c199ccfe1c6e7.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20096094)
-    --------------------------------------------------------------------------------------------
-    
-    1 080 € (+ 50 €) 1080€ + 50€ par mois
-    
-    2 ch. 2 chambres · 78 m² mètres carrés
-    
-    1083 Ganshoren
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/7da225f3-4624-4f35-b046-e9924ad864ed/736x736/38e1013e2bc634bec6c3ea097f99e9a1.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1150&page=1&orderBy=newest)
