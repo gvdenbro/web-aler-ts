@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-37 résultats (1 - 20)
+38 résultats (1 - 20)
 
 Alerte Trier
 
@@ -464,6 +464,31 @@ Appeler
 
 +32 475 39 83 03
 
+[![Appartement à louer Jette (VBB52496)](https://api-core.immovlan.be/v1/property/VBB52496/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB52496&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb52496 "Appartement à louer Jette (VBB52496)")
+
+**1 050 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb52496 "Appartement à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1090 Jette
+
+Dans une construction bâtie en 2012, finitions soignées, agréable penthouse 1 chambre de 71 m² + terrasse 22 m² situé au dernier étage de l’immeuble qui offre à ses résidents toutes les commodités de confort et d'habitabilité. Il se compose de : hall d'entrée avec wc indépendant et débarras/buanderie, séjour 23m² avec cuisine ouverte hyper équipée, chambre à coucher 14m² et salle de bain. Parquet dans l’ensemble de l’appartement sauf dans les pièces d’eau. Chaudière individuelle avec thermostat. Châssis en PVC à double vitrage. Possibilité de louer un emplacement de parking en sous-sol. Proximité commerces (Colruyt) et métro (Pannenhuis). Accès aisé vers l’école Européenne. PEB D+. (communs, entretien chaudière, assurance, frais de gestion). Renseignements et visites : ### ### . 105€ (communs, assurance, entretien chaudière, frais gestion). [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb52496)
+
+**1** Chambre(s) **84** m² **25 m²** Terrasse
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb52496)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
 [![Studio à louer Jette (VWD08243)](https://api-core.immovlan.be/v1/property/VWD08243/thumbnail-webp/Medium "Studio à louer Jette &#40;VWD08243&#41;")<br>Loué](https://immovlan.be/fr/detail/studio/a-louer/1090/jette/vwd08243 "Studio à louer Jette (VWD08243)")
 
 **850 €**
@@ -486,31 +511,6 @@ E-mail
 Appeler
 
 +32 484 08 87 17
-
-[![Appartement à louer Jette (VBB51785)](https://api-core.immovlan.be/v1/property/VBB51785/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB51785&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer Jette (VBB51785)")
-
-**835 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE : appartement situé dans le quartier Magritte, entre la place Reine Astrid et la place Bockstael. A proximité de commerces (Lidl), et desservi par de nombreux transports en commun, tel que tram 19 et 51, bus 62 et 93 Nous vous présentons cet appartement de 77m² au 2ème étage d'une petite copropriété, sans ascenseur. L’appartement se compose comme suit : séjour, salle à manger, cuisine semi-équipée, salle de bain et chambre. Cave Le loyer s’élève à 835€/mois Type de chauffage : individuel au gaz Le bien sera libre le 1er octobre 2024 N'hésitez pas à consultez notre site ### ) pour découvrir la localisation du bien sur notre carte interactive reprenant tous les points d’intérêts et facilités autour du bien. Sur notre site, vous aurez également le confort de fixer directement un rdv en ligne. Vous pouvez aussi nous contacter au ### Descriptif et mesurage émis à titre indicatif et non contractuel sous réserve d'erreur et/ou omission. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785)
-
-**1** Chambre(s) **77** m² **1** Salle(s) de bain
-
-![Immo Balcaen](https://api-core.immovlan.be/v1/prouser/IN00001092/logo/French/webp/Small "Immo Balcaen")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785)
-
-E-mail
-
-Appeler
-
-+32 2 268 18 88
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
