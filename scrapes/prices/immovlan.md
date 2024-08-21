@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-36 résultats (1 - 20)
+37 résultats (1 - 20)
 
 Alerte Trier
 
@@ -266,6 +266,31 @@ Appeler
 
 +32 2 378 04 44
 
+[![Appartement à louer Molenbeek-Saint-Jean (VBB55128)](https://api-core.immovlan.be/v1/property/VBB55128/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB55128&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128 "Appartement à louer Molenbeek-Saint-Jean (VBB55128)")
+
+**975 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Au coeur de Bruxelles, dans le quartier Brunfaut, Home Invest Belgium a réussi à reconvertir un ancien site semi-industriel en logements confortables. Appartement 1 chambre 65 m² + terrasse 4 m² au 4ème étage comprenant : hall d'entrée avec wc séparé, living 30 m² avec cuisine ouverte et terrasse, chambre 14 m², douche, buanderie, cave. Local à vélos. Possibilité de parking et cave (30€). PEB A-. . Renseignements et visites ### ou ### . 115€ (Charges communes, chauffage, eau chaude, assurance, frais de gestion,) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128)
+
+**1** Chambre(s) **65** m² **4 m²** Terrasse
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
 [![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
 
 **925 €**
@@ -486,31 +511,6 @@ E-mail
 Appeler
 
 +32 2 268 18 88
-
-[![Appartement à louer Laeken (VBB51683)](https://api-core.immovlan.be/v1/property/VBB51683/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB51683&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683 "Appartement à louer Laeken (VBB51683)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-LAEKEN : Quartier Bockstael, proche de toutes facilités, transports, écoles et commerces, dans nouvelle construction, matériaux de qualité, excellente isolation. 2ème étage sur 4 , appartement non meublé de 79 m², 2ème occupation, comprenant deux chambres, living, salle de douche, buanderie, cuisine équipée, terrasse. Cave privative à disposition. Local Vélos. Parking disponible en sous-sol : + 110 € . PEB : B- INFO/VISITE ### & ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683)
-
-**2** Chambre(s) **80** m² **1** Salle(s) de bain
-
-![ORALIS](https://api-core.immovlan.be/v1/prouser/IN00561913/logo/French/webp/Small "ORALIS")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb51683)
-
-E-mail
-
-Appeler
-
-+32 2 533 40 40
 
 * [Précédent](#)
 * [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
