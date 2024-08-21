@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-18 résultats (1 - 18)
+37 résultats (1 - 20)
 
 Alerte Trier
 
@@ -66,6 +66,31 @@ Appeler
 
 +32 2 705 07 00
 
+[![Appartement à louer Laeken (VBB58155)](https://api-core.immovlan.be/v1/property/VBB58155/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB58155&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer Laeken (VBB58155)")
+
+**1 050 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+A proximité du Parc de Laeken et de l'Atomium, des commerces et transports, superbe de +/- 80 m² se composant comme suit : - Hall d'entrée de +/- 8 m² (carrelage) - Toilette séparée avec lave-mains (carrelage) - Séjour de +/- 28 m²(carrelage) - Cuisine équipée de +/- 9 m² (taques vitrocéramiques, hotte, four, frigo et congélateur) (carrelage) - Chambre 1 de +/- 12 m² (carrelage) - Balcon de +/- 2,5 m² - Chambre 2 de +/- 14,5 m² (carrelage) - Salle de bain de +/- 3,6 m² (bain et meuble lavabo) (carrelage) - Débarras de +/- 1 m² (carrelage) Informations complémentaires - Etage 2/3 avec ascenseur - Provision mensuelle de charges de 185€ (communs, eau chaude et chauffage) - PEB E 248 kWh/m²/an 53 kg CO²/m²/an - Libre le 01/09/2024 - Châssis PVC - Double vitrage - Porte blindée - Vidéophone [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155)
+
+**2** Chambre(s) **80** m² **3 m²** Terrasse
+
+![Sorimo](https://api-core.immovlan.be/v1/prouser/IN00001114/logo/French/webp/Small "Sorimo")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155)
+
+E-mail
+
+Appeler
+
++32 2 772 80 20
+
 [![Appartement à louer Jette (VBB58096)](https://api-core.immovlan.be/v1/property/VBB58096/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58096&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58096 "Appartement à louer Jette (VBB58096)")
 
 **850 €**
@@ -90,6 +115,331 @@ E-mail
 Appeler
 
 +32 2 410 10 30
+
+[![Appartement à louer Laeken (RBO46081)](https://api-core.immovlan.be/v1/property/RBO46081/thumbnail-webp/Medium "Appartement à louer Laeken &#40;RBO46081&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081 "Appartement à louer Laeken (RBO46081)")
+
+**950 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+« Appartement d'une chambre avec balcon à louer à Laeken. Idéalement situé à proximité du domaine royal verdoyant de Laeken. Transports en commun disponibles et à proximité du centre de Laeken. » Disposition de la propriété : Hall d'entrée - cuisine spacieuse - salon avec de grandes fenêtres et une agréable terrasse attenante - chambre séparée - salle de bain avec baignoire+douche, lavabo - toilettes individuelles - cave Provision mensuelle de 90 euros : nettoyage + entretien des parties communes, chauffage et eau chaude Electricité + eau froide : compteurs individuels Vous planifiez une visite de cet appartement ? Faites une demande via ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081)
+
+**52** m²
+
+![Dewaele Brussels Tour & Taxi](https://api-core.immovlan.be/v1/prouser/01215981/logo/French/webp/Small "Dewaele Brussels Tour & Taxi")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/rbo46081)
+
+E-mail
+
+Appeler
+
++32 2 223 23 23
+
+[![Appartement à louer Molenbeek-Saint-Jean (VBB57560)](https://api-core.immovlan.be/v1/property/VBB57560/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB57560&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb57560 "Appartement à louer Molenbeek-Saint-Jean (VBB57560)")
+
+**975 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb57560 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Molenbeek - Canal : Appartement d'architecte meublé 1 chambre avec terrasse! Le bien se compose d'une salle à manger, d'un salon, une chambre, une salle de douche, une cuisine, une buanderie, le tout meublé et équipé avec goût! Il offre une proximité immédiate au centre-ville, aux transports en communs, magasins, supermarchés, ... Les charges de 50€ comprennent l'entretien des communs. Les charges privatives sont individuelles. PEB D+, 152 kWhEP/m²/an, 30 kgCO²/m²/an [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb57560)
+
+**1** Chambre(s) **72** m² **3 m²** Terrasse
+
+![RealtyCare](https://api-core.immovlan.be/v1/prouser/IN00563589/logo/French/webp/Small "RealtyCare")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb57560)
+
+E-mail
+
+Appeler
+
++32 2 450 56 56
+
+[![Appartement à louer Molenbeek-Saint-Jean (VBB56954)](https://api-core.immovlan.be/v1/property/VBB56954/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB56954&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer Molenbeek-Saint-Jean (VBB56954)")
+
+**970 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Lumineux appartement 1 chambre de 74 m² + terrasse situé au rez-de-chaussée d’un immeuble récent (2018) et qui offre à ses résidents toutes les commodités de confort et d'habitabilité. Il se compose de : hall d'entrée desservant le séjour offrant accès à sa terrasse bien orientée (S) avec vue dégagée, cuisine ouverte super équipée (îlot), 1 chambre salle de bains, buanderie et cave en sous-sol. Parquet dans le séjour et les chambres. Châssis en aluminium à double vitrage. Possibilité parking et de cave (30€). Proximité transports en communs et commerces. Renseignements et visites : ### ### . PEB C+. 100€ (chauffage, charges communes, assurance abandon de recours, frais de gestion) 40€ (Provision chauffage et eau chaude) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
+
+**1** Chambre(s) **74** m²
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBL80392)](https://api-core.immovlan.be/v1/property/RBL80392/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBL80392&#41;")<br>Best of](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer Molenbeek-Saint-Jean (RBL80392)")
+
+**1 100 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Découvrez le projet "Jardin Maritime" à Bruxelles, offrant un style de vie moderne, respectueux de l'environnement et confortable. Les 21 appartements de luxe intègrent des caractéristiques écologiques de pointe, avec un chauffage géothermique, des terrasses baignées de soleil, jardins, parkings et caves, éliminant le besoin de gaz. L'eau chaude durable est produite grâce à des pompes à chaleur boostées et des panneaux solaires, garantissant un confort tout au long de l'année. La tarification est transparente, comprenant un parking à 125 €/mois. Chaque appartement offre entre 1 et 3 terrasses, et certains disposent même d'un jardin. Les chambres parentales font toutes ± 14 m². "Jardin Maritime" bénéficie d'un emplacement de choix en plein cœur de Bruxelles, à proximité de boutiques locales, transports publics, et parcs verdoyants. Chaque appartement est assorti d'une place de parking dédiée et d'une cave. PEB en cours. Si vous recherchez une habitation de haute qualité qui allie confort de vie et durabilité écologique, "Jardin Maritime" est le choix parfait. Ne manquez pas cette opportunité unique ! Contactez-nous pour planifier une visite via dewaele.com. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392)
+
+**1** Chambre(s) **74** m² **14 m²** Terrasse
+
+![Dewaele Brussels South](https://api-core.immovlan.be/v1/prouser/RMG01397100/logo/French/webp/Small "Dewaele Brussels South")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392)
+
+E-mail
+
+Appeler
+
++32 2 344 44 22
+
+[![Appartement à louer Laeken (VBB55907)](https://api-core.immovlan.be/v1/property/VBB55907/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB55907&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer Laeken (VBB55907)")
+
+**800 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+Laeken, De Wand, très joli duplex aux étages 2 et 3 d'un petit immeuble comprenant: séjour de 34m², cuisine américaine super équipée, 1 chambre de 11m², 1 bureau en mezzanine 10m², salle de bains. Tout parquet ! Cave. Très lumineux et de bon goût ! PEB: F [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
+
+**1** Chambre(s) **81** m² **1** Salle(s) de bain
+
+![Immo Clairière](https://api-core.immovlan.be/v1/prouser/IN00001727/logo/French/webp/Small "Immo Clairière")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb55907)
+
+E-mail
+
+Appeler
+
++32 2 640 40 60
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBO06005)](https://api-core.immovlan.be/v1/property/RBO06005/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO06005&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer Molenbeek-Saint-Jean (RBO06005)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Immo Groot Leeuw vous présente cet appartement récent situé sur le Boulevard Louis Mettewie. L'appartement se trouve au 4e étage et est spacieux à l'intérieur, avec un salon et une salle à manger lumineux, une cuisine ouverte, une chambre spacieuse avec salle de bain attenante et une buanderie. De plus, il y a une place de parking souterraine, une cave et un local à vélos.Les plus : Très bon EPC, proche des transports en commun, ascenseur dans l'immeubleCharges de 75EUR/ mois pour le chauffage privatif + eau chaude et l'entretien des communs + ascenceur. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
+
+**1** Chambre(s) **66** m² **10 m²** Terrasse
+
+![IGL](https://api-core.immovlan.be/v1/prouser/00051730/logo/French/webp/Small "IGL")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo06005)
+
+E-mail
+
+Appeler
+
++32 2 378 04 44
+
+[![Appartement à louer Molenbeek-Saint-Jean (VBB55128)](https://api-core.immovlan.be/v1/property/VBB55128/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB55128&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128 "Appartement à louer Molenbeek-Saint-Jean (VBB55128)")
+
+**975 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Au coeur de Bruxelles, dans le quartier Brunfaut, Home Invest Belgium a réussi à reconvertir un ancien site semi-industriel en logements confortables. Appartement 1 chambre 65 m² + terrasse 4 m² au 4ème étage comprenant : hall d'entrée avec wc séparé, living 30 m² avec cuisine ouverte et terrasse, chambre 14 m², douche, buanderie, cave. Local à vélos. Possibilité de parking et cave (30€). PEB A-. . Renseignements et visites ### ou ### . 115€ (Charges communes, chauffage, eau chaude, assurance, frais de gestion,) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128)
+
+**1** Chambre(s) **65** m² **4 m²** Terrasse
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb55128)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
+[![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
+
+**925 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au Rez-de-chaussée : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 20,5m² (4,9 x 4,2) Coin douche (douche, lavabo, WC) Cour de ± 10m² Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541)
+
+**1** Chambre(s) **60** m² **10 m²** Terrasse
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
+
+[![Appartement à louer Laeken (VBB53540)](https://api-core.immovlan.be/v1/property/VBB53540/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53540&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer Laeken (VBB53540)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 3ème étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540)
+
+**1** Chambre(s) **60** m² **1** Salle(s) de bain
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
+
+[![Appartement à louer Laeken (VBB53539)](https://api-core.immovlan.be/v1/property/VBB53539/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53539&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer Laeken (VBB53539)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 2ème étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539)
+
+**1** Chambre(s) **60** m² **1** Salle(s) de bain
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
+
+[![Appartement à louer Laeken (VBB53538)](https://api-core.immovlan.be/v1/property/VBB53538/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53538&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer Laeken (VBB53538)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 1er étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538)
+
+**1** Chambre(s) **60** m² **1** Salle(s) de bain
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
+
+[![Appartement à louer Koekelberg (VBB53175)](https://api-core.immovlan.be/v1/property/VBB53175/thumbnail-webp/Medium "Appartement à louer Koekelberg &#40;VBB53175&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175 "Appartement à louer Koekelberg (VBB53175)")
+
+**1 150 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175 "Appartement à louer")
+-----------------------------------------------------------------------------------------------------------------------
+
+1081 Koekelberg
+
+MAIL : ### - TEL : ### We Invest vous propose en exclusivité ce magnifique appartement de 84m² situé à proximité du parc Elisabeth ainsi que toutes les autres commodités (commerces, écoles, transports, etc.) Au 7ème étage d'un immeuble de 9 étages avec ascenseur, le bien se compose comme suit: un hall d'entrée, une grande pièce de vie, une cuisine, une terrasse, une toilette séparée, deux chambres (±12, 13m²), une salle de bain ainsi qu'une cave au sous-sol. Charges : 200€ (communs, provision chauffage et eau froide/chaude privatifs) Disponible le 1er septembre ! PEB : C À visiter sans tarder ! Pour plus de biens en exclusivités, visitez ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175)
+
+**2** Chambre(s) **84** m² **1** Salle(s) de bain
+
+![WE INVEST Bruxelles Capitale](https://api-core.immovlan.be/v1/prouser/VLAN93003798/logo/French/webp/Small "WE INVEST Bruxelles Capitale")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1081/koekelberg/vbb53175)
+
+E-mail
+
+Appeler
+
++32 2 318 62 66
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBN75199)](https://api-core.immovlan.be/v1/property/RBN75199/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBN75199&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199 "Appartement à louer Molenbeek-Saint-Jean (RBN75199)")
+
+**950 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Molenbeek-Saint-Jean: Charmant appartement rénové d'une chambre avec un espace bureau / dressing et terrasse dans un quartier résidentiel. Caractéristiques de l'appartement : Chambre à coucher : Une chambre confortable avec une pièce attenante qui peut servir de bureau ou de dressing. Salon : Un salon lumineux et convivial avec une salle à manger adjacente au salon, parfaite pour les repas en famille ou entre amis. Cuisine : Une cuisine équipée avec un four et des taques au gaz et donnant sur une terrasse exposée au sud-ouest. Salle de douche : Une salle de douche avec un wc attenant mais séparée par une porte. Les espaces sont bien agencés pour optimiser le confort et la fonctionnalité. Emplacement : L'appartement est situé à proximité des transports en commun (Métro Belgica), des écoles, des commerces et des parcs. Détails supplémentaires : L'eau, le gaz et l'électricité sont des charges privés. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199)
+
+**1** Chambre(s) **76** m² **1** Salle(s) de bain
+
+![Dewaele Brussels South](https://api-core.immovlan.be/v1/prouser/RMG01397100/logo/French/webp/Small "Dewaele Brussels South")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn75199)
+
+E-mail
+
+Appeler
+
++32 2 344 44 22
 
 [![Appartement à louer Jette (RWC36006)](https://api-core.immovlan.be/v1/property/RWC36006/thumbnail-webp/Medium "Appartement à louer Jette &#40;RWC36006&#41;")<br>Loué](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/rwc36006 "Appartement à louer Jette (RWC36006)")
 
@@ -162,267 +512,7 @@ Appeler
 
 +32 484 08 87 17
 
-[![Appartement à louer Jette (VBB51785)](https://api-core.immovlan.be/v1/property/VBB51785/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB51785&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer Jette (VBB51785)")
-
-**835 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE : appartement situé dans le quartier Magritte, entre la place Reine Astrid et la place Bockstael. A proximité de commerces (Lidl), et desservi par de nombreux transports en commun, tel que tram 19 et 51, bus 62 et 93 Nous vous présentons cet appartement de 77m² au 2ème étage d'une petite copropriété, sans ascenseur. L’appartement se compose comme suit : séjour, salle à manger, cuisine semi-équipée, salle de bain et chambre. Cave Le loyer s’élève à 835€/mois Type de chauffage : individuel au gaz Le bien sera libre le 1er octobre 2024 N'hésitez pas à consultez notre site ### ) pour découvrir la localisation du bien sur notre carte interactive reprenant tous les points d’intérêts et facilités autour du bien. Sur notre site, vous aurez également le confort de fixer directement un rdv en ligne. Vous pouvez aussi nous contacter au ### Descriptif et mesurage émis à titre indicatif et non contractuel sous réserve d'erreur et/ou omission. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785)
-
-**1** Chambre(s) **77** m² **1** Salle(s) de bain
-
-![Immo Balcaen](https://api-core.immovlan.be/v1/prouser/IN00001092/logo/French/webp/Small "Immo Balcaen")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb51785)
-
-E-mail
-
-Appeler
-
-+32 2 268 18 88
-
-[![Appartement à louer Jette (VBB44150)](https://api-core.immovlan.be/v1/property/VBB44150/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB44150&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer Jette (VBB44150)")
-
-**850 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Jette quartier Miroir à proximité des transports en communs et des commerces. Bel appartement 2 chambres de +/-74m² situé au 3eme étage d'un petit immeuble. Hall d'entrée - Salon/living avec carrelage au sol - Cuisine semi équipée (hotte, évier, meubles) possibilité lave vaisselle - 2 chambres de +/-16m² et +/-13m² - Salle de bain (bain, lavabo, toilette) - Buanderie - Cave - Libre le 01/08/2024 - Loyer : 850€ + charges provisions : 100€/mois (communs, gestion) - PEB : D- - Nos annonces ne sont pas contractuels. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150)
-
-**2** Chambre(s) **74** m² **1** Salle(s) de bain
-
-![HOME HORIZON SPRL](https://api-core.immovlan.be/v1/prouser/VLAN96050493/logo/French/webp/Small "HOME HORIZON SPRL")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb44150)
-
-E-mail
-
-Appeler
-
-+32 2 479 67 90
-
-[![Rez-De-Chaussée à louer Jette (VBB43423)](https://api-core.immovlan.be/v1/property/VBB43423/thumbnail-webp/Medium "Rez-De-Chaussée à louer Jette &#40;VBB43423&#41;")](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer Jette (VBB43423)")
-
-**900 €**
-
-[Rez-De-Chaussée à louer](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423 "Rez-De-Chaussée à louer")
-------------------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE (réf.: 9751) Dans un excellent quartier résidentiel, magnifique appartement entièrement remis à neuf au rez-de-chaussée d'un petit immeuble de 4 étages. Il comprend un hall d'entrée, très lumineux séjour-salle à manger avec cuisine américaine, une chambre avec terrasse, une salle de douche, un wc séparé, une pièce de rangement et un beau jardin de 11 m². Immeuble bien fréquenté, à proximité des transports en commun, du ring et des commerces. Facilité de parking aux abords. Loyer: 900€/mois + 50€ de charges. Renseignements et visites CENTURY 21 Miroir ### [En savoir plus ?](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423)
-
-**1** Chambre(s) **50** m²
-
-![Century 21 - Miroir](https://api-core.immovlan.be/v1/prouser/IN00001536/logo/French/webp/Small "Century 21 - Miroir")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/rez-de-chaussee/a-louer/1090/jette/vbb43423)
-
-E-mail
-
-Appeler
-
-+32 2 428 21 21
-
-[![Appartement à louer Jette (VBB36146)](https://api-core.immovlan.be/v1/property/VBB36146/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB36146&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer Jette (VBB36146)")
-
-**825 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-JETTE : appartement situé à proximité de la place cardinal mercier, entre le cimetière de Jette et la rue Jules Lahaye A proximité de commerces (Lidle et aldi), écoles (Collège Saint-Pierre, collège sacré-coeur,..) à 5 minutes à pied et desservi par de nombreux transports en commun, tel que tram 19 et 51, bus 88/53. Nous vous présentons cet appartement de 55m² au 1er étage d'une petite copropriété, sans ascenseur. L’appartement se compose comme suit : hall d'entrée donnant accès au séjour, et chambre, cuisine et balcon et salle de douche. Le loyer s’élève à 825€/mois Les charges s’élèvent à 120€ et comprennent une provision d'eau, provision de chauffage et frais communs de l'immeuble. Obligation de louer un garage pour 100€/mois supplémentaire Type de chauffage : collectif Le bien sera libre le 1er septembre 2024 N'hésitez pas à consultez notre site ### ) pour découvrir la localisation du bien sur notre carte interactive reprenant tous les points d’intérêts et facilités autour du bien. Sur notre site, vous aurez également le confort de fixer directement un rdv en ligne. Vous pouvez aussi nous contacter au ### Descriptif et mesurage émis à titre indicatif et non contractuel sous réserve d'erreur et/ou omission. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146)
-
-**1** Chambre(s) **55** m² **2 m²** Terrasse
-
-![Immo Balcaen](https://api-core.immovlan.be/v1/prouser/IN00001092/logo/French/webp/Small "Immo Balcaen")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb36146)
-
-E-mail
-
-Appeler
-
-+32 2 268 18 88
-
-[![Appartement à louer Jette (VBA89864)](https://api-core.immovlan.be/v1/property/VBA89864/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA89864&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba89864 "Appartement à louer Jette (VBA89864)")
-
-**800 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba89864 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-"Registration" possible. Welcome to Bruxelles Timmermans, a friendly and well-equipped shared living space of 155m2 perfect for those looking for a comfortable and convenient place to call home. The apartment boasts a spacious kitchen area complete with modern appliances like a microwave, oven, toaster, dishwasher, fridge, and even a coffee machine for your morning boost. The living room and dining area provide a cozy spot to relax and socialize with your housemates. Plus, you won't have to worry about chores – there's a washing machine, vacuum cleaner, and ironing essentials at your disposal. The residence features 5 bedrooms, each thoughtfully furnished to ensure a good night's sleep and privacy. You'll find comfortable beds, storage space for your belongings, and dedicated work areas perfect for studying or working from home. There are 2 bathrooms available, ensuring that morning routines are hassle-free. The rooms are designed to cater to different preferences and budgets without compromising on comfort. Nestled in a vibrant neighborhood, Bruxelles Timmermans is just a stone's throw away from essential transport links. You can catch the M6 metro or Bus 53 at Belgica station within a 10-minute walk or hop on the T19 tram at Place Reine Astrid, only 4 minutes away on foot. This connectivity makes it easy to explore the city or commute to work or school. The rent includes all the necessary charges such as water, electricity, heating, and high-speed internet. This means you can enjoy all the amenities without worrying about extra monthly costs. Bruxelles Timmermans is not just a place to stay; it's a community waiting for you to join. With all charges included in the rent and no luxury frills to overcomplicate things, it's the smart choice for anyone looking for quality shared living in Brussels. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba89864)
-
-**5** Chambre(s) **155** m²
-
-![COLONIES SAS](https://api-core.immovlan.be/v1/prouser/VLAN96083827/logo/French/webp/Small "COLONIES SAS")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba89864)
-
-E-mail
-
-[![Duplex à louer Jette (VBB28604)](https://api-core.immovlan.be/v1/property/VBB28604/thumbnail-webp/Medium "Duplex à louer Jette &#40;VBB28604&#41;")](https://immovlan.be/fr/detail/duplex/a-louer/1090/jette/vbb28604 "Duplex à louer Jette (VBB28604)")
-
-**1 100 €**
-
-[Duplex à louer](https://immovlan.be/fr/detail/duplex/a-louer/1090/jette/vbb28604 "Duplex à louer")
----------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Jette quartier Miroir à proximité des transports en commun et des commerces. Bel appartement duplex 2 chambres de +/-90m² (cfr PEB) situé au 3eme et 4eme étage d'un petit immeuble. 3eme étage : Hall d'entrée avec toilette séparée - Living avec parquet au sol - Cuisine équipée (four, hotte, évier, taque électrique, frigo, lave vaisselle) - 1 chambre de +/-13m² - salle de douche (douche, lavabo) - Buanderie. 4eme étage : 1 grand chambre avec plancher au sol de +/-30m². Libre Immédiatement - Loyer : 1.100€ + charges : provisions eau froide de 60€/mois - PEB : G - Nos annonces ne sont pas contractuels. [En savoir plus ?](https://immovlan.be/fr/detail/duplex/a-louer/1090/jette/vbb28604)
-
-**2** Chambre(s) **90** m² **1** Salle(s) de bain
-
-![HOME HORIZON SPRL](https://api-core.immovlan.be/v1/prouser/VLAN96050493/logo/French/webp/Small "HOME HORIZON SPRL")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/duplex/a-louer/1090/jette/vbb28604)
-
-E-mail
-
-Appeler
-
-+32 2 479 67 90
-
-[![Appartement à louer Jette (VBA39325)](https://api-core.immovlan.be/v1/property/VBA39325/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA39325&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39325 "Appartement à louer Jette (VBA39325)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39325 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-App .meuble au rez de chausee , remise a neuf , triple Vitrage , living , chambre , sdb , wc.,cuisine equipe , Balcon , cave , Parking , charges Garantie locative rembourssable a la sortie, a condition de quitter le logement dans le meme etat qu'a l'entree : 1 mois de loyer pour les locations jusqu a 3 mois, et 2 mois de loyer pour les locations a partir de 3 mois For the bookings with a rental period under 3 months : deposit=1month of rent For the bookings with a rental period over 3 months : deposit = 2months of rent We have similar apartments in this building, with other availabilities. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39325)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39325)
-
-E-mail
-
-[![Appartement à louer Jette (VBA39298)](https://api-core.immovlan.be/v1/property/VBA39298/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA39298&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39298 "Appartement à louer Jette (VBA39298)")
-
-**900 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39298 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Très bel appartement 1 chambre, situé au centre de jette (proche place miroir), l'appartement est idéal pour une personne ou jeune couple, proche des transport en commun (Tram 19, Tram 9 Bus 49, Bus 53 et métro Simonis, proche d'une rue commerçante avec Super Marché (Carrefour, Colruyt, Aldi, Boucherie, Boulangerie, Kruidvart,...). L'appartement est loué entièrement meublé. Immeuble calme et rue très calme. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39298)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39298)
-
-E-mail
-
-[![Appartement à louer Jette (VBA39252)](https://api-core.immovlan.be/v1/property/VBA39252/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA39252&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39252 "Appartement à louer Jette (VBA39252)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39252 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-App .meuble , remise a neuf , triple Vitrage , living , chambre , sdb , wc.,cuisine equipe , Balcon , cave , Parking , charges Garantie locative rembourssable a la sortie, a condition de quitter le logement dans le meme etat qu'a l'entree : 1 mois de loyer pour les locations jusqu a 3 mois, et 2 mois de loyer pour les locations a partir de 3 mois For the bookings with a rental period under 3 months : deposit=1month of rent For the bookings with a rental period over 3 months : deposit = 2months of rent We have similar apartments in this building, with other availabilities. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39252)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba39252)
-
-E-mail
-
-[![Appartement à louer Jette (VBA37922)](https://api-core.immovlan.be/v1/property/VBA37922/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA37922&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37922 "Appartement à louer Jette (VBA37922)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37922 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-App .meuble au 1er etage , remise a neuf , triple Vitrage , living , chambre , sdb , wc.,cuisine equipe , Balcon , cave , Parking , charges, Garantie locative rembourssable a la sortie, a condition de quitter le logement dans le meme etat qu'a l'entree : 1 mois de loyer pour les locations jusqu a 3 mois, et 2 mois de loyer pour les locations a partir de 3 mois For the bookings with a rental period under 3 months : deposit=1month of rent For the bookings with a rental period over 3 months : deposit = 2months of rent We have similar apartments in this building, with other availabilities. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37922)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37922)
-
-E-mail
-
-[![Appartement à louer Jette (VBA37921)](https://api-core.immovlan.be/v1/property/VBA37921/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA37921&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37921 "Appartement à louer Jette (VBA37921)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37921 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-App .meuble au rez de chausee , remise a neuf , triple Vitrage , living , chambre , sdb , wc.,cuisine equipe , Balcon , cave , Parking , charges Garantie locative rembourssable a la sortie, a condition de quitter le logement dans le meme etat qu'a l'entree : 1 mois de loyer pour les locations jusqu a 3 mois, et 2 mois de loyer pour les locations a partir de 3 mois For the bookings with a rental period under 3 months : deposit=1month of rent For the bookings with a rental period over 3 months : deposit = 2months of rent We have similar apartments in this building, with other availabilities. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37921)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37921)
-
-E-mail
-
-[![Appartement à louer Jette (VBA37916)](https://api-core.immovlan.be/v1/property/VBA37916/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBA37916&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37916 "Appartement à louer Jette (VBA37916)")
-
-**1 150 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37916 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-App .meuble , remise a neuf , triple Vitrage , living , chambre , sdb , wc.,cuisine equipe , Balcon , cave , Parking , charges Garantie locative rembourssable a la sortie, a condition de quitter le logement dans le meme etat qu'a l'entree : 1 mois de loyer pour les locations jusqu a 3 mois, et 2 mois de loyer pour les locations a partir de 3 mois For the bookings with a rental period under 3 months : deposit=1month of rent For the bookings with a rental period over 3 months : deposit = 2months of rent We have similar apartments in this building, with other availabilities. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37916)
-
-![HOUSINGANYWHERE](https://api-core.immovlan.be/v1/prouser/VLAN96078345/logo/French/webp/Small "HOUSINGANYWHERE")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vba37916)
-
-E-mail
-
 * [Précédent](#)
-* [Suivant](#)
+* [Suivant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1&page=2)
 
 [Source](https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1150&noindex=1)
