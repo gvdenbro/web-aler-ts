@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 113 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 112 biens"
 ===============================================================
 
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20113133)
@@ -270,19 +270,6 @@
     
 * Publicité
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108080)
-    -------------------------------------------------------------------------------------------------------
-    
-    950 € (+ 200 €) 950€ + 200€ par mois
-    
-    2 ch. 2 chambres
-    
-    1080 Molenbeek-Saint-Jean
-    
-    Appt 2 chambres très lumineux-85m2-Prince de Liège
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/220b877b-f2b0-459c-84d5-fc34291ea3f7/736x736/125a1a47811b80ea7f84ebacbc9b0502.jpg)
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20079908)
     ----------------------------------------------------------------------------------------
     
@@ -420,6 +407,19 @@
     ATOMIUM SUBLIME APPARTEMENT LUMINEUX ET SPACIEUX
     
     ![](https://media-resize.immowebstatic.be/classifieds/d2566bfd-8105-4493-91e1-507203e2d939/736x736/3cc6b15736b24b55dedb945374129a03.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20103758)
+    ----------------------------------------------------------------------------------------
+    
+    1 150 € (+ 125 €) 1150€ + 125€ par mois
+    
+    2 ch. 2 chambres
+    
+    1090 Jette
+    
+    Appartement van 94m2 met parking
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/72294e71-5040-4422-a81b-4791e7769651/736x736/065f695ce9700e4d9c7248d0a8f12bd8.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
