@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-53 résultats (1 - 20)
+55 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,81 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
+
+[![Studio à louer Molenbeek-Saint-Jean (VBB59473)](https://api-core.immovlan.be/v1/property/VBB59473/thumbnail-webp/Medium "Studio à louer Molenbeek-Saint-Jean &#40;VBB59473&#41;")<br>Nouveau](https://immovlan.be/fr/detail/studio/a-louer/1080/molenbeek-saint-jean/vbb59473 "Studio à louer Molenbeek-Saint-Jean (VBB59473)")
+
+**870 €**
+
+[Studio à louer](https://immovlan.be/fr/detail/studio/a-louer/1080/molenbeek-saint-jean/vbb59473 "Studio à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+En plein cœur de Bruxelles, dans le quartier Brunfaut, Home Invest Belgium a réussi le pari de reconvertir un ancien site semi-industriel en logement résidentiel tout confort. Le studio de 47 m² + terrasse 12 m² situé au 6ème et dernier étage, vue dégagée, comprend: hall d'entrée, living 27 m² avec cuisine ouverte, salle de douches, cave. Emplacements vélos. Possibilité parking. PEB B+. Charges 95€ (communs, chauffage, eau chaude, assurance, frais de gestion). Renseignements et visites ### ### . 95€ (communs, chauffage, eau chaude, assurance, frais de gestion) [En savoir plus ?](https://immovlan.be/fr/detail/studio/a-louer/1080/molenbeek-saint-jean/vbb59473)
+
+**47** m²
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/studio/a-louer/1080/molenbeek-saint-jean/vbb59473)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
+[![Appartement à louer Molenbeek-Saint-Jean (VBB59472)](https://api-core.immovlan.be/v1/property/VBB59472/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB59472&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb59472 "Appartement à louer Molenbeek-Saint-Jean (VBB59472)")
+
+**1 175 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb59472 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Au cœur de Bruxelles, dans le quartier Brunfaut, Home Invest Belgium a réussi la reconversion d'un ancien site semi-industriel en logements confortables. Appartement 2 chambres + terrasse de 90m² au 4ème étage comprenant : hall d'entrée avec toilette séparée, living avec cuisine ouverte et terrasse, 2 chambres, salle de bain. Local à vélos. Parking disponible, possibilité de louer une cave (€30). Charges : 150€ (charges, chauffage, eau chaude, assurance, frais de gestion). PEB A-. Info : ### - ### . 150€ (charges, chauffage, eau chaude, assurance, frais de gestion) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb59472)
+
+**2** Chambre(s) **89** m² **7 m²** Terrasse
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb59472)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
+
+[![Appartement à louer Laeken (VBB59463)](https://api-core.immovlan.be/v1/property/VBB59463/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB59463&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59463 "Appartement à louer Laeken (VBB59463)")
+
+**900 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59463 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+Laeken (réf : 8170) Situé à deux pas du plateau du Heysel, CENTURY 21 Expo vous propose de découvrir ce superbe appartement logé au 1er étage d'une petite copropriété construite en 2017. L'appartement de 66m² habitables se compose d'un hall de jour, un séjour avec cuisine équipée donnant accès à une spacieuse terrasse de 14m², une salle de bains, un WC séparé, une chambre à coucher (donnant également accès à la terasse) et une buanderie. Un emplacement de parking souterrain est inclus dans la location. L'appartement dispose de châssis en aluminium à double vitrage Haut Rendement, une chaudière individuelle au gaz, une installation électrique en conformité et un système de ventilation. Libre à partir du 15/09/2024 - Plus d'informations ou une visite? Contactez notre agence au ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59463)
+
+**1** Chambre(s) **66** m² **14 m²** Terrasse
+
+![Century 21 - Expo](https://api-core.immovlan.be/v1/prouser/IN00001543/logo/French/webp/Small "Century 21 - Expo")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59463)
+
+E-mail
+
+Appeler
+
++32 2 476 21 21
 
 [![Appartement à louer Ganshoren (VBB58721)](https://api-core.immovlan.be/v1/property/VBB58721/thumbnail-webp/Medium "Appartement à louer Ganshoren &#40;VBB58721&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721 "Appartement à louer Ganshoren (VBB58721)")
 
@@ -65,31 +140,6 @@ E-mail
 Appeler
 
 +32 497 49 46 81
-
-[![Appartement à louer Jette (VBB58175)](https://api-core.immovlan.be/v1/property/VBB58175/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB58175&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175 "Appartement à louer Jette (VBB58175)")
-
-**1 000 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-ERA Chatelain vous présente ce charmant appartement 2 chambres, idéalement situé au coeur de la commune de Jette. Ce dernier se compose d'un hall d'entrée, d'une lumineux séjour, d'une cuisine équipée, de 2 chambres, un salle de bain ainsi que d'une cave. Eléments techniques : Double vitrage, chaudière collective gaz, PEB E. Situation idéale, à proximité de nombreux commerces, transports en commun, écoles, parcs et hopital. Charges : 75€ Provision pour le chauffage Disponibilité : 1er octobre 2024 Infos et visites : ### . Découvrez tous nos biens à louer à Bruxelles, disponibles en exclusivité sur notre site era.be/chatelain. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175)
-
-**2** Chambre(s) **81** m² **1** Salle(s) de bain
-
-![ERA - Châtelain Schuman](https://api-core.immovlan.be/v1/prouser/IN00564009/logo/French/webp/Small "ERA - Châtelain Schuman")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb58175)
-
-E-mail
-
-Appeler
-
-+32 2 705 07 00
 
 [![Appartement à louer Laeken (VBB58155)](https://api-core.immovlan.be/v1/property/VBB58155/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB58155&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb58155 "Appartement à louer Laeken (VBB58155)")
 
@@ -459,56 +509,6 @@ LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports
 contacter
 
 [détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540)
-
-E-mail
-
-Appeler
-
-+32 2 410 10 30
-
-[![Appartement à louer Laeken (VBB53539)](https://api-core.immovlan.be/v1/property/VBB53539/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53539&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer Laeken (VBB53539)")
-
-**900 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 2ème étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539)
-
-**1** Chambre(s) **60** m² **1** Salle(s) de bain
-
-![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53539)
-
-E-mail
-
-Appeler
-
-+32 2 410 10 30
-
-[![Appartement à louer Laeken (VBB53538)](https://api-core.immovlan.be/v1/property/VBB53538/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53538&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer Laeken (VBB53538)")
-
-**900 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 1er étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538)
-
-**1** Chambre(s) **60** m² **1** Salle(s) de bain
-
-![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53538)
 
 E-mail
 
