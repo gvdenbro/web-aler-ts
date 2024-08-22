@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 112 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 110 biens"
 ===============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/brussel/1020/20112294)
@@ -262,21 +262,6 @@
     
 * Publicité
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105677)
-    ----------------------------------------------------------------------------------------
-    
-    1 000 € (+ 75 €) 1000€ + 75€ par mois
-    
-    2 ch. 2 chambres · 81 m² mètres carrés
-    
-    1090 Jette
-    
-    JETTE - APPARTEMENT 2 CHAMBRES DE 81M²
-    
-    ![ERA Châtelain - Schuman](https://media.immowebstatic.be/customers/0012p00002TxttcAAB/logo/b018ae55c19ea579ede8b36b04ebee88.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/e54c4792-c779-4f33-a219-535b72217473/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20105662)
     --------------------------------------------------------------------------------------------
     
@@ -304,21 +289,6 @@
     Appartement plein de charme et lumineux
     
     ![](https://media-resize.immowebstatic.be/classifieds/f303d4b1-bb78-4c99-be64-1d2230102f6f/736x736/d998142a15525a87d0f1c9a9427673c0.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104888)
-    ----------------------------------------------------------------------------------------
-    
-    1 000 € (+ 75 €) 1000€ + 75€ par mois
-    
-    2 ch. 2 chambres · 81 m² mètres carrés
-    
-    1090 Jette
-    
-    JETTE - APPARTEMENT 2 CHAMBRES DE 81M²
-    
-    ![ERA Châtelain - Schuman](https://media.immowebstatic.be/customers/0012p00002TxttcAAB/logo/b018ae55c19ea579ede8b36b04ebee88.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/3c824c6c-890d-42ee-b2d6-662a09931175/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20104865)
     ----------------------------------------------------------------------------------------
@@ -416,6 +386,36 @@
     Studio lumineux et spacieux
     
     ![](https://media-resize.immowebstatic.be/classifieds/05c8e31f-6864-4a8f-ad58-4211b966d697/736x736/74a5b73865d3988661d42d30d3059c16.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20102958)
+    --------------------------------------------------------------------------------------------
+    
+    900 € (+ 35 €) 900€ + 35€ par mois
+    
+    1 ch. 1 chambre · 72 m² mètres carrés
+    
+    1020 Bruxelles
+    
+    Magnifique appartement dans un quartier calme
+    
+    ![NJR Real Estate](https://media.immowebstatic.be/customers/0012p00002TxteuAAB/logo/49ee9a3493211f15eb3289ac218fb5f1.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/1caa8604-802d-4021-a5a8-663643d012c3/736x736/810f69b95df5c520c483d829a595f0b7.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20102223)
+    -------------------------------------------------------------------------------------------------------
+    
+    975 € (+ 50 €) 975€ + 50€ par mois
+    
+    1 ch. 1 chambre · 72 m² mètres carrés
+    
+    1080 Molenbeek-Saint-Jean
+    
+    Molenbeek - Canal | Appartement d'architecte meublé!
+    
+    ![RealtyCare](https://media.immowebstatic.be/customers/0012p00002TxtWFAAZ/logo/fc044543df888852b80605b40e1cc25c.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/021df0e5-22ac-4a53-b2e1-41d517fc84e8/736x736/d187ed65b1930af960cc02cc02f323b9.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
