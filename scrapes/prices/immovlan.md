@@ -366,7 +366,7 @@ Appeler
 
 +32 2 899 43 21
 
-[![Appartement à louer Laeken (VBB56626)](https://api-core.immovlan.be/v1/property/VBB56626/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB56626&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb56626 "Appartement à louer Laeken (VBB56626)")
+[![Appartement à louer Laeken (VBB56626)](https://api-core.immovlan.be/v1/property/VBB56626/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB56626&#41;")<br>Nouveau<br>Option](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb56626 "Appartement à louer Laeken (VBB56626)")
 
 **1 200 €**
 
