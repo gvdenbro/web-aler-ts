@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 109 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 108 biens"
 ===============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20114465)
@@ -395,19 +395,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/d2566bfd-8105-4493-91e1-507203e2d939/736x736/3cc6b15736b24b55dedb945374129a03.jpg)
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20103758)
-    ----------------------------------------------------------------------------------------
-    
-    1 150 € (+ 125 €) 1150€ + 125€ par mois
-    
-    2 ch. 2 chambres
-    
-    1090 Jette
-    
-    Appartement van 94m2 met parking
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/72294e71-5040-4422-a81b-4791e7769651/736x736/065f695ce9700e4d9c7248d0a8f12bd8.jpg)
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laken/1020/20103700)
     ----------------------------------------------------------------------------------------
     
@@ -422,6 +409,21 @@
     ![Dewaele Brussels (Tour & Taxis)](https://media.immowebstatic.be/customers/0012p00002TxtyiAAB/logo/373e5a3615623bbc981c0521ecd81ab4.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/b2aeead1-af38-4d93-bf75-1ad3043d6b7d/736x736/45f993a67037cc05dff668c75861e5b5.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20103671)
+    ----------------------------------------------------------------------------------------
+    
+    1 250 €/mois 1250€ par mois
+    
+    2 ch. 2 chambres · 94 m² mètres carrés
+    
+    1090 Jette
+    
+    Appartement 2 CH entièrement rénové avec terrasse !
+    
+    ![Citya Immobilier](https://media.immowebstatic.be/customers/0012p00002TxtbSAAR/logo/c7840d55f3074684f843909d16fd4f19.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/cad8e5a4-5afc-446a-91c7-ab7cc10fe997/736x736/2029a7e24c1b23c4832e23aa56458423.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
