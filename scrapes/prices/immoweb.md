@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 114 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 113 biens"
 ===============================================================
 
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20113133)
