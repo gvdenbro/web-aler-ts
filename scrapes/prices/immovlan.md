@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-58 résultats (1 - 20)
+59 résultats (1 - 20)
 
 Alerte Trier
 
@@ -140,6 +140,31 @@ E-mail
 Appeler
 
 +32 2 476 21 21
+
+[![Appartement à louer Laeken (VBB59539)](https://api-core.immovlan.be/v1/property/VBB59539/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB59539&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59539 "Appartement à louer Laeken (VBB59539)")
+
+**1 250 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59539 "Appartement à louer")
+-------------------------------------------------------------------------------------------------------------------
+
+1020 Laeken
+
+LAEKEN, bel appartement deux chambres de ±100m² dans une petite copropriété. L’appartement se compose comme suit : hall d’entrée, séjour de ±48m², cuisine full équipée (four, taque, hotte, frio, congélateur, lave-vaisselle), WC séparés, salle de bain (baignoire, lavabo) avec branchements pour la machine à laver, une chambre de ±10m², une chambre de ±12,5m². Toutes les mesures sont données à titre indicatif. Provisions pour charges de 110€/mois (communs). Parking OBLIGATOIRE de 100€/mois. Libre le 01/11/2024. PEB C+ 22 kg/(m²/an). RENSEIGNEMENTS TREVI LOCATION : ### [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59539)
+
+**2** Chambre(s) **100** m² **5 m²** Terrasse
+
+![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb59539)
+
+E-mail
+
+Appeler
+
++32 2 410 10 30
 
 [![Appartement à louer Jette (VBB59481)](https://api-core.immovlan.be/v1/property/VBB59481/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB59481&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59481 "Appartement à louer Jette (VBB59481)")
 
@@ -490,31 +515,6 @@ E-mail
 Appeler
 
 +32 2 899 43 21
-
-[![Appartement à louer Molenbeek-Saint-Jean (RBN99731)](https://api-core.immovlan.be/v1/property/RBN99731/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBN99731&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731 "Appartement à louer Molenbeek-Saint-Jean (RBN99731)")
-
-**1 400 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731 "Appartement à louer")
----------------------------------------------------------------------------------------------------------------------------------
-
-1080 Molenbeek-Saint-Jean
-
-Molenbeek-Saint-Jean || Situé sur les rives du canal, dans un prestigieux projet de nouvelle construction, vous trouverez ce spacieux appartement de ±114 m². Il dispose d'un salon lumineux, d'une cuisine ouverte entièrement équipée (y compris réfrigérateur, congélateur, cuisinière électrique, lave-vaisselle, four) et d'une terrasse. Vous y trouverez également 3 chambres, une salle de bains et une buanderie. Caractéristiques : - Nouveau projet de construction répondant aux dernières exigences de performance énergétique - Finition luxueuse - Situé dans un quartier en plein développement au bord du canal - Près des écoles, des supermarchés, des transports en commun et des commerces locaux - Adoucisseur d'eau - Disponible immédiatement - 200€ de frais communs - Les frais de consommation doivent être payés séparément [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731)
-
-**3** Chambre(s) **115** m² **1** Salle(s) de bain
-
-![Dewaele Brussels South](https://api-core.immovlan.be/v1/prouser/RMG01397100/logo/French/webp/Small "Dewaele Brussels South")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731)
-
-E-mail
-
-Appeler
-
-+32 2 344 44 22
 
 * [Précédent](#)
 * [**1**](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
