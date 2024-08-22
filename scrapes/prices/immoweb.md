@@ -1,6 +1,21 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 112 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 113 biens"
 ===============================================================
 
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/20113062)
+    -----------------------------------------------------------------------------------------
+    
+    1 250 € (+ 110 €) 1250€ + 110€ par mois
+    
+    2 ch. 2 chambres · 100 m² mètres carrés
+    
+    1020 Laeken
+    
+    Bel appartement deux chambres dans une petite copropriété
+    
+    ![TREVI NORD](https://media.immowebstatic.be/customers/0012p00002TxtwiAAB/logo/9ab7aa3be9d1b6e02e5ec6286d42b187.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/aa0b49fe-d712-45e6-badd-9fdd4da800ce/736x736/0b2fa61811f280c3f12cba5e02e3ca31.jpg)
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20112986)
     ----------------------------------------------------------------------------------------
     
@@ -46,6 +61,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/4f2841fd-55dd-404e-b939-95e91726d096/736x736/d16e98db56c9a7b02f5b469f2fb72fc7.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/brussel/1020/20112294)
     ------------------------------------------------------------------------------------------
     
@@ -56,8 +73,6 @@
     1020 Brussel
     
     ![](https://media-resize.immowebstatic.be/classifieds/8a83b341-fd42-48a8-b686-ce8a7fddb886/736x736/54b24dc34897f68d705a5e662567a439.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20112225)
     ----------------------------------------------------------------------------------------
@@ -74,6 +89,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/26068a48-1553-43ba-9fcc-db7b66ae2757/736x736/f8c9cadbeadc1a90aa1ca1ae007b8cfc.jpg)
     
+* Publicité
+    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/jette/1090/20112003)
     ------------------------------------------------------------------------------------------------
     
@@ -86,8 +103,6 @@
     Bel appartement 1 chambre avec jardin
     
     ![](https://media-resize.immowebstatic.be/classifieds/b6c01906-b3bc-4331-867b-68861bf07077/736x736/d3c04da99ca1c4d2003401428a5b701f.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20111188)
     -------------------------------------------------------------------------------------------------------
@@ -104,6 +119,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/c497015b-d755-41c5-87e7-87b862e3a182/736x736/3deb64dfcdb096a9af48cddf0efbdcaf.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20110588)
     ----------------------------------------------------------------------------------------
     
@@ -116,8 +133,6 @@
     Apparemment à louer
     
     ![](https://media-resize.immowebstatic.be/classifieds/3d7b5fca-a9c3-475a-a64b-6168ee630aea/736x736/bfeef9fa43e84c9cfb8bdf88ab862e08.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/20110265)
     -----------------------------------------------------------------------------------------
@@ -251,6 +266,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/18e21ce8-315d-455f-8988-67df226bd98b/736x736/d5d4b0ec9283234deb1ff9972054b9fe.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/sint-jans-molenbeek/1080/20107000)
     ------------------------------------------------------------------------------------------------------
     
@@ -265,8 +282,6 @@
     ![BBF nv](https://media.immowebstatic.be/customers/0012p00002W7iXKAAZ/logo/37cd584a6be2260586f777a95ef5a6a3.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/b5462a2d-fa93-4dbe-8122-471bf67ab0c6/736x736/f10fc125e54b8c243b05e32c14ab0d27.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/koekelberg/1081/20106957)
     ---------------------------------------------------------------------------------------------
@@ -403,21 +418,6 @@
     ![Dewaele Brussels (Tour & Taxis)](https://media.immowebstatic.be/customers/0012p00002TxtyiAAB/logo/373e5a3615623bbc981c0521ecd81ab4.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/b2aeead1-af38-4d93-bf75-1ad3043d6b7d/736x736/45f993a67037cc05dff668c75861e5b5.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20103671)
-    ----------------------------------------------------------------------------------------
-    
-    1 250 €/mois 1250€ par mois
-    
-    2 ch. 2 chambres · 94 m² mètres carrés
-    
-    1090 Jette
-    
-    Appartement 2 CH entièrement rénové avec terrasse !
-    
-    ![Citya Immobilier](https://media.immowebstatic.be/customers/0012p00002TxtbSAAR/logo/c7840d55f3074684f843909d16fd4f19.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/cad8e5a4-5afc-446a-91c7-ab7cc10fe997/736x736/2029a7e24c1b23c4832e23aa56458423.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)

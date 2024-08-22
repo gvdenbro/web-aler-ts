@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-56 résultats (1 - 20)
+57 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBO68622)](https://api-core.immovlan.be/v1/property/RBO68622/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO68622&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622 "Appartement à louer Molenbeek-Saint-Jean (RBO68622)")
+
+**1 490 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+L'appartement de 101 m² est situé au centre de la rue Alphonse Vandenpeereboom 162 à Molenbeek. Situé au 12e étage, l'appartement offre une vue magnifique sur l'Atomium, le centre-ville de Bruxelles et le Palais de Justice. L'appartement est luxueusement fini et se compose d'un salon avec cuisine ouverte, 3 chambres spacieuses avec vue sur le centre-ville de Bruxelles. Il y a une salle de douche avec toilettes et une salle de bain avec baignoire et douche. Il y a des toilettes séparées pour les visiteurs. L'appartement est équipé de placards encastrés sur mesure pour un espace de rangement supplémentaire. Il y a également une belle terrasse de 5 m². Cet appartement est situé juste en face de la gare de l'Ouest, ce qui permet d'accéder au train, au tram, au métro et au bus. Provision 150?€ par mois : chauffage, eau chaude et parties communes. L'électricité et l'eau froide sont à votre charge. (compteurs individuels). Une cave en sous-sol est prévue dans le prix. Place de parking : 100?€ Intéressé par une visite ? Faites votre demande en ligne dès maintenant à www.Dewaele.com [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622)
+
+**3** Chambre(s) **101** m² **5 m²** Terrasse
+
+![Dewaele Brussels Tour & Taxi](https://api-core.immovlan.be/v1/prouser/01215981/logo/French/webp/Small "Dewaele Brussels Tour & Taxi")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622)
+
+E-mail
+
+Appeler
+
++32 2 223 23 23
 
 [![Studio à louer Molenbeek-Saint-Jean (VBB59473)](https://api-core.immovlan.be/v1/property/VBB59473/thumbnail-webp/Medium "Studio à louer Molenbeek-Saint-Jean &#40;VBB59473&#41;")<br>Nouveau](https://immovlan.be/fr/detail/studio/a-louer/1080/molenbeek-saint-jean/vbb59473 "Studio à louer Molenbeek-Saint-Jean (VBB59473)")
 
@@ -490,31 +515,6 @@ E-mail
 Appeler
 
 +32 2 899 43 21
-
-[![Appartement à louer Laeken (VBB53541)](https://api-core.immovlan.be/v1/property/VBB53541/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53541&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer Laeken (VBB53541)")
-
-**925 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au Rez-de-chaussée : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 20,5m² (4,9 x 4,2) Coin douche (douche, lavabo, WC) Cour de ± 10m² Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541)
-
-**1** Chambre(s) **60** m² **10 m²** Terrasse
-
-![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541)
-
-E-mail
-
-Appeler
-
-+32 2 410 10 30
 
 * [Précédent](#)
 * [**1**](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
