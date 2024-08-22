@@ -102,6 +102,8 @@
     
     1020 Brussel
     
+    Appartement
+    
     ![](https://media-resize.immowebstatic.be/classifieds/8a83b341-fd42-48a8-b686-ce8a7fddb886/736x736/53657fc2dd0c182dcfda07c3d5f66ba8.jpg)
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20112225)
