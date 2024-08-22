@@ -1,6 +1,21 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 110 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 111 biens"
 ===============================================================
 
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20112225)
+    ----------------------------------------------------------------------------------------
+    
+    895 € (+ 50 €) 895€ + 50€ par mois
+    
+    1 ch. 1 chambre · 80 m² mètres carrés
+    
+    1090 JETTE
+    
+    Superbe appartement 1 chambre avec balcon!
+    
+    ![Grant Properties](https://media.immowebstatic.be/customers/0012p00003ZPBZhAAP/logo/5888e7ed293fa1e97de9ab425047a61b.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/26068a48-1553-43ba-9fcc-db7b66ae2757/736x736/f8c9cadbeadc1a90aa1ca1ae007b8cfc.jpg)
+    
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/jette/1090/20112003)
     ------------------------------------------------------------------------------------------------
     
@@ -42,6 +57,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/3d7b5fca-a9c3-475a-a64b-6168ee630aea/736x736/bfeef9fa43e84c9cfb8bdf88ab862e08.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/laeken/1020/20110265)
     -----------------------------------------------------------------------------------------
     
@@ -56,8 +73,6 @@
     ![CENTURY 21 Expo](https://media.immowebstatic.be/customers/0012p00002Txsi4AAB/logo/e0edb14f9920e9a1ffa9b323bc67a8ef.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/6de9ae62-5a02-4651-85e5-44b93b20c6c6/736x736/b1c9c76dac88881b6767423126269dc7.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20072528)
     ----------------------------------------------------------------------------------------
@@ -74,6 +89,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/67243842-9075-4a82-9661-cd4c00bc3f2d/736x736/bbe680b705735ce23e0d2bf599eba188.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20088634)
     -------------------------------------------------------------------------------------------------------
     
@@ -89,8 +106,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/2bad3159-9a3a-4dc2-bc56-6deb10bdc164/736x736/b51131d4b29a1ee2fd6ce0fba8757848.jpg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108926)
     -------------------------------------------------------------------------------------------------------
     
@@ -102,6 +117,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/d37dc35f-87d9-40d2-aed8-783aafb82d2c/736x736/b8d699b6bbe878b2d60107bfa0000cdf.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20108768)
     -------------------------------------------------------------------------------------------------------
     
@@ -112,8 +129,6 @@
     1080 Molenbeek-Saint-Jean
     
     ![](https://media-resize.immowebstatic.be/classifieds/f6e97d02-1ab9-40e3-a884-de4eacad3260/736x736/fd4015944aff16f55e13a2c33ac8ef33.jpg)
-    
-* Publicité
     
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/brussel/1020/20108283)
     --------------------------------------------------------------------------------------------------
@@ -249,6 +264,8 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/e54c4792-c779-4f33-a219-535b72217473/736x736/4f4b0bcabf2eb8577b20b5e0251abacf.jpg)
     
+* Publicité
+    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20105662)
     --------------------------------------------------------------------------------------------
     
@@ -263,8 +280,6 @@
     ![Sorimo  - Bruxelles](https://media.immowebstatic.be/customers/0012p00002Txsw0AAB/logo/5c3fb3ab9af6c0ea072d857574e06990.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/92474f8f-c84f-4c59-a39f-81dc9a3aeb77/736x736/26e71d1f03f5a904bd2d3c6f8f612b0b.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105625)
     ----------------------------------------------------------------------------------------
@@ -405,21 +420,6 @@
     ![NJR Real Estate](https://media.immowebstatic.be/customers/0012p00002TxteuAAB/logo/49ee9a3493211f15eb3289ac218fb5f1.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/1caa8604-802d-4021-a5a8-663643d012c3/736x736/810f69b95df5c520c483d829a595f0b7.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20102223)
-    -------------------------------------------------------------------------------------------------------
-    
-    975 € (+ 50 €) 975€ + 50€ par mois
-    
-    1 ch. 1 chambre · 72 m² mètres carrés
-    
-    1080 Molenbeek-Saint-Jean
-    
-    Molenbeek - Canal | Appartement d'architecte meublé!
-    
-    ![RealtyCare](https://media.immowebstatic.be/customers/0012p00002TxtWFAAZ/logo/fc044543df888852b80605b40e1cc25c.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/021df0e5-22ac-4a53-b2e1-41d517fc84e8/736x736/d187ed65b1930af960cc02cc02f323b9.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
