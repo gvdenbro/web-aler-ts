@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 110 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 109 biens"
 ===============================================================
 
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/brussel/1020/20112294)
