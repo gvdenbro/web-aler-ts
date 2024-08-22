@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-55 résultats (1 - 20)
+56 résultats (1 - 20)
 
 Alerte Trier
 
@@ -90,6 +90,31 @@ E-mail
 Appeler
 
 +32 2 476 21 21
+
+[![Appartement à louer Jette (VBB59481)](https://api-core.immovlan.be/v1/property/VBB59481/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB59481&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59481 "Appartement à louer Jette (VBB59481)")
+
+**1 150 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59481 "Appartement à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1090 Jette
+
+\--------------- Quartier Esseghem (Jette) --------------- Idéalement situé dans le quartier d'Esseghem à mi-chemin entre la Basilique, Tour & Taxis, les Marais et le Parc de Laeken. Vous bénéficierez d'une proximité exceptionnelle avec les écoles, les commerces de proximité, la grande distribution, les transports en commun et de nombreux espaces verts. L'appartement, fraîchement rénové, se compose comme suit : un hall d'entrée avec un espace vestiaire qui donne accès à un lumineux salon de 31 m², ainsi qu'à une cuisine semi-équipée de 8 m² offrant une vue dégagée sur le salon. Un hall de nuit dessert deux chambres de 14 m² et 10 m². La première chambre donne accès à une terrasse de 3 m² offrant une magnifique vue dégagée. On trouve également un débarras de 2 m², une toilette séparée et une salle de douche. L'appartement est complété par une cave et un emplacement de parking en option. D'un point de vue technique : PEB D, châssis double vitrage, chauffage au gaz individuel, chaudière à condensation. Cet appartement est disponible immédiatement. Ne manquez pas cette opportunité ! [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59481)
+
+**2** Chambre(s) **75** m² **3 m²** Terrasse
+
+![J&J Properties](https://api-core.immovlan.be/v1/prouser/IN00562713/logo/French/webp/Small "J&J Properties")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59481)
+
+E-mail
+
+Appeler
+
++32 2 770 76 00
 
 [![Appartement à louer Ganshoren (VBB58721)](https://api-core.immovlan.be/v1/property/VBB58721/thumbnail-webp/Medium "Appartement à louer Ganshoren &#40;VBB58721&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1083/ganshoren/vbb58721 "Appartement à louer Ganshoren (VBB58721)")
 
@@ -484,31 +509,6 @@ LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports
 contacter
 
 [détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53541)
-
-E-mail
-
-Appeler
-
-+32 2 410 10 30
-
-[![Appartement à louer Laeken (VBB53540)](https://api-core.immovlan.be/v1/property/VBB53540/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB53540&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer Laeken (VBB53540)")
-
-**900 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540 "Appartement à louer")
--------------------------------------------------------------------------------------------------------------------
-
-1020 Laeken
-
-LAEKEN, aux portes de Bruxelles, à deux pas de l'Atomium, proche des transports, commerces et de nombreuses commodités, appartement 1 chambre de ± 60m². Au 3ème étage : Séjour de ± 17m² (4,3 x 4) Cuisine (four, taques, hotte, frigo/ congélateur, connexion lave-linge) Chambre de ± 17m² (4,3 x 4) Coin douche (douche, lavabo, WC) Pas de cave Provision charges : 70€/ mois - Frais communs + Provision : eau froide, chauffage Disponible 20/08/2024 [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540)
-
-**1** Chambre(s) **60** m² **1** Salle(s) de bain
-
-![TREVI NORD](https://api-core.immovlan.be/v1/prouser/IN00563881/logo/French/webp/Small "TREVI NORD")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb53540)
 
 E-mail
 
