@@ -346,7 +346,7 @@
     
     1090 Jette
     
-    Appartement plein de charme et lumineux
+    (visites suspendues) Appartement plein de charme et lumineux
     
     ![](https://media-resize.immowebstatic.be/classifieds/f303d4b1-bb78-4c99-be64-1d2230102f6f/736x736/d998142a15525a87d0f1c9a9427673c0.jpg)
     

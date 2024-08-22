@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-57 résultats (1 - 20)
+58 résultats (1 - 20)
 
 Alerte Trier
 
@@ -15,6 +15,31 @@ Alerte Trier
 * [Code postal décroissant](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1&sort-by=zipcode&sort-direction=descending)
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
+
+[![Appartement à louer Jette (VBB59514)](https://api-core.immovlan.be/v1/property/VBB59514/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB59514&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514 "Appartement à louer Jette (VBB59514)")
+
+**895 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514 "Appartement à louer")
+------------------------------------------------------------------------------------------------------------------
+
+1090 Jette
+
+Superbe appartement 1 chambre rénové avec goût et matériaux de qualité! Celui-ci se trouve au 5e et dernier étage et se compose comme suit: hall d'entrée avec porte sécurisée, parlophone, vestiaires et buanderie, living de ±31m², cuisine équipée avec bar donnant sur le living, 1 chambre de ±14m² avec balcon orienté EST sans vis-à-vis avec vue sur l'Atomium, douche à l'Italienne et toilette séparée. Cave au rez-de-chaussée et box garage obligatoire (+125€/mois). Charges de 50€/mois (entretien et gestion des parties communes, électricité, nettoyage,...). Double vitrage partout. PEB G (nouveau PEB en cours suite au rénovation). Libre le 15/09 2024! [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514)
+
+**1** Chambre(s) **80** m² **3 m²** Terrasse
+
+![Grant Properties](https://api-core.immovlan.be/v1/prouser/IN00562554/logo/French/webp/Small "Grant Properties")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514)
+
+E-mail
+
+Appeler
+
++32 2 772 45 05
 
 [![Appartement à louer Molenbeek-Saint-Jean (RBO68622)](https://api-core.immovlan.be/v1/property/RBO68622/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO68622&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622 "Appartement à louer Molenbeek-Saint-Jean (RBO68622)")
 
@@ -490,31 +515,6 @@ E-mail
 Appeler
 
 +32 2 344 44 22
-
-[![Appartement à louer Jette (VBB53924)](https://api-core.immovlan.be/v1/property/VBB53924/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB53924&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb53924 "Appartement à louer Jette (VBB53924)")
-
-**1 195 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb53924 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Dans une construction bâtie en 2012, finitions soignées, agréable appartement 2 chambres de 86 m² + terrasse de 13 m² situé au rez-de-chaussée de l’immeuble qui offre à ses résidents toutes les commodités de confort et d'habitabilité. Il se compose de : hall d'entrée avec wc indépendant, séjour avec cuisine ouverte hyper équipée offrant accès à la terrasse, débarras, 2 chambres et salle de bain. Parquet dans l’ensemble de l’appartement sauf dans les pièces d’eau. Chaudière individuelle avec thermostat. Châssis en PVC à double vitrage. Possibilité de louer un emplacement de parking en sous-sol. Proximité commerces (Colruyt) et métro (Pannenhuis). Accès aisé vers l’école Européenne. Provisions charges communes 110€ -Possibilité de louer une cave : 30€/mois - Renseignements et visites : ### - ### 110€ (communs, assurance, entretien chaudière, frais gestion) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb53924)
-
-**2** Chambre(s) **88** m² **6 m²** Terrasse
-
-![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb53924)
-
-E-mail
-
-Appeler
-
-+32 2 899 43 21
 
 * [Précédent](#)
 * [**1**](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
