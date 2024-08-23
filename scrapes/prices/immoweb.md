@@ -10,7 +10,9 @@
     
     1080 Sint-Jans-Molenbeek
     
-    ![](https://media-resize.immowebstatic.be/classifieds/f13d3a34-4a54-4a68-a0e3-6c2d6d837749/736x736/87ebbaea04419186ae856f893bc5a364.jpg)
+    Superbe appartement quartier Mettewie en parfait état
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/f13d3a34-4a54-4a68-a0e3-6c2d6d837749/736x736/9ce7ab1a08d3bb11e879e7fdaee09fef.jpg)
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20072528)
     ----------------------------------------------------------------------------------------
