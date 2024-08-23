@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-59 résultats (1 - 20)
+58 résultats (1 - 20)
 
 Alerte Trier
 
