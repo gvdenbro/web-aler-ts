@@ -16,6 +16,31 @@ Alerte Trier
 
 Critères [Carte](https://immovlan.be/fr/map/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
 
+[![Appartement à louer Molenbeek-Saint-Jean (VBB60365)](https://api-core.immovlan.be/v1/property/VBB60365/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB60365&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb60365 "Appartement à louer Molenbeek-Saint-Jean (VBB60365)")
+
+**1 450 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb60365 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Idéalement situé à proximité de la chaussée de Gand, un appartement duplex 1er occupation situé au 2ème et dernier étage d'une maison. L’appartement est composé d'un hall d'entrée de +/-5m², d'une toilette de +/-2m², d’une vaste pièce à vivre de +/- 22m² avec cuisine équipée, une chambre de +/-14m². A l’étage, une spacieuse chambre de +/-18m², une chambre de +/-14m², salle de douche de +/-3m², une toilette de +/-2m².Équipements: double vitrage, thermostat, chaudière au gaz. Pas de charges. Libre immédiatement. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb60365)
+
+**3** Chambre(s) **80** m²
+
+![ESPACE IMMO BRUSSELS NORD](https://api-core.immovlan.be/v1/prouser/IN00563582/logo/French/webp/Small "ESPACE IMMO BRUSSELS NORD")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb60365)
+
+E-mail
+
+Appeler
+
++32 2 427 89 79
+
 [![Appartement à louer Jette (VBB59514)](https://api-core.immovlan.be/v1/property/VBB59514/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB59514&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514 "Appartement à louer Jette (VBB59514)")
 
 **895 €**
@@ -390,31 +415,6 @@ E-mail
 Appeler
 
 +32 2 733 70 70
-
-[![Appartement à louer Molenbeek-Saint-Jean (VBB53639)](https://api-core.immovlan.be/v1/property/VBB53639/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB53639&#41;")<br>Prix modifié](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb53639 "Appartement à louer Molenbeek-Saint-Jean (VBB53639)")
-
-**1 450 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb53639 "Appartement à louer")
----------------------------------------------------------------------------------------------------------------------------------
-
-1080 Molenbeek-Saint-Jean
-
-Idéalement situé à proximité de la chaussée de Gand, un appartement duplex 1er occupation situé au 2ème et dernier étage d'une maison. L’appartement est composé d'un hall d'entrée de +/-5m², d'une toilette de +/-2m², d’une vaste pièce à vivre de +/- 22m² avec cuisine équipée, une chambre de +/-14m². A l’étage, une spacieuse chambre de +/-18m², une chambre de +/-14m², salle de douche de +/-3m², une toilette de +/-2m².Équipements: double vitrage, thermostat, chaudière au gaz. Pas de charges. Libre immédiatement. [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb53639)
-
-**3** Chambre(s) **80** m²
-
-![ESPACE IMMO BRUSSELS NORD](https://api-core.immovlan.be/v1/prouser/IN00563582/logo/French/webp/Small "ESPACE IMMO BRUSSELS NORD")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb53639)
-
-E-mail
-
-Appeler
-
-+32 2 427 89 79
 
 [![Appartement à louer Molenbeek-Saint-Jean (RBL80392)](https://api-core.immovlan.be/v1/property/RBL80392/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBL80392&#41;")<br>Best of](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer Molenbeek-Saint-Jean (RBL80392)")
 
