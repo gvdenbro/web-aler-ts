@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 109 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 107 biens"
 ===============================================================
 
 * [Rez-de-chaussée](https://www.immoweb.be/fr/annonce/rez-de-chaussee/a-louer/molenbeek-saint-jean/1080/20116241)
@@ -341,21 +341,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/6a964d06-d059-4dd6-bc9b-0205b36ff84e/736x736/9f68cefea2980f284fb37e867bfe67ad.jpg)
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20106884)
-    ----------------------------------------------------------------------------------------
-    
-    850 € (+ 25 €) 850€ + 25€ par mois
-    
-    2 ch. 2 chambres · 74 m² mètres carrés
-    
-    1090 jette
-    
-    QUARTIER MIROIR - APPART NON-MEUBLE DE +/- 74m2 + BALCON
-    
-    ![Kropek-Immobilier](https://media.immowebstatic.be/customers/001P60000032Nq2IAE/logo/6d4e263458b58e1b7b79cb8e80e1b657.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/132a4521-3bef-4e89-99e4-58631118ca13/736x736/a1d28a2041fd5f00280c0b0a7efcde19.jpg)
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20106180)
     --------------------------------------------------------------------------------------------
     
@@ -422,6 +407,19 @@
     Appartement :rez à louer Molenbeek Karreveld, r M. Grüner 4
     
     ![](https://media-resize.immowebstatic.be/classifieds/ed745006-04d1-4adc-a4cc-2785105a683b/736x736/0656ead5fbbe74e1fdcec87f7c81f48d.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20104579)
+    --------------------------------------------------------------------------------------------
+    
+    1 190 €/mois 1190€ par mois
+    
+    2 ch. 2 chambres · 150 m² mètres carrés
+    
+    1020 Bruxelles
+    
+    ATOMIUM SUBLIME APPARTEMENT LUMINEUX ET SPACIEUX
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/d2566bfd-8105-4493-91e1-507203e2d939/736x736/3cc6b15736b24b55dedb945374129a03.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
