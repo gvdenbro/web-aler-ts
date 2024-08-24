@@ -1,6 +1,6 @@
 .btn-contact-property \*{pointer-events:none}.lazy-img{max-width:100%;width:100%}
 
-58 résultats (1 - 20)
+57 résultats (1 - 20)
 
 Alerte Trier
 
@@ -40,31 +40,6 @@ E-mail
 Appeler
 
 +32 2 427 89 79
-
-[![Appartement à louer Jette (VBB59514)](https://api-core.immovlan.be/v1/property/VBB59514/thumbnail-webp/Medium "Appartement à louer Jette &#40;VBB59514&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514 "Appartement à louer Jette (VBB59514)")
-
-**895 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514 "Appartement à louer")
-------------------------------------------------------------------------------------------------------------------
-
-1090 Jette
-
-Superbe appartement 1 chambre rénové avec goût et matériaux de qualité! Celui-ci se trouve au 5e et dernier étage et se compose comme suit: hall d'entrée avec porte sécurisée, parlophone, vestiaires et buanderie, living de ±31m², cuisine équipée avec bar donnant sur le living, 1 chambre de ±14m² avec balcon orienté EST sans vis-à-vis avec vue sur l'Atomium, douche à l'Italienne et toilette séparée. Cave au rez-de-chaussée et box garage obligatoire (+125€/mois). Charges de 50€/mois (entretien et gestion des parties communes, électricité, nettoyage,...). Double vitrage partout. PEB G (nouveau PEB en cours suite au rénovation). Libre le 15/09 2024! [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514)
-
-**1** Chambre(s) **80** m² **3 m²** Terrasse
-
-![Grant Properties](https://api-core.immovlan.be/v1/prouser/IN00562554/logo/French/webp/Small "Grant Properties")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1090/jette/vbb59514)
-
-E-mail
-
-Appeler
-
-+32 2 772 45 05
 
 [![Appartement à louer Molenbeek-Saint-Jean (RBO68622)](https://api-core.immovlan.be/v1/property/RBO68622/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBO68622&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbo68622 "Appartement à louer Molenbeek-Saint-Jean (RBO68622)")
 
@@ -515,6 +490,31 @@ E-mail
 Appeler
 
 +32 2 899 43 21
+
+[![Appartement à louer Molenbeek-Saint-Jean (RBN99731)](https://api-core.immovlan.be/v1/property/RBN99731/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBN99731&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731 "Appartement à louer Molenbeek-Saint-Jean (RBN99731)")
+
+**1 400 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Molenbeek-Saint-Jean || Situé sur les rives du canal, dans un prestigieux projet de nouvelle construction, vous trouverez ce spacieux appartement de ±114 m². Il dispose d'un salon lumineux, d'une cuisine ouverte entièrement équipée (y compris réfrigérateur, congélateur, cuisinière électrique, lave-vaisselle, four) et d'une terrasse. Vous y trouverez également 3 chambres, une salle de bains et une buanderie. Caractéristiques : - Nouveau projet de construction répondant aux dernières exigences de performance énergétique - Finition luxueuse - Situé dans un quartier en plein développement au bord du canal - Près des écoles, des supermarchés, des transports en commun et des commerces locaux - Adoucisseur d'eau - Disponible immédiatement - 200€ de frais communs - Les frais de consommation doivent être payés séparément [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731)
+
+**3** Chambre(s) **115** m² **1** Salle(s) de bain
+
+![Dewaele Brussels South](https://api-core.immovlan.be/v1/prouser/RMG01397100/logo/French/webp/Small "Dewaele Brussels South")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbn99731)
+
+E-mail
+
+Appeler
+
++32 2 344 44 22
 
 * [Précédent](#)
 * [**1**](/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1)
