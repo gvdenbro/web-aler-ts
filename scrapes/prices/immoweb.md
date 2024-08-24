@@ -1,4 +1,4 @@
-"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 109 biens"
+"Appartement \\u00e0 louer - Laeken (et 4 de plus) - 107 biens"
 ===============================================================
 
 * [Studio](https://www.immoweb.be/fr/annonce/studio/a-louer/jette/1090/20117868)
@@ -14,36 +14,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/9c5e5b80-3bd0-40f4-9dbe-fb82acc6f9d4/736x736/2e1dfc0e47db46f1c560a30864cde2a1.jpg)
     
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/brussels/1020/20117829)
-    -------------------------------------------------------------------------------------------
-    
-    760 €/mois 760€ par mois
-    
-    1 ch. 1 chambre
-    
-    1020 Brussels
-    
-    Appartement avec toutes les commodités de base 45m2
-    
-    ![Square Egg Immo](https://media.immowebstatic.be/customers/001P60000071dePIAQ/logo/24686fadacc4541d2e6020e53e1362d6.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/39964a69-a3ea-4361-b202-ee2f620d6193/736x736/d038786108e4c268768d5d368040c57a.jpg)
-    
-* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/ganshoren/1083/20117615)
-    --------------------------------------------------------------------------------------------
-    
-    750 € (+ 50 €) 750€ + 50€ par mois
-    
-    1 ch. 1 chambre
-    
-    1083 Ganshoren
-    
-    Appartement Calme et Cosy 65m2
-    
-    ![Square Egg Immo](https://media.immowebstatic.be/customers/001P60000071dePIAQ/logo/24686fadacc4541d2e6020e53e1362d6.jpg)
-    
-    ![](https://media-resize.immowebstatic.be/classifieds/920c4840-de49-4c51-8578-918f16274451/736x736/049022a383fce1435047da4d4f6703e5.jpg)
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20117304)
     ----------------------------------------------------------------------------------------
     
@@ -56,8 +26,6 @@
     APPARTEMENT 1 CHAMBRE - ENTIEREMENT RENOVE
     
     ![](https://media-resize.immowebstatic.be/classifieds/c5705591-4284-4e17-8236-0b7f4153f60f/736x736/e819e2ceafae54d4e3982d4e61246ec2.jpg)
-    
-* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20116950)
     -------------------------------------------------------------------------------------------------------
@@ -144,6 +112,8 @@
     Appartement duplex RDC - 2 chambres
     
     ![](https://media-resize.immowebstatic.be/classifieds/72954be3-983b-4401-8255-05f4c2873702/736x736/bc14f387bc697c093fcad9284a0a95b0.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/sint-jans-molenbeek/1080/20113111)
     ------------------------------------------------------------------------------------------------------
@@ -276,8 +246,6 @@
     
     ![](https://media-resize.immowebstatic.be/classifieds/c497015b-d755-41c5-87e7-87b862e3a182/736x736/3deb64dfcdb096a9af48cddf0efbdcaf.jpg)
     
-* Publicité
-    
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20110588)
     ----------------------------------------------------------------------------------------
     
@@ -305,6 +273,8 @@
     ![CENTURY 21 Expo](https://media.immowebstatic.be/customers/0012p00002Txsi4AAB/logo/e0edb14f9920e9a1ffa9b323bc67a8ef.jpg)
     
     ![](https://media-resize.immowebstatic.be/classifieds/6de9ae62-5a02-4651-85e5-44b93b20c6c6/736x736/b1c9c76dac88881b6767423126269dc7.jpg)
+    
+* Publicité
     
 * [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/molenbeek-saint-jean/1080/20088634)
     -------------------------------------------------------------------------------------------------------
@@ -422,6 +392,34 @@
     1083 Ganshoren
     
     ![](https://media-resize.immowebstatic.be/classifieds/b00e66d7-aa6f-47cd-924e-f56c24178f7b/736x736/cd2cdabcc177436df388274716347e97.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/bruxelles/1020/20105662)
+    --------------------------------------------------------------------------------------------
+    
+    1 050 € (+ 185 €) 1050€ + 185€ par mois
+    
+    2 ch. 2 chambres · 80 m² mètres carrés
+    
+    1020 Bruxelles
+    
+    Parc de Laeken - Appart 2ch. avec balcon
+    
+    ![Sorimo  - Bruxelles](https://media.immowebstatic.be/customers/0012p00002Txsw0AAB/logo/5c3fb3ab9af6c0ea072d857574e06990.jpg)
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/92474f8f-c84f-4c59-a39f-81dc9a3aeb77/736x736/26e71d1f03f5a904bd2d3c6f8f612b0b.jpg)
+    
+* [Appartement](https://www.immoweb.be/fr/annonce/appartement/a-louer/jette/1090/20105625)
+    ----------------------------------------------------------------------------------------
+    
+    850 € (+ 20 €) 850€ + 20€ par mois
+    
+    1 ch. 1 chambre · 60 m² mètres carrés
+    
+    1090 Jette
+    
+    (visites suspendues) Appartement plein de charme et lumineux
+    
+    ![](https://media-resize.immowebstatic.be/classifieds/f303d4b1-bb78-4c99-be64-1d2230102f6f/736x736/d998142a15525a87d0f1c9a9427673c0.jpg)
     
 
 [Source](https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest)
