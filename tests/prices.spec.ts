@@ -168,7 +168,7 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
   }
 }
 
-test("immoweb", async ({ page, context }, testInfo) => {
+test.skip("immoweb", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.immoweb.be/fr/recherche/appartement/a-louer?countries=BE&postalCodes=BE-1020,BE-1080,BE-1083,BE-1090,BE-1081&minPrice=750&maxPrice=1500&page=1&orderBy=newest");
 
@@ -216,7 +216,7 @@ let scroll = async (args) => {
   }
 };
 
-test("immovlan", async ({ page, context }, testInfo) => {
+test.skip("immovlan", async ({ page, context }, testInfo) => {
 
   await page.goto("https://immovlan.be/fr/immobilier?transactiontypes=a-louer,en-colocation&towns=1020-laeken,1080-molenbeek-saint-jean,1081-koekelberg,1083-ganshoren,1090-jette&propertytypes=appartement&minprice=750&maxprice=1500&noindex=1");
 
