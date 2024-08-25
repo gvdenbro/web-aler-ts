@@ -341,31 +341,6 @@ Appeler
 
 +32 2 450 56 56
 
-[![Appartement à louer Molenbeek-Saint-Jean (VBB56954)](https://api-core.immovlan.be/v1/property/VBB56954/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB56954&#41;")<br>Nouveau](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer Molenbeek-Saint-Jean (VBB56954)")
-
-**970 €**
-
-[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer")
----------------------------------------------------------------------------------------------------------------------------------
-
-1080 Molenbeek-Saint-Jean
-
-Lumineux appartement 1 chambre de 74 m² + terrasse situé au rez-de-chaussée d’un immeuble récent (2018) et qui offre à ses résidents toutes les commodités de confort et d'habitabilité. Il se compose de : hall d'entrée desservant le séjour offrant accès à sa terrasse bien orientée (S) avec vue dégagée, cuisine ouverte super équipée (îlot), 1 chambre salle de bains, buanderie et cave en sous-sol. Parquet dans le séjour et les chambres. Châssis en aluminium à double vitrage. Possibilité parking et de cave (30€). Proximité transports en communs et commerces. Renseignements et visites : ### ### . PEB C+. 100€ (chauffage, charges communes, assurance abandon de recours, frais de gestion) 40€ (Provision chauffage et eau chaude) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
-
-**1** Chambre(s) **74** m²
-
-![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
-
-contacter
-
-[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
-
-E-mail
-
-Appeler
-
-+32 2 899 43 21
-
 [![Appartement à louer Molenbeek-Saint-Jean (RBL80392)](https://api-core.immovlan.be/v1/property/RBL80392/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;RBL80392&#41;")<br>Best of](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/rbl80392 "Appartement à louer Molenbeek-Saint-Jean (RBL80392)")
 
 **1 100 €**
@@ -390,6 +365,31 @@ E-mail
 Appeler
 
 +32 2 344 44 22
+
+[![Appartement à louer Molenbeek-Saint-Jean (VBB56954)](https://api-core.immovlan.be/v1/property/VBB56954/thumbnail-webp/Medium "Appartement à louer Molenbeek-Saint-Jean &#40;VBB56954&#41;")](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer Molenbeek-Saint-Jean (VBB56954)")
+
+**970 €**
+
+[Appartement à louer](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954 "Appartement à louer")
+---------------------------------------------------------------------------------------------------------------------------------
+
+1080 Molenbeek-Saint-Jean
+
+Lumineux appartement 1 chambre de 74 m² + terrasse situé au rez-de-chaussée d’un immeuble récent (2018) et qui offre à ses résidents toutes les commodités de confort et d'habitabilité. Il se compose de : hall d'entrée desservant le séjour offrant accès à sa terrasse bien orientée (S) avec vue dégagée, cuisine ouverte super équipée (îlot), 1 chambre salle de bains, buanderie et cave en sous-sol. Parquet dans le séjour et les chambres. Châssis en aluminium à double vitrage. Possibilité parking et de cave (30€). Proximité transports en communs et commerces. Renseignements et visites : ### ### . PEB C+. 100€ (chauffage, charges communes, assurance abandon de recours, frais de gestion) 40€ (Provision chauffage et eau chaude) [En savoir plus ?](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
+
+**1** Chambre(s) **74** m²
+
+![HOME INVEST BELGIUM](https://api-core.immovlan.be/v1/prouser/IN00563875/logo/French/webp/Small "HOME INVEST BELGIUM")
+
+contacter
+
+[détails](https://immovlan.be/fr/detail/appartement/a-louer/1080/molenbeek-saint-jean/vbb56954)
+
+E-mail
+
+Appeler
+
++32 2 899 43 21
 
 [![Appartement à louer Laeken (VBB56626)](https://api-core.immovlan.be/v1/property/VBB56626/thumbnail-webp/Medium "Appartement à louer Laeken &#40;VBB56626&#41;")<br>Option](https://immovlan.be/fr/detail/appartement/a-louer/1020/laeken/vbb56626 "Appartement à louer Laeken (VBB56626)")
 
