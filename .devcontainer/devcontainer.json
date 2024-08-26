@@ -1,6 +1,6 @@
 {
 	"name": "Playwright dev container",
-	"image": "mcr.microsoft.com/playwright:v1.46.0-jammy",
+	"image": "mcr.microsoft.com/playwright:v1.46.1-jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {
 			"configureZshAsDefaultShell": true
@@ -28,5 +28,6 @@
 				"ms-playwright.playwright"
 			]
 		}
-	}
+	},
+	"remoteUser": "pwuser"
 }
