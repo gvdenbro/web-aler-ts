@@ -25,8 +25,7 @@ Mis jij iemand? Hoe doe je dat? Kan je beter worden in iemand missen? Of zelfs d
 * ###### Ticket:
     
     * Standaardprijs: €0,00
-    * \-12 jaar: €-2,00
-    * Paspartoe-Kansentarief: €-4,00
+    * \-12 jaar: €0,00
 
   
 
