@@ -19,6 +19,8 @@ Dit is mijn straat. Hier woon ik, in huis nummer 2. Sommige mensen zeggen dat he
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
