@@ -19,6 +19,8 @@ Wat als op een ochtend geen ronde maar een vierkante zon opkomt? Ben je dan voor
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
