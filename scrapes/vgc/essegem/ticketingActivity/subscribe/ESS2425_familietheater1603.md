@@ -19,6 +19,8 @@ Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. To
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
