@@ -19,8 +19,6 @@ Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. To
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
-
 #### Prijslijst
 
 * ###### Ticket:
@@ -35,28 +33,6 @@ Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. To
 
 1.  05/07/2024 09:00 tot 16/03/2025 10:00 (Iedereen)
 
-Stap 1 van 3
-
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+### Volzet
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater1603)
