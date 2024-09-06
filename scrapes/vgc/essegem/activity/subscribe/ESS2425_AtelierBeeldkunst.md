@@ -2,7 +2,7 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/666c32f7caf07_ABK_Kinderateliers_23-24_©_Marjon_Udo_%2854%29web.jpg)
 
-2013 - 2016
+2012 - 2016
 
 GC Essegem  
 Leopold I-straat 329, 1090 Jette
