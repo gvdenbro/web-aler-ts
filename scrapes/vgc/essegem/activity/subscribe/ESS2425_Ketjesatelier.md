@@ -11,7 +11,7 @@ Leopold I-straat 329, 1090 Jette
 
 Namiddag
 
-ESS2425_ketjesatelier
+ESS2425_Ketjesatelier
 
 Gaat door op:  
 11/09/2024, 18/09/2024, 25/09/2024, 02/10/2024, 09/10/2024, 16/10/2024, 23/10/2024, 06/11/2024, 13/11/2024, 20/11/2024, 27/11/2024, 04/12/2024, 11/12/2024, 18/12/2024, 08/01/2025, 15/01/2025, 22/01/2025, 29/01/2025, 05/02/2025, 12/02/2025, 19/02/2025, 26/02/2025, 12/03/2025, 19/03/2025, 26/03/2025, 02/04/2025, 23/04/2025, 30/04/2025, 07/05/2025, 14/05/2025, 21/05/2025, 28/05/2025, 04/06/2025, 11/06/2025, 18/06/2025, 25/06/2025
@@ -48,4 +48,4 @@ Ben je nog niet geregistreerd, klik dan op de knop registreer.
 
 [Registreer hier](/registration)
 
-[Source](https://tickets.vgc.be/activity/subscribe/ESS2425_ketjesatelier)
+[Source](https://tickets.vgc.be/activity/subscribe/ESS2425_Ketjesatelier)
