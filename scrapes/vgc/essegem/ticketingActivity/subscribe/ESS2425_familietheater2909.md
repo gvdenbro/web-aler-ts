@@ -17,7 +17,6 @@ Dit is mijn straat. Hier woon ik, in huis nummer 2. Sommige mensen zeggen dat he
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 **Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.***  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
 
 #### Prijslijst
 
@@ -33,6 +32,8 @@ Dit is mijn straat. Hier woon ik, in huis nummer 2. Sommige mensen zeggen dat he
 
 1.  05/07/2024 09:00 tot 29/09/2024 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
+
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater2909)
