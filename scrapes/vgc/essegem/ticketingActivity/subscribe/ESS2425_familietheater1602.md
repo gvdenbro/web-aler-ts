@@ -19,6 +19,8 @@ Bruno en zijn buurmeisje zien hun stad ten onder gaan aan oorlog. Samen vinden z
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
