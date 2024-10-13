@@ -17,7 +17,6 @@ Wat als op een ochtend geen ronde maar een vierkante zon opkomt? Ben je dan voor
 <br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
 *Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.**  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
 
 #### Prijslijst
 
@@ -33,6 +32,8 @@ Wat als op een ochtend geen ronde maar een vierkante zon opkomt? Ben je dan voor
 
 1.  05/07/2024 09:00 tot 13/10/2024 12:30 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
+
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater1310_13u30)
