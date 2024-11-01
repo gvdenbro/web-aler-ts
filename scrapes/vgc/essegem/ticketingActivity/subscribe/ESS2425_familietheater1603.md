@@ -14,8 +14,7 @@ Vanaf 11:00 tot 11:40
 Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. Tot blauw verschijnt. Dat is niet onze kleur! Dat kennen we niet!  
 <br/>Anastasiia Liubchenko laat met haar mimespel allerlei grappige gele bewoners tot leven komen, live ondersteund door de originele muziek van Thijs Felperlaan en Yung-Tuan Ku.  
 <br/>Een magische, muzikale mimevoorstelling **voor families met kinderen vanaf 3 jaar** in een stad waar alles, maar dan ook echt alles, geel is.  
-<br/>*Online verkoop stopt 1 uur voor aanvang van de voorstelling.  
-***Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.****  
+<br/>*VOLZET - ***Mail of bel ons voor een plaats op de wachtlijst.****  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
