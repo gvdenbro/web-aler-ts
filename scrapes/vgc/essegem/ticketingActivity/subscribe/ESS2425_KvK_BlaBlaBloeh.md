@@ -19,6 +19,8 @@ Wat is taal? Is het iets of is het niets? En is het dan onze vriend? Of onze vij
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
+###### *Haast u! Er zijn nog maar enkele plaatsen over.*
+
 #### Prijslijst
 
 * ###### Ticket:
