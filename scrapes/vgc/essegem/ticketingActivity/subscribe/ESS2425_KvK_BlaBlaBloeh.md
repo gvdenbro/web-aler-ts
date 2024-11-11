@@ -19,8 +19,6 @@ Wat is taal? Is het iets of is het niets? En is het dan onze vriend? Of onze vij
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
-
 #### Prijslijst
 
 * ###### Ticket:
@@ -33,28 +31,6 @@ Wat is taal? Is het iets of is het niets? En is het dan onze vriend? Of onze vij
 
 1.  22/10/2024 09:00 tot 17/11/2024 08:30 (Iedereen)
 
-Stap 1 van 3
-
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+### Volzet
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_KvK_BlaBlaBloeh)
