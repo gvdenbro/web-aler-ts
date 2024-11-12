@@ -20,8 +20,6 @@ Mis jij iemand? Hoe doe je dat? Kan je beter worden in iemand missen? Of zelfs d
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 <br/>
 
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
-
 #### Prijslijst
 
 * ###### Ticket:
@@ -35,28 +33,6 @@ Mis jij iemand? Hoe doe je dat? Kan je beter worden in iemand missen? Of zelfs d
 
 1.  05/07/2024 09:00 tot 17/11/2024 10:00 (Iedereen)
 
-Stap 1 van 3
-
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+### Volzet
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater1711)
