@@ -17,7 +17,6 @@ Wat is taal? Is het iets of is het niets? En is het dan onze vriend? Of onze vij
 *Online inschrijven stopt 1 uur voor aanvang van de voorstelling.  
 **Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.***  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
 
 #### Prijslijst
 
@@ -31,6 +30,8 @@ Wat is taal? Is het iets of is het niets? En is het dan onze vriend? Of onze vij
 
 1.  22/10/2024 09:00 tot 17/11/2024 08:30 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
+
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_KvK_BlaBlaBloeh)
