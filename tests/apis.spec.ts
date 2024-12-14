@@ -22,7 +22,7 @@ test('digi belgium available', async ({ request }, testInfo) => {
         postalCode: "1090",
         city: "Jette",
         street:"Esseghemstraat",
-        number:"34",
+        number:"32",
         box:"",
         platform:"web",
         email:"blahblah@car.net",
