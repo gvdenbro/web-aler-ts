@@ -33,9 +33,9 @@ test('digi belgium available', async ({ request }, testInfo) => {
       }
     });
 
-    const jsonResponse = await response.json();
+    const jsonResponse = await response.text();
 
     expect(jsonResponse).toBeTruthy();
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><pre><code>${JSON.stringify(jsonResponse)}</code></pre></div>`);
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><pre><code>${jsonResponse}</code></pre></div>`);
   });
