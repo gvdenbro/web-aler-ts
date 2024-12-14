@@ -80,15 +80,13 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
   await page.locator('.product-option-box').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 }
 
-test.skip("briare-mosaicshop", async ({ page, context }, testInfo) => {
+test("ghosttty", async ({ page }, testInfo) => {
 
-  await page.goto("https://mosaicshop.be/en/products/briare-harmonie-25mm-prunelle-2772?variant=39543751245953");
+  await page.goto("https://mitchellh.com/ghostty");
 
-  const htmlContent = await page.locator('.inventory-qty-amount').innerHTML();
+  const htmlContent = await page.locator('main').innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('.grid.product-single').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
 });
 
 test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {

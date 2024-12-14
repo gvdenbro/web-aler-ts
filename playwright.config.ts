@@ -31,16 +31,13 @@ export default defineConfig({
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: devices['Desktop Chrome'],
     },
-
     {
       name: 'firefox',
       use: {
         ...devices['Desktop Firefox'],
         viewport: { width: 1920, height: 1080 },
-        // timezoneId: 'Europe/Brussels',
-        // locale: 'en-BE,en;q=0.5',
         userAgent: "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0",
       },
     },
