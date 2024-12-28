@@ -4,13 +4,14 @@
 Ghostty 👻
 ==========
 
+**Note: Ghostty is now public!** The official website is [ghostty.org](https://ghostty.org).
+
 This page collects my writing about Ghostty 👻, the terminal emulator I've been working on since 2021 as a personal side project. This isn't an official website for Ghostty, just a place to collect my own thoughts I've written about it.
 
+* [Official Website](https://ghostty.org)
 * [Ghostty 1.0 is Coming \[in December 2024\]](/writing/ghostty-is-coming)
 * [Twitter thread originally sharing Ghostty](https://twitter.com/mitchellh/status/1662217955424493570)
 * [Ghostty Discord Server](https://discord.gg/ghostty)
-
-**Note: Ghostty is still in private beta.** At the time of writing, we have over 1,100 beta testers. All beta testers get access to the source code. Eventually, Ghostty will be public and open source. If you're interested in being a beta tester, please [join the Discord server](https://discord.gg/ghostty).
 
 [](#devlog)Devlog
 -----------------
