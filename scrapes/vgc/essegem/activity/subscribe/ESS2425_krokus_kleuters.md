@@ -30,7 +30,7 @@ Paspartoe-Kansentarief: €15,00
 Op een rotseiland midden in de zee woont Max, de rotsmuis met zijn vrienden. Op een dag vindt Max een prachtige fonkelende steen, die licht en warmte geeft. Hoe deze vondst het leven van de rotsmuizen op het eiland verandert kom je in de loop van het kamp te weten ...  
 <br/>Een hele week speelt, beweegt en knutselt jouw kleuter rond het boek 'Max en de toverstenen', een verhaal van Marcus Pfister.
 
-* Voor kinderen uit de 1**ste tot 3de kleuterklas** uit het Nederlandstalig onderwijs.
+* Voor kinderen uit de **1****ste tot 3de kleuterklas** uit het Nederlandstalig onderwijs.
 * Opvang voor (vanaf 8.00 uur) en na (tot 17.00 uur).
 * Meebrengen: kleren die vuil mogen worden, lunchpakket, drinkbus.
 
