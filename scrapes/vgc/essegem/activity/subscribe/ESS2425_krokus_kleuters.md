@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/674989bc7144d_Max_en_de_toverstenen.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 08/01/2025 09:00 tot 21/02/2025 13:00 (Iedereen)
-
 2019 - 2021
 
 GC Essegem  
