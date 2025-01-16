@@ -38,7 +38,7 @@ jobs:
       if: steps.playwright-cache.outputs.cache-hit != 'true'
     - name: Run Playwright tests
       run: ${{ inputs.playwright-test-cmd }}
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: playwright-outcome
