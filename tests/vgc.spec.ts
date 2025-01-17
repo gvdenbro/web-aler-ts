@@ -16,6 +16,11 @@ const diensten: Array<Dienst> = [
   // { naam: 'deplatoo', id: 286 },
 ]
 
+test.beforeEach(async ({ context }) => {
+  // block icon - makes test fail 
+  await context.route(/https:\/\/www.vgc.be/, route => route.abort());
+});
+
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
     removeDirectory(scrapesDirectory);
