@@ -32,7 +32,7 @@ I maintain devlog about my work on Ghostty. There is no regular promised cadence
 * [Grapheme Clusters and Terminal Emulators](/writing/grapheme-clusters-in-terminals)
 * [Video: "Making a Terminal Emulator Really, Really Fast"](https://www.youtube.com/watch?v=cPaGkEesw20&t=3015s) (timestamp link to 50:15)
 
-© 2024 Mitchell Hashimoto.
+© 2025 Mitchell Hashimoto.
 
 [mail](mailto:m@mitchellh.com)[twitter](https://twitter.com/mitchellh)[mastodon](https://hachyderm.io/@mitchellh)[github](https://github.com/mitchellh)[linkedin](https://www.linkedin.com/in/mitchellh)
 
