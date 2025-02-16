@@ -16,7 +16,6 @@ Bruno en zijn buurmeisje zien hun stad ten onder gaan aan oorlog. Samen vinden z
 <br/>Een surrealistische pop-upperformance **voor families met kinderen vanaf 5 jaar** waarin wreedheid en schoonheid hand in hand gaan.  
 <br/>****VOLZET - Mail of bel ons voor een plaats op de wachtlijst.****  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
 
 #### Prijslijst
 
@@ -32,6 +31,8 @@ Bruno en zijn buurmeisje zien hun stad ten onder gaan aan oorlog. Samen vinden z
 
 1.  05/07/2024 09:00 tot 16/02/2025 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
+
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater1602)
