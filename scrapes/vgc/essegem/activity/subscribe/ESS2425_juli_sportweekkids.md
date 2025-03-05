@@ -15,7 +15,7 @@ Léon Theodorstraat 167, 1090 Jette
 
 Volle dag
 
-ESS2425_juli_kids68
+ESS2425_juli_sportweekkids
 
 Gaat door op:  
 01/07/2025, 02/07/2025, 03/07/2025, 04/07/2025
@@ -52,4 +52,4 @@ Ben je nog niet geregistreerd, klik dan op de knop registreer.
 
 [Registreer hier](/registration)
 
-[Source](https://tickets.vgc.be/activity/subscribe/ESS2425_juli_kids68)
+[Source](https://tickets.vgc.be/activity/subscribe/ESS2425_juli_sportweekkids)
