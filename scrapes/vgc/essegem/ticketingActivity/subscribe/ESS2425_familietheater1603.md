@@ -16,9 +16,6 @@ Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. To
 <br/>Een magische, muzikale mimevoorstelling **voor families met kinderen vanaf 3 jaar** in een stad waar alles, maar dan ook echt alles, geel is.  
 <br/>*VOLZET - ***Mail of bel ons voor een plaats op de wachtlijst.****  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
-
-###### *Haast u! Er zijn nog maar enkele plaatsen over.*
 
 #### Prijslijst
 
@@ -34,28 +31,8 @@ Het is genieten in de gele stad. Geel is de kleur van de zon, van blijdschap. To
 
 1.  05/07/2024 09:00 tot 16/03/2025 10:00 (Iedereen)
 
-Stap 1 van 3
+#### Inschrijven niet mogelijk
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater1603)
