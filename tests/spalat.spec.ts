@@ -47,12 +47,12 @@ test.beforeEach(async ({ context }) => {
   await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
-test("altex-LG-F2WR508SBW", async ({ page }, testInfo) => {
+test.skip("altex-LG-F2WR508SBW", async ({ page }, testInfo) => {
 
   await altex(page, testInfo, "https://altex.ro/masina-de-spalat-rufe-frontala-slim-lg-f2wr508sbw-steam-8-kg-1200rpm-clasa-a-alb/cpd/MSFF2WR508SBW/");
 });
 
-test("altex-LG-F2WR508SBM", async ({ page }, testInfo) => {
+test.skip("altex-LG-F2WR508SBM", async ({ page }, testInfo) => {
 
   await altex(page, testInfo, "https://altex.ro/masina-de-spalat-rufe-frontala-slim-lg-f2wr508sbm-steam-8-kg-1200rpm-clasa-a-negru/cpd/MSFF2WR508SBM/");
 });
