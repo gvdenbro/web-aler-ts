@@ -7,8 +7,6 @@
 GC Essegem  
 Leopold I-straat 329, 1090 Jette
 
-**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
-
 Volle dag
 
 ESS2425_BXLAdventure
