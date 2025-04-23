@@ -7,8 +7,6 @@
 Sint-Pieterscollege  
 Léon Theodorstraat 167, 1090 Jette
 
-**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
-
 Volle dag
 
 ESS2425_juli_kids68
