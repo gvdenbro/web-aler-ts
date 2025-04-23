@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/67c860270ef37_Klankketten.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 23/04/2025 09:00 tot 15/08/2025 13:00 (Iedereen)
-
 2019 - 2021
 
 GC Essegem  

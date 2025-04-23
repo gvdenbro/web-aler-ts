@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/63ff2d4967c96_f-4d1b3d0292284037bf5c2d5a5c81771d.png)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 23/04/2025 09:00 tot 20/06/2025 13:00 (Iedereen)
-
 2016 - 2018
 
 Sint-Pieterscollege  

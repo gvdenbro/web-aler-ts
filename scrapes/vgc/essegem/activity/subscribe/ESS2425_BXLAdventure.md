@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/67c87049073b7_BXLAdventure.png)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 23/04/2025 09:00 tot 20/06/2025 13:00 (Iedereen)
-
 2013 - 2018
 
 GC Essegem  
