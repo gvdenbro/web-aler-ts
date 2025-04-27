@@ -16,7 +16,6 @@ Welkom in een wereld vol kleurrijke vormen, herkenbare taferelen, knotsgekke fig
 <br/>Een interactieve, audiovisuele voorstelling **voor families met kinderen vanaf 2,5 jaar** waarin beelden en bruitage samensmelten.  
 <br/>*VOLZET - ***Mail of bel ons voor een plaats op de wachtlijst.****  
 <br/>****Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
-<br/>
 
 #### Prijslijst
 
@@ -32,6 +31,8 @@ Welkom in een wereld vol kleurrijke vormen, herkenbare taferelen, knotsgekke fig
 
 1.  05/07/2024 09:00 tot 27/04/2025 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
+
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2425_familietheater2704)
