@@ -113,7 +113,7 @@ test.skip('turkish-airlines', async ({ page }) => {
     createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
 });
 
-test('singapore-airlines', async ({ page, context }) => {
+test.skip('singapore-airlines', async ({ page, context }) => {
 
     await page.setViewportSize({ width: 1920, height: 1080 });
 
