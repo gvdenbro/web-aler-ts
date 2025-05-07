@@ -18,7 +18,6 @@ Van 09:00 tot 16:00
 
 *Prijs: € 64.00  
 Prijs 2e kind: €56,00  
-Paspartoe-Kansentarief: €15,00  
 *
 
 Wie heeft dit konijn gezien? Hij wordt verdacht van: stelen van stripverhalen, pikken van prentenboeken, jatten van jeugdboeken. Voor het laatst gezien in het huis van Arthur. Luistert (soms) naar de naam Koen, spreek hem niet aan als je geen sla en wortels bij je hebt. Help de politie hem te vinden, samen pakken we de boekenboef op!  
