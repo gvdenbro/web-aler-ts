@@ -2,8 +2,8 @@
       "meta": {
         "status": {
           "error": true,
-          "code": 100124,
-          "message": "Infrastructure not found!"
+          "code": 103000,
+          "message": "An error occurred! Please try again!"
         }
       }
     }
