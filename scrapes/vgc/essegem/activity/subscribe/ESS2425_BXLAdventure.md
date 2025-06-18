@@ -18,6 +18,7 @@ Van 09:00 tot 18:00
 
 *Prijs: € 180.00  
 Prijs 2e kind: €150,00  
+Paspartoe-Kansentarief: €40,00  
 *
 
 Klaar voor een vakantie in eigen land? Met de bus rijden we helemaal naar de Ardennen. We overnachten in het mooie Massembre, voor een vakantie vol plezier. We trekken op avontuur en doen te gekke activiteiten in het bos. Om het helemaal af te maken doen we een deathride: adrenaline verzekerd!
