@@ -35,7 +35,7 @@ Ontdek hoe echte artiesten kunstwerken maken. We experimenteren erop los: tekene
 
 ###### Inschrijvingsdata
 
-1.  16/06/2025 09:00 tot 29/09/2025 12:30 (Iedereen)
+1.  23/06/2025 09:00 tot 29/09/2025 12:30 (Iedereen)
 
 Gelieve uw login gegevens in te vullen:
 
