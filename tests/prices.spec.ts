@@ -80,7 +80,7 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
   await page.locator('.product-option-box').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 }
 
-test("vandenborre- SMI4ECS28E", async ({ page, context }, testInfo) => {
+test("vandenborre-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry");
 
@@ -91,6 +91,18 @@ test("vandenborre- SMI4ECS28E", async ({ page, context }, testInfo) => {
   await page.locator('.product-detail-header-expanded').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
 
+test("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
+
+  context.addCookies([{ name: "TC_PRIVACY", value: "1%40010%7C2%7C7368%40%4011%401719641717000%2C1719641717000%2C1719641717000%40", domain: ".krefel.be", path: "/" }]);
+
+  await page.goto("https://www.krefel.be/fr/p/12007601-bosch-lave-vaisselle-encastrable-smi4ecs28e");
+
+  const htmlContent = await page.locator(".lg\\:ml-20").innerHTML();
+
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+
+  await page.locator('div.gap-4:nth-child(3)').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+});
 
 test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
