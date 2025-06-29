@@ -80,14 +80,17 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
   await page.locator('.product-option-box').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 }
 
-test("ghosttty", async ({ page }, testInfo) => {
+test("vandenborre- SMI4ECS28E", async ({ page, context }, testInfo) => {
 
-  await page.goto("https://mitchellh.com/ghostty");
+  await page.goto("https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry");
 
-  const htmlContent = await page.locator('main').innerHTML();
+  const htmlContent = await page.locator('.pdhe-extra-info').innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+
+  await page.locator('.product-detail-header-expanded').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
+
 
 test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
