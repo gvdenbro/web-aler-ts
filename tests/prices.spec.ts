@@ -104,6 +104,19 @@ test("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
   await page.locator('div.gap-4:nth-child(3)').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
 });
 
+test("coolblue-SMI4ECS28E", async ({ page, context }, testInfo) => {
+
+  context.addCookies([{ name: "cookie-preferences", value: "hsjahkdkjahjkdadskjdhakdjhksjdahkjsdhakdhsaskjdhkajsdhkjdsjdhkahj", domain: ".coolblue.be", path: "/" }]);
+
+  await page.goto("https://www.coolblue.be/nl/product/959431/bosch-smi4ecs28e.html");
+
+  const htmlContent = await page.locator("#main-content form").innerHTML();
+
+  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
+
+  await page.locator('#main-content form').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+});
+
 test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
   context.addCookies([{ name: "__lglaw", value: "0", domain: "www.cotemosaique.com", path: "/" }]);
