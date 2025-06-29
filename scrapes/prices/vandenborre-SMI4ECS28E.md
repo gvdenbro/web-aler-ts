@@ -49,6 +49,6 @@ Atouts
     
 * Afficher toutes les caractéristiques
 
-![](vandenborre-%20SMI4ECS28E.png)
+![](vandenborre-SMI4ECS28E.png)
 
 [Source](https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry)
