@@ -20,7 +20,7 @@ Vaatwasser laten inbouwen
 
 Doe de check
 
-69,-
+99,-
 
 ##### Extra opties voor installatie
 
