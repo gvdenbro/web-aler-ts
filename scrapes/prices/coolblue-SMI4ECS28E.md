@@ -1,6 +1,8 @@
 [Productinformatieblad](https://product-energy-label-specifications.coolblue.de/bb/produkt_daten_blatt_959431.pdf)
 
-758,-
+714,-
+
+699,-
 
 Morgen geleverd
 
