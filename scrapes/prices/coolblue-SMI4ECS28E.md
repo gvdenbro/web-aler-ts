@@ -4,6 +4,12 @@
 
 699,-
 
+[Voordelige Tweedekans](https://www.coolblue.be/nl/tweedekans-product/2713971)
+
+van
+
+630,-
+
 Morgen geleverd
 
 ##### Kies voor gemak
