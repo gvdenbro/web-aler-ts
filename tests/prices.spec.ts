@@ -82,7 +82,7 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
 
 test("vandenborre-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
-  await page.goto("https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry");
+  await page.goto("https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry", {timeout: 120000});
 
   const htmlContent = await page.locator('.pdhe-extra-info').innerHTML();
 
