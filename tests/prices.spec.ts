@@ -97,6 +97,8 @@ test("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.krefel.be/fr/p/12007601-bosch-lave-vaisselle-encastrable-smi4ecs28e");
 
+  await page.locator('data-testid="widget-button"').isVisible();
+
   const htmlContent = await page.locator(".lg\\:ml-20").innerHTML();
 
   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
