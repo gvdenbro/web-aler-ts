@@ -1,4 +1,4 @@
-Livré demain \- Voir le stock
+Disponible \- Voir le stock
 
 € 699,00
 
