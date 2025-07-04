@@ -2,6 +2,8 @@ Livré demain \- Voir le stock
 
 € 699,00
 
+Moins de 10 en stock, commandez vite !
+
 Action encastrable
 
 [Action encastrable](//www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry)
