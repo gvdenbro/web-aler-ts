@@ -1,8 +1,6 @@
-Disponible \- Voir le stock
+Disponible à partir du ven. 11 juillet \- Voir le stock
 
 € 699,00
-
-Moins de 5 en stock, commandez vite !
 
 Action encastrable
 
