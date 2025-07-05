@@ -18,7 +18,9 @@ Attention, emprunter de l'argent coûte aussi de l'argent.
 
 ### Informations supplémentaires
 
-[9,4](https://media3.bsh-group.com/Documents/26418789_SMI4ECS28E_DC_BERI_03282025_1.pdf)![A](//image.vandenborre.be/WEBV3/assets/images/eprel_stickers/A.svg)[![A](//image.vandenborre.be/WEBV3/assets/images/eprel_stickers/A.svg)](//www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry)
+9,4
+
+![A](//image.vandenborre.be/WEBV3/assets/images/eprel_stickers/A.svg)[![A](//image.vandenborre.be/WEBV3/assets/images/eprel_stickers/A.svg)](//www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry)
 
 [Fiche d'information sur le produit](https://eprel.ec.europa.eu/api/product/1956200/fiches?noRedirect=false&language=FR)
 
