@@ -6,6 +6,10 @@ En rupture de stock
 
 Tenez-moi informé
 
+Attention, emprunter de l’argent coûte aussi de l’argent.
+
+Ou à partir de 40€/mois avec paiement échelonné.
+
 ### 9,4
 
 #### L'indice de réparabilité
