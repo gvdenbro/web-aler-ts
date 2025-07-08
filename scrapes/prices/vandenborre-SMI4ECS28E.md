@@ -1,4 +1,4 @@
-Disponible à partir du sam. 12 juillet \- Voir le stock
+Disponible à partir du dim. 13 juillet \- Voir le stock
 
 € 699,00
 
