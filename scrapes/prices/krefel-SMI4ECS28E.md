@@ -1,5 +1,11 @@
 699,00 €
 
+2x
+
+3x
+
+2 x 349,50 € (sans frais)
+
 Réduction à l'achat de plusieurs appareils encastrables
 
 En rupture de stock
