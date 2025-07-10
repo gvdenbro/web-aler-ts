@@ -23,3 +23,31 @@ export function generateSvg(dataFilePath: string, svgFilePath: string, dataParse
     });
   });
 }
+
+export function simpleGraph(csvPath: string, svgOutputPath: string) {
+  generateSvg(csvPath, svgOutputPath, {
+    'identifier': 'string',
+    'timestamp': 'date:%Q',
+    'price': 'integer'
+  }, (data) => {
+    return {
+      $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+      data: {values: data},
+      mark: 'line',
+      encoding: {
+        x: {field: 'timestamp', type: 'temporal', title: 'Time'},
+        y: {field: 'price', type: 'quantitative', title: 'Price'},
+        color: {
+          field: 'identifier', type: 'nominal', legend: {
+            labelLimit: 320
+          },
+          sort: {field: "price", order: 'descending', op: 'median'}
+        }
+      },
+      resolve: {scale: {color: 'independent', y: 'independent', x: 'independent'}},// make sure each facet has its own legend
+      config: {
+        font: "Liberation Mono"
+      }
+    }
+  });
+}
