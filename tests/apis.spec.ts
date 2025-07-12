@@ -36,6 +36,13 @@ test('digi belgium available', async ({ request }, testInfo) => {
     const jsonResponse = await response.json();
 
     expect(jsonResponse).toBeTruthy();
+    
+    const replacer = (key, value) => {
+      if (key === 'appLocalTimestamp' || key === 'appLocalDatetime') {
+        return undefined; // Exclude these properties
+      }
+      return value; // Include all other properties
+    };
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><pre><code>${JSON.stringify(jsonResponse, null, 2)}</code></pre></div>`);
+    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><pre><code>${JSON.stringify(jsonResponse, replacer, 2)}</code></pre></div>`);
   });
