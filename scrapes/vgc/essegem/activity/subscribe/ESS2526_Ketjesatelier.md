@@ -20,7 +20,7 @@ Gaat niet door op:
 Van 14:00 tot 17:00
 
 *Prijs: € 220.00  
-Prijs 2e kind: €190,00  
+Prijs 2de kind: €190,00  
 Paspartoe-Kansentarief: €88,00  
 *
 
