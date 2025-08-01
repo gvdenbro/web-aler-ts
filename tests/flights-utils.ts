@@ -29,7 +29,7 @@ export async function matrixSavedSearch(browser: Browser, testInfo: TestInfo, sc
 
     await page.getByRole('button', {name: 'Search'}).click();
 
-    const cheapestPrice = await page.locator('matrix-carrier-stops-widget').locator('mat-row').locator('mat-cell.is-min').first().textContent();
+    const cheapestPrice = await page.locator('matrix-result-set-panel').locator('tbody').locator('tr td').first().textContent();
 
     createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${cheapestPrice}</div>`);
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}`, cheapestPrice);
