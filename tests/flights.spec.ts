@@ -27,9 +27,9 @@ test.skip("cambodia-xmas", async ({browser}, testInfo) => {
     await matrixSavedSearch(browser, testInfo, scrapesDirectory, savedSearch);
 });
 
-test.skip("japan-easter", async ({browser}, testInfo) => {
+test("japan-easter", async ({browser}, testInfo) => {
 
-    const savedSearch = 'TODO';
+    const savedSearch = '[{"type":"round-trip","slices":[{"origin":["BRU"],"dest":["TYO","OSA"],"routing":"","ext":"","routingRet":"","extRet":"","dates":{"searchDateType":"specific","departureDate":"2026-04-04","departureDateType":"depart","departureDateModifier":"1","departureDatePreferredTimes":[],"returnDate":"2026-04-19","returnDateType":"arrive","returnDateModifier":"10","returnDatePreferredTimes":[]}}],"options":{"cabin":"COACH","stops":"1","extraStops":"1","allowAirportChanges":"false","showOnlyAvailable":"true"},"pax":{"adults":"2","children":"1"}}]';
 
     await matrixSavedSearch(browser, testInfo, scrapesDirectory, savedSearch);
 });
