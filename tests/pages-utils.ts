@@ -11,6 +11,6 @@ export function testPage(title: string, url: string, locator: string | ((page: P
 
         expect(container).toBeVisible();
 
-        createMarkdown(`${outputDirectory}/${testInfo.title}`, `<div><p>${await container.innerHTML()}</p><p><a href="${page.url()}">Source</a></p></div>`);
+        createMarkdown(`${outputDirectory}/${testInfo.title}.md`, `<div><p>${await container.innerHTML()}</p><p><a href="${page.url()}">Source</a></p></div>`);
     });
 }
