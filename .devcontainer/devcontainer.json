@@ -1,17 +1,20 @@
 {
 	"name": "Playwright dev container",
-	"image": "mcr.microsoft.com/playwright:v1.53.1-jammy",
+	"image": "mcr.microsoft.com/playwright:v1.54.2-jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {
 			"configureZshAsDefaultShell": true,
 			"installOhMyZsh": true
 		},
 		"ghcr.io/devcontainers/features/desktop-lite:1": {
-			"VNC_RESOLUTION": "1920x1080x16"
 		}
 	},
+	"containerEnv": {
+		"VNC_RESOLUTION": "1920x1080x32"
+	},
 	"forwardPorts": [
-		6080, 5901
+		6080,
+		5901
 	],
 	"portsAttributes": {
 		"6080": {
