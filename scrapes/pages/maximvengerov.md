@@ -14,6 +14,7 @@ Sep
 
 Program
 
+Schubert Violin Sonata No. 3  
 Shostakovich Violin Sonata  
 Brahms Violin Sonata No. 3  
 Ravel Tzigane
