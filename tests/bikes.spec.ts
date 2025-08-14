@@ -1,0 +1,26 @@
+import { test } from '@playwright/test';
+import { removeFiles } from './fs-utils';
+import { simpleGraph } from './graph-utils';
+import { testPricePage } from './pages-utils';
+
+const scrapesDirectory: string = './scrapes/bikes'
+
+test.beforeAll(async ({ }, testInfo) => {
+    if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
+        removeFiles(scrapesDirectory, 'md');
+        removeFiles(scrapesDirectory, 'png');
+    }
+});
+
+test.afterAll(async ({ }) => {
+    simpleGraph(`${scrapesDirectory}/prices.csv`, `${scrapesDirectory}/prices.svg`);
+});
+
+test.beforeEach(async ({ context }) => {
+    await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
+});
+
+testPricePage("escape-city-disc-1-2024", "https://www.giant-bicycles.com/fr-be/escape-city-disc-1-2024", ".price-and-colorcount > .price", scrapesDirectory);
+testPricePage("roam-2", "https://www.giant-bicycles.com/fr-be/roam-2", ".price-and-colorcount > .price", scrapesDirectory);
+testPricePage("fastroad-sl-3-2022", "https://www.giant-bicycles.com/fr-be/fastroad-sl-3-2022", ".price-and-colorcount > .price", scrapesDirectory);
+testPricePage("fastroad-ar-2", "https://www.giant-bicycles.com/fr-be/fastroad-ar-2", ".price-and-colorcount > .price", scrapesDirectory);

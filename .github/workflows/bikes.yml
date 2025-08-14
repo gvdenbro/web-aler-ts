@@ -1,0 +1,15 @@
+name: bikes
+on:
+  schedule:
+    - cron: "41 4-22/4 * * *"
+  workflow_dispatch:
+jobs:
+  tests:
+    uses: ./.github/workflows/_reusable.yml
+    with:
+      playwright-test-cmd: npx playwright test tests/bikes.spec.ts --project=firefox
+      diff-cmd: $(git diff HEAD^ HEAD --name-only --diff-filter=M ':scrapes/bikes/*.md' | sed -r 's/(\w+)\/(.*)\.md$/\2/' | xargs | sed -e 's/ /, /g')
+      notfication-img: scrapes/bikes/prices.png
+    secrets:
+      telegram-to: ${{ secrets.TELEGRAM_TO }}
+      telegram-token: ${{ secrets.TELEGRAM_TOKEN }}
