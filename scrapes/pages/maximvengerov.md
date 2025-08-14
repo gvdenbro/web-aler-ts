@@ -1,31 +1,3 @@
-[](/events/fermo-recital-l7rhf-wj828)
-
-Aug
-
-13
-
-[Copenhagen Summer Festival](/events/fermo-recital-l7rhf-wj828)
-===============================================================
-
-* Wednesday, August 13, 2025
-* 7:30 PM 9:30 PM
-* Kunsthal Charlottenborg [(map)](http://maps.google.com?q=2%20Nyhavn%20København,%201051%20Denmark)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Copenhagen%20Summer%20Festival&dates=20250813T173000Z/20250813T193000Z&location=2%20Nyhavn%2C%20K%C3%B8benhavn%2C%201051%2C%20Denmark) [ICS](/events/fermo-recital-l7rhf-wj828?format=ical)
-
-Program
-
-Franck Violin Sonata  
-Tchaikovsky Souvenir d’un lieu cher  
-Ravel Tzigane
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/fermo-recital-l7rhf-wj828)
-
 [](/events/fermo-recital-l7rhf-3f7c2)
 
 Sep
@@ -454,6 +426,34 @@ Yefim Bronfman, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert)
 
 * * *
+
+[](/events/fermo-recital-l7rhf-wj828)
+
+Aug
+
+13
+
+[Copenhagen Summer Festival](/events/fermo-recital-l7rhf-wj828)
+===============================================================
+
+* Wednesday, August 13, 2025
+* 7:30 PM 9:30 PM
+* Kunsthal Charlottenborg [(map)](http://maps.google.com?q=2%20Nyhavn%20København,%201051%20Denmark)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Copenhagen%20Summer%20Festival&dates=20250813T173000Z/20250813T193000Z&location=2%20Nyhavn%2C%20K%C3%B8benhavn%2C%201051%2C%20Denmark) [ICS](/events/fermo-recital-l7rhf-wj828?format=ical)
+
+Program
+
+Franck Violin Sonata  
+Tchaikovsky Souvenir d’un lieu cher  
+Ravel Tzigane
+
+  
+Performers
+
+Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/fermo-recital-l7rhf-wj828)
 
 [](/events/fermo-recital-l7rhf)
 
@@ -1216,21 +1216,5 @@ Maxim Vengerov, violin
 Guangzhou Symphony Orchestra
 
 [View Event →](/events/guangzhou-concert)
-
-[](/events/hommage-to-composer-omar-khairat)
-
-Feb
-
-13
-
-[Homage to composer Omar Khairat](/events/hommage-to-composer-omar-khairat)
-===========================================================================
-
-* Thursday, February 13, 2025
-* 8:00 PM 10:00 PM
-* Riyadh Baker Al Sheddi Theater [(map)](http://maps.google.com?q=4206%20Al%20Imam%20Muhammad%20Ibn%20Saoud%20Ibn%20Mouqren%20Riyadh,%20Riyadh%20Province,%2012745%20Saudi%20Arabia)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Homage%20to%20composer%20Omar%20Khairat&dates=20250213T190000Z/20250213T210000Z&location=4206%20Al%20Imam%20Muhammad%20Ibn%20Saoud%20Ibn%20Mouqren%2C%20Riyadh%2C%20Riyadh%20Province%2C%2012745%2C%20Saudi%20Arabia) [ICS](/events/hommage-to-composer-omar-khairat?format=ical)
-
-[View Event →](/events/hommage-to-composer-omar-khairat)
 
 [Source](https://www.maximvengerov.com/events)
