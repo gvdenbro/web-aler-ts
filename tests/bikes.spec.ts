@@ -24,3 +24,4 @@ testPricePage("escape-city-disc-1-2024", "https://www.giant-bicycles.com/fr-be/e
 testPricePage("roam-2", "https://www.giant-bicycles.com/fr-be/roam-2", ".price-and-colorcount > .price", scrapesDirectory);
 testPricePage("fastroad-sl-3-2022", "https://www.giant-bicycles.com/fr-be/fastroad-sl-3-2022", ".price-and-colorcount > .price", scrapesDirectory);
 testPricePage("fastroad-ar-2", "https://www.giant-bicycles.com/fr-be/fastroad-ar-2", ".price-and-colorcount > .price", scrapesDirectory);
+testPricePage("sdrbike-escape-1-city-disc", "https://www.sdrbike.be/GEMBLOUX/index.php/hikashop-menu-for-categories-listing/product/31240-giant-escape-1-city-disc-s-sea-sparkle", (page) => page.locator('#sp-component').getByText(/€/).first(), scrapesDirectory);
