@@ -11,7 +11,7 @@
     "@joplin/turndown": "^4.0.79",
     "@joplin/turndown-plugin-gfm": "^1.0.61",
     "@playwright/test": "^1.54.2",
-    "@types/node": "^24.2.1",
+    "@types/node": "^24.3.0",
     "svg2img": "^1.0.0-beta.2",
     "vega": "^5.33.0",
     "vega-lite": "^5.23.0"
