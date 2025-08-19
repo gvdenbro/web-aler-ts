@@ -312,6 +312,32 @@ Tokyo Philharmonic Orchestra
 
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll)
 
+[](/events/recital-teramo-italy-3t6aj-zpzf4)
+
+Nov
+
+18
+
+[Recital Incheon City](/events/recital-teramo-italy-3t6aj-zpzf4)
+================================================================
+
+* Tuesday, November 18, 2025
+* 8:00 PM 10:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Incheon%20City&dates=20251118T190000Z/20251118T210000Z) [ICS](/events/recital-teramo-italy-3t6aj-zpzf4?format=ical)
+
+Program
+
+Shostakovich Violin Sonata  
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3
+
+  
+Performers  
+Maxim Vengerov, violin  
+Evgenia Startseva, piano  
+
+[View Event →](/events/recital-teramo-italy-3t6aj-zpzf4)
+
 [](/events/recital-teramo-italy-3t6aj)
 
 Nov
