@@ -15,7 +15,7 @@ Livraison
 
 ### Livrable
 
-* ...
+* Livraison au plus tard le 01.09.2025
     
 * Retour **gratuit** pendant 30 jours
 
