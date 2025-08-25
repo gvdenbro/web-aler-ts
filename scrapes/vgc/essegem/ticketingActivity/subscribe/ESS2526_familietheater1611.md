@@ -18,6 +18,8 @@ Loesje en Eva, twee hartsvriendinnen, toveren hun speelkamer om tot een mysterie
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
 <br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
+###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
+
 #### Prijslijst
 
 * ###### Ticket:
