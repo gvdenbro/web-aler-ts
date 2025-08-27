@@ -32,3 +32,5 @@ testPricePage("allure-rs-1-2023", "https://www.liv-cycling.com/fr-be/allure-rs-1
 testPricePage("allure-rs-2-2022", "https://www.liv-cycling.com/fr-be/allure-rs-2-2022", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("allure-rs-2-2023", "https://www.liv-cycling.com/fr-be/allure-rs-2-2023", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("allure-rs-2-2024", "https://www.liv-cycling.com/fr-be/allure-rs-2-2024", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("devote-1-2024", "https://www.liv-cycling.com/fr-be/devote-1-2024", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("devote-1-2022", "https://www.liv-cycling.com/fr-be/devote-1-2022", ".price-and-colorcount .price", scrapesDirectory);
