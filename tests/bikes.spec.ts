@@ -28,3 +28,7 @@ testPricePage("fastroad-ar-2", "https://www.giant-bicycles.com/fr-be/fastroad-ar
 testPricePage("sdrbike-escape-1-city-disc", "https://www.sdrbike.be/GEMBLOUX/index.php/hikashop-menu-for-categories-listing/product/31240-giant-escape-1-city-disc-s-sea-sparkle", (page) => page.locator('#sp-component').getByText(/€/).first(), scrapesDirectory);
 testPricePage("thrive-2", "https://www.liv-cycling.com/fr-be/thrive-2", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("rove-2", "https://www.liv-cycling.com/fr-be/rove-2", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("allure-rs-1-2023", "https://www.liv-cycling.com/fr-be/allure-rs-1-2023", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("allure-rs-2-2022", "https://www.liv-cycling.com/fr-be/allure-rs-2-2022", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("allure-rs-2-2023", "https://www.liv-cycling.com/fr-be/allure-rs-2-2023", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("allure-rs-2-2024", "https://www.liv-cycling.com/fr-be/allure-rs-2-2024", ".price-and-colorcount .price", scrapesDirectory);
