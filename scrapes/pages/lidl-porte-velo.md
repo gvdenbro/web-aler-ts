@@ -5,6 +5,8 @@ Pied d'atelier pour vélo CRIVIT
 
 Les meilleurs commentaires clients
 
+98% des clients recommandent
+
 [4.8/5(449)](#ratings "4.8 de 5 étoiles (449 total des évaluations)")
 
 Les meilleurs commentaires clients[4.8/5(449)](#ratings "4.8 de 5 étoiles (449 total des évaluations)")
@@ -17,7 +19,7 @@ Livraison
 
 ### Livrable
 
-* ...
+* Livraison au plus tard le 08.09.2025
     
 * Retour **gratuit** pendant 30 jours
 
