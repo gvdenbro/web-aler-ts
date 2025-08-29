@@ -18,8 +18,6 @@ Loesje en Eva, twee hartsvriendinnen, toveren hun speelkamer om tot een mysterie
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
 <br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
-###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
-
 #### Prijslijst
 
 * ###### Ticket:
@@ -33,28 +31,8 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 1.  09/07/2025 09:00 tot 16/11/2025 10:00 (Iedereen)
 
-Stap 1 van 3
+### Volzet
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater1611)
