@@ -32,7 +32,7 @@ Film is fictie, alles is mogelijk! Stap mee in een wereld van grenzeloze verbeel
 
 * Voor kinderen in het 4de tot 6de leerjaar het Nederlandstalige onderwijs.
 * Meebrengen: een rugzakje met water, lunch, vieruurtje, mivb-abonnement.
-* Opvang voor (vanaf 8.30 uur) en na (tot 17.30 uur).
+* Opvang voor (vanaf 8.00 uur).
 
 **Meer info bij GC Essegem op [essegem@vgc.be](mailto:essegem@vgc.be) of 02 427 80 39.**  
 
