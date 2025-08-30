@@ -452,6 +452,84 @@ Yefim Bronfman, piano
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+
+Jan
+
+28
+
+[Recital London Barbican](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+==================================================================================================
+
+* Wednesday, January 28, 2026
+* 7:30 PM 9:30 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20London%20Barbican&dates=20260128T183000Z/20260128T203000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
+
+Feb
+
+2
+
+[Oxford Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
+===============================================================================================
+
+* Monday, February 2, 2026
+* 7:30 PM 9:30 PM
+* Sheldonian Theatre Oxford [(map)](http://maps.google.com?q=Broad%20Street%20Oxford,%20England,%20OX1%203AZ%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Oxford%20Concert&dates=20260202T183000Z/20260202T203000Z&location=Broad%20Street%2C%20Oxford%2C%20England%2C%20OX1%203AZ%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl?format=ical)
+
+Program
+
+Sibelius Violin Concerto
+
+  
+Performers  
+<br/>Marios Papadopoulos, conductor  
+Maxim Vengerov, violin  
+Oxford Philharmonic Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+
+Feb
+
+6
+
+[Carnegie Hall Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+============================================================================================================
+
+* Friday, February 6, 2026
+* 8:00 PM 10:00 PM
+* Stern Auditorium / Perelman Stage [(map)](http://maps.google.com?q=881%207th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Carnegie%20Hall%20Concert%20&dates=20260206T190000Z/20260206T210000Z&location=881%207th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4?format=ical)
+
+Program
+
+Sibelius Violin Concerto
+
+  
+Performers  
+<br/>Ivan Fischer, conductor  
+Maxim Vengerov, violin  
+Budapest Festival Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+
 * * *
 
 [](/events/fermo-recital-l7rhf-wj828)
