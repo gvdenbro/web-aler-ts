@@ -12,37 +12,52 @@ export function appendPriceAsString(filePath: string, identifier: string, priceA
   }
 }
 
+// function parseLocalizedNumber(input: string): number {
+//   // Remove currency symbols and spaces
+//   const cleaned = input.replace(/[^0-9.,]/g, '');
+
+//   // Try to identify the decimal separator (comma or period followed by 1-3 digits at the end)
+//   const decimalMatch = cleaned.match(/([.,])(\d{1,3})$/);
+
+//   let integerPart;
+//   if (decimalMatch) {
+//     const separator = decimalMatch[1];
+//     const decimalDigits = decimalMatch[2];
+//     const separatorCount = (cleaned.match(new RegExp(`\\${separator}`, 'g')) || []).length;
+//     const oppositeSeparator = separator === ',' ? '.' : ',';
+//     const hasOppositeSeparator = cleaned.includes(oppositeSeparator);
+
+//     // If there's only one separator, it's followed by exactly 3 digits, and no opposite separators exist,
+//     // it's likely a thousands separator (e.g., "1.199" meaning 1199)
+//     if (separatorCount === 1 && decimalDigits.length === 3 && !hasOppositeSeparator) {
+//       integerPart = cleaned;
+//     } else {
+//       // Otherwise, it's a decimal separator - take everything before it
+//       integerPart = cleaned.substring(0, decimalMatch.index);
+//     }
+//   } else {
+//     // No decimal part found, use the whole string
+//     integerPart = cleaned;
+//   }
+
+//   // Remove thousands separators (commas and periods)
+//   const cleanedInteger = integerPart.replace(/[.,]/g, '');
+
+//   // Parse to number
+//   return parseInt(cleanedInteger, 10);
+// }
+
 function parseLocalizedNumber(input: string): number {
-  // Remove currency symbols and spaces
-  const cleaned = input.replace(/[^0-9.,]/g, '');
+  const numMatch = input.match(/\d[\d.,]*/);
+  if (!numMatch) return NaN;
 
-  // Try to identify the decimal separator (comma or period followed by 1-3 digits at the end)
-  const decimalMatch = cleaned.match(/([.,])(\d{1,3})$/);
+  const numStr = numMatch[0];
+  const parts = numStr.split(/[,\.]/);
 
-  let integerPart;
-  if (decimalMatch) {
-    const separator = decimalMatch[1];
-    const decimalDigits = decimalMatch[2];
-    const separatorCount = (cleaned.match(new RegExp(`\\${separator}`, 'g')) || []).length;
-    const oppositeSeparator = separator === ',' ? '.' : ',';
-    const hasOppositeSeparator = cleaned.includes(oppositeSeparator);
-
-    // If there's only one separator, it's followed by exactly 3 digits, and no opposite separators exist,
-    // it's likely a thousands separator (e.g., "1.199" meaning 1199)
-    if (separatorCount === 1 && decimalDigits.length === 3 && !hasOppositeSeparator) {
-      integerPart = cleaned;
-    } else {
-      // Otherwise, it's a decimal separator - take everything before it
-      integerPart = cleaned.substring(0, decimalMatch.index);
-    }
-  } else {
-    // No decimal part found, use the whole string
-    integerPart = cleaned;
+  // Remove decimal part (if 1-2 digits after last separator)
+  if (parts.length > 1 && [1, 2].includes(parts[parts.length - 1].length)) {
+    parts.pop();
   }
 
-  // Remove thousands separators (commas and periods)
-  const cleanedInteger = integerPart.replace(/[.,]/g, '');
-
-  // Parse to number
-  return parseInt(cleanedInteger, 10);
+  return parseInt(parts.join(''), 10);
 }
