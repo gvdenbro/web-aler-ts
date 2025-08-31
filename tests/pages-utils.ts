@@ -1,6 +1,6 @@
 import { test, expect, Page, Locator } from '@playwright/test';
 import { createMarkdown } from './md-utils';
-import { appendPriceAsString } from './prices-utils';
+import { appendPriceAsNumber, appendPriceAsString, parseLocalizedNumber } from './prices-utils';
 
 export function testPage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string): void {
 
@@ -16,7 +16,7 @@ export function testPage(title: string, url: string, locator: string | ((page: P
     });
 }
 
-export function testPricePage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string): void {
+export function testPricePage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string, priceParser: (text: string) => number = parseLocalizedNumber): void {
 
     test(title, async ({ page }, testInfo) => {
 
@@ -29,6 +29,6 @@ export function testPricePage(title: string, url: string, locator: string | ((pa
         const price = await container.innerHTML();
 
         createMarkdown(`${outputDirectory}/${testInfo.title}.md`, `<div><p>${price}</p><p><a href="${page.url()}">Source</a></p></div>`);
-        appendPriceAsString(`${outputDirectory}/prices.csv`, `${testInfo.title}`, price);
+        appendPriceAsNumber(`${outputDirectory}/prices.csv`, `${testInfo.title}`, priceParser(price));
     });
 }

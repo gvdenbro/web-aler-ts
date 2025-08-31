@@ -1,7 +1,8 @@
-import { test } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { simpleGraph } from './graph-utils';
 import { testPricePage } from './pages-utils';
+import { parseLocalizedNumber } from './prices-utils';
 
 const scrapesDirectory: string = './scrapes/bikes'
 
@@ -20,6 +21,18 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)/, route => route.abort());
 });
 
+function parseMeridaPrice(priceAsString: string): number {
+    const cleanedStr = priceAsString.replace(/[^\d,]/g, '');
+    const parts = cleanedStr.split(',');
+    const integerPart = parts[0];
+    return parseInt(integerPart, 10);
+}
+
+test('merida price parsing', async () => {
+    const result = parseMeridaPrice("1 599,00 €");
+    expect(result).toBe(1599);
+});
+
 testPricePage("escape-city-disc-1-2024", "https://www.giant-bicycles.com/fr-be/escape-city-disc-1-2024", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("roam-disc-2-2024", "https://www.giant-bicycles.com/be/roam-disc-2-2024", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("roam-2", "https://www.giant-bicycles.com/fr-be/roam-2", ".price-and-colorcount > .price", scrapesDirectory);
@@ -34,3 +47,5 @@ testPricePage("allure-rs-2-2023", "https://www.liv-cycling.com/fr-be/allure-rs-2
 testPricePage("allure-rs-2-2024", "https://www.liv-cycling.com/fr-be/allure-rs-2-2024", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("devote-1-2024", "https://www.liv-cycling.com/fr-be/devote-1-2024", ".price-and-colorcount .price", scrapesDirectory);
 testPricePage("devote-1-2022", "https://www.liv-cycling.com/fr-be/devote-1-2022", ".price-and-colorcount .price", scrapesDirectory);
+testPricePage("silex-400-oak-bork-2026", "https://fr.merida.be/velo+de+gravel/silex-400-oak-bork/2026", "#history__sub .container .lg\\:shrink .font-bold", scrapesDirectory, parseMeridaPrice);
+testPricePage("silex-400-warm-slate-grey-2026", "https://fr.merida.be/velo+de+gravel/silex-400-warm-slate-grey/2026", "#history__sub .container .lg\\:shrink .font-bold", scrapesDirectory, parseMeridaPrice);

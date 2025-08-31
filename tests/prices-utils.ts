@@ -12,6 +12,12 @@ export function appendPriceAsString(filePath: string, identifier: string, priceA
   }
 }
 
+export function appendPriceAsNumber(filePath: string, identifier: string, price: number | null, extra?:any[]): void {
+  if (price) {
+    appendPrice(filePath, identifier, price, extra);
+  }
+}
+
 // function parseLocalizedNumber(input: string): number {
 //   // Remove currency symbols and spaces
 //   const cleaned = input.replace(/[^0-9.,]/g, '');
@@ -47,7 +53,7 @@ export function appendPriceAsString(filePath: string, identifier: string, priceA
 //   return parseInt(cleanedInteger, 10);
 // }
 
-function parseLocalizedNumber(input: string): number {
+export function parseLocalizedNumber(input: string): number {
   const numMatch = input.match(/\d[\d.,]*/);
   if (!numMatch) return NaN;
 

@@ -1,6 +1,6 @@
 {
 	"name": "Playwright dev container",
-	"image": "mcr.microsoft.com/playwright:v1.54.2-jammy",
+	"image": "mcr.microsoft.com/playwright:v1.55.0-jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {
 			"configureZshAsDefaultShell": true,

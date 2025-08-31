@@ -2,6 +2,12 @@ import { test } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { simpleGraph } from './graph-utils';
 import { matrixSavedSearch } from "./flights-utils";
+// import { addExtra } from 'playwright-extra';
+// import stealth from 'puppeteer-extra-plugin-stealth';
+// import { chromium } from 'playwright';
+
+// const playwright = addExtra(chromium);
+// playwright.use(stealth());
 
 const scrapesDirectory: string = './scrapes/flights'
 
