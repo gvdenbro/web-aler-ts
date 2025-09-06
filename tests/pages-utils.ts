@@ -16,6 +16,20 @@ export function testPage(title: string, url: string, locator: string | ((page: P
     });
 }
 
+export function testPageWithInteraction(title: string, url: string, locator: ((page: Page) => Promise<Locator>), outputDirectory: string): void {
+
+    test(title, async ({ page }, testInfo) => {
+
+        await page.goto(url);
+
+        const container = await locator(page);
+
+        expect(container).toBeVisible();
+
+        createMarkdown(`${outputDirectory}/${testInfo.title}.md`, `<div><p>${await container.innerHTML()}</p><p><a href="${page.url()}">Source</a></p></div>`);
+    });
+}
+
 export function testPricePage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string, priceParser: (text: string) => number = parseLocalizedNumber): void {
 
     test(title, async ({ page }, testInfo) => {
