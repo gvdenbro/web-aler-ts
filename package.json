@@ -14,7 +14,7 @@
     "@types/node": "^24.3.1",
     "svg2img": "^1.0.0-beta.2",
     "vega": "^5.33.0",
-    "vega-lite": "^5.23.0",
+    "vega-lite": "^6.3.0",
     "playwright-extra": "^4.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
