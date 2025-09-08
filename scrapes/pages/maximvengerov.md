@@ -111,14 +111,23 @@ Oct
 
 19
 
-[Masterclass Belgrade](/events/recital-teramo-italy-3gd8c-w5szy)
-================================================================
+[Monaco Concert](/events/recital-teramo-italy-3gd8c-w5szy)
+==========================================================
 
 * Sunday, October 19, 2025
-* 11:00 AM 1:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Belgrade%20&dates=20251019T090000Z/20251019T110000Z) [ICS](/events/recital-teramo-italy-3gd8c-w5szy?format=ical)
+* 6:00 PM 8:00 PM
+* Grimaldi Forum, Monaco [(map)](http://maps.google.com?q=10%20Avenue%20Princesse%20Grâce%20Monaco,%2098000%20Monaco)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Monaco%20Concert&dates=20251019T160000Z/20251019T180000Z&location=10%20Avenue%20Princesse%20Gr%C3%A2ce%2C%20Monaco%2C%2098000%2C%20Monaco) [ICS](/events/recital-teramo-italy-3gd8c-w5szy?format=ical)
 
-Masterclass with Maxim Vengerov
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+Lawrence Foster, conductor  
+Maxim Vengerov, violin  
+Monte-Carlo Philharmonic Orchestra
 
 [View Event →](/events/recital-teramo-italy-3gd8c-w5szy)
 
