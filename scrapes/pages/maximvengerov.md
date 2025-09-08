@@ -1,32 +1,3 @@
-[](/events/fermo-recital-l7rhf-3f7c2)
-
-Sep
-
-7
-
-[Trieste Recital](/events/fermo-recital-l7rhf-3f7c2)
-====================================================
-
-* Sunday, September 7, 2025
-* 8:30 PM 10:30 PM
-* Generali Convention Center [(map)](http://maps.google.com?q=24/2%20Viale%20Miramare%20Trieste,%20Friuli-Venezia%20Giulia,%2034135%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Trieste%20Recital&dates=20250907T183000Z/20250907T203000Z&location=24%2F2%20Viale%20Miramare%2C%20Trieste%2C%20Friuli-Venezia%20Giulia%2C%2034135%2C%20Italy) [ICS](/events/fermo-recital-l7rhf-3f7c2?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Shostakovich Violin Sonata  
-Brahms Violin Sonata No. 3  
-Ravel Tzigane
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/fermo-recital-l7rhf-3f7c2)
-
 [](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
 
 Sep
@@ -614,6 +585,35 @@ Budapest Festival Orchestra
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 * * *
+
+[](/events/fermo-recital-l7rhf-3f7c2)
+
+Sep
+
+7
+
+[Trieste Recital](/events/fermo-recital-l7rhf-3f7c2)
+====================================================
+
+* Sunday, September 7, 2025
+* 8:30 PM 10:30 PM
+* Generali Convention Center [(map)](http://maps.google.com?q=24/2%20Viale%20Miramare%20Trieste,%20Friuli-Venezia%20Giulia,%2034135%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Trieste%20Recital&dates=20250907T183000Z/20250907T203000Z&location=24%2F2%20Viale%20Miramare%2C%20Trieste%2C%20Friuli-Venezia%20Giulia%2C%2034135%2C%20Italy) [ICS](/events/fermo-recital-l7rhf-3f7c2?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Shostakovich Violin Sonata  
+Brahms Violin Sonata No. 3  
+Ravel Tzigane
+
+  
+Performers
+
+Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/fermo-recital-l7rhf-3f7c2)
 
 [](/events/fermo-recital-l7rhf-wj828)
 
@@ -1376,33 +1376,5 @@ Maxim Vengerov, violin
 China Philharmonic Orchestra
 
 [View Event →](/events/beijing-concert)
-
-[](/events/guangzhou-concert)
-
-Feb
-
-21
-
-[Guangzhou Concert](/events/guangzhou-concert)
-==============================================
-
-* Friday, February 21, 2025
-* 7:30 PM 9:30 PM
-* Xinghai Concert Hall [(map)](http://maps.google.com?q=33%20Qing%20Bo%20Lu%20Guang%20Zhou%20Shi,%20Guang%20Dong%20Sheng,%20510105%20China)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Guangzhou%20Concert&dates=20250221T183000Z/20250221T203000Z&location=33%20Qing%20Bo%20Lu%2C%20Guang%20Zhou%20Shi%2C%20Guang%20Dong%20Sheng%2C%20510105%2C%20China) [ICS](/events/guangzhou-concert?format=ical)
-
-Program
-
-Mendelssohn Violin Concerto  
-Ravel Tzigane
-
-  
-Performers
-
-Linhan Cui, conductor  
-Maxim Vengerov, violin  
-Guangzhou Symphony Orchestra
-
-[View Event →](/events/guangzhou-concert)
 
 [Source](https://www.maximvengerov.com/events)
