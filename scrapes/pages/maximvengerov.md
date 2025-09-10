@@ -1,30 +1,3 @@
-[](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
-
-Sep
-
-9
-
-[Lubljana Concert](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
-===========================================================
-
-* Tuesday, September 9, 2025
-* 8:00 PM 10:00 PM
-* Gallus Hall [(map)](http://maps.google.com?q=10%20Prešernova%20cesta%20Ljubljana,%20Ljubljana,%201000%20Slovenia)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Lubljana%20Concert&dates=20250909T180000Z/20250909T200000Z&location=10%20Pre%C5%A1ernova%20cesta%2C%20Ljubljana%2C%20Ljubljana%2C%201000%2C%20Slovenia) [ICS](/events/fermo-recital-l7rhf-3f7c2-4fwz3?format=ical)
-
-Program
-
-Sibelius Violin Concerto
-
-  
-Performers
-
-Kakhi Solomnishvili, conductor  
-Maxim Vengerov, violin  
-Slovenian Philharmonic Orchestra
-
-[View Event →](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
-
 [](/events/cyprus-concert)
 
 Sep
@@ -594,6 +567,33 @@ Budapest Festival Orchestra
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 * * *
+
+[](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
+
+Sep
+
+9
+
+[Lubljana Concert](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
+===========================================================
+
+* Tuesday, September 9, 2025
+* 8:00 PM 10:00 PM
+* Gallus Hall [(map)](http://maps.google.com?q=10%20Prešernova%20cesta%20Ljubljana,%20Ljubljana,%201000%20Slovenia)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Lubljana%20Concert&dates=20250909T180000Z/20250909T200000Z&location=10%20Pre%C5%A1ernova%20cesta%2C%20Ljubljana%2C%20Ljubljana%2C%201000%2C%20Slovenia) [ICS](/events/fermo-recital-l7rhf-3f7c2-4fwz3?format=ical)
+
+Program
+
+Sibelius Violin Concerto
+
+  
+Performers
+
+Kakhi Solomnishvili, conductor  
+Maxim Vengerov, violin  
+Slovenian Philharmonic Orchestra
+
+[View Event →](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
 
 [](/events/fermo-recital-l7rhf-3f7c2)
 
@@ -1357,33 +1357,5 @@ Maxim Vengerov, violin
 Shanghai Symphony Orchestra
 
 [View Event →](/events/shanghai-concert)
-
-[](/events/beijing-concert)
-
-Feb
-
-23
-
-[Beijing Concert](/events/beijing-concert)
-==========================================
-
-* Sunday, February 23, 2025
-* 7:30 PM 9:30 PM
-* National Centre for the Performing Arts [(map)](http://maps.google.com?q=2%20Xi%20Chang%20An%20Jie%20Xi%20Cheng%20Qu,%20Bei%20Jing%20Shi,%20100031%20China)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Beijing%20Concert&dates=20250223T183000Z/20250223T203000Z&location=2%20Xi%20Chang%20An%20Jie%2C%20Xi%20Cheng%20Qu%2C%20Bei%20Jing%20Shi%2C%20100031%2C%20China) [ICS](/events/beijing-concert?format=ical)
-
-Program
-
-Mendelssohn Violin Concerto  
-Ravel Tzigane
-
-  
-Performers
-
-Sun Yifan, conductor  
-Maxim Vengerov, violin  
-China Philharmonic Orchestra
-
-[View Event →](/events/beijing-concert)
 
 [Source](https://www.maximvengerov.com/events)
