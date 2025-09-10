@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/64fb5ebf9f7d1_filem'on.png)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 10/09/2025 09:00 tot 17/10/2025 13:00 (Iedereen)
-
 2014 - 2016
 
 GC Essegem  
