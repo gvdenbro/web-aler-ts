@@ -52,6 +52,32 @@ National Symphony Orchestra of Uzbekistan
 
 [View Event →](/events/tashkent-concert)
 
+[](/events/cyprus-concert-7crk6)
+
+Oct
+
+4
+
+[Turkey Concert](/events/cyprus-concert-7crk6)
+==============================================
+
+* Saturday, October 4, 2025
+* 7:30 PM 9:30 PM
+* Ephesus Ancient Theatre, Open Air Concert [(map)](http://maps.google.com?q=%20Acarlar,%20İzmir,%2035920%20Türkiye)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Turkey%20Concert%20&dates=20251004T173000Z/20251004T193000Z&location=Acarlar%2C%20%C4%B0zmir%2C%2035920%2C%20T%C3%BCrkiye) [ICS](/events/cyprus-concert-7crk6?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+Ozge Tanriver, conductor  
+Maxim Vengerov, violin  
+Izmir State Symphony Orchestra
+
+[View Event →](/events/cyprus-concert-7crk6)
+
 [](/events/recital-teramo-italy-3gd8c)
 
 Oct
