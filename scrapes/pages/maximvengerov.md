@@ -72,7 +72,7 @@ Tchaikovsky Violin Concerto
 
   
 Performers  
-Ozge Tanriver, conductor  
+Conductor TBC  
 Maxim Vengerov, violin  
 Izmir State Symphony Orchestra
 
