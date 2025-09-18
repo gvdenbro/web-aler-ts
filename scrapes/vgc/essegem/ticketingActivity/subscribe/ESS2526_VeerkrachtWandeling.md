@@ -13,7 +13,7 @@ Vanaf 14:00 tot 16:00
 
 Natuurgidsen Joseph en Karen nemen je mee, los door het Laarbeekbos. Hoor, zie en ruik de natuur. Gedichten en boombeleving zorgen voor een frisse ontmoeting.  
 <br/>*Activiteit in het kader van 'Samen Veerkrachtig', de 10-daagse van de geestelijke gezondheid.*  
-<br/>Afspraak aan de Chalet van Laarbeek, Laarbeeklaan 145, Jette.  
+<br/>Inschrijven kan tot een uur voor aanvang. Afspraak aan de Chalet van Laarbeek, Laarbeeklaan 145, Jette.  
 <br/>***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
 
 #### Prijslijst
