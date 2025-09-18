@@ -130,32 +130,6 @@ Monte-Carlo Philharmonic Orchestra
 
 [View Event →](/events/recital-teramo-italy-3gd8c-w5szy)
 
-[](/events/armenia-concert)
-
-Oct
-
-28
-
-[Armenia Concert](/events/armenia-concert)
-==========================================
-
-* Tuesday, October 28, 2025
-* 8:00 PM 10:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Armenia%20Concert&dates=20251028T190000Z/20251028T210000Z) [ICS](/events/armenia-concert?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-M. Durgaryan, conductor  
-Maxim Vengerov, violin  
-Armenian National Opera and Ballet Orchestra
-
-[View Event →](/events/armenia-concert)
-
 [](/events/antwerp-concert)
 
 Nov
