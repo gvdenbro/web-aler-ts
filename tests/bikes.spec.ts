@@ -50,15 +50,15 @@ testPricePage("devote-1-2022", "https://www.liv-cycling.com/fr-be/devote-1-2022"
 testPricePage("silex-400-oak-bork-2026", "https://fr.merida.be/velo+de+gravel/silex-400-oak-bork/2026", "#history__sub .container .lg\\:shrink .font-bold", scrapesDirectory, parseMeridaPrice);
 testPricePage("silex-400-warm-slate-grey-2026", "https://fr.merida.be/velo+de+gravel/silex-400-warm-slate-grey/2026", "#history__sub .container .lg\\:shrink .font-bold", scrapesDirectory, parseMeridaPrice);
 
-testPageWithInteraction("riverside-120-green", "https://www.decathlon.be/fr/p/velo-tout-chemin-riverside-120-enjambement-bas-vert-pastel/_/R-p-323601", async (page) => {
-    await page.getByRole('button', { name: 'Tout refuser' }).click();
-    await page.getByRole('combobox', { name: 'Select your size' }).click();
-    await page.getByRole('option', { name: 'Size S' }).click();
-    return page.locator('.stock-info');
-}, scrapesDirectory);
-testPageWithInteraction("riverside-120-gray", "https://www.decathlon.be/fr/p/velo-tout-chemin-riverside-120-gris-metal/_/R-p-300806", async (page) => {
-    await page.getByRole('button', { name: 'Tout refuser' }).click();
-    await page.getByRole('combobox', { name: 'Select your size' }).click();
-    await page.getByRole('option', { name: 'Size S' }).click();
-    return page.locator('.stock-info');
-}, scrapesDirectory);
+// testPageWithInteraction("riverside-120-green", "https://www.decathlon.be/fr/p/velo-tout-chemin-riverside-120-enjambement-bas-vert-pastel/_/R-p-323601", async (page) => {
+//     await page.getByRole('button', { name: 'Tout refuser' }).click();
+//     await page.getByRole('combobox', { name: 'Select your size' }).click();
+//     await page.getByRole('option', { name: 'Size S' }).click();
+//     return page.locator('.stock-info');
+// }, scrapesDirectory);
+// testPageWithInteraction("riverside-120-gray", "https://www.decathlon.be/fr/p/velo-tout-chemin-riverside-120-gris-metal/_/R-p-300806", async (page) => {
+//     await page.getByRole('button', { name: 'Tout refuser' }).click();
+//     await page.getByRole('combobox', { name: 'Select your size' }).click();
+//     await page.getByRole('option', { name: 'Size S' }).click();
+//     return page.locator('.stock-info');
+// }, scrapesDirectory);
