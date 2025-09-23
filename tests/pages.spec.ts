@@ -23,3 +23,4 @@ testPage("maximvengerov", "https://www.maximvengerov.com/events", page => page.l
 //testPage("lidl-yoga-mat", "https://www.lidl.be/p/fr-BE/schildkrot-fitness-tapis-de-fitness/p100290653", page => page.locator('article.detail-one > div > div').nth(1), scrapesDirectory);
 // testPage("lidl-porte-velo", "https://www.lidl.be/p/fr-BE/pied-d-atelier-pour-velo-crivit/p100386064", page => page.locator('article.detail-one > div > div').nth(1), scrapesDirectory);
 testPage("epso", "https://eu-careers.europa.eu/en/upcoming-selection-procedures", page => page.locator('.ecl-row'), scrapesDirectory);
+testPage("piepers", "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel", ".col-lg-8", scrapesDirectory);
