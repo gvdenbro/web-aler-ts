@@ -57,6 +57,28 @@ Activiteit
 
 Activiteit
 
+18.01 - 18.01.2026
+
+[FLEXIactiviteit](https://jnm.be/nl/activiteiten/flexiactiviteit)
+-----------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+1.02 - 1.02.2026
+
+[Iniactiviteit](https://jnm.be/nl/activiteiten/iniactiviteit-1)
+---------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Pini's JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 29.03 - 29.03.2026
 
 [Het begin van de lente](https://jnm.be/nl/activiteiten/het-begin-van-de-lente)
