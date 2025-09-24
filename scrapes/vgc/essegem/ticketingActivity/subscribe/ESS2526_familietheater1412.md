@@ -15,8 +15,7 @@ Er is een mens in een jas. Hij heeft het koud. Hij maakt zich klein. Hij wil iet
 Hij is een berg. En nu een krab! En toch een slak. Hij kan alles. In zijn zak.  
 <br/>Kruip in de cocon van een mens zonder dak in een veranderende wereld. Of verandert hij zelf? 'Jaszak' is een grappige, hartverwarmende dansvoorstelling, geïnspireerd door Sheltersuit, dat pakken maakt waarin daklozen buiten kunnen overleven.  
 <br/>**Leuk voor families met kinderen vanaf 2 jaar**.  
-<br/>*Online verkoop stopt één uur voor aanvang van de voorstelling.  
-Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+<br/>*VOLZET. Mail of bel ons voor een plaats op de wachtlijst.  
 <br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Prijslijst

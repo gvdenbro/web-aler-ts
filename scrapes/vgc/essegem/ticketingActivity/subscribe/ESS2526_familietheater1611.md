@@ -14,8 +14,7 @@ Vanaf 11:00 tot 11:45
 Loesje en Eva, twee hartsvriendinnen, toveren hun speelkamer om tot een mysterieus sprookjesbos. Vanonder het mostapijt weerklinken zoete zang en betoverende harpmelodieën, hypnotiserende fluiten en paddenstoelengezwam.  
 <br/>Laat je betoveren door een wonderlijke wereld vol vliegende schotels en rare boswezens! 'Tapitou' is warm en speels muziektheater, waarin zelfgemaakte handpoppen de hoofdrol spelen.  
 <br/><br/>**Leuk voor families met kinderen vanaf 4 jaar**.  
-<br/>*GRATIS, in het kader van Kunstendag voor Kinderen, maar wel graag inschrijven. Dat kan online tot één uur voor aanvang van de voorstelling.  
-Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+<br/>*VOLZET. Mail of bel ons voor een plaats op de wachtlijst.  
 <br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Prijslijst
