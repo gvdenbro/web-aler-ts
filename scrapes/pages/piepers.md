@@ -2,17 +2,6 @@
 
 Activiteit
 
-28.09 - 28.09.2025
-
-[STARTDAG JNM BRUSSEL 2025](https://jnm.be/nl/activiteiten/startdag-jnm-brussel-2025)
--------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 5.10 - 5.10.2025
 
 [Klimaatmars 2025](https://jnm.be/nl/activiteiten/klimaatmars-2025)
