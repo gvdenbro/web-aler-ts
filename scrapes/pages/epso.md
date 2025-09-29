@@ -9,6 +9,6 @@ Publication of a competition for **secretaries** ([grade AST/SC](/en/eu-career
 
 Publication of a **Luxembourg-specific competition** (Profile to be confirmed; towards the end of 2025). 
 
-[![Accessibility tools button image](/themes/custom/oe_epso_theme/images/reciteme_button.png)](#reciteEnable "Open Accessibility")
+![Accessibility tools button image](/themes/custom/oe_epso_theme/images/reciteme_button.png)
 
 [Source](https://eu-careers.europa.eu/en/upcoming-selection-procedures)
