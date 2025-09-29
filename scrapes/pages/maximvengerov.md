@@ -1,29 +1,3 @@
-[](/events/cyprus-concert)
-
-Sep
-
-27
-
-[Cyprus Concert](/events/cyprus-concert)
-========================================
-
-* Saturday, September 27, 2025
-* 8:30 PM 10:30 PM
-* Strovolos Municipal Theatre [(map)](http://maps.google.com?q=Strovolos%20Municipal%20Theatre%20Strovolos,%20Lefkosia,%202042%20Cyprus)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cyprus%20Concert&dates=20250927T183000Z/20250927T203000Z&location=Strovolos%20Municipal%20Theatre%2C%20Strovolos%2C%20Lefkosia%2C%202042%2C%20Cyprus) [ICS](/events/cyprus-concert?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-Marios Papadopoulos, conductor  
-Maxim Vengerov, violin  
-Oxford Philharmonic Orchestra
-
-[View Event →](/events/cyprus-concert)
-
 [](/events/tashkent-concert)
 
 Oct
@@ -541,6 +515,32 @@ Budapest Festival Orchestra
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 * * *
+
+[](/events/cyprus-concert)
+
+Sep
+
+27
+
+[Cyprus Concert](/events/cyprus-concert)
+========================================
+
+* Saturday, September 27, 2025
+* 8:30 PM 10:30 PM
+* Strovolos Municipal Theatre [(map)](http://maps.google.com?q=Strovolos%20Municipal%20Theatre%20Strovolos,%20Lefkosia,%202042%20Cyprus)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cyprus%20Concert&dates=20250927T183000Z/20250927T203000Z&location=Strovolos%20Municipal%20Theatre%2C%20Strovolos%2C%20Lefkosia%2C%202042%2C%20Cyprus) [ICS](/events/cyprus-concert?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+Marios Papadopoulos, conductor  
+Maxim Vengerov, violin  
+Oxford Philharmonic Orchestra
+
+[View Event →](/events/cyprus-concert)
 
 [](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
 
@@ -1304,32 +1304,5 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/taipei-recital)
-
-[](/events/shanghai-concert)
-
-Feb
-
-28
-
-[Shanghai Concert](/events/shanghai-concert)
-============================================
-
-* Friday, February 28, 2025
-* 8:00 PM 10:00 PM
-* Jaguar Shanghai Symphony Hall [(map)](http://maps.google.com?q=1380号%20Fu%20Xing%20Zhong%20Lu%20Xu%20Hui%20Qu,%20Shang%20Hai%20Shi,%20200031%20China)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Shanghai%20Concert&dates=20250228T190000Z/20250228T210000Z&location=1380%E5%8F%B7%20Fu%20Xing%20Zhong%20Lu%2C%20Xu%20Hui%20Qu%2C%20Shang%20Hai%20Shi%2C%20200031%2C%20China) [ICS](/events/shanghai-concert?format=ical)
-
-Program
-
-Mendelssohn Violin Concerto
-
-  
-Performers
-
-Cui Linhan, conductor  
-Maxim Vengerov, violin  
-Shanghai Symphony Orchestra
-
-[View Event →](/events/shanghai-concert)
 
 [Source](https://www.maximvengerov.com/events)
