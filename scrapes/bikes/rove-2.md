@@ -1,4 +1,4 @@
-Original price: 799 € - 999 € 999 € \*
+799 € Original price 999 € \- 999 € Original price \*
 
 \* La réduction s'applique à une sélection de modèles.
 
