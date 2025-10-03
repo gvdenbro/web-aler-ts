@@ -1,31 +1,3 @@
-[](/events/tashkent-concert)
-
-Oct
-
-2
-
-[Tashkent Concert](/events/tashkent-concert)
-============================================
-
-* Thursday, October 2, 2025
-* 8:00 PM 10:00 PM
-* Turkistan Concert Hall [(map)](http://maps.google.com?q=2%20Navoiy%20shoh%20ko'chasi%20Тоshkent,%20Toshkent,%20100000%20Uzbekistan)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Tashkent%20Concert&dates=20251002T180000Z/20251002T200000Z&location=2%20Navoiy%20shoh%20ko%26%2339%3Bchasi%2C%20%D0%A2%D0%BEshkent%2C%20Toshkent%2C%20100000%2C%20Uzbekistan) [ICS](/events/tashkent-concert?format=ical)
-
-Program
-
-Alexey Shor Violin concerto No. 6 “Carpe diem”  
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Alibek Kabdurakhmanov, conductor  
-Maxim Vengerov, violin  
-National Symphony Orchestra of Uzbekistan
-
-[View Event →](/events/tashkent-concert)
-
 [](/events/recital-teramo-italy-3gd8c)
 
 Oct
@@ -515,6 +487,34 @@ Budapest Festival Orchestra
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 * * *
+
+[](/events/tashkent-concert)
+
+Oct
+
+2
+
+[Tashkent Concert](/events/tashkent-concert)
+============================================
+
+* Thursday, October 2, 2025
+* 8:00 PM 10:00 PM
+* Turkistan Concert Hall [(map)](http://maps.google.com?q=2%20Navoiy%20shoh%20ko'chasi%20Тоshkent,%20Toshkent,%20100000%20Uzbekistan)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Tashkent%20Concert&dates=20251002T180000Z/20251002T200000Z&location=2%20Navoiy%20shoh%20ko%26%2339%3Bchasi%2C%20%D0%A2%D0%BEshkent%2C%20Toshkent%2C%20100000%2C%20Uzbekistan) [ICS](/events/tashkent-concert?format=ical)
+
+Program
+
+Alexey Shor Violin concerto No. 6 “Carpe diem”  
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Alibek Kabdurakhmanov, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra of Uzbekistan
+
+[View Event →](/events/tashkent-concert)
 
 [](/events/cyprus-concert)
 
@@ -1275,34 +1275,5 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/torino-recital)
-
-[](/events/taipei-recital)
-
-Mar
-
-3
-
-[Taipei Recital](/events/taipei-recital)
-========================================
-
-* Monday, March 3, 2025
-* 7:30 PM 9:30 PM
-* National Concert Hall [(map)](http://maps.google.com?q=21-1%20Zhongshan%20South%20Road%20Taipei%20City,%20100%20Taiwan)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Taipei%20Recital&dates=20250303T183000Z/20250303T203000Z&location=21-1%20Zhongshan%20South%20Road%2C%20Taipei%20City%2C%20100%2C%20Taiwan) [ICS](/events/taipei-recital?format=ical)
-
-Program
-
-Prokofiev 5 Melodies  
-Prokofiev Violin Sonata No. 2  
-Franck Violin Sonata  
-Ravel Tzigane
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/taipei-recital)
 
 [Source](https://www.maximvengerov.com/events)
