@@ -13,17 +13,6 @@ Activiteit
 
 Activiteit
 
-5.10 - 5.10.2025
-
-[Klimaatmars!](https://jnm.be/nl/activiteiten/klimaatmars-11)
--------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 17.10 - 17.10.2025
 
 [Dag van de jeugdbeweging](https://jnm.be/nl/activiteiten/dag-van-de-jeugdbeweging-7)
