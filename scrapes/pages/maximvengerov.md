@@ -185,33 +185,6 @@ Tokyo Philharmonic Orchestra
 
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll)
 
-[](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys)
-
-Nov
-
-13
-
-[Ulsan Philharmonic](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys)
-===========================================================================
-
-* Thursday, November 13, 2025
-* 7:30 PM 9:30 PM
-* Ulsan Culture Center [(map)](http://maps.google.com?q=%20Ulsan%20South%20Korea)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic&dates=20251113T183000Z/20251113T203000Z&location=Ulsan%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Sascha Goetzel, conductor  
-Maxim Vengerov, violin  
-Ulsan Phiharmonic
-
-[View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys)
-
 [](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
 
 Nov
@@ -319,6 +292,33 @@ Maxim Vengerov, violin
 Evgenia Startseva, piano  
 
 [View Event →](/events/recital-teramo-italy-3t6aj)
+
+[](/events/recital-teramo-italy-3t6aj-jmdm5)
+
+Nov
+
+30
+
+[Recital Salerno](/events/recital-teramo-italy-3t6aj-jmdm5)
+===========================================================
+
+* Sunday, November 30, 2025
+* 6:00 PM 8:00 PM
+* TEATRO VERDI (SALERNO) [(map)](http://maps.google.com?q=1%20Piazza%20Matteo%20Luciani%20Salerno,%20Campania,%2084121%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Salerno&dates=20251130T170000Z/20251130T190000Z&location=1%20Piazza%20Matteo%20Luciani%2C%20Salerno%2C%20Campania%2C%2084121%2C%20Italy) [ICS](/events/recital-teramo-italy-3t6aj-jmdm5?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/recital-teramo-italy-3t6aj-jmdm5)
 
 [](/events/athens-concert)
 
