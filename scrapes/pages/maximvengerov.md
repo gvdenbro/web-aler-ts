@@ -408,6 +408,34 @@ Yefim Bronfman, piano
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+
+Jan
+
+1
+
+[Wuxi New Hall Opening Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+======================================================================================
+
+* Thursday, January 1, 2026
+* 8:00 PM 10:00 PM
+* Wuxi Concert Hall [(map)](http://maps.google.com?q=4%20Hu%20Bin%20Lu%20Wu%20Xi%20Shi,%20Jiang%20Su%20Sheng,%20214061%20China)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Wuxi%20New%20Hall%20Opening%20Concert&dates=20260101T190000Z/20260101T210000Z&location=4%20Hu%20Bin%20Lu%2C%20Wu%20Xi%20Shi%2C%20Jiang%20Su%20Sheng%2C%20214061%2C%20China) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh?format=ical)
+
+Program
+
+Ravel Tzigane  
+Massenet Meditation from Thaïs
+
+  
+Performers
+
+Lin Daye, conductor  
+Maxim Vengerov, violin  
+Wuxi Symphony Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
 
 Jan
