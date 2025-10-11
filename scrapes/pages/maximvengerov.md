@@ -447,7 +447,8 @@ Jan
 
 * Wednesday, January 28, 2026
 * 7:30 PM 9:30 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20London%20Barbican&dates=20260128T183000Z/20260128T203000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf?format=ical)
+* The Barbican Hall [(map)](http://maps.google.com?q=Silk%20Street%20London,%20England,%20EC2Y%208DS%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20London%20Barbican&dates=20260128T183000Z/20260128T203000Z&location=Silk%20Street%2C%20London%2C%20England%2C%20EC2Y%208DS%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf?format=ical)
 
 Program
 
