@@ -9,6 +9,4 @@ Other competitions to be published in **2025** (month and date to be confirmed):
 
 &nbsp;
 
-[![Accessibility tools button image](/themes/custom/oe_epso_theme/images/reciteme_button.png)](#reciteEnable "Open Accessibility")
-
 [Source](https://eu-careers.europa.eu/en/upcoming-selection-procedures)
