@@ -1,7 +1,7 @@
 Upcoming opportunities
 ----------------------
 
-&nbsp;**November 2026**
+&nbsp;**November 2025**
 
 * **Experts** **in the field of data management and data knowledge** ([grade AD7](/en/eu-careers/staff-categories "EU staff categories")) for recruitment to posts based in Luxembourg;
 
