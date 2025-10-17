@@ -2,17 +2,6 @@
 
 Activiteit
 
-17.10 - 17.10.2025
-
-[Dag van de jeugdbeweging](https://jnm.be/nl/activiteiten/dag-van-de-jeugdbeweging-7)
--------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Gewone leden,  Steunleden,  Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 19.10 - 19.10.2025
 
 [Stout maar niet fout](https://jnm.be/nl/activiteiten/stout-maar-niet-fout)
