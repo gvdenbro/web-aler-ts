@@ -51,7 +51,7 @@ Activiteit
 [FLEXI activiteit](https://jnm.be/nl/activiteiten/flexi-activiteit)
 -------------------------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden JNM Brussel
 
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
