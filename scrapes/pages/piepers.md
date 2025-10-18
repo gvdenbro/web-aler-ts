@@ -68,6 +68,17 @@ Activiteit
 
 Activiteit
 
+21.12 - 21.12.2025
+
+[Braakballen uitpluizen](https://jnm.be/nl/activiteiten/braakballen-uitpluizen-3)
+---------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 18.01 - 18.01.2026
 
 [FLEXIactiviteit](https://jnm.be/nl/activiteiten/flexiactiviteit)
