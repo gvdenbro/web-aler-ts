@@ -2,17 +2,6 @@
 
 Activiteit
 
-19.10 - 19.10.2025
-
-[Stout maar niet fout](https://jnm.be/nl/activiteiten/stout-maar-niet-fout)
----------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 26.10 - 26.10.2025
 
 [Met JNM naar Filem'on 2025](https://jnm.be/nl/activiteiten/met-jnm-naar-filemon-2025)
