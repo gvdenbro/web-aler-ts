@@ -1,55 +1,3 @@
-[](/events/recital-teramo-italy-3gd8c)
-
-Oct
-
-18
-
-[BEMUS Festival Belgrade](/events/recital-teramo-italy-3gd8c)
-=============================================================
-
-* Saturday, October 18, 2025
-* 8:00 PM 10:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=BEMUS%20Festival%20Belgrade&dates=20251018T180000Z/20251018T200000Z) [ICS](/events/recital-teramo-italy-3gd8c?format=ical)
-
-Program
-
-Shostakovich Violin Sonata  
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3
-
-  
-Performers  
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano  
-
-[View Event →](/events/recital-teramo-italy-3gd8c)
-
-[](/events/recital-teramo-italy-3gd8c-w5szy)
-
-Oct
-
-19
-
-[Monaco Concert](/events/recital-teramo-italy-3gd8c-w5szy)
-==========================================================
-
-* Sunday, October 19, 2025
-* 6:00 PM 8:00 PM
-* Grimaldi Forum, Monaco [(map)](http://maps.google.com?q=10%20Avenue%20Princesse%20Grâce%20Monaco,%2098000%20Monaco)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Monaco%20Concert&dates=20251019T160000Z/20251019T180000Z&location=10%20Avenue%20Princesse%20Gr%C3%A2ce%2C%20Monaco%2C%2098000%2C%20Monaco) [ICS](/events/recital-teramo-italy-3gd8c-w5szy?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-Lawrence Foster, conductor  
-Maxim Vengerov, violin  
-Monte-Carlo Philharmonic Orchestra
-
-[View Event →](/events/recital-teramo-italy-3gd8c-w5szy)
-
 [](/events/antwerp-concert)
 
 Nov
@@ -516,6 +464,58 @@ Budapest Festival Orchestra
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 * * *
+
+[](/events/recital-teramo-italy-3gd8c-w5szy)
+
+Oct
+
+19
+
+[Monaco Concert](/events/recital-teramo-italy-3gd8c-w5szy)
+==========================================================
+
+* Sunday, October 19, 2025
+* 6:00 PM 8:00 PM
+* Grimaldi Forum, Monaco [(map)](http://maps.google.com?q=10%20Avenue%20Princesse%20Grâce%20Monaco,%2098000%20Monaco)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Monaco%20Concert&dates=20251019T160000Z/20251019T180000Z&location=10%20Avenue%20Princesse%20Gr%C3%A2ce%2C%20Monaco%2C%2098000%2C%20Monaco) [ICS](/events/recital-teramo-italy-3gd8c-w5szy?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+Lawrence Foster, conductor  
+Maxim Vengerov, violin  
+Monte-Carlo Philharmonic Orchestra
+
+[View Event →](/events/recital-teramo-italy-3gd8c-w5szy)
+
+[](/events/recital-teramo-italy-3gd8c)
+
+Oct
+
+18
+
+[BEMUS Festival Belgrade](/events/recital-teramo-italy-3gd8c)
+=============================================================
+
+* Saturday, October 18, 2025
+* 8:00 PM 10:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=BEMUS%20Festival%20Belgrade&dates=20251018T180000Z/20251018T200000Z) [ICS](/events/recital-teramo-italy-3gd8c?format=ical)
+
+Program
+
+Shostakovich Violin Sonata  
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3
+
+  
+Performers  
+Maxim Vengerov, violin  
+Polina Osetinskaya, piano  
+
+[View Event →](/events/recital-teramo-italy-3gd8c)
 
 [](/events/tashkent-concert)
 
@@ -1246,63 +1246,5 @@ Maxim Vengerov, violin
 Franz Schubert Filharmonia
 
 [View Event →](/events/shor-50th-birthday)
-
-[](/events/fermo-recital)
-
-Mar
-
-29
-
-[Fermo Recital](/events/fermo-recital)
-======================================
-
-* Saturday, March 29, 2025
-* 9:00 PM 11:00 PM
-* Teatro dell'Aquila [(map)](http://maps.google.com?q=8%20Via%20Giuseppe%20Mazzini%20Fermo,%20Marche,%2063900%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Fermo%20Recital&dates=20250329T200000Z/20250329T220000Z&location=8%20Via%20Giuseppe%20Mazzini%2C%20Fermo%2C%20Marche%2C%2063900%2C%20Italy) [ICS](/events/fermo-recital?format=ical)
-
-Program
-
-Prokofiev 5 Melodies  
-Prokofiev Violin Sonata No. 2  
-Schubert Sonatina in G minor D. 408  
-Brahms Sonata No 3 in D minor
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/fermo-recital)
-
-[](/events/torino-recital)
-
-Mar
-
-26
-
-[Torino Recital](/events/torino-recital)
-========================================
-
-* Wednesday, March 26, 2025
-* 8:30 PM 10:30 PM
-* Giuseppe Verdi Conservatory - Turin [(map)](http://maps.google.com?q=11%20Via%20Giuseppe%20Mazzini%20Torino,%20Piemonte,%2010123%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Torino%20Recital&dates=20250326T193000Z/20250326T213000Z&location=11%20Via%20Giuseppe%20Mazzini%2C%20Torino%2C%20Piemonte%2C%2010123%2C%20Italy) [ICS](/events/torino-recital?format=ical)
-
-Program
-
-Prokofiev 5 Melodies  
-Prokofiev Violin Sonata No. 2  
-Schubert Sonatina in G minor D. 408  
-Brahms Sonata No 3 in D minor
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/torino-recital)
 
 [Source](https://www.maximvengerov.com/events)
