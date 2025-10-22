@@ -7,7 +7,7 @@ Activiteit
 [Met JNM naar Filem'on 2025](https://jnm.be/nl/activiteiten/met-jnm-naar-filemon-2025)
 --------------------------------------------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
 
 ![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
 
