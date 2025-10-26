@@ -16,7 +16,7 @@ Een meisje hoort haar buurman trommelen, roffelen, tikkelen, timmeren ... Op all
 <br/>**Leuk voor families met kinderen vanaf 4 jaar**.  
 <br/>*Online verkoop stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
-<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -32,8 +32,8 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 1.  09/07/2025 09:00 tot 26/10/2025 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater2610)
