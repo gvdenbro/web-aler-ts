@@ -171,8 +171,8 @@ Nov
 
 * Saturday, November 15, 2025
 * 7:30 PM 9:30 PM
-* Pohang Munhwa Art Center [(map)](http://maps.google.com?q=%20Pohang-si,%20Gyeongsangbuk-do%20South%20Korea)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic%20&dates=20251115T183000Z/20251115T203000Z&location=Pohang-si%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r?format=ical)
+* Gyeongju Arts Center [(map)](http://maps.google.com?q=%20Gyeongju,%20Gyeongsangbuk-do%20South%20Korea)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic%20&dates=20251115T183000Z/20251115T203000Z&location=Gyeongju%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r?format=ical)
 
 Program
 
@@ -383,6 +383,33 @@ Maxim Vengerov, violin
 Wuxi Symphony Orchestra
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
+
+Jan
+
+24
+
+[Recital Italy](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
+==============================================================================================
+
+* Saturday, January 24, 2026
+* 7:00 PM 9:00 PM
+* Cagliari Teatro Lirico [(map)](http://maps.google.com?q=Via%20Sant'Alenixedda%20Cagliari,%20Sardegna,%2009128%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Italy&dates=20260124T180000Z/20260124T200000Z&location=Via%20Sant%26%2339%3BAlenixedda%2C%20Cagliari%2C%20Sardegna%2C%2009128%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
 
