@@ -26,8 +26,8 @@ Activiteit
 
 16.11 - 16.11.2025
 
-[FLEXI activiteit](https://jnm.be/nl/activiteiten/flexi-activiteit)
--------------------------------------------------------------------
+[Onrust in het Belgisch plantenrijk](https://jnm.be/nl/activiteiten/onrust-in-het-belgisch-plantenrijk)
+-------------------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden JNM Brussel
 
