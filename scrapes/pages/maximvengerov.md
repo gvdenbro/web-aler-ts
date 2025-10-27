@@ -411,6 +411,24 @@ Polina Osetinskaya, piano
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
+[](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
+
+Jan
+
+26
+
+[Masterclass Trinity Laban Conservatory of Greenwich](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
+=====================================================================================================
+
+* Monday, January 26, 2026
+* 3:00 PM 5:00 PM
+* Trinity Laban Conservatory of Greenwich [(map)](http://maps.google.com?q=Romney%20Road%20London,%20England,%20SE10%209JF%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260126T140000Z/20260126T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
+
+Masterclass with Maxim Vengerov
+
+[View Event →](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
 
 Jan
@@ -489,6 +507,58 @@ Maxim Vengerov, violin
 Budapest Festival Orchestra
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
+
+Feb
+
+27
+
+[RTE Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
+===============================================================================================================
+
+* Friday, February 27, 2026
+* 7:30 PM 9:30 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=RTE%20Dublin%20Concert%20&dates=20260227T183000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4?format=ical)
+
+Program
+
+Mendelssohn Violin Concerto
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+
+Feb
+
+28
+
+[Masterclass RTE Dublin](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+=========================================================================================================================
+
+* Saturday, February 28, 2026
+* 11:00 AM 2:00 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20RTE%20Dublin&dates=20260228T100000Z/20260228T130000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj?format=ical)
+
+Program
+
+Concerto Masterclass with Maxim Vengerov & NSOI
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
 
