@@ -1,30 +1,3 @@
-[](/events/antwerp-concert)
-
-Nov
-
-1
-
-[Antwerp Concert](/events/antwerp-concert)
-==========================================
-
-* Saturday, November 1, 2025
-* 8:00 PM 10:00 PM
-* De Singel [(map)](http://maps.google.com?q=25%20Desguinlei%20Antwerpen,%20Vlaanderen,%202018%20Belgium)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Antwerp%20Concert&dates=20251101T190000Z/20251101T210000Z&location=25%20Desguinlei%2C%20Antwerpen%2C%20Vlaanderen%2C%202018%2C%20Belgium) [ICS](/events/antwerp-concert?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Myung-Whun Chung, conductor  
-Maxim Vengerov, violin  
-Tokyo Philharmonic Orchestra
-
-[View Event →](/events/antwerp-concert)
-
 [](/events/antwerp-concert-cfxfr)
 
 Nov
@@ -561,6 +534,33 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/antwerp-concert)
+
+Nov
+
+1
+
+[Antwerp Concert](/events/antwerp-concert)
+==========================================
+
+* Saturday, November 1, 2025
+* 8:00 PM 10:00 PM
+* De Singel [(map)](http://maps.google.com?q=25%20Desguinlei%20Antwerpen,%20Vlaanderen,%202018%20Belgium)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Antwerp%20Concert&dates=20251101T190000Z/20251101T210000Z&location=25%20Desguinlei%2C%20Antwerpen%2C%20Vlaanderen%2C%202018%2C%20Belgium) [ICS](/events/antwerp-concert?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Myung-Whun Chung, conductor  
+Maxim Vengerov, violin  
+Tokyo Philharmonic Orchestra
+
+[View Event →](/events/antwerp-concert)
 
 [](/events/recital-teramo-italy-3gd8c-w5szy)
 
@@ -1318,30 +1318,5 @@ Maxim Vengerov, violin
 Martha Argerich, piano
 
 [View Event →](/events/chantilly-recital-95jk6-nntdn)
-
-[](/events/shor-50th-birthday)
-
-Apr
-
-10
-
-[Concert for Alexey Shor 50th Birthday](/events/shor-50th-birthday)
-===================================================================
-
-* Thursday, April 10, 2025
-* 8:00 PM 10:00 PM
-* Dubai Opera [(map)](http://maps.google.com?q=Sheikh%20Mohammed%20bin%20Rashid%20Boulevard%20Dubai,%20Dubai%20United%20Arab%20Emirates)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concert%20for%20Alexey%20Shor%2050th%20Birthday&dates=20250410T180000Z/20250410T200000Z&location=Sheikh%20Mohammed%20bin%20Rashid%20Boulevard%2C%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates) [ICS](/events/shor-50th-birthday?format=ical)
-
-Program  
-<br/>Alexey Shor Violin concerto No. 6 “Carpe diem”
-
-  
-Performers  
-Lionel Bringuier, conductor  
-Maxim Vengerov, violin  
-Franz Schubert Filharmonia
-
-[View Event →](/events/shor-50th-birthday)
 
 [Source](https://www.maximvengerov.com/events)
