@@ -1,14 +1,3 @@
-![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
-
-Weekendje
-
-31.10 - 2.11.2025
-
-[Herfstweekend 2025 - PIEP](https://jnm.be/nl/activiteiten/herfstweekend-2025-piep)
------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
-
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
 Activiteit
