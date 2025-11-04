@@ -1,16 +1,30 @@
 Upcoming opportunities
 ----------------------
 
-**11 November 2025**
+Next competition to be published on **11 November 2025**:
 
-* **Experts** **in the field of data management and data knowledge** ([grade AD7](/en/eu-careers/staff-categories "EU staff categories")) for recruitment to posts based in Luxembourg;
+* **Experts** **in the field of data management and data knowledge** ([grade AD7](/en/eu-careers/staff-categories "EU staff categories")) for recruitment to posts based in Luxembourg
 
-Other competitions to be published in **2026** (month and **date to be confirmed**):
+&nbsp;
 
-* **Graduates** ([grade AD5](/en/eu-careers/staff-categories "EU staff categories"));  
-    The AD5 competition for graduates will be published in **early 2026**, to allow for an efficient integration of the new test provider (OAT) and the related IT tools. EPSO is making every effort to ensure a stable and reliable selection procedure. More information on the date of the publication of the Notice of Competition will be published before the Christmas holidays.  
-     
-* **Secretaries** ([grade AST/SC](/en/eu-careers/staff-categories "EU staff categories")).
+In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published in **2026** (month and **date to be confirmed**):
+
+* **Graduates** ([grade AD5](/en/eu-careers/staff-categories "EU staff categories"))  
+    The AD5 competition for graduates will be published in **early 2026**, to allow for an efficient integration of the new test provider (OAT) and the related IT tools. EPSO is making every effort to ensure a stable and reliable selection procedure. More information on the date of the publication of the Notice of Competition will be published before the Christmas holidays.
+* **Secretaries** ([grade AST/SC](/en/eu-careers/staff-categories "EU staff categories"))
+* **IT experts 3 fields** (grade AD - IT Infrastructure, Project management, Clouds and networks)
+* **IT experts 3 fields** (grade AD - AI, Data science, Cybersecurity)
+* **Auditors** (grade AD)
+* **Lawyer-Linguists** for the European Court of Justice (grade AD)
+* **Assistants for Parliamentary body** (grade AST)
+* **Data management experts** (grade AST)
+* **Lawyers 3 fields** (grade AD - Competition law, Financial and EMU law, Litigation law)
+* **Lawyers 3 fields** (grade AD - AI Law, Criminal Law, Energy Law)
+* **Lawyer-Linguists** for the European Parliament, the Council of the EU and the European Commission (grade AD)
+* **International affairs specialists** (grade AD)
+* **Translators** (grade AD)
+* **ICT experts 3 fields** (grade AST - IT Infrastructure, cloud and networks, Software development, User support)
+* **Nuclear inspectors** (grade AST)
 
 &nbsp;
 
