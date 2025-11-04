@@ -1,3 +1,30 @@
+[](/events/antwerp-concert-cfxfr)
+
+Nov
+
+3
+
+[Toulouse Concert](/events/antwerp-concert-cfxfr)
+=================================================
+
+* Monday, November 3, 2025
+* 8:00 PM 10:00 PM
+* La Halle aux Grains [(map)](http://maps.google.com?q=1%20Place%20Dupuy%20Toulouse,%20Occitanie,%2031000%20France)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Toulouse%20Concert&dates=20251103T190000Z/20251103T210000Z&location=1%20Place%20Dupuy%2C%20Toulouse%2C%20Occitanie%2C%2031000%2C%20France) [ICS](/events/antwerp-concert-cfxfr?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Myung-Whun Chung, conductor  
+Maxim Vengerov, violin  
+Tokyo Philharmonic Orchestra
+
+[View Event →](/events/antwerp-concert-cfxfr)
+
 [](/events/antwerp-concert-cfxfr-9s43f)
 
 Nov
@@ -507,33 +534,6 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
-
-[](/events/antwerp-concert-cfxfr)
-
-Nov
-
-3
-
-[Toulouse Concert](/events/antwerp-concert-cfxfr)
-=================================================
-
-* Monday, November 3, 2025
-* 8:00 PM 10:00 PM
-* La Halle aux Grains [(map)](http://maps.google.com?q=1%20Place%20Dupuy%20Toulouse,%20Occitanie,%2031000%20France)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Toulouse%20Concert&dates=20251103T190000Z/20251103T210000Z&location=1%20Place%20Dupuy%2C%20Toulouse%2C%20Occitanie%2C%2031000%2C%20France) [ICS](/events/antwerp-concert-cfxfr?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Myung-Whun Chung, conductor  
-Maxim Vengerov, violin  
-Tokyo Philharmonic Orchestra
-
-[View Event →](/events/antwerp-concert-cfxfr)
 
 [](/events/antwerp-concert)
 
@@ -1294,5 +1294,29 @@ Steven Isserlis, cello
 Martha Argerich, piano
 
 [View Event →](/events/chantilly-recital-95jk6)
+
+[](/events/chantilly-recital-95jk6-nntdn)
+
+Apr
+
+17
+
+[Hommage for Ivry Gitlis](/events/chantilly-recital-95jk6-nntdn)
+================================================================
+
+* Thursday, April 17, 2025
+* 2:00 PM 4:00 PM
+* Auditorium Opéra de Bordeaux [(map)](http://maps.google.com?q=Place%20de%20la%20Comédie%20Bordeaux,%20Nouvelle-Aquitaine,%2033000%20France)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Hommage%20for%20Ivry%20Gitlis&dates=20250417T120000Z/20250417T140000Z&location=Place%20de%20la%20Com%C3%A9die%2C%20Bordeaux%2C%20Nouvelle-Aquitaine%2C%2033000%2C%20France) [ICS](/events/chantilly-recital-95jk6-nntdn?format=ical)
+
+Program
+
+Beethoven Violin Sonata No. 8  
+<br/>Performers
+
+Maxim Vengerov, violin  
+Martha Argerich, piano
+
+[View Event →](/events/chantilly-recital-95jk6-nntdn)
 
 [Source](https://www.maximvengerov.com/events)
