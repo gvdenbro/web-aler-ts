@@ -97,4 +97,15 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+12.04 - 12.04.2026
+
+[Pieper activiteit](https://jnm.be/nl/activiteiten/pieper-activiteit-1)
+-----------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
