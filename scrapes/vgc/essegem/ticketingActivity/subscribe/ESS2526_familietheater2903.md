@@ -14,8 +14,7 @@ Vanaf 11:00 tot 11:35
 Tjok tjok tjok. Wie komt daar aangesjokt? Het is Solita! Met haar karretje en haar dozen. Ze praat tegen zichzelf en slaapt overal waar ze liggen kan. Is ze gek of zo? He, wat is dat? Dat is geen doos! Het is een orkestbak vol trompetgeschal! En Solita praat niet tegen zichzelf! Ze praat tegen een koorddanser en een acrobaat! Wie had dat gedacht...  
 <br/>In 'Solita', een muzikale objecttheatervoorstelling zonder woorden, ontpopt zich een eigen kleine wereld vol circusspektakel en muziek. Maak kennis met een personage dat, in al haar gekke eenzaamheid, een lach en een traan ontlokt.  
 <br/>**Leuk voor families met kinderen vanaf 3 jaar**.  
-<br/>*Online verkoop stopt één uur voor aanvang van de voorstelling.  
-Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+<br/>**VOLZET. Mail of bel ons voor een plaats op de wachtlijst.*  
 <br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Prijslijst
