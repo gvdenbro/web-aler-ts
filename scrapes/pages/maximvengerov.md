@@ -1,30 +1,3 @@
-[](/events/antwerp-concert-cfxfr-9s43f)
-
-Nov
-
-6
-
-[Barcelona Concert](/events/antwerp-concert-cfxfr-9s43f)
-========================================================
-
-* Thursday, November 6, 2025
-* 8:00 PM 10:00 PM
-* Palau de la Música Catalana [(map)](http://maps.google.com?q=4-6%20Carrer%20del%20Palau%20de%20la%20Música%20Barcelona,%20CT,%2008003%20Spain)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Barcelona%20Concert&dates=20251106T190000Z/20251106T210000Z&location=4-6%20Carrer%20del%20Palau%20de%20la%20M%C3%BAsica%2C%20Barcelona%2C%20CT%2C%2008003%2C%20Spain) [ICS](/events/antwerp-concert-cfxfr-9s43f?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Myung-Whun Chung, conductor  
-Maxim Vengerov, violin  
-Tokyo Philharmonic Orchestra
-
-[View Event →](/events/antwerp-concert-cfxfr-9s43f)
-
 [](/events/antwerp-concert-cfxfr-9s43f-krfw7)
 
 Nov
@@ -507,6 +480,33 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/antwerp-concert-cfxfr-9s43f)
+
+Nov
+
+6
+
+[Barcelona Concert](/events/antwerp-concert-cfxfr-9s43f)
+========================================================
+
+* Thursday, November 6, 2025
+* 8:00 PM 10:00 PM
+* Palau de la Música Catalana [(map)](http://maps.google.com?q=4-6%20Carrer%20del%20Palau%20de%20la%20Música%20Barcelona,%20CT,%2008003%20Spain)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Barcelona%20Concert&dates=20251106T190000Z/20251106T210000Z&location=4-6%20Carrer%20del%20Palau%20de%20la%20M%C3%BAsica%2C%20Barcelona%2C%20CT%2C%2008003%2C%20Spain) [ICS](/events/antwerp-concert-cfxfr-9s43f?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Myung-Whun Chung, conductor  
+Maxim Vengerov, violin  
+Tokyo Philharmonic Orchestra
+
+[View Event →](/events/antwerp-concert-cfxfr-9s43f)
 
 [](/events/antwerp-concert-cfxfr)
 
@@ -1265,34 +1265,5 @@ Theodosia Ntokou, piano
 Martha Argerich, piano
 
 [View Event →](/events/chantilly-recital)
-
-[](/events/chantilly-recital-95jk6)
-
-Apr
-
-19
-
-[Martha Argerich Festival](/events/chantilly-recital-95jk6)
-===========================================================
-
-* Saturday, April 19, 2025
-* 6:00 PM 8:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Martha%20Argerich%20Festival&dates=20250419T160000Z/20250419T180000Z) [ICS](/events/chantilly-recital-95jk6?format=ical)
-
-Program
-
-Beethoven Violin Sonata No. 8  
-Kreisler Liebesleid  
-Kreisler Schön Rosmarin  
-Mendelssohn Piano Trio
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Steven Isserlis, cello  
-Martha Argerich, piano
-
-[View Event →](/events/chantilly-recital-95jk6)
 
 [Source](https://www.maximvengerov.com/events)
