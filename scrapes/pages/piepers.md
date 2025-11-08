@@ -2,17 +2,6 @@
 
 Activiteit
 
-8.11 - 8.11.2025
-
-[Ouderavond 25-26](https://jnm.be/nl/activiteiten/ouderavond-25-26)
--------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden,  Ini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 16.11 - 16.11.2025
 
 [Onrust in het Belgisch plantenrijk](https://jnm.be/nl/activiteiten/onrust-in-het-belgisch-plantenrijk)
