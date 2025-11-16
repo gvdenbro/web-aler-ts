@@ -15,7 +15,7 @@ Loesje en Eva, twee hartsvriendinnen, toveren hun speelkamer om tot een mysterie
 <br/>Laat je betoveren door een wonderlijke wereld vol vliegende schotels en rare boswezens! 'Tapitou' is warm en speels muziektheater, waarin zelfgemaakte handpoppen de hoofdrol spelen.  
 <br/><br/>**Leuk voor families met kinderen vanaf 4 jaar**.  
 <br/>*VOLZET. Mail of bel ons voor een plaats op de wachtlijst.  
-<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -30,8 +30,8 @@ Loesje en Eva, twee hartsvriendinnen, toveren hun speelkamer om tot een mysterie
 
 1.  09/07/2025 09:00 tot 16/11/2025 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater1611)
