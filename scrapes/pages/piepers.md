@@ -2,17 +2,6 @@
 
 Activiteit
 
-16.11 - 16.11.2025
-
-[Onrust in het Belgisch plantenrijk](https://jnm.be/nl/activiteiten/onrust-in-het-belgisch-plantenrijk)
--------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 7.12 - 7.12.2025
 
 [Pieper activiteit](https://jnm.be/nl/activiteiten/pieper-activiteit)
