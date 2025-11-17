@@ -1,57 +1,3 @@
-[](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
-
-Nov
-
-14
-
-[Ulsan Philharmonic](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
-=================================================================================
-
-* Friday, November 14, 2025
-* 7:30 PM 9:30 PM
-* Gyeongju Art Center [(map)](http://maps.google.com?q=%20Gyeongju,%20Gyeongsangbuk-do%20South%20Korea)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic&dates=20251114T183000Z/20251114T203000Z&location=Gyeongju%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Sascha Goetzel, conductor  
-Maxim Vengerov, violin  
-Ulsan Phiharmonic
-
-[View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
-
-[](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
-
-Nov
-
-15
-
-[Ulsan Philharmonic](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
-=======================================================================================
-
-* Saturday, November 15, 2025
-* 7:30 PM 9:30 PM
-* Gyeongju Arts Center [(map)](http://maps.google.com?q=%20Gyeongju,%20Gyeongsangbuk-do%20South%20Korea)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic%20&dates=20251115T183000Z/20251115T203000Z&location=Gyeongju%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Sascha Goetzel, conductor  
-Maxim Vengerov, violin  
-Ulsan Phiharmonic
-
-[View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
-
 [](/events/recital-teramo-italy-3t6aj-zpzf4)
 
 Nov
@@ -249,6 +195,59 @@ Wuxi Symphony Orchestra
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
+
+Jan
+
+9
+
+[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
+=========================================================================================
+
+* Friday, January 9, 2026
+* 11:00 AM 12:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260109T100000Z/20260109T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz?format=ical)
+
+Program
+
+Shostakovich Violin Sonata  
+Tchaikovsky Souvenir d’un lieu cher  
+Tchaikovsky Valse Scherzo
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+
+Jan
+
+10
+
+[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+===============================================================================================
+
+* Saturday, January 10, 2026
+* 11:00 AM 12:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260110T100000Z/20260110T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs?format=ical)
+
+Program
+
+Brahms Violin Sonata No. 3  
+Brahms Hungarian Dances No. 1, 2, 5 & 17  
+Wieniawski Scherzo Tarantella  
+Sarasate Introduction and Tarantella
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
 Jan
@@ -337,7 +336,7 @@ Feb
 
 Program
 
-Sibelius Violin Concerto
+Tchaikovsky Violin Concerto
 
   
 Performers  
@@ -426,6 +425,60 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
+
+Nov
+
+15
+
+[Ulsan Philharmonic](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
+=======================================================================================
+
+* Saturday, November 15, 2025
+* 7:30 PM 9:30 PM
+* Gyeongju Arts Center [(map)](http://maps.google.com?q=%20Gyeongju,%20Gyeongsangbuk-do%20South%20Korea)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic%20&dates=20251115T183000Z/20251115T203000Z&location=Gyeongju%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Sascha Goetzel, conductor  
+Maxim Vengerov, violin  
+Ulsan Phiharmonic
+
+[View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
+
+[](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
+
+Nov
+
+14
+
+[Ulsan Philharmonic](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
+=================================================================================
+
+* Friday, November 14, 2025
+* 7:30 PM 9:30 PM
+* Gyeongju Art Center [(map)](http://maps.google.com?q=%20Gyeongju,%20Gyeongsangbuk-do%20South%20Korea)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Ulsan%20Philharmonic&dates=20251114T183000Z/20251114T203000Z&location=Gyeongju%2C%20Gyeongsangbuk-do%2C%20South%20Korea) [ICS](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Sascha Goetzel, conductor  
+Maxim Vengerov, violin  
+Ulsan Phiharmonic
+
+[View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
 
 [](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll)
 
@@ -1174,50 +1227,5 @@ Maxim Vengerov, violin
 Royal Stockholm Philharmonic Orchestra
 
 [View Event →](/events/sibelius-in-stockholm)
-
-[](/events/sibelius-in-tel-aviv)
-
-May
-
-5
-
-[Tel Aviv Concert](/events/sibelius-in-tel-aviv)
-================================================
-
-* Monday, May 5, 2025
-* 8:00 PM 10:00 PM
-* Performing Arts Center, Ashdod [(map)](http://maps.google.com?q=Derech%20Erets%20Ashdod,%20South%20District%20Israel)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Tel%20Aviv%20Concert&dates=20250505T180000Z/20250505T200000Z&location=Derech%20Erets%2C%20Ashdod%2C%20South%20District%2C%20Israel) [ICS](/events/sibelius-in-tel-aviv?format=ical)
-
-Program
-
-Sibelius Violin Concerto
-
-  
-Performers
-
-Vag Papian, conductor  
-Maxim Vengerov, violin  
-Ashdod Symphony Orchestra
-
-[View Event →](/events/sibelius-in-tel-aviv)
-
-[](/events/cremona-stauffer-institute-cr2a5-hb3m4)
-
-Apr
-
-30
-
-[Cremona Stauffer Institute](/events/cremona-stauffer-institute-cr2a5-hb3m4)
-============================================================================
-
-* Wednesday, April 30, 2025
-* 10:00 AM 1:00 PM
-* Fondazione Stauffer Cremona [(map)](http://maps.google.com?q=6%20Via%20San%20Martino%20Cremona,%20Lombardia,%2026100%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cremona%20Stauffer%20Institute%20&dates=20250430T080000Z/20250430T110000Z&location=6%20Via%20San%20Martino%2C%20Cremona%2C%20Lombardia%2C%2026100%2C%20Italy) [ICS](/events/cremona-stauffer-institute-cr2a5-hb3m4?format=ical)
-
-Masterclass with Maxim Vengerov
-
-[View Event →](/events/cremona-stauffer-institute-cr2a5-hb3m4)
 
 [Source](https://www.maximvengerov.com/events)
