@@ -4,8 +4,8 @@ Activiteit
 
 7.12 - 7.12.2025
 
-[Pieper activiteit](https://jnm.be/nl/activiteiten/pieper-activiteit)
----------------------------------------------------------------------
+[Mega coole vogelovermintering](https://jnm.be/nl/activiteiten/mega-coole-vogelovermintering)
+---------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
