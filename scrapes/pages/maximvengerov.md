@@ -1,30 +1,3 @@
-[](/events/recital-teramo-italy-3t6aj)
-
-Nov
-
-22
-
-[Recital Seong Nam](/events/recital-teramo-italy-3t6aj)
-=======================================================
-
-* Saturday, November 22, 2025
-* 3:00 PM 5:00 PM
-* Seong-Nam Art Center [(map)](http://maps.google.com?q=%20Seongnam-si,%20Gyeonggi-do,%20463-070%20South%20Korea)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Seong%20Nam&dates=20251122T140000Z/20251122T160000Z&location=Seongnam-si%2C%20Gyeonggi-do%2C%20463-070%2C%20South%20Korea) [ICS](/events/recital-teramo-italy-3t6aj?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-Maxim Vengerov, violin  
-Evgenia Startseva, piano  
-
-[View Event →](/events/recital-teramo-italy-3t6aj)
-
 [](/events/recital-teramo-italy-3t6aj-jmdm5)
 
 Nov
@@ -398,6 +371,33 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/recital-teramo-italy-3t6aj)
+
+Nov
+
+22
+
+[Recital Seong Nam](/events/recital-teramo-italy-3t6aj)
+=======================================================
+
+* Saturday, November 22, 2025
+* 3:00 PM 5:00 PM
+* Seong-Nam Art Center [(map)](http://maps.google.com?q=%20Seongnam-si,%20Gyeonggi-do,%20463-070%20South%20Korea)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Seong%20Nam&dates=20251122T140000Z/20251122T160000Z&location=Seongnam-si%2C%20Gyeonggi-do%2C%20463-070%2C%20South%20Korea) [ICS](/events/recital-teramo-italy-3t6aj?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+Maxim Vengerov, violin  
+Evgenia Startseva, piano  
+
+[View Event →](/events/recital-teramo-italy-3t6aj)
 
 [](/events/recital-teramo-italy-3t6aj-zpzf4)
 
@@ -1170,35 +1170,5 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/recital-san-paolo-6m6xh)
-
-[](/events/recital-san-paolo)
-
-May
-
-14
-
-[São Paolo Recital](/events/recital-san-paolo)
-==============================================
-
-* Wednesday, May 14, 2025
-* 8:00 PM 10:00 PM
-* Teatro Cultura Artística [(map)](http://maps.google.com?q=196%20Rua%20Nestor%20Pestana%20Consolação,%20SP,%2001301-010%20Brazil)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=S%C3%A3o%20Paolo%20Recital&dates=20250514T180000Z/20250514T200000Z&location=196%20Rua%20Nestor%20Pestana%2C%20Consola%C3%A7%C3%A3o%2C%20SP%2C%2001301-010%2C%20Brazil) [ICS](/events/recital-san-paolo?format=ical)
-
-Program
-
-Clara Schumann Three Romances  
-Brahms Scherzo from FAE Sonata  
-Schumann Violin Sonata No. 3  
-Prokofiev 5 Melodies  
-Prokofiev Violin Sonata No. 2
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/recital-san-paolo)
 
 [Source](https://www.maximvengerov.com/events)
