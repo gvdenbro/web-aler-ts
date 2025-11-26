@@ -86,4 +86,15 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
+![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
+
+Afdelingskamp
+
+4.07 - 11.07.2026
+
+[Kamp 2026 Piepers](https://jnm.be/nl/activiteiten/kamp-2026-piepers)
+---------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
