@@ -1,30 +1,3 @@
-[](/events/recital-teramo-italy-3t6aj-jmdm5)
-
-Nov
-
-30
-
-[Recital Salerno](/events/recital-teramo-italy-3t6aj-jmdm5)
-===========================================================
-
-* Sunday, November 30, 2025
-* 6:00 PM 8:00 PM
-* TEATRO VERDI (SALERNO) [(map)](http://maps.google.com?q=1%20Piazza%20Matteo%20Luciani%20Salerno,%20Campania,%2084121%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Salerno&dates=20251130T170000Z/20251130T190000Z&location=1%20Piazza%20Matteo%20Luciani%2C%20Salerno%2C%20Campania%2C%2084121%2C%20Italy) [ICS](/events/recital-teramo-italy-3t6aj-jmdm5?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-Maxim Vengerov, violin  
-Evgenia Startseva, piano
-
-[View Event →](/events/recital-teramo-italy-3t6aj-jmdm5)
-
 [](/events/athens-concert)
 
 Dec
@@ -371,6 +344,33 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/recital-teramo-italy-3t6aj-jmdm5)
+
+Nov
+
+30
+
+[Recital Salerno](/events/recital-teramo-italy-3t6aj-jmdm5)
+===========================================================
+
+* Sunday, November 30, 2025
+* 6:00 PM 8:00 PM
+* TEATRO VERDI (SALERNO) [(map)](http://maps.google.com?q=1%20Piazza%20Matteo%20Luciani%20Salerno,%20Campania,%2084121%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Salerno&dates=20251130T170000Z/20251130T190000Z&location=1%20Piazza%20Matteo%20Luciani%2C%20Salerno%2C%20Campania%2C%2084121%2C%20Italy) [ICS](/events/recital-teramo-italy-3t6aj-jmdm5?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/recital-teramo-italy-3t6aj-jmdm5)
 
 [](/events/recital-teramo-italy-3t6aj)
 
@@ -1140,35 +1140,5 @@ May
 Masterclass with Maxim Vengerov
 
 [View Event →](/events/sibelius-in-royal-albert-hall-kj2g6)
-
-[](/events/recital-san-paolo-6m6xh)
-
-May
-
-15
-
-[São Paolo Recital](/events/recital-san-paolo-6m6xh)
-====================================================
-
-* Thursday, May 15, 2025
-* 8:00 PM 10:00 PM
-* Teatro Cultura Artística [(map)](http://maps.google.com?q=196%20Rua%20Nestor%20Pestana%20Consolação,%20SP,%2001301-010%20Brazil)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=S%C3%A3o%20Paolo%20Recital&dates=20250515T180000Z/20250515T200000Z&location=196%20Rua%20Nestor%20Pestana%2C%20Consola%C3%A7%C3%A3o%2C%20SP%2C%2001301-010%2C%20Brazil) [ICS](/events/recital-san-paolo-6m6xh?format=ical)
-
-Program
-
-Clara Schumann Three Romances  
-Brahms Scherzo from FAE Sonata  
-Schumann Violin Sonata No. 3  
-Prokofiev 5 Melodies  
-Prokofiev Violin Sonata No. 2
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/recital-san-paolo-6m6xh)
 
 [Source](https://www.maximvengerov.com/events)
