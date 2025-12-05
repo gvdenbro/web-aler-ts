@@ -1,12 +1,6 @@
 Upcoming opportunities
 ----------------------
 
-Next competition to be published on **11 November 2025**:
-
-* **Experts** **in the field of data management and data knowledge** ([grade AD7](/en/eu-careers/staff-categories "EU staff categories")) for recruitment to posts based in Luxembourg
-
-&nbsp;
-
 In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published in **2026** (month and **date to be confirmed**):
 
 * **Graduates** ([grade AD5](/en/eu-careers/staff-categories "EU staff categories"))  
