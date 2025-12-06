@@ -1,32 +1,3 @@
-[](/events/athens-concert)
-
-Dec
-
-5
-
-[Athens Concert](/events/athens-concert)
-========================================
-
-* Friday, December 5, 2025
-* 8:30 PM 10:30 PM
-* The Athens Concert Hall [(map)](http://maps.google.com?q=&%20Petrou%20Kokkali%20Athina,%20115%2021%20Greece)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Athens%20Concert&dates=20251205T193000Z/20251205T213000Z&location=%26amp%3B%20Petrou%20Kokkali%2C%20Athina%2C%20115%2021%2C%20Greece) [ICS](/events/athens-concert?format=ical)
-
-Program
-
-Beethoven Triple Concerto
-
-  
-Performers
-
-Finnegan Downie, conductor  
-Maxim Vengerov, violin  
-Steven Isserliss, cellist  
-Teodosia Nthokou, piano  
-Athens State Symphony Orchestra
-
-[View Event →](/events/athens-concert)
-
 [](/events/budapest-concert)
 
 Dec
@@ -344,6 +315,35 @@ National Symphony Orchestra Ireland
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 * * *
+
+[](/events/athens-concert)
+
+Dec
+
+5
+
+[Athens Concert](/events/athens-concert)
+========================================
+
+* Friday, December 5, 2025
+* 8:30 PM 10:30 PM
+* The Athens Concert Hall [(map)](http://maps.google.com?q=&%20Petrou%20Kokkali%20Athina,%20115%2021%20Greece)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Athens%20Concert&dates=20251205T193000Z/20251205T213000Z&location=%26amp%3B%20Petrou%20Kokkali%2C%20Athina%2C%20115%2021%2C%20Greece) [ICS](/events/athens-concert?format=ical)
+
+Program
+
+Beethoven Triple Concerto
+
+  
+Performers
+
+Finnegan Downie, conductor  
+Maxim Vengerov, violin  
+Steven Isserliss, cellist  
+Teodosia Nthokou, piano  
+Athens State Symphony Orchestra
+
+[View Event →](/events/athens-concert)
 
 [](/events/recital-teramo-italy-3t6aj-jmdm5)
 
@@ -1122,23 +1122,5 @@ Maxim Vengerov, violin
 Royal Philharmonic Orchestra
 
 [View Event →](/events/sibelius-in-royal-albert-hall)
-
-[](/events/sibelius-in-royal-albert-hall-kj2g6)
-
-May
-
-23
-
-[RCM Violin Masterclass](/events/sibelius-in-royal-albert-hall-kj2g6)
-=====================================================================
-
-* Friday, May 23, 2025
-* 7:30 PM 9:30 PM
-* Amaryllis Fleming Concert Hall [(map)](http://maps.google.com?q=Prince%20Consort%20Road%20London,%20England,%20SW7%202BS%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=RCM%20Violin%20Masterclass&dates=20250523T173000Z/20250523T193000Z&location=Prince%20Consort%20Road%2C%20London%2C%20England%2C%20SW7%202BS%2C%20United%20Kingdom) [ICS](/events/sibelius-in-royal-albert-hall-kj2g6?format=ical)
-
-Masterclass with Maxim Vengerov
-
-[View Event →](/events/sibelius-in-royal-albert-hall-kj2g6)
 
 [Source](https://www.maximvengerov.com/events)
