@@ -2,17 +2,6 @@
 
 Activiteit
 
-7.12 - 7.12.2025
-
-[Mega coole vogeloverwintering](https://jnm.be/nl/activiteiten/mega-coole-vogeloverwintering)
----------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 21.12 - 21.12.2025
 
 [Braakballen uitpluizen](https://jnm.be/nl/activiteiten/braakballen-uitpluizen-3)
