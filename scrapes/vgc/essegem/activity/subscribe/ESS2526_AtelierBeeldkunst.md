@@ -1,6 +1,6 @@
 ### Atelier beeldende kunst
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/68d3a045915c8_image.png)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/693b17e285a38_ABK_Kinderateliers_23-24_©_Marjon_Udo_%2854%29web.jpg)
 
 2014 - 2017
 
