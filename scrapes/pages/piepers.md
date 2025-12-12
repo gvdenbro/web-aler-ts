@@ -4,8 +4,8 @@ Activiteit
 
 21.12 - 21.12.2025
 
-[Braakballen uitpluizen](https://jnm.be/nl/activiteiten/braakballen-uitpluizen-3)
----------------------------------------------------------------------------------
+[Braakballen uitpluizen GEANNULEERD](https://jnm.be/nl/activiteiten/braakballen-uitpluizen-geannuleerd)
+-------------------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
 
