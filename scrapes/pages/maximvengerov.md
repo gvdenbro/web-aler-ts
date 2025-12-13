@@ -1,30 +1,3 @@
-[](/events/budapest-concert)
-
-Dec
-
-11
-
-[Budapest Concert](/events/budapest-concert)
-============================================
-
-* Thursday, December 11, 2025
-* 7:30 PM 9:30 PM
-* National Concert Hall [(map)](http://maps.google.com?q=1%20Komor%20Marcell%20utca%20Budapest,%201095%20Hungary)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Budapest%20Concert&dates=20251211T183000Z/20251211T203000Z&location=1%20Komor%20Marcell%20utca%2C%20Budapest%2C%201095%2C%20Hungary) [ICS](/events/budapest-concert?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Takash-Nagi, conductor  
-Maxim Vengerov, violin  
-MÁV Symphony Orchestra
-
-[View Event →](/events/budapest-concert)
-
 [](/events/the-annual-isaac-stern-memorial-concert)
 
 Dec
@@ -314,7 +287,88 @@ National Symphony Orchestra Ireland
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+
+Mar
+
+12
+
+[Recital Bari, Italy](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+====================================================================================================
+
+* Thursday, March 12, 2026
+* 8:30 PM 10:30 PM
+* Petruzzelli Teatro Bari [(map)](http://maps.google.com?q=12%20Corso%20Cavour%20Bari,%20Puglia,%2070122%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Bari%2C%20Italy&dates=20260312T193000Z/20260312T213000Z&location=12%20Corso%20Cavour%2C%20Bari%2C%20Puglia%2C%2070122%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
+
+Mar
+
+14
+
+[Recital Stockholm](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
+========================================================================================================
+
+* Saturday, March 14, 2026
+* 3:00 PM 5:00 PM
+* Stockholm Konzerthaus [(map)](http://maps.google.com?q=8%20Hötorget%20Stockholm,%20Stockholms%20län,%20103%2087%20Sweden)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Stockholm&dates=20260314T140000Z/20260314T160000Z&location=8%20H%C3%B6torget%2C%20Stockholm%2C%20Stockholms%20l%C3%A4n%2C%20103%2087%2C%20Sweden) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
+
 * * *
+
+[](/events/budapest-concert)
+
+Dec
+
+11
+
+[Budapest Concert](/events/budapest-concert)
+============================================
+
+* Thursday, December 11, 2025
+* 7:30 PM 9:30 PM
+* National Concert Hall [(map)](http://maps.google.com?q=1%20Komor%20Marcell%20utca%20Budapest,%201095%20Hungary)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Budapest%20Concert&dates=20251211T183000Z/20251211T203000Z&location=1%20Komor%20Marcell%20utca%2C%20Budapest%2C%201095%2C%20Hungary) [ICS](/events/budapest-concert?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers
+
+Takash-Nagi, conductor  
+Maxim Vengerov, violin  
+MÁV Symphony Orchestra
+
+[View Event →](/events/budapest-concert)
 
 [](/events/athens-concert)
 
@@ -1095,32 +1149,5 @@ Mischa Maisky, cello
 Martha Argerich, piano
 
 [View Event →](/events/hamburg-recital)
-
-[](/events/sibelius-in-royal-albert-hall)
-
-May
-
-25
-
-[Royal Albert Hall Concert](/events/sibelius-in-royal-albert-hall)
-==================================================================
-
-* Sunday, May 25, 2025
-* 3:00 PM 5:00 PM
-* Royal Albert Hall [(map)](http://maps.google.com?q=Kensington%20Gore%20London,%20England,%20SW7%202AP%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Royal%20Albert%20Hall%20Concert&dates=20250525T130000Z/20250525T150000Z&location=Kensington%20Gore%2C%20London%2C%20England%2C%20SW7%202AP%2C%20United%20Kingdom) [ICS](/events/sibelius-in-royal-albert-hall?format=ical)
-
-Program
-
-Sibelius Violin Concerto
-
-  
-Performers
-
-Vasily Petrenko, conductor  
-Maxim Vengerov, violin  
-Royal Philharmonic Orchestra
-
-[View Event →](/events/sibelius-in-royal-albert-hall)
 
 [Source](https://www.maximvengerov.com/events)
