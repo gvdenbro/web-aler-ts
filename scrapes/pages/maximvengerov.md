@@ -293,13 +293,13 @@ Mar
 
 12
 
-[Recital Bari, Italy](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
-====================================================================================================
+[Recital Bari](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+=============================================================================================
 
 * Thursday, March 12, 2026
 * 8:30 PM 10:30 PM
 * Petruzzelli Teatro Bari [(map)](http://maps.google.com?q=12%20Corso%20Cavour%20Bari,%20Puglia,%2070122%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Bari%2C%20Italy&dates=20260312T193000Z/20260312T213000Z&location=12%20Corso%20Cavour%2C%20Bari%2C%20Puglia%2C%2070122%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s?format=ical)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Bari&dates=20260312T193000Z/20260312T213000Z&location=12%20Corso%20Cavour%2C%20Bari%2C%20Puglia%2C%2070122%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s?format=ical)
 
 Program
 
