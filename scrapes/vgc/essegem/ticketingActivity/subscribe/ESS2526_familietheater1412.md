@@ -16,7 +16,7 @@ Hij is een berg. En nu een krab! En toch een slak. Hij kan alles. In zijn zak.
 <br/>Kruip in de cocon van een mens zonder dak in een veranderende wereld. Of verandert hij zelf? 'Jaszak' is een grappige, hartverwarmende dansvoorstelling, geïnspireerd door Sheltersuit, dat pakken maakt waarin daklozen buiten kunnen overleven.  
 <br/>**Leuk voor families met kinderen vanaf 2 jaar**.  
 <br/>*VOLZET. Mail of bel ons voor een plaats op de wachtlijst.  
-<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -32,8 +32,8 @@ Hij is een berg. En nu een krab! En toch een slak. Hij kan alles. In zijn zak.
 
 1.  09/07/2025 09:00 tot 14/12/2025 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater1412)
