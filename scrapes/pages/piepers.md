@@ -26,17 +26,6 @@ Activiteit
 
 1.02 - 1.02.2026
 
-[Iniactiviteit](https://jnm.be/nl/activiteiten/iniactiviteit-1)
----------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Pini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
-1.02 - 1.02.2026
-
 [1 tegen allen, allen tegen de invasieve](https://jnm.be/nl/activiteiten/1-tegen-allen-allen-tegen-de-invasieve)
 ----------------------------------------------------------------------------------------------------------------
 
