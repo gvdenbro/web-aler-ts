@@ -4,7 +4,7 @@ Upcoming opportunities
 In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published in **2026** (month and **date to be confirmed**):
 
 * **Graduates** ([grade AD5](/en/eu-careers/staff-categories "EU staff categories"))  
-    The AD5 competition for graduates will be published in **early 2026**, to allow for an efficient integration of the new test provider (OAT) and the related IT tools. EPSO is making every effort to ensure a stable and reliable selection procedure. More information on the date of the publication of the Notice of Competition will be published before the Christmas holidays.
+    The AD5 competition for graduates in any field of study will open for applications **in the first half of February** **2026**. Detailed information about the competition and instructions will be available on the dedicated competition web page, as well as in the Notice of Competition that all candidates should read carefully before starting an application.
 * **Secretaries** ([grade AST/SC](/en/eu-careers/staff-categories "EU staff categories"))
 * **IT experts 3 fields** (grade AD - IT Infrastructure, Project management, Clouds and networks)
 * **IT experts 3 fields** (grade AD - AI, Data science, Cybersecurity)
