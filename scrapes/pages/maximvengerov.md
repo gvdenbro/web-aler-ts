@@ -1,35 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert)
-
-Dec
-
-16
-
-[Maxim Vengerov & Friends](/events/the-annual-isaac-stern-memorial-concert)
-===========================================================================
-
-* Tuesday, December 16, 2025
-* 8:00 PM 10:00 PM
-* Carnegie Hall [(map)](http://maps.google.com?q=7th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Maxim%20Vengerov%20%26amp%3B%20Friends&dates=20251216T190000Z/20251216T210000Z&location=7th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert?format=ical)
-
-Program
-
-ALL-BRAHMS PROGRAM  
-\- Piano Quintet  
-\- Clarinet Quintet
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Vilde Frang, violin  
-James Ehnes, viola  
-Daniel Müller-Schott, cello  
-Anthony McGill, clarinet  
-Yefim Bronfman, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
 
 Jan
@@ -342,6 +310,38 @@ Polina Osetinskaya, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert)
+
+Dec
+
+16
+
+[Maxim Vengerov & Friends](/events/the-annual-isaac-stern-memorial-concert)
+===========================================================================
+
+* Tuesday, December 16, 2025
+* 8:00 PM 10:00 PM
+* Carnegie Hall [(map)](http://maps.google.com?q=7th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Maxim%20Vengerov%20%26amp%3B%20Friends&dates=20251216T190000Z/20251216T210000Z&location=7th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert?format=ical)
+
+Program
+
+ALL-BRAHMS PROGRAM  
+\- Piano Quintet  
+\- Clarinet Quintet
+
+  
+Performers
+
+Maxim Vengerov, violin  
+Vilde Frang, violin  
+James Ehnes, viola  
+Daniel Müller-Schott, cello  
+Anthony McGill, clarinet  
+Yefim Bronfman, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert)
 
 [](/events/budapest-concert)
 
@@ -1122,32 +1122,5 @@ Maxim Vengerov, violin
 Evgenia Startseva, piano
 
 [View Event →](/events/recital-in-trogir)
-
-[](/events/hamburg-recital)
-
-Jun
-
-20
-
-[Martha Argerich Festival](/events/hamburg-recital)
-===================================================
-
-* Friday, June 20, 2025
-* 7:30 PM 9:30 PM
-* Laiszehalle Hamburg [(map)](http://maps.google.com?q=Johannes-Brahms-Platz%20Hamburg,%20HH,%2020355%20Germany)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Martha%20Argerich%20Festival&dates=20250620T173000Z/20250620T193000Z&location=Johannes-Brahms-Platz%2C%20Hamburg%2C%20HH%2C%2020355%2C%20Germany) [ICS](/events/hamburg-recital?format=ical)
-
-Program
-
-Beethoven Violin Sonatas No. 8 & 10  
-Haydn Gypsy Trio
-
-  
-Performers  
-Maxim Vengerov, violin  
-Mischa Maisky, cello  
-Martha Argerich, piano
-
-[View Event →](/events/hamburg-recital)
 
 [Source](https://www.maximvengerov.com/events)
