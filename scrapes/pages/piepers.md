@@ -2,17 +2,6 @@
 
 Activiteit
 
-21.12 - 21.12.2025
-
-[Braakballen uitpluizen GEANNULEERD](https://jnm.be/nl/activiteiten/braakballen-uitpluizen-geannuleerd)
--------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 4.01 - 4.01.2026
 
 [De strijd voor het Scheutbos](https://jnm.be/nl/activiteiten/de-strijd-voor-het-scheutbos)
