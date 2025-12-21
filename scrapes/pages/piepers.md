@@ -46,6 +46,17 @@ Activiteit
 
 Activiteit
 
+1.03 - 1.03.2026
+
+[Lente-activiteit](https://jnm.be/nl/activiteiten/lente-activiteit)
+-------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 29.03 - 29.03.2026
 
 [Het begin van de lente](https://jnm.be/nl/activiteiten/het-begin-van-de-lente)
