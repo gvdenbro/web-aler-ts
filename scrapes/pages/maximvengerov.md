@@ -110,15 +110,15 @@ Polina Osetinskaya, piano
 
 Jan
 
-26
+27
 
 [Masterclass Trinity Laban Conservatory of Greenwich](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
 =====================================================================================================
 
-* Monday, January 26, 2026
+* Tuesday, January 27, 2026
 * 3:00 PM 5:00 PM
 * Trinity Laban Conservatory of Greenwich [(map)](http://maps.google.com?q=Romney%20Road%20London,%20England,%20SE10%209JF%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260126T140000Z/20260126T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260127T140000Z/20260127T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
 
 Masterclass with Maxim Vengerov
 
