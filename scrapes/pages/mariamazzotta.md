@@ -1,56 +1,62 @@
-**28.06**  Raül Refree & Maria Mazzotta  **Banyoles (Spain)**  
-(a)phònica
+**06.01**  Maria Mazzotta (trio)  **Napoli (IT)  
+**Auditorium Novecento  
+[Tickets](https://www.etes.it/sale/event/94355/maria%20mazzotta%20in%20concerto?idProdotto=94355)
 
-**06.07**  Maria Mazzotta (trio)  **Champs-sur-Tarentaine-Marchal (France)**
+**08.01**  Maria Mazzotta (trio)  **New York (US)  
+**Barbès
 
-**08.07**  Maria Mazzotta (trio)  **Figeac (France)**
+**10.01**  Maria Mazzotta (trio)  **New York (US)  
+**Drom, *Secret Planet  
+*[Tickets](https://dice.fm/partner/tickets/event/92g6x9-barbes-electric-cowbell-present-secret-planet-10th-jan-drom-new-york-tickets?dice_id=7578870&dice_channel=web&dice_tags=organic&dice_campaign=Boggy+Depot+Inc+dba+DROM&dice_feature=mio_marketing&_branch_match_id=1492054449236630102&utm_source=web&utm_campaign=Boggy+Depot+Inc+dba+DROM&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9JNU8yT0pLTTZOSrSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBsziYrOwAAAA%3D%3D)
 
-**09.07**  Maria Mazzotta (trio)  **Saint Macaire (France)**
+**11.01**  Maria Mazzotta (trio)  **New York (US)  
+**Lincoln Center, *globalFEST  
+***\[SOLD OUT\]**
 
-**11.07**  Maria Mazzotta (trio)  **Parabita (Le, IT)**
+**13.01**  Maria Mazzotta (trio)  **State College (US)  
+**Manny’s  
+[Tickets](https://dice.fm/event/av75r7-maria-mazzotta-w-tara-toms-13th-jan-mannys-state-college-tickets)
 
-**13.07**  Maria Mazzotta (Amoreamaro)  **Bari (IT)**
+**15.01**  Maria Mazzotta (trio)  **Toronto (Canada)  
+**Drom Taberna  
+[Tickets](https://www.dromtaberna.com/events-9O8Cm/yjsjhpe2zk5zpbc-x5n27-we68m)
 
-**14.07**  Maria Mazzotta (Amoreamaro)  **Corigliano d’Otranto (Le, IT)**
+**18.01**  Maria Mazzotta (trio)  **Minneapolis (US)  
+**The Cedar  
+[Tickets](https://www.thecedar.org/events/maria-mazzotta)
 
-**16.07**  Maria Mazzotta (Amoreamaro)  **Silvi Marina (Te, IT)**
+**01.02**  Raül Refree & Maria Mazzotta  **Paris (France)  
+**Théâtre de la Ville  
+[Tickets](https://www.theatredelaville-paris.com/en/spectacles/saison-25-26/musiques/raul-refree-maria-mazzotta#calendar)
 
-**18.07**  Maria Mazzotta (Amoreamaro)  **Ghiffa (Vb, IT)**
+**20.02**  Maria Mazzotta (trio)  **Ljubljana (Slovenia)  
+***MENT*
 
-**23.07**  Maria Mazzotta (Amoreamaro)  **Sines (Portugal)**  
-*Festival Musicas do Mundo*
+**05.03**  Maria Mazzotta (trio)  **Lecce (IT)  
+**Mediterrania
 
-**24.07**  Maria Mazzotta (Amoreamaro)  **Ponte da Lima (Portugal)**
+**24.04**  Maria Mazzotta (trio)  **Saint-Martin-des-Champs (France)  
+**Espace du Roudour
 
-**26.07**  Maria Mazzotta (guest Canzoniere Grecanico Salentino)  **Melpignano (Le, IT)**
+**25.04**  Maria Mazzotta (trio)  **Langonnet (France)**  
+La Grande Boutique
 
-**27.07**  Maria Mazzotta (Amoreamaro)  **Bari (IT)**
+**29.04**  Maria Mazzotta (trio)  **Nantes (France)**  
+Portevent
 
-**04.08**  Maria Mazzotta (trio)  **Zollino (Le, IT)**
+**30.04**  Maria Mazzotta (trio)  **Tréguier (France)**  
+L’Arche-Le Sillon
 
-**09.08**  Maria Mazzotta & Antonio Fresa  **Pescasseroli (Aq, IT)**
+**02.06**  Maria Mazzotta (Amoreamaro)  **La Louvière (Belgium)**  
+Théâtre de La Louvièr  
+[Tickets](https://shop.utick.net/?module=ACTIVITYSERIEDETAILS&pos=CESTCENTRAL&s=80ACF321-CC90-8EDB-16AA-5A4188A8D528)
 
-**15.08**  Maria Mazzotta (Amoreamaro)  **Ostuni (Br, IT)**
+**03.06**  Maria Mazzotta (Amoreamaro)  **Budapest (Hungary)**
 
-**31.08**  Maria Mazzotta (Amoreamaro)  **Grottaglie (Ta, IT)**
+**04.06**  Maria Mazzotta (Amoreamaro)  **Balatonboglár (Hungary)**
 
-**06.09**  Maria Mazzotta (trio)  **Loano (Sv, IT)**  
-*Premio Loano*
+&nbsp;
 
-**26.09**  Maria Mazzotta (trio)  **Barcellona (Spain)**
-
-**04.10**  Maria Mazzotta (trio)  **Avellino (IT)**
-
-**01.02.2026**  Raül Refree & Maria Mazzotta  **Parigi (France)**  
-*Theatre de la Ville*
-
-**24.04.2026**  Maria Mazzotta (trio)  **Saint-Martin-des-Champs (France)**
-
-**25.04.2026**  Maria Mazzotta (trio)  **Langonnet (France)**
-
-**30.04.2026**  Maria Mazzotta (trio)  **Tréguier (France)**
-
-**02.06.2026**  Maria Mazzotta (Amoreamaro)  **La Louviere (Belgium)**  
 – – –
 
 **PAST EVENTS  2023**
@@ -321,5 +327,56 @@ CC Het Bolwerk
 
 **09.05**  Maria Mazzotta (trio)  **Palermo (Italy)**  
 Cantieri Teatrali alla Zisa, Arci Tavola Tonda
+
+**28.06**  Raül Refree & Maria Mazzotta  **Banyoles (Spain)**  
+(a)phònica
+
+**06.07**  Maria Mazzotta (trio)  **Champs-sur-Tarentaine-Marchal (France)**
+
+**08.07**  Maria Mazzotta (trio)  **Figeac (France)**
+
+**09.07**  Maria Mazzotta (trio)  **Saint Macaire (France)**
+
+**13.07**  Maria Mazzotta (Amoreamaro)  **Bari (IT)**
+
+**16.07**  Maria Mazzotta (Amoreamaro)  **Silvi Marina (Te, IT)**
+
+**18.07**  Maria Mazzotta (Amoreamaro)  **Ghiffa (Vb, IT)**
+
+**23.07**  Maria Mazzotta (Amoreamaro)  **Sines (Portugal)**  
+*Festival Musicas do Mundo*
+
+**24.07**  Maria Mazzotta (Amoreamaro)  **Ponte da Lima (Portugal)**
+
+**26.07**  Maria Mazzotta (guest Canzoniere Grecanico Salentino)  **Melpignano (Le, IT)**
+
+**27.07**  Maria Mazzotta (Amoreamaro)  **Bari (IT)**
+
+**04.08**  Maria Mazzotta (trio)  **Zollino (Le, IT)**
+
+**09.08**  Maria Mazzotta & Antonio Fresa  **Pescasseroli (Aq, IT)**
+
+**15.08**  Maria Mazzotta (Amoreamaro)  **Ostuni (Br, IT)**
+
+**16.08**  Maria Mazzotta (trio)  **Parabita (Le, IT)**
+
+**29.08**  Maria Mazzotta (Amoreamaro)  **Corigliano d’Otranto (Le, IT)**
+
+**31.08**  Maria Mazzotta (Amoreamaro)  **Grottaglie (Ta, IT)**
+
+**06.09**  Maria Mazzotta (trio)  **Loano (Sv, IT)**  
+*Premio Loano*
+
+**13.09**  Maria Mazzotta (trio)  **Comiso (Rg, IT)**
+
+**26.09**  Maria Mazzotta (trio)  **Barcellona (Spain)**
+
+**04.10**  Maria Mazzotta (trio)  **Avellino (IT)**
+
+**09.10**  Maria Mazzotta (guest Carolina Bubbico)  **Lecce (IT)**
+
+**12.10**  Maria Mazzotta & Antonio Fresa  **Lecce (IT)**
+
+**16.11**  Maria Mazzotta (Amoreamaro)  **Latiano (Br, IT)**
 
 [Source](https://www.mariamazzotta.com/tour-2/)
