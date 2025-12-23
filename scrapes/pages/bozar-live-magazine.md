@@ -1,6 +1,6 @@
 [](/en/calendar/anthology-live-magazine)
 
-Last Tickets
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3638987_dsc04131_large.jpeg?h=bf5d81ba&itok=8vLz0ZI3)
 
 Sold out Cancelled Postponed
 
