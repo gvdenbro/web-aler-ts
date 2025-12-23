@@ -1,3 +1,14 @@
+[](/en/calendar/anthology-live-magazine)
+
+Last Tickets
+
+Sold out Cancelled Postponed
+
+2 + 3  
+June'26
+
+#### Anthology Live Magazine
+
 [](/en/calendar/live-magazine-autumn-edition-25)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
@@ -105,16 +116,5 @@ Sold out Cancelled Postponed
 #### Live Magazine
 
 ##### Autumn edition
-
-[](/en/calendar/live-magazine-groups-0)
-
-Last Tickets
-
-Sold out Cancelled Postponed
-
-4 June'25  
-\- 15:00
-
-#### Live Magazine for Groups
 
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
