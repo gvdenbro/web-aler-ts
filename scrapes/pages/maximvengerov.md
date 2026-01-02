@@ -1,31 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
-
-Jan
-
-1
-
-[Wuxi New Hall Opening Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
-======================================================================================
-
-* Thursday, January 1, 2026
-* 8:00 PM 10:00 PM
-* Wuxi Concert Hall [(map)](http://maps.google.com?q=4%20Hu%20Bin%20Lu%20Wu%20Xi%20Shi,%20Jiang%20Su%20Sheng,%20214061%20China)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Wuxi%20New%20Hall%20Opening%20Concert&dates=20260101T190000Z/20260101T210000Z&location=4%20Hu%20Bin%20Lu%2C%20Wu%20Xi%20Shi%2C%20Jiang%20Su%20Sheng%2C%20214061%2C%20China) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh?format=ical)
-
-Program
-
-Ravel Tzigane  
-Massenet Meditation from Thaïs
-
-  
-Performers
-
-Lin Daye, conductor  
-Maxim Vengerov, violin  
-Wuxi Symphony Orchestra
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
 
 Jan
@@ -310,6 +282,34 @@ Polina Osetinskaya, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+
+Jan
+
+1
+
+[Wuxi New Hall Opening Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
+======================================================================================
+
+* Thursday, January 1, 2026
+* 8:00 PM 10:00 PM
+* Wuxi Concert Hall [(map)](http://maps.google.com?q=4%20Hu%20Bin%20Lu%20Wu%20Xi%20Shi,%20Jiang%20Su%20Sheng,%20214061%20China)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Wuxi%20New%20Hall%20Opening%20Concert&dates=20260101T190000Z/20260101T210000Z&location=4%20Hu%20Bin%20Lu%2C%20Wu%20Xi%20Shi%2C%20Jiang%20Su%20Sheng%2C%20214061%2C%20China) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh?format=ical)
+
+Program
+
+Ravel Tzigane  
+Massenet Meditation from Thaïs
+
+  
+Performers
+
+Lin Daye, conductor  
+Maxim Vengerov, violin  
+Wuxi Symphony Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
 
 [](/events/the-annual-isaac-stern-memorial-concert)
 
@@ -1094,33 +1094,5 @@ Daniel Raiskin, conductorMaxim Vengerov, violin
 Slovak Philharmonic Orchestra
 
 [View Event →](/events/cesky-krumlov-concert)
-
-[](/events/recital-in-trogir)
-
-Jun
-
-27
-
-[Recital in Trogir](/events/recital-in-trogir)
-==============================================
-
-* Friday, June 27, 2025
-* 9:00 PM 11:00 PM
-* Kula Kamerlengo [(map)](http://maps.google.com?q=Obala%20bana%20Berislavića%20Trogir,%20Splitsko-dalmatinska%20županija,%2021220%20Croatia)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20in%20Trogir&dates=20250627T190000Z/20250627T210000Z&location=Obala%20bana%20Berislavi%C4%87a%2C%20Trogir%2C%20Splitsko-dalmatinska%20%C5%BEupanija%2C%2021220%2C%20Croatia) [ICS](/events/recital-in-trogir?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich-Dreznin From Jewish Folk Poetry, suite op. 79  
-Shostakovich Violin Sonata
-
-  
-Performers  
-Maxim Vengerov, violin  
-Evgenia Startseva, piano
-
-[View Event →](/events/recital-in-trogir)
 
 [Source](https://www.maximvengerov.com/events)
