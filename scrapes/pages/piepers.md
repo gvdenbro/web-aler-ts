@@ -2,17 +2,6 @@
 
 Activiteit
 
-4.01 - 4.01.2026
-
-[De strijd voor het Scheutbos](https://jnm.be/nl/activiteiten/de-strijd-voor-het-scheutbos)
--------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 18.01 - 18.01.2026
 
 [brrrrrr zo koud!](https://jnm.be/nl/activiteiten/brrrrrr-zo-koud)
