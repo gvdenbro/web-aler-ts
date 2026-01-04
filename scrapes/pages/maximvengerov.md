@@ -191,7 +191,7 @@ Feb
 
 Program
 
-Mendelssohn Violin Concerto
+Tchaikovsky Violin Concerto
 
   
 Performers  
