@@ -9,6 +9,8 @@ June'26
 
 #### Anthology Live Magazine
 
+##### 10 years of Live Magazine at Bozar
+
 [](/en/calendar/live-magazine-autumn-edition-25)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
