@@ -281,6 +281,62 @@ Polina Osetinskaya, piano
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9)
+
+Apr
+
+12
+
+[Hamburg Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9)
+==================================================================================================================
+
+* Sunday, April 12, 2026
+* 11:00 AM 1:00 PM
+* Laeiszhalle [(map)](http://maps.google.com?q=Johannes-Brahms-Platz%20Hamburg,%20HH,%2020355%20Germany)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Hamburg%20Concert%20&dates=20260412T090000Z/20260412T110000Z&location=Johannes-Brahms-Platz%2C%20Hamburg%2C%20HH%2C%2020355%2C%20Germany) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9?format=ical)
+
+Program
+
+Glinka Overture  
+Alexey Shor Violin concerto No. 6 “Carpe diem”  
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Emanuelle Vuillaume, conductor  
+Maxim Vengerov, violin  
+Hamburg Symphony
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
+
+Apr
+
+14
+
+[Potsdam Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
+==================================================================================================================
+
+* Tuesday, April 14, 2026
+* 8:00 PM 10:00 PM
+* Nikolaisaal Potsdam [(map)](http://maps.google.com?q=10-11%20Wilhelm-Staab-Straße%20Potsdam,%20BB,%2014467%20Germany)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Potsdam%20Concert%20&dates=20260414T180000Z/20260414T200000Z&location=10-11%20Wilhelm-Staab-Stra%C3%9Fe%2C%20Potsdam%2C%20BB%2C%2014467%2C%20Germany) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy?format=ical)
+
+Program
+
+Glinka Overture  
+Alexey Shor Violin concerto No. 6 “Carpe diem”  
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Christoph Koncz, conductor  
+Maxim Vengerov, violin  
+Deutsches Symphonie-Orchester Berlin
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
+
 * * *
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
