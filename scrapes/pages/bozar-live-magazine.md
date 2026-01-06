@@ -1,4 +1,4 @@
-[](/en/calendar/anthology-live-magazine)
+[](/en/calendar/live-magazine-anthology)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3638987_dsc04131_large.jpeg?h=bf5d81ba&itok=8vLz0ZI3)
 
@@ -7,7 +7,7 @@ Sold out Cancelled Postponed
 2 + 3  
 June'26
 
-#### Anthology Live Magazine
+#### Live Magazine : Anthology
 
 ##### 10 years of Live Magazine at Bozar
 
