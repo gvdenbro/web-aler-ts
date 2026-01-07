@@ -175,32 +175,6 @@ Budapest Festival Orchestra
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
-
-Feb
-
-27
-
-[RTE Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
-===============================================================================================================
-
-* Friday, February 27, 2026
-* 7:30 PM 9:30 PM
-* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=RTE%20Dublin%20Concert%20&dates=20260227T183000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-<br/>Kristian Sallinen, conductor  
-Maxim Vengerov, violin  
-National Symphony Orchestra Ireland
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 Feb
@@ -217,7 +191,7 @@ Feb
 
 Program
 
-Concerto Masterclass with Maxim Vengerov & NSOI
+Mendelssohn Concerto Masterclass with Maxim Vengerov & NSOI
 
   
 Performers  
