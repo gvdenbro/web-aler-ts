@@ -1,29 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
-
-Jan
-
-9
-
-[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
-=========================================================================================
-
-* Friday, January 9, 2026
-* 11:00 AM 12:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260109T100000Z/20260109T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz?format=ical)
-
-Program
-
-Shostakovich Violin Sonata  
-Tchaikovsky Souvenir d’un lieu cher  
-Tchaikovsky Valse Scherzo
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Evgenia Startseva, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
 
 Jan
@@ -312,6 +286,32 @@ Deutsches Symphonie-Orchester Berlin
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
+
+Jan
+
+9
+
+[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
+=========================================================================================
+
+* Friday, January 9, 2026
+* 11:00 AM 12:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260109T100000Z/20260109T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz?format=ical)
+
+Program
+
+Shostakovich Violin Sonata  
+Tchaikovsky Souvenir d’un lieu cher  
+Tchaikovsky Valse Scherzo
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
 
@@ -1098,31 +1098,5 @@ Maxim Vengerov, violin
 Avignon-Provence National Orchestra
 
 [View Event →](/events/st-remy-festival)
-
-[](/events/cesky-krumlov-concert)
-
-Jul
-
-12
-
-[Cesky Krumlov Concert](/events/cesky-krumlov-concert)
-======================================================
-
-* Saturday, July 12, 2025
-* 7:30 PM 9:30 PM
-* Cesky Krumlov [(map)](http://maps.google.com?q=Cesky%20Krumlov)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cesky%20Krumlov%20Concert&dates=20250712T173000Z/20250712T193000Z&location=Cesky%20Krumlov) [ICS](/events/cesky-krumlov-concert?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers
-
-Daniel Raiskin, conductorMaxim Vengerov, violin  
-Slovak Philharmonic Orchestra
-
-[View Event →](/events/cesky-krumlov-concert)
 
 [Source](https://www.maximvengerov.com/events)
