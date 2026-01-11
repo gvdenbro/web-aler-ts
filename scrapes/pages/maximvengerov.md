@@ -1,3 +1,30 @@
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+
+Jan
+
+10
+
+[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+===============================================================================================
+
+* Saturday, January 10, 2026
+* 11:00 AM 12:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260110T100000Z/20260110T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs?format=ical)
+
+Program
+
+Brahms Violin Sonata No. 3  
+Brahms Hungarian Dances No. 1, 2, 5 & 17  
+Wieniawski Scherzo Tarantella  
+Sarasate Introduction and Tarantella
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Evgenia Startseva, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
 Jan
@@ -259,33 +286,6 @@ Deutsches Symphonie-Orchester Berlin
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
 
 * * *
-
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
-
-Jan
-
-10
-
-[Cartagena Colombia Recital](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
-===============================================================================================
-
-* Saturday, January 10, 2026
-* 11:00 AM 12:00 PM
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Cartagena%20Colombia%20Recital&dates=20260110T100000Z/20260110T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs?format=ical)
-
-Program
-
-Brahms Violin Sonata No. 3  
-Brahms Hungarian Dances No. 1, 2, 5 & 17  
-Wieniawski Scherzo Tarantella  
-Sarasate Introduction and Tarantella
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Evgenia Startseva, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
 
@@ -1071,5 +1071,32 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/pietrasanta-recital)
+
+[](/events/st-remy-festival)
+
+Jul
+
+17
+
+[Festival de Glanum, in Saint-Rémy-de-Provence](/events/st-remy-festival)
+=========================================================================
+
+* Thursday, July 17, 2025
+* 9:30 PM 11:30 PM
+* Glanum Archaelogical Site [(map)](http://maps.google.com?q=Avenue%20Vincent%20Van%20Gogh%20Saint-Rémy-de-Provence,%20Provence-Alpes-Côte%20d'Azur,%2013210%20France)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Festival%20de%20Glanum%2C%20in%20Saint-R%C3%A9my-de-Provence&dates=20250717T193000Z/20250717T213000Z&location=Avenue%20Vincent%20Van%20Gogh%2C%20Saint-R%C3%A9my-de-Provence%2C%20Provence-Alpes-C%C3%B4te%20d%26%2339%3BAzur%2C%2013210%2C%20France) [ICS](/events/st-remy-festival?format=ical)
+
+Program
+
+Tchaikovsky ‘Souvenir d’un Lieu Cher’  
+Mendelssohn Violin Concerto
+
+  
+Performers  
+Déborah Waldman, conductor  
+Maxim Vengerov, violin  
+Avignon-Provence National Orchestra
+
+[View Event →](/events/st-remy-festival)
 
 [Source](https://www.maximvengerov.com/events)
