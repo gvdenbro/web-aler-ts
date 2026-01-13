@@ -258,6 +258,31 @@ Deutsches Symphonie-Orchester Berlin
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
+
+Apr
+
+26
+
+[Prague Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
+=======================================================================================================================
+
+* Sunday, April 26, 2026
+* 8:00 PM 10:00 PM
+* Smetana Hall [(map)](http://maps.google.com?q=1090%20Náměstí%20Republiky%20Praha%201,%20Hlavní%20město%20Praha,%20110%2000%20Czechia)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Prague%20Concert%20&dates=20260426T180000Z/20260426T200000Z&location=1090%20N%C3%A1m%C4%9Bst%C3%AD%20Republiky%2C%20Praha%201%2C%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha%2C%20110%2000%2C%20Czechia) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk?format=ical)
+
+Program
+
+Alexey Shor Violin concerto No. 6 “Carpe diem”  
+Tchaikovsky Violin Concerto  
+<br/>Performers  
+<br/>Emanuelle Vuillaume, conductor  
+Maxim Vengerov, violin  
+Prague Philharmonia
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
+
 * * *
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
