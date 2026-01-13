@@ -24,6 +24,17 @@ Activiteit
 
 Activiteit
 
+8.02 - 8.02.2026
+
+[De Strijd Der Rode Letters met Noord-west Brabant](https://jnm.be/nl/activiteiten/de-strijd-der-rode-letters-met-noord-west-brabant)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 15.02 - 15.02.2026
 
 [Ultimate ultimate frisbee](https://jnm.be/nl/activiteiten/ultimate-ultimate-frisbee)
