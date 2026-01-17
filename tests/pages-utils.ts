@@ -2,9 +2,17 @@ import { test, expect, Page, Locator } from '@playwright/test';
 import { createMarkdown } from './md-utils';
 import { appendPriceAsNumber, appendPriceAsString, parseLocalizedNumber } from './prices-utils';
 
-export function testPage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string): void {
+export function testPage(title: string, url: string, locator: string | ((page: Page) => Locator), outputDirectory: string, options?: {cookie?: {name: string; value: string; url?: string;}, yaml?: boolean}): void {
 
-    test(title, async ({ page }, testInfo) => {
+    test(title, async ({ page, context }, testInfo) => {
+
+        if (options && options.cookie) {
+            const cookie = options.cookie;
+            if (!cookie.url) {
+                cookie.url = url;
+            }
+            await context.addCookies([cookie]);
+        }
 
         await page.goto(url);
 
@@ -12,7 +20,14 @@ export function testPage(title: string, url: string, locator: string | ((page: P
 
         expect(container).toBeVisible();
 
-        createMarkdown(`${outputDirectory}/${testInfo.title}.md`, `<div><p>${await container.innerHTML()}</p><p><a href="${page.url()}">Source</a></p></div>`);
+        if (options && options.yaml) {
+            const ariaSnapshot = await container.ariaSnapshot();
+            const yaml = `- title: ${title}\n- url: ${page.url()}\n${ariaSnapshot}`;
+            createMarkdown(`${outputDirectory}/${testInfo.title}.md`, ``, {frontmatter: yaml});
+        } 
+        else {
+            createMarkdown(`${outputDirectory}/${testInfo.title}.md`, `<div><p>${await container.innerHTML()}</p><p><a href="${page.url()}">Source</a></p></div>`);
+        }
     });
 }
 
