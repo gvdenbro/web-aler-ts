@@ -25,3 +25,4 @@ testPage("maximvengerov", "https://www.maximvengerov.com/events", page => page.l
 testPage("epso", "https://eu-careers.europa.eu/en/upcoming-selection-procedures", "#block-mainpagecontent", scrapesDirectory);
 testPage("piepers", "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel", ".col-lg-8", scrapesDirectory);
 testPage("bozar-live-magazine", "https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine", ".search-page__results-list", scrapesDirectory);
+testPage("coolblue-yamaha-ns-f-51-black", "https://www.coolblue.be/en/product/644101/yamaha-ns-f-51-black-per-pair.html", "#main-content > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2)", scrapesDirectory, {cookie: {name: "cookie-preferences", value: "eyJ2ZXJzaW9uIjoiMjAyMzExMDciLCJmdW5jdGlvbmFsIjp0cnVlLCJhbmFseXRpY2FsIjpmYWxzZSwibWFya2V0aW5nIjpmYWxzZX0%3D"}, yaml: true});
