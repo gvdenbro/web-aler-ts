@@ -2,17 +2,6 @@
 
 Activiteit
 
-18.01 - 18.01.2026
-
-[brrrrrr zo koud!](https://jnm.be/nl/activiteiten/brrrrrr-zo-koud)
-------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 1.02 - 1.02.2026
 
 [1 tegen allen, allen tegen de invasieve](https://jnm.be/nl/activiteiten/1-tegen-allen-allen-tegen-de-invasieve)
