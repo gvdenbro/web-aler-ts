@@ -258,6 +258,33 @@ Deutsches Symphonie-Orchester Berlin
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8)
+
+Apr
+
+15
+
+[Berlin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8)
+=======================================================================================================================
+
+* Wednesday, April 15, 2026
+* 8:00 PM 10:00 PM
+* Berlin Philharmonie [(map)](http://maps.google.com?q=1%20Herbert-von-Karajan-Straße%20Berlin,%20BE,%2010785%20Germany)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Berlin%20Concert%20&dates=20260415T180000Z/20260415T200000Z&location=1%20Herbert-von-Karajan-Stra%C3%9Fe%2C%20Berlin%2C%20BE%2C%2010785%2C%20Germany) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8?format=ical)
+
+Program  
+<br/>Alexey Shor Violin concerto No. 6 “Carpe diem”  
+Tchaikovsky Violin Concerto  
+Beethoven Symphony No. 7
+
+  
+Performers  
+<br/>Christoph Koncz, conductor  
+Maxim Vengerov, violin  
+Deutsches Symphonie-Orchester Berlin
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
 
 Apr
