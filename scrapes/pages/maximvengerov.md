@@ -122,19 +122,45 @@ Budapest Festival Orchestra
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+
+Feb
+
+27
+
+[Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+=======================================================================================================================
+
+* Friday, February 27, 2026
+* 7:30 AM 9:30 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Dublin%20Concert&dates=20260227T063000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 Feb
 
 28
 
-[Masterclass RTE Dublin](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
-=========================================================================================================================
+[Concerto Masterclass with Maxim Vengerov & NSOI](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+==================================================================================================================================================
 
 * Saturday, February 28, 2026
 * 11:00 AM 2:00 PM
 * National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20RTE%20Dublin&dates=20260228T100000Z/20260228T130000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj?format=ical)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concerto%20Masterclass%20with%20Maxim%20Vengerov%20%26amp%3B%20NSOI&dates=20260228T100000Z/20260228T130000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj?format=ical)
 
 Program
 
