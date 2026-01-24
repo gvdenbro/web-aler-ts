@@ -46,6 +46,17 @@ Activiteit
 
 Activiteit
 
+15.03 - 15.03.2026
+
+[Missie: Donderberg](https://jnm.be/nl/activiteiten/missie-donderberg)
+----------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Pini's,  Ini's JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 29.03 - 29.03.2026
 
 [Het begin van de lente](https://jnm.be/nl/activiteiten/het-begin-van-de-lente)
