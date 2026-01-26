@@ -1,30 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
-
-Jan
-
-24
-
-[Recital Italy](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
-==============================================================================================
-
-* Saturday, January 24, 2026
-* 7:00 PM 9:00 PM
-* Cagliari Teatro Lirico [(map)](http://maps.google.com?q=Via%20Sant'Alenixedda%20Cagliari,%20Sardegna,%2009128%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Italy&dates=20260124T180000Z/20260124T200000Z&location=Via%20Sant%26%2339%3BAlenixedda%2C%20Cagliari%2C%20Sardegna%2C%2009128%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
-
 [](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
 
 Jan
@@ -337,6 +310,33 @@ Prague Philharmonia
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
+
+Jan
+
+24
+
+[Recital Italy](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
+==============================================================================================
+
+* Saturday, January 24, 2026
+* 7:00 PM 9:00 PM
+* Cagliari Teatro Lirico [(map)](http://maps.google.com?q=Via%20Sant'Alenixedda%20Cagliari,%20Sardegna,%2009128%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Italy&dates=20260124T180000Z/20260124T200000Z&location=Via%20Sant%26%2339%3BAlenixedda%2C%20Cagliari%2C%20Sardegna%2C%2009128%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
 
@@ -1122,32 +1122,5 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/pietrasanta-recital-8eg4z)
-
-[](/events/pietrasanta-recital)
-
-Jul
-
-19
-
-[Pietrasanta Recital](/events/pietrasanta-recital)
-==================================================
-
-* Saturday, July 19, 2025
-* 9:15 PM 11:15 PM
-* Chiostro di Sant'Agostino [(map)](http://maps.google.com?q=Pizzale%20Pietro%20Giordani%20Recanati,%20Marche,%2062019%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Pietrasanta%20Recital&dates=20250719T191500Z/20250719T211500Z&location=Pizzale%20Pietro%20Giordani%2C%20Recanati%2C%20Marche%2C%2062019%2C%20Italy) [ICS](/events/pietrasanta-recital?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/pietrasanta-recital)
 
 [Source](https://www.maximvengerov.com/events)
