@@ -1,48 +1,3 @@
-[](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
-
-Jan
-
-27
-
-[Masterclass Trinity Laban Conservatory of Greenwich](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
-=====================================================================================================
-
-* Tuesday, January 27, 2026
-* 3:00 PM 5:00 PM
-* Trinity Laban Conservatory of Greenwich [(map)](http://maps.google.com?q=Romney%20Road%20London,%20England,%20SE10%209JF%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260127T140000Z/20260127T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
-
-Masterclass with Maxim Vengerov
-
-[View Event →](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
-
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
-
-Jan
-
-28
-
-[Recital London Barbican](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
-==================================================================================================
-
-* Wednesday, January 28, 2026
-* 7:30 PM 9:30 PM
-* The Barbican Hall [(map)](http://maps.google.com?q=Silk%20Street%20London,%20England,%20EC2Y%208DS%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20London%20Barbican&dates=20260128T183000Z/20260128T203000Z&location=Silk%20Street%2C%20London%2C%20England%2C%20EC2Y%208DS%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
 
 Feb
@@ -310,6 +265,51 @@ Prague Philharmonia
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+
+Jan
+
+28
+
+[Recital London Barbican](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+==================================================================================================
+
+* Wednesday, January 28, 2026
+* 7:30 PM 9:30 PM
+* The Barbican Hall [(map)](http://maps.google.com?q=Silk%20Street%20London,%20England,%20EC2Y%208DS%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20London%20Barbican&dates=20260128T183000Z/20260128T203000Z&location=Silk%20Street%2C%20London%2C%20England%2C%20EC2Y%208DS%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
+
+[](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
+
+Jan
+
+27
+
+[Masterclass Trinity Laban Conservatory of Greenwich](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
+=====================================================================================================
+
+* Tuesday, January 27, 2026
+* 3:00 PM 5:00 PM
+* Trinity Laban Conservatory of Greenwich [(map)](http://maps.google.com?q=Romney%20Road%20London,%20England,%20SE10%209JF%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260127T140000Z/20260127T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
+
+Masterclass with Maxim Vengerov
+
+[View Event →](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
@@ -1067,60 +1067,5 @@ László Fenyő, cello
 Dóra Kokas, cello
 
 [View Event →](/events/festival-academy-budapest-9fa7l)
-
-[](/events/pietrasanta-recital-8eg4z-lb845)
-
-Jul
-
-24
-
-[Bordeaux Recital](/events/pietrasanta-recital-8eg4z-lb845)
-===========================================================
-
-* Thursday, July 24, 2025
-* 8:30 PM 10:30 PM
-* Bordeaux, France [(map)](http://maps.google.com?q=Chemin%20Peyssardet%20Villenave-d'Ornon,%20Nouvelle-Aquitaine%20France)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Bordeaux%20Recital%20&dates=20250724T183000Z/20250724T203000Z&location=Chemin%20Peyssardet%2C%20Villenave-d%26%2339%3BOrnon%2C%20Nouvelle-Aquitaine%2C%20France) [ICS](/events/pietrasanta-recital-8eg4z-lb845?format=ical)
-
-Program
-
-TBC
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Max Zorin, violin  
-Garry Lenvinson, violin  
-Iakov Zats, viola  
-Philippe Muller, cello
-
-[View Event →](/events/pietrasanta-recital-8eg4z-lb845)
-
-[](/events/pietrasanta-recital-8eg4z)
-
-Jul
-
-22
-
-[Musica Mundi Recital](/events/pietrasanta-recital-8eg4z)
-=========================================================
-
-* Tuesday, July 22, 2025
-* 8:00 PM 10:00 PM
-* Musica Mundi School [(map)](http://maps.google.com?q=21a%20Rue%20de%20la%20Croix%20Waterloo,%20Région%20Wallonne,%201410%20Belgium)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Musica%20Mundi%20Recital&dates=20250722T180000Z/20250722T200000Z&location=21a%20Rue%20de%20la%20Croix%2C%20Waterloo%2C%20R%C3%A9gion%20Wallonne%2C%201410%2C%20Belgium) [ICS](/events/pietrasanta-recital-8eg4z?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/pietrasanta-recital-8eg4z)
 
 [Source](https://www.maximvengerov.com/events)
