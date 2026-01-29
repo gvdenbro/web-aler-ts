@@ -2,7 +2,7 @@
 - title: coolblue-yamaha-ns-f-51-black
 - url: https://www.coolblue.be/en/product/644101/yamaha-ns-f-51-black-per-pair.html
 - text: Charger included
-- paragraph: 399,-
+- paragraph: 319,-
 - paragraph: Temporarily sold out
 - button "Keep me updated"
 - button "Save for later"
