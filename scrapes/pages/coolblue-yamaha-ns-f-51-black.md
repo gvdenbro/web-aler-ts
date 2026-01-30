@@ -1,12 +1,17 @@
 ---
 - title: coolblue-yamaha-ns-f-51-black
 - url: https://www.coolblue.be/en/product/644101/yamaha-ns-f-51-black-per-pair.html
-- text: Charger included
-- paragraph: 319,-
-- paragraph: Temporarily sold out
-- button "Keep me updated"
-- button "Save for later"
+- heading "Similar HiFi speakers" [level=4]
+- img "Polk Audio Monitor XT70"
+- link "Polk Audio Monitor XT70":
+  - /url: https://www.coolblue.be/en/product/893768/polk-audio-monitor-xt70.html
 - list:
-  - listitem: Be the first to know when this product is in stock
+  - listitem: Column speakers
+  - listitem: 2 speakers
+  - listitem: Passive speakers
+- paragraph: 299,-
+- paragraph: Delivered tomorrow
+- link "View all HiFi speakers":
+  - /url: /en/hifi-speakers
 ---
 
