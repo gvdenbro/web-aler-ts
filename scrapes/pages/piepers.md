@@ -2,17 +2,6 @@
 
 Activiteit
 
-1.02 - 1.02.2026
-
-[1 tegen allen, allen tegen de invasieve](https://jnm.be/nl/activiteiten/1-tegen-allen-allen-tegen-de-invasieve)
-----------------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 8.02 - 8.02.2026
 
 [Strijd Der Rode Letters](https://jnm.be/nl/activiteiten/strijd-der-rode-letters)
