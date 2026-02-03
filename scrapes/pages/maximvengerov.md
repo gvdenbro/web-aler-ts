@@ -1,29 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
-
-Feb
-
-2
-
-[Oxford Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
-===============================================================================================
-
-* Monday, February 2, 2026
-* 7:30 PM 9:30 PM
-* Sheldonian Theatre Oxford [(map)](http://maps.google.com?q=Broad%20Street%20Oxford,%20England,%20OX1%203AZ%20United%20Kingdom)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Oxford%20Concert&dates=20260202T183000Z/20260202T203000Z&location=Broad%20Street%2C%20Oxford%2C%20England%2C%20OX1%203AZ%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-<br/>Marios Papadopoulos, conductor  
-Maxim Vengerov, violin  
-Oxford Philharmonic Orchestra
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 Feb
@@ -264,7 +238,107 @@ Prague Philharmonia
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na)
+
+May
+
+14
+
+[Recital Teramo](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na)
+=====================================================================================================
+
+* Thursday, May 14, 2026
+* 8:30 PM 10:30 PM
+* Aula Magna University of Teramo [(map)](http://maps.google.com?q=1%20Via%20Renato%20Balzarini%20Teramo,%20Abruzzo,%2064100%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Teramo&dates=20260514T183000Z/20260514T203000Z&location=1%20Via%20Renato%20Balzarini%2C%20Teramo%2C%20Abruzzo%2C%2064100%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata  
+Shostakovich-Dreznin From Jewish Folk Poetry, suite op. 79
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
+
+May
+
+15
+
+[Masterclass Terni](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
+==========================================================================================================================
+
+* Friday, May 15, 2026
+* 11:00 AM 1:00 PM
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Terni&dates=20260515T090000Z/20260515T110000Z) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d?format=ical)
+
+Program
+
+Masterclass with Maxim Vengerov
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
+
+May
+
+27
+
+[Recital Carnegie Hall](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
+==================================================================================================================
+
+* Wednesday, May 27, 2026
+* 8:00 PM 10:00 PM
+* Carnegie Hall [(map)](http://maps.google.com?q=7th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Carnegie%20Hall&dates=20260527T180000Z/20260527T200000Z&location=7th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
+
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
+
+Feb
+
+2
+
+[Oxford Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
+===============================================================================================
+
+* Monday, February 2, 2026
+* 7:30 PM 9:30 PM
+* Sheldonian Theatre Oxford [(map)](http://maps.google.com?q=Broad%20Street%20Oxford,%20England,%20OX1%203AZ%20United%20Kingdom)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Oxford%20Concert&dates=20260202T183000Z/20260202T203000Z&location=Broad%20Street%2C%20Oxford%2C%20England%2C%20OX1%203AZ%2C%20United%20Kingdom) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Marios Papadopoulos, conductor  
+Maxim Vengerov, violin  
+Oxford Philharmonic Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
 
@@ -1037,35 +1111,5 @@ Maxim Vengerov, violin
 Festival Academy Youth Orchestra
 
 [View Event →](/events/festival-academy-budapest-pzw3g)
-
-[](/events/festival-academy-budapest-9fa7l)
-
-Jul
-
-26
-
-[Festival Academy Budapest](/events/festival-academy-budapest-9fa7l)
-====================================================================
-
-* Saturday, July 26, 2025
-* 7:00 PM 8:15 PM
-* Franz Liszt Academy of Music [(map)](http://maps.google.com?q=8%20Liszt%20Ferenc%20tér%20Budapest,%201061%20Hungary)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Festival%20Academy%20Budapest%20&dates=20250726T170000Z/20250726T181500Z&location=8%20Liszt%20Ferenc%20t%C3%A9r%2C%20Budapest%2C%201061%2C%20Hungary) [ICS](/events/festival-academy-budapest-9fa7l?format=ical)
-
-Program  
-<br/>Mendelssohn Octet
-
-  
-Performers  
-Maxim Vengerov, violin  
-Katalin Kokas, violin  
-Júlia Pusker, violin  
-Abigél Kralik, violin  
-Barnabás Kelemen, viola  
-Maxim Rysanov, viola  
-László Fenyő, cello  
-Dóra Kokas, cello
-
-[View Event →](/events/festival-academy-budapest-9fa7l)
 
 [Source](https://www.maximvengerov.com/events)
