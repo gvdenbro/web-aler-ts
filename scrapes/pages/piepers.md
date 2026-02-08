@@ -2,17 +2,6 @@
 
 Activiteit
 
-8.02 - 8.02.2026
-
-[Strijd Der Rode Letters](https://jnm.be/nl/activiteiten/strijd-der-rode-letters)
----------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Gewone leden,  Pini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 15.02 - 15.02.2026
 
 [Ultimate ultimate frisbee](https://jnm.be/nl/activiteiten/ultimate-ultimate-frisbee)
