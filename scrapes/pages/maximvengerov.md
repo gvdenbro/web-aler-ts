@@ -1,3 +1,29 @@
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+
+Feb
+
+6
+
+[Carnegie Hall Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+============================================================================================================
+
+* Friday, February 6, 2026
+* 8:00 PM 10:00 PM
+* Stern Auditorium / Perelman Stage [(map)](http://maps.google.com?q=881%207th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Carnegie%20Hall%20Concert%20&dates=20260206T190000Z/20260206T210000Z&location=881%207th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Ivan Fischer, conductor  
+Maxim Vengerov, violin  
+Budapest Festival Orchestra
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
 
 Feb
@@ -287,32 +313,6 @@ Polina Osetinskaya, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
 * * *
-
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
-
-Feb
-
-6
-
-[Carnegie Hall Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
-============================================================================================================
-
-* Friday, February 6, 2026
-* 8:00 PM 10:00 PM
-* Stern Auditorium / Perelman Stage [(map)](http://maps.google.com?q=881%207th%20Avenue%20New%20York,%20NY,%2010019%20United%20States)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Carnegie%20Hall%20Concert%20&dates=20260206T190000Z/20260206T210000Z&location=881%207th%20Avenue%2C%20New%20York%2C%20NY%2C%2010019%2C%20United%20States) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-<br/>Ivan Fischer, conductor  
-Maxim Vengerov, violin  
-Budapest Festival Orchestra
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
 
@@ -1085,5 +1085,31 @@ Jul
 Masterclass with Maxim Vengerov
 
 [View Event →](/events/festival-academy-budapest-pzw3g-h98wb)
+
+[](/events/festival-academy-budapest-pzw3g)
+
+Jul
+
+27
+
+[Festival Academy Budapest](/events/festival-academy-budapest-pzw3g)
+====================================================================
+
+* Sunday, July 27, 2025
+* 6:00 PM 8:00 PM
+* Franz Liszt Academy of Music [(map)](http://maps.google.com?q=8%20Liszt%20Ferenc%20tér%20Budapest,%201061%20Hungary)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Festival%20Academy%20Budapest%20&dates=20250727T160000Z/20250727T180000Z&location=8%20Liszt%20Ferenc%20t%C3%A9r%2C%20Budapest%2C%201061%2C%20Hungary) [ICS](/events/festival-academy-budapest-pzw3g?format=ical)
+
+Program
+
+Mendelssohn Violin Concerto
+
+  
+Performers  
+Barnabas Kelemann, conductor  
+Maxim Vengerov, violin  
+Festival Academy Youth Orchestra
+
+[View Event →](/events/festival-academy-budapest-pzw3g)
 
 [Source](https://www.maximvengerov.com/events)
