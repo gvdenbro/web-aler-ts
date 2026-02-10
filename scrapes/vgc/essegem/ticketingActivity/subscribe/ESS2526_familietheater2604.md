@@ -24,6 +24,9 @@ Een danseres, geluidseffecten en textielcreaties. Meer heeft 'Babysses' niet nod
     * Standaardprijs: €8,00
     * \-12 jaar: €6,00
     * Paspartoe-Kansentarief: €2,00
+* ###### Ticket:
+    
+    * Standaardprijs: €0,00
 
   
 
