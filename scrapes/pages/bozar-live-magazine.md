@@ -11,27 +11,6 @@ June'26
 
 ##### 10 years of Live Magazine at Bozar
 
-[](/en/calendar/live-magazine-autumn-edition-25)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
-
-Sold out Cancelled Postponed
-
-25 + 26  
-Nov.'25
-
-#### Live Magazine autumn edition '25
-
-[](/en/calendar/live-magazine-kids-2023)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3029449_rfabienne_antomarchi_3_1200x550px.jpg?h=e845b32d&itok=2p-ywn79)
-
-Sold out Cancelled Postponed
-
-30 Sept.'23
-
-#### Live Magazine for kids 2023
-
 [](/en/calendar/live-magazine-autumn-edition-23)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3016797_quentin_bruno-7845.jpeg?h=1c9b88c9&itok=fNRX7cDe)
@@ -42,43 +21,6 @@ Sold out Cancelled Postponed
 Nov.'23
 
 #### Live Magazine autumn edition '23
-
-[](/en/calendar/live-magazine-kids-2025)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape_no_crop/public/efficy/images/3480617_lm_enfants.001.jpeg?itok=Lah2Jq_7)
-
-Sold out Cancelled Postponed
-
-28 Sept.'25  
-\- 16:30
-
-#### Live Magazine for kids 2025
-
-[](/en/calendar/live-magazine-6)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1765753_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=G7KrA6Fw)
-
-Sold out Cancelled Postponed
-
-3 May'17  
-\- 17:00
-
-#### Live Magazine
-
-##### THE “LIVING MAGAZINE” WITHOUT PAPER OR SCREEN
-
-[](/en/calendar/live-magazine-5)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1755908_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=8lN43n8J)
-
-Sold out Cancelled Postponed
-
-25 Apr.'17  
-\- 20:00
-
-#### Live Magazine
-
-##### The “living magazine” without paper or screen
 
 [](/en/calendar/la-nuit-des-idees-invites-live-magazine)
 
@@ -93,30 +35,95 @@ Sold out Cancelled Postponed
 
 ##### Online event
 
-[](/en/calendar/live-magazine)
+[](/en/calendar/live-magazine-kids-0)
 
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2432952_photo_2.jpg?h=05586b66&itok=RSBPOv_u)
-
-Sold out Cancelled Postponed
-
-9 June'20  
-\- 20:00
-
-#### Live Magazine
-
-##### Spring edition
-
-[](/en/calendar/live-magazine-2)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2347492_js_052019_livemag_comedia-83_page-0001-min.jpg?h=ecaf5b2b&itok=EKT0Arsv)
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2628374_photo_1.jpg?h=804eb763&itok=K2VzUR_B)
 
 Sold out Cancelled Postponed
 
-23 Oct.'19  
-\- 20:00
+10 Oct.'21  
+\- 15:00
+
+#### Live Magazine kids
+
+[](/en/calendar/live-magazine-doctor-honoris-causa-ulb-vub)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1817027_def_illu_22-3-page-001.jpg?h=c0c7dbfc&itok=RL_2G3QI)
+
+Sold out Cancelled Postponed
+
+3 May'18  
+\- 17:30
+
+#### Live Magazine & Doctor Honoris Causa ULB & VUB
+
+##### Difference Day 2018
+
+[](/en/calendar/live-magazine-summer-edition-24)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3156803_quentin_bruno-9211.jpg?h=a64d52a2&itok=GYlCjSEm)
+
+Sold out Cancelled Postponed
+
+18 + 19  
+June'24
+
+#### Live Magazine summer edition '24
+
+[](/en/calendar/live-magazine-autumn-edition-25)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
+
+Sold out Cancelled Postponed
+
+25 + 26  
+Nov.'25
+
+#### Live Magazine autumn edition '25
+
+[](/en/calendar/live-magazine-0)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2440573_photo_1.jpg?h=7b81ddb8&itok=GxUG3A8b)
+
+Sold out Cancelled Postponed
+
+8 Dec.'20  
+\- 20:30
 
 #### Live Magazine
 
-##### Autumn edition
+##### Autumn Edition - free online event
+
+[](/en/calendar/live-magazine-7)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1785622_visuel_live_magazine_2.jpg?h=804eb763&itok=y0mmo0Vx)
+
+Sold out Cancelled Postponed
+
+14 Nov.'17  
+\- 20:00
+
+#### LIVE MAGAZINE
+
+[](/en/calendar/live-magazine-kids-2023)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3029449_rfabienne_antomarchi_3_1200x550px.jpg?h=e845b32d&itok=2p-ywn79)
+
+Sold out Cancelled Postponed
+
+30 Sept.'23
+
+#### Live Magazine for kids 2023
+
+[](/en/calendar/live-magazine-kids-2025)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape_no_crop/public/efficy/images/3480617_lm_enfants.001.jpeg?itok=Lah2Jq_7)
+
+Sold out Cancelled Postponed
+
+28 Sept.'25  
+\- 16:30
+
+#### Live Magazine for kids 2025
 
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
