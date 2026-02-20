@@ -4,8 +4,8 @@ Activiteit
 
 1.03 - 1.03.2026
 
-[Lente-activiteit](https://jnm.be/nl/activiteiten/lente-activiteit)
--------------------------------------------------------------------
+[De kracht van knaagdieren](https://jnm.be/nl/activiteiten/de-kracht-van-knaagdieren)
+-------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
