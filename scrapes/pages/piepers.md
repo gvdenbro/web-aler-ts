@@ -53,6 +53,28 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+19.04 - 19.04.2026
+
+[Flexible activiteit](https://jnm.be/nl/activiteiten/flexible-activiteit)
+-------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+26.04 - 26.04.2026
+
+[1000 soortenweekend](https://jnm.be/nl/activiteiten/1000-soortenweekend-4)
+---------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden,  Ini's JNM Brussel
+
 ![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
 
 Afdelingskamp
