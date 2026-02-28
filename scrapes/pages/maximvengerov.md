@@ -1,29 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-
-Feb
-
-27
-
-[Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-=======================================================================================================================
-
-* Friday, February 27, 2026
-* 7:30 AM 9:30 PM
-* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Dublin%20Concert&dates=20260227T063000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-<br/>Kristian Sallinen, conductor  
-Maxim Vengerov, violin  
-National Symphony Orchestra Ireland
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
 Feb
@@ -287,6 +261,32 @@ Polina Osetinskaya, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+
+Feb
+
+27
+
+[Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+=======================================================================================================================
+
+* Friday, February 27, 2026
+* 7:30 AM 9:30 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Dublin%20Concert&dates=20260227T063000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
@@ -1067,23 +1067,5 @@ Maxim Vengerov, violin
 Evgenia Startseva, piano
 
 [View Event →](/events/fermo-recital-l7rhf)
-
-[](/events/festival-academy-budapest-pzw3g-h98wb)
-
-Jul
-
-28
-
-[Festival Academy Budapest](/events/festival-academy-budapest-pzw3g-h98wb)
-==========================================================================
-
-* Monday, July 28, 2025
-* 2:00 PM 4:00 PM
-* Franz Liszt Academy of Music [(map)](http://maps.google.com?q=8%20Liszt%20Ferenc%20tér%20Budapest,%201061%20Hungary)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Festival%20Academy%20Budapest%20&dates=20250728T120000Z/20250728T140000Z&location=8%20Liszt%20Ferenc%20t%C3%A9r%2C%20Budapest%2C%201061%2C%20Hungary) [ICS](/events/festival-academy-budapest-pzw3g-h98wb?format=ical)
-
-Masterclass with Maxim Vengerov
-
-[View Event →](/events/festival-academy-budapest-pzw3g-h98wb)
 
 [Source](https://www.maximvengerov.com/events)
