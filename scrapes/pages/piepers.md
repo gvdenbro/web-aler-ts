@@ -86,6 +86,17 @@ Afdelingskamp
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
+![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
+
+Afdelingskamp
+
+4.07 - 14.07.2026
+
+[De wereld rond in 6 dagen (piepers LvA)](https://jnm.be/nl/activiteiten/de-wereld-rond-in-6-dagen-piepers-lva)
+---------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Land van Aalst
+
 ![Type kampnational_camp](https://jnm.be/img/activity-type/national_camp.png)
 
 Nationaal kamp
