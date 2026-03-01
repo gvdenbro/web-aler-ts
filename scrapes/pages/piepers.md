@@ -2,17 +2,6 @@
 
 Activiteit
 
-1.03 - 1.03.2026
-
-[De kracht van knaagdieren](https://jnm.be/nl/activiteiten/de-kracht-van-knaagdieren)
--------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 15.03 - 15.03.2026
 
 [Missie: Donderberg](https://jnm.be/nl/activiteiten/missie-donderberg)
