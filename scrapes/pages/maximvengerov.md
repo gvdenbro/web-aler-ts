@@ -1,55 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-
-Feb
-
-27
-
-[Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-=======================================================================================================================
-
-* Friday, February 27, 2026
-* 7:30 AM 9:30 PM
-* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Dublin%20Concert&dates=20260227T063000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb?format=ical)
-
-Program
-
-Tchaikovsky Violin Concerto
-
-  
-Performers  
-<br/>Kristian Sallinen, conductor  
-Maxim Vengerov, violin  
-National Symphony Orchestra Ireland
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
-
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
-
-Feb
-
-28
-
-[Concerto Masterclass with Maxim Vengerov & NSOI](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
-==================================================================================================================================================
-
-* Saturday, February 28, 2026
-* 11:00 AM 2:00 PM
-* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concerto%20Masterclass%20with%20Maxim%20Vengerov%20%26amp%3B%20NSOI&dates=20260228T100000Z/20260228T130000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj?format=ical)
-
-Program
-
-Mendelssohn Concerto Masterclass with Maxim Vengerov & NSOI
-
-  
-Performers  
-<br/>Kristian Sallinen, conductor  
-Maxim Vengerov, violin  
-National Symphony Orchestra Ireland
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
 
 Mar
@@ -287,6 +235,58 @@ Polina Osetinskaya, piano
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+
+Feb
+
+28
+
+[Concerto Masterclass with Maxim Vengerov & NSOI](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+==================================================================================================================================================
+
+* Saturday, February 28, 2026
+* 11:00 AM 2:00 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Concerto%20Masterclass%20with%20Maxim%20Vengerov%20%26amp%3B%20NSOI&dates=20260228T100000Z/20260228T130000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj?format=ical)
+
+Program
+
+Mendelssohn Concerto Masterclass with Maxim Vengerov & NSOI
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+
+Feb
+
+27
+
+[Dublin Concert](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
+=======================================================================================================================
+
+* Friday, February 27, 2026
+* 7:30 AM 9:30 PM
+* National Concert Hall [(map)](http://maps.google.com?q=Earlsfort%20Terrace%20Dublin,%20D,%20D02%20N527%20Ireland)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Dublin%20Concert&dates=20260227T063000Z/20260227T203000Z&location=Earlsfort%20Terrace%2C%20Dublin%2C%20D%2C%20D02%20N527%2C%20Ireland) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Kristian Sallinen, conductor  
+Maxim Vengerov, violin  
+National Symphony Orchestra Ireland
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
@@ -1040,50 +1040,5 @@ Maxim Vengerov, violin
 Polina Osetinskaya, piano
 
 [View Event →](/events/fermo-recital-l7rhf-wj828)
-
-[](/events/fermo-recital-l7rhf)
-
-Aug
-
-2
-
-[Mallorca Cap Rocat Festival](/events/fermo-recital-l7rhf)
-==========================================================
-
-* Saturday, August 2, 2025
-* 9:00 PM 11:00 PM
-* Hotel Cap Rocat [(map)](http://maps.google.com?q=s/n%20Ctra.%20d'enderrocat%20Cala%20Blava-Llucmajor,%20IB,%2007609%20Spain)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Mallorca%20Cap%20Rocat%20Festival&dates=20250802T190000Z/20250802T210000Z&location=s%2Fn%20Ctra.%20d%26%2339%3Benderrocat%2C%20Cala%20Blava-Llucmajor%2C%20IB%2C%2007609%2C%20Spain) [ICS](/events/fermo-recital-l7rhf?format=ical)
-
-Program  
-<br/>Shostakovich Violin Sonata  
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Evgenia Startseva, piano
-
-[View Event →](/events/fermo-recital-l7rhf)
-
-[](/events/festival-academy-budapest-pzw3g-h98wb)
-
-Jul
-
-28
-
-[Festival Academy Budapest](/events/festival-academy-budapest-pzw3g-h98wb)
-==========================================================================
-
-* Monday, July 28, 2025
-* 2:00 PM 4:00 PM
-* Franz Liszt Academy of Music [(map)](http://maps.google.com?q=8%20Liszt%20Ferenc%20tér%20Budapest,%201061%20Hungary)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Festival%20Academy%20Budapest%20&dates=20250728T120000Z/20250728T140000Z&location=8%20Liszt%20Ferenc%20t%C3%A9r%2C%20Budapest%2C%201061%2C%20Hungary) [ICS](/events/festival-academy-budapest-pzw3g-h98wb?format=ical)
-
-Masterclass with Maxim Vengerov
-
-[View Event →](/events/festival-academy-budapest-pzw3g-h98wb)
 
 [Source](https://www.maximvengerov.com/events)
