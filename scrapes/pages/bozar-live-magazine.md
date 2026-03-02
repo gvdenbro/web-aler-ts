@@ -70,17 +70,6 @@ June'24
 
 #### Live Magazine summer edition '24
 
-[](/en/calendar/live-magazine-autumn-edition-25)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
-
-Sold out Cancelled Postponed
-
-25 + 26  
-Nov.'25
-
-#### Live Magazine autumn edition '25
-
 [](/en/calendar/live-magazine-0)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2440573_photo_1.jpg?h=7b81ddb8&itok=GxUG3A8b)
@@ -93,6 +82,17 @@ Sold out Cancelled Postponed
 #### Live Magazine
 
 ##### Autumn Edition - free online event
+
+[](/en/calendar/live-magazine-autumn-edition-25)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
+
+Sold out Cancelled Postponed
+
+25 + 26  
+Nov.'25
+
+#### Live Magazine autumn edition '25
 
 [](/en/calendar/live-magazine-7)
 
