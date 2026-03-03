@@ -261,6 +261,32 @@ Polina Osetinskaya, piano
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2)
+
+Jun
+
+25
+
+[Beethoven Festival Teplice Czechoslovakia](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2)
+============================================================================================================================================
+
+* Thursday, June 25, 2026
+* 7:00 PM 9:00 PM
+* Concert Hall of the House of Culture in Teplice [(map)](http://maps.google.com?q=2950%20Mírové%20náměstí%20Teplice%201,%20Ústecký%20kraj,%20415%2001%20Czechia)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Beethoven%20Festival%20Teplice%20Czechoslovakia&dates=20260625T170000Z/20260625T190000Z&location=2950%20M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2C%20Teplice%201%2C%20%C3%9Asteck%C3%BD%20kraj%2C%20415%2001%2C%20Czechia) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2?format=ical)
+
+Program
+
+Tchaikovsky Violin Concerto
+
+  
+Performers  
+<br/>Petr Voronsky, conductor  
+Maxim Vengerov, violin  
+North Czech Philharmonic
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2)
+
 * * *
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
