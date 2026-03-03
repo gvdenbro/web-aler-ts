@@ -207,6 +207,33 @@ Masterclass with Maxim Vengerov
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
 
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47)
+
+May
+
+18
+
+[Recital Teatro Colon](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47)
+=======================================================================================================================
+
+* Monday, May 18, 2026
+* 8:00 PM 10:00 PM
+* Teatro Colon [(map)](http://maps.google.com?q=628%20Cerrito%20Buenos%20Aires,%20Cdad.%20Autónoma%20de%20Buenos%20Aires,%20C1010%20Argentina)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Teatro%20Colon&dates=20260518T180000Z/20260518T200000Z&location=628%20Cerrito%2C%20Buenos%20Aires%2C%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20C1010%2C%20Argentina) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47)
+
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
 May
