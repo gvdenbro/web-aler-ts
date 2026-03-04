@@ -1,6 +1,6 @@
 ### Jet Urban Sportweek (6-8 jaar)
 
-![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/63ff2d4967c96_f-4d1b3d0292284037bf5c2d5a5c81771d.png)
+![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/69a7fad69f0ca_Sportweek.jpg)
 
 De inschrijvingen zijn nog niet begonnen.
 
