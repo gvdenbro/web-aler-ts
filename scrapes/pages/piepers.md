@@ -79,7 +79,7 @@ Afdelingskamp
 
 Afdelingskamp
 
-4.07 - 14.07.2026
+4.07 - 10.07.2026
 
 [De wereld rond in 6 dagen (piepers LvA)](https://jnm.be/nl/activiteiten/de-wereld-rond-in-6-dagen-piepers-lva)
 ---------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ Afdelingskamp
 
 Nationaal kamp
 
-4.07 - 14.07.2026
+4.07 - 10.07.2026
 
 [De wereld rond in 6 dagen (piepers Nationaal)](https://jnm.be/nl/activiteiten/de-wereld-rond-in-6-dagen-piepers-nationaal)
 ---------------------------------------------------------------------------------------------------------------------------
