@@ -31,6 +31,17 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Pini's,  Ini's,  Gewone leden JNM Zuidwest-Brabant
 
+![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
+
+Weekendje
+
+10.04 - 12.04.2026
+
+[INIWEEKEND MECHELS BROEK: Trekt uw broek op!](https://jnm.be/nl/activiteiten/iniweekend-mechels-broek-trekt-uw-broek-op)
+-------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Pini's JNM Leuven
+
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
 Activiteit
