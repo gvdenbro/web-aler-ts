@@ -38,8 +38,8 @@
 **24.04**  Maria Mazzotta (trio)  **Saint-Martin-des-Champs (France)  
 **Espace du Roudour
 
-**25.04**  Maria Mazzotta (trio)  **Langonnet (France)**  
-La Grande Boutique
+**25.04**  Maria Mazzotta (trio)  **Kergrist-Moëlou (France)**  
+Salle Lein Roch
 
 **29.04**  Maria Mazzotta (trio)  **Nantes (France)**  
 Portevent
