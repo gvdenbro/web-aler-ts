@@ -1,0 +1,35 @@
+---
+- title: bronks-atelier
+- url: https://www.bronks.be/nl/ateliers/jaarwerking
+- main:
+  - heading "Jaarwerking" [level=1]
+  - paragraph: Ben je gemotiveerd om wekelijks naar BRONKS te komen? In onze Jaarwerking leg je een artistiek traject af dat over meerdere jaren kan lopen. Onder begeleiding van professionele artiesten verdiep je je in de podiumkunsten en werk je in groep naar een bescheiden theaterproductie toe.
+  - heading "ateliers op zaterdag (12-)" [level=2]
+  - paragraph: "In de ateliers op zaterdag ontwikkel je spelenderwijs een vaste basis in de podiumkunsten: ruimtelijk, lijfelijk en publieksbewustzijn, samenspel vs. solospel, tekst en repertoire, scenografie en beeldend theater. Het jaar sluiten we af met extra repetities én een toonmoment tijdens het O.H. Hemelvaartweekend."
+  - article:
+    - heading "Planning groepen 2025-2026" [level=3]
+  - heading "Ateliers op woensdag (12+)" [level=2]
+  - paragraph: "Op woensdag evolueren de ateliers naar een volwaardig co-creatief traject: jongeren zitten mee aan de creatieve tafel, denken en beslissen mee, en werken samen met kunstenaars naar een voorstelling toe. In de lentevakantie organiseren we extra repetities in aanloop van het toonmoment tijdens het laatste weekend van de vakantie."
+  - article:
+    - heading "Planning groepen 2025-2026" [level=3]
+  - heading "Atelier in de pianofabriek" [level=2]
+  - paragraph:
+    - text: BRONKS trekt er ook graag op uit. Samen met Pianofabriek en Brede School Sint-Gillis organiseren we al enkele jaren theaterateliers voor kinderen vanaf het 2de leerjaar. Deze ateliers vinden plaats in de Pianofabriek en worden begeleid door Pascal Buyse.
+    - link "Schrijf je in via de Pianofabriek.":
+      - /url: https://www.pianofabriek.be/activiteiten/allemaal-acteur-8-11-jaar
+  - link "bekijk de planning":
+    - /url: https://www.bronks.be/nl/ateliers/jaarwerking/atelier-in-de-pianofabriek
+  - heading "praktische info" [level=2]
+  - article:
+    - heading "(Her)inschrijving" [level=3]
+  - article:
+    - heading "Tarieven" [level=3]
+  - article:
+    - heading "annulatievoorwaarden" [level=3]
+  - heading "Veelgestelde vragen" [level=2]
+  - article:
+    - heading "Wanneer kan ik mij inschrijven voor de jaarwerking?" [level=3]
+  - article:
+    - heading "Kan ik een fiscaal attest ontvangen?" [level=3]
+---
+

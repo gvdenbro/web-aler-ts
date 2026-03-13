@@ -26,3 +26,4 @@ testPage("epso", "https://eu-careers.europa.eu/en/upcoming-selection-procedures"
 testPage("piepers", "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel", ".col-lg-8", scrapesDirectory);
 testPage("bozar-live-magazine", "https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine", ".search-page__results-list", scrapesDirectory);
 testPage("coolblue-yamaha-ns-f-51-black", "https://www.coolblue.be/en/product/644101/yamaha-ns-f-51-black-per-pair.html", 'form[class^="main-"]', scrapesDirectory, {cookie: {name: "cookie-preferences", value: "eyJ2ZXJzaW9uIjoiMjAyMzExMDciLCJmdW5jdGlvbmFsIjp0cnVlLCJhbmFseXRpY2FsIjpmYWxzZSwibWFya2V0aW5nIjpmYWxzZX0%3D"}, yaml: true});
+testPage("bronks-atelier", "https://www.bronks.be/nl/ateliers/jaarwerking", "main", scrapesDirectory, {yaml: true})
