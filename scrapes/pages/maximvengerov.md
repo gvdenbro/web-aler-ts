@@ -1,30 +1,3 @@
-[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
-
-Mar
-
-12
-
-[Recital Bari](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
-=============================================================================================
-
-* Thursday, March 12, 2026
-* 8:30 PM 10:30 PM
-* Petruzzelli Teatro Bari [(map)](http://maps.google.com?q=12%20Corso%20Cavour%20Bari,%20Puglia,%2070122%20Italy)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Bari&dates=20260312T193000Z/20260312T213000Z&location=12%20Corso%20Cavour%2C%20Bari%2C%20Puglia%2C%2070122%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s?format=ical)
-
-Program
-
-Schubert Violin Sonata No. 3  
-Brahms Violin Sonata No. 3  
-Shostakovich Violin Sonata
-
-  
-Performers  
-<br/>Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
-
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
 
 Mar
@@ -49,6 +22,8 @@ Shostakovich Violin Sonata
 Performers  
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
+
+.fe-block-406bd9db0b4a6f8e9cce {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae)
 
@@ -78,6 +53,8 @@ Performers
 Maxim Vengerov, violin  
 Hamburg Symphony
 
+.fe-block-3a0d0cda42d652a457f4 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
@@ -106,6 +83,8 @@ Performers
 Maxim Vengerov, violin  
 Deutsches Symphonie-Orchester Berlin
 
+.fe-block-58467ee960b6d97595a1 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8)
@@ -133,6 +112,8 @@ Performers
 Maxim Vengerov, violin  
 Deutsches Symphonie-Orchester Berlin
 
+.fe-block-cd417d9db2c22dd7707a {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
@@ -157,6 +138,8 @@ Tchaikovsky Violin Concerto
 <br/>Emanuelle Vuillaume, conductor  
 Maxim Vengerov, violin  
 Prague Philharmonia
+
+.fe-block-f9f3220ebe87477d70b4 {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk)
 
@@ -186,6 +169,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-e983fa8061908aa21b44 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
@@ -204,6 +189,8 @@ May
 Program
 
 Masterclass with Maxim Vengerov
+
+.fe-block-38fe1790168271ad8f68 {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d)
 
@@ -232,6 +219,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-9b3b1879240329e80de9 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
@@ -259,6 +248,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-4f40ad714ec459ae7586 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2)
@@ -285,9 +276,40 @@ Performers
 Maxim Vengerov, violin  
 North Czech Philharmonic
 
+.fe-block-5121fdc5ee87ea5ff239 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2)
 
 * * *
+
+[](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+
+Mar
+
+12
+
+[Recital Bari](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
+=============================================================================================
+
+* Thursday, March 12, 2026
+* 8:30 PM 10:30 PM
+* Petruzzelli Teatro Bari [(map)](http://maps.google.com?q=12%20Corso%20Cavour%20Bari,%20Puglia,%2070122%20Italy)
+* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Recital%20Bari&dates=20260312T193000Z/20260312T213000Z&location=12%20Corso%20Cavour%2C%20Bari%2C%20Puglia%2C%2070122%2C%20Italy) [ICS](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s?format=ical)
+
+Program
+
+Schubert Violin Sonata No. 3  
+Brahms Violin Sonata No. 3  
+Shostakovich Violin Sonata
+
+  
+Performers  
+<br/>Maxim Vengerov, violin  
+Polina Osetinskaya, piano
+
+.fe-block-3289b691a1d2f9378947 {mix-blend-mode: ; }
+
+[View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
@@ -312,6 +334,8 @@ Performers
 <br/>Kristian Sallinen, conductor  
 Maxim Vengerov, violin  
 National Symphony Orchestra Ireland
+
+.fe-block-bb98b03e06dee17e2fad {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj)
 
@@ -339,6 +363,8 @@ Performers
 Maxim Vengerov, violin  
 National Symphony Orchestra Ireland
 
+.fe-block-c4c7bd63709613ff31fa {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
@@ -365,6 +391,8 @@ Performers
 Maxim Vengerov, violin  
 Budapest Festival Orchestra
 
+.fe-block-e7e4562f64a641b74369 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
@@ -390,6 +418,8 @@ Performers
 <br/>Marios Papadopoulos, conductor  
 Maxim Vengerov, violin  
 Oxford Philharmonic Orchestra
+
+.fe-block-c32b3138b1141882ecfa {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl)
 
@@ -418,6 +448,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-37d392ddf4a5154bbb13 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf)
 
 [](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
@@ -435,6 +467,8 @@ Jan
 * [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Masterclass%20Trinity%20Laban%20Conservatory%20of%20Greenwich&dates=20260127T140000Z/20260127T160000Z&location=Romney%20Road%2C%20London%2C%20England%2C%20SE10%209JF%2C%20United%20Kingdom) [ICS](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b?format=ical)
 
 Masterclass with Maxim Vengerov
+
+.fe-block-796517953df3411e784f {mix-blend-mode: ; }
 
 [View Event →](/events/recital-teramo-italy-3gd8c-w5szy-p2y2b)
 
@@ -463,6 +497,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-485211aa937a02a09644 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
@@ -490,6 +526,8 @@ Performers
 <br/>Maxim Vengerov, violin  
 Evgenia Startseva, piano
 
+.fe-block-e735f59a9f229e21e7d6 {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs)
 
 [](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
@@ -515,6 +553,8 @@ Tchaikovsky Valse Scherzo
 Performers  
 <br/>Maxim Vengerov, violin  
 Evgenia Startseva, piano
+
+.fe-block-e4c0875e96570313dadf {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz)
 
@@ -543,6 +583,8 @@ Performers
 Lin Daye, conductor  
 Maxim Vengerov, violin  
 Wuxi Symphony Orchestra
+
+.fe-block-efc418705bdc7a5d8850 {mix-blend-mode: ; }
 
 [View Event →](/events/the-annual-isaac-stern-memorial-concert-nz3yh)
 
@@ -576,6 +618,8 @@ Daniel Müller-Schott, cello
 Anthony McGill, clarinet  
 Yefim Bronfman, piano
 
+.fe-block-8c7a486ceef7ce0247ef {mix-blend-mode: ; }
+
 [View Event →](/events/the-annual-isaac-stern-memorial-concert)
 
 [](/events/budapest-concert)
@@ -602,6 +646,8 @@ Performers
 Takash-Nagi, conductor  
 Maxim Vengerov, violin  
 MÁV Symphony Orchestra
+
+.fe-block-4846d21d64ff416f5000 {mix-blend-mode: ; }
 
 [View Event →](/events/budapest-concert)
 
@@ -632,6 +678,8 @@ Steven Isserliss, cellist
 Teodosia Nthokou, piano  
 Athens State Symphony Orchestra
 
+.fe-block-80a504daca7e85a938d1 {mix-blend-mode: ; }
+
 [View Event →](/events/athens-concert)
 
 [](/events/recital-teramo-italy-3t6aj-jmdm5)
@@ -658,6 +706,8 @@ Shostakovich Violin Sonata
 Performers  
 Maxim Vengerov, violin  
 Evgenia Startseva, piano
+
+.fe-block-db5321824231dbe8322d {mix-blend-mode: ; }
 
 [View Event →](/events/recital-teramo-italy-3t6aj-jmdm5)
 
@@ -686,6 +736,8 @@ Performers
 Maxim Vengerov, violin  
 Evgenia Startseva, piano  
 
+.fe-block-87235e38c02a64f841e5 {mix-blend-mode: ; }
+
 [View Event →](/events/recital-teramo-italy-3t6aj)
 
 [](/events/recital-teramo-italy-3t6aj-zpzf4)
@@ -712,6 +764,8 @@ Shostakovich Violin Sonata
 Performers  
 Maxim Vengerov, violin  
 Evgenia Startseva, piano  
+
+.fe-block-226edec24a0ef4b069d9 {mix-blend-mode: ; }
 
 [View Event →](/events/recital-teramo-italy-3t6aj-zpzf4)
 
@@ -740,6 +794,8 @@ Sascha Goetzel, conductor
 Maxim Vengerov, violin  
 Ulsan Phiharmonic
 
+.fe-block-22babeb15840493df886 {mix-blend-mode: ; }
+
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r)
 
 [](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
@@ -766,6 +822,8 @@ Performers
 Sascha Goetzel, conductor  
 Maxim Vengerov, violin  
 Ulsan Phiharmonic
+
+.fe-block-b81fa28a0403951c3e5f {mix-blend-mode: ; }
 
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz)
 
@@ -794,6 +852,8 @@ Myung-Whun Chung, conductor
 Maxim Vengerov, violin  
 Tokyo Philharmonic Orchestra
 
+.fe-block-dcaa8b587f9f2e1d2e24 {mix-blend-mode: ; }
+
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll)
 
 [](/events/antwerp-concert-cfxfr-9s43f-krfw7)
@@ -820,6 +880,8 @@ Performers
 Myung-Whun Chung, conductor  
 Maxim Vengerov, violin  
 Tokyo Philharmonic Orchestra
+
+.fe-block-64af12591666e7b45907 {mix-blend-mode: ; }
 
 [View Event →](/events/antwerp-concert-cfxfr-9s43f-krfw7)
 
@@ -848,6 +910,8 @@ Myung-Whun Chung, conductor
 Maxim Vengerov, violin  
 Tokyo Philharmonic Orchestra
 
+.fe-block-c94e23365470feb932c6 {mix-blend-mode: ; }
+
 [View Event →](/events/antwerp-concert-cfxfr-9s43f)
 
 [](/events/antwerp-concert-cfxfr)
@@ -874,6 +938,8 @@ Performers
 Myung-Whun Chung, conductor  
 Maxim Vengerov, violin  
 Tokyo Philharmonic Orchestra
+
+.fe-block-7cf1cc2fe043459a4f62 {mix-blend-mode: ; }
 
 [View Event →](/events/antwerp-concert-cfxfr)
 
@@ -902,6 +968,8 @@ Myung-Whun Chung, conductor
 Maxim Vengerov, violin  
 Tokyo Philharmonic Orchestra
 
+.fe-block-efef697ea0b5e75ad170 {mix-blend-mode: ; }
+
 [View Event →](/events/antwerp-concert)
 
 [](/events/recital-teramo-italy-3gd8c-w5szy)
@@ -928,6 +996,8 @@ Lawrence Foster, conductor
 Maxim Vengerov, violin  
 Monte-Carlo Philharmonic Orchestra
 
+.fe-block-5bc3c5d021f11344d898 {mix-blend-mode: ; }
+
 [View Event →](/events/recital-teramo-italy-3gd8c-w5szy)
 
 [](/events/recital-teramo-italy-3gd8c)
@@ -953,6 +1023,8 @@ Brahms Violin Sonata No. 3
 Performers  
 Maxim Vengerov, violin  
 Polina Osetinskaya, piano  
+
+.fe-block-25a84406b4160dff4628 {mix-blend-mode: ; }
 
 [View Event →](/events/recital-teramo-italy-3gd8c)
 
@@ -982,6 +1054,8 @@ Alibek Kabdurakhmanov, conductor
 Maxim Vengerov, violin  
 National Symphony Orchestra of Uzbekistan
 
+.fe-block-d2efb63675570953b77f {mix-blend-mode: ; }
+
 [View Event →](/events/tashkent-concert)
 
 [](/events/cyprus-concert)
@@ -1007,6 +1081,8 @@ Performers
 Marios Papadopoulos, conductor  
 Maxim Vengerov, violin  
 Oxford Philharmonic Orchestra
+
+.fe-block-03f9a084d172cadffed3 {mix-blend-mode: ; }
 
 [View Event →](/events/cyprus-concert)
 
@@ -1034,6 +1110,8 @@ Performers
 Kakhi Solomnishvili, conductor  
 Maxim Vengerov, violin  
 Slovenian Philharmonic Orchestra
+
+.fe-block-73ee3704ec4a78978bc8 {mix-blend-mode: ; }
 
 [View Event →](/events/fermo-recital-l7rhf-3f7c2-4fwz3)
 
@@ -1064,34 +1142,8 @@ Performers
 Maxim Vengerov, violin  
 Polina Osetinskaya, piano
 
+.fe-block-e8d00fe292cc6aff9a5b {mix-blend-mode: ; }
+
 [View Event →](/events/fermo-recital-l7rhf-3f7c2)
-
-[](/events/fermo-recital-l7rhf-wj828)
-
-Aug
-
-13
-
-[Copenhagen Summer Festival](/events/fermo-recital-l7rhf-wj828)
-===============================================================
-
-* Wednesday, August 13, 2025
-* 7:30 PM 9:30 PM
-* Kunsthal Charlottenborg [(map)](http://maps.google.com?q=2%20Nyhavn%20København,%201051%20Denmark)
-* [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&text=Copenhagen%20Summer%20Festival&dates=20250813T173000Z/20250813T193000Z&location=2%20Nyhavn%2C%20K%C3%B8benhavn%2C%201051%2C%20Denmark) [ICS](/events/fermo-recital-l7rhf-wj828?format=ical)
-
-Program
-
-Franck Violin Sonata  
-Tchaikovsky Souvenir d’un lieu cher  
-Ravel Tzigane
-
-  
-Performers
-
-Maxim Vengerov, violin  
-Polina Osetinskaya, piano
-
-[View Event →](/events/fermo-recital-l7rhf-wj828)
 
 [Source](https://www.maximvengerov.com/events)
