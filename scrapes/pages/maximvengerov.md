@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Mar 14
-  - heading "Recital Stockholm" [level=1]:
-    - link "Recital Stockholm":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Stockholm Konzerthaus
-      - link "(map)":
-        - /url: http://maps.google.com?q=8 Hötorget Stockholm, Stockholms län, 103 87 Sweden
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
-- article:
   - text: Apr 12
   - heading "Hamburg Concert" [level=1]:
     - link "Hamburg Concert":
@@ -191,6 +172,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
 - separator
+- article:
+  - text: Mar 14
+  - heading "Recital Stockholm" [level=1]:
+    - link "Recital Stockholm":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
+  - list:
+    - listitem:
+      - time: 3:00 PM
+      - text: –
+      - time: 5:00 PM
+    - listitem:
+      - text: Stockholm Konzerthaus
+      - link "(map)":
+        - /url: http://maps.google.com?q=8 Hötorget Stockholm, Stockholms län, 103 87 Sweden
+  - paragraph: Program
+  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
 - article:
   - text: Mar 12
   - heading "Recital Bari" [level=1]:
@@ -741,25 +741,5 @@
   - paragraph: Kakhi Solomnishvili, conductor Maxim Vengerov, violin Slovenian Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/fermo-recital-l7rhf-3f7c2-4fwz3
-- article:
-  - text: Sep 7
-  - heading "Trieste Recital" [level=1]:
-    - link "Trieste Recital":
-      - /url: /events/fermo-recital-l7rhf-3f7c2
-  - list:
-    - listitem:
-      - time: 8:30 PM
-      - text: –
-      - time: 10:30 PM
-    - listitem:
-      - text: Generali Convention Center
-      - link "(map)":
-        - /url: http://maps.google.com?q=24/2 Viale Miramare Trieste, Friuli-Venezia Giulia, 34135 Italy
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Shostakovich Violin Sonata Brahms Violin Sonata No. 3 Ravel Tzigane
-  - paragraph: Performers
-  - paragraph: Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/fermo-recital-l7rhf-3f7c2
 ---
 
