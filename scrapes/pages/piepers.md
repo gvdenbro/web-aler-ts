@@ -7,7 +7,7 @@ Activiteit
 [Missie: Donderberg](https://jnm.be/nl/activiteiten/missie-donderberg)
 ----------------------------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden,  Steunleden JNM Brussel
 
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
