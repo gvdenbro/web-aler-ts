@@ -128,6 +128,10 @@
       - time: 11:00 AM
       - text: –
       - time: 1:00 PM
+    - listitem:
+      - text: Teatro Secci
+      - link "(map)":
+        - /url: http://maps.google.com?q=Via Giandimartalo da Vitalone Terni, Umbria, 05100 Italy
   - paragraph: Program
   - paragraph: Masterclass with Maxim Vengerov
   - link "View Event →":
