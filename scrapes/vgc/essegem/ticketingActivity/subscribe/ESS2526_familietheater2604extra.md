@@ -14,7 +14,7 @@ Vanaf 12:30 tot 13:30
 Een danseres, geluidseffecten en textielcreaties. Meer heeft 'Babysses' niet nodig om een magische onderwaterwereld op te roepen. Kom, kom wat dichterbij. Voel je hoe alles tot leven komt, vibreert, ademt en fluctueert?  
 <br/>Duik mee en ontdek het mysterie van de afgrond. In deze interactieve dansvoorstelling komt het betoverende universum van de diepzee tot leven.  
 <br/>**Leuk voor families met kinderen vanaf 2,5 jaar**.  
-<br/>***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
+<br/>***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Prijslijst
 
@@ -28,10 +28,30 @@ Een danseres, geluidseffecten en textielcreaties. Meer heeft 'Babysses' niet nod
 
 #### Reservatie data
 
-1.  05/10/2019 13:00 tot 09/02/2020 10:00 (Iedereen)
+1.  20/03/2026 11:00 tot 26/04/2026 10:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail \* 
+
+Verifieer e-mail \* 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam \* 
+
+Familienaam \* 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater2604extra)
