@@ -1,12 +1,13 @@
 Upcoming opportunities
 ----------------------
 
+* **Auditors** (grade AD7) - 14 April
+
 In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published tentatively in **2026** (month and **date to be confirmed**):
 
 * **Secretaries** ([grade AST/SC](/en/eu-careers/staff-categories "EU staff categories"))
 * **IT experts 3 fields** (grade AD - IT Infrastructure, Project management, Clouds and networks)
 * **IT experts 3 fields** (grade AD - AI, Data science, Cybersecurity)
-* **Auditors** (grade AD)
 * **Lawyer-Linguists** for the European Court of Justice (grade AD)
 * **Assistants for Parliamentary body** (grade AST)
 * **Data management experts** (grade AST)
