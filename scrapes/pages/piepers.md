@@ -37,8 +37,8 @@ Activiteit
 
 12.04 - 12.04.2026
 
-[Pieper activiteit](https://jnm.be/nl/activiteiten/pieper-activiteit-1)
------------------------------------------------------------------------
+[Maak je eigen Zonnemagie Herbarium](https://jnm.be/nl/activiteiten/maak-je-eigen-zonnemagie-herbarium)
+-------------------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
@@ -48,8 +48,8 @@ Activiteit
 
 19.04 - 19.04.2026
 
-[Flexible activiteit](https://jnm.be/nl/activiteiten/flexible-activiteit)
--------------------------------------------------------------------------
+[De zoemende bijen flexi-activiteit](https://jnm.be/nl/activiteiten/de-zoemende-bijen-flexi-activiteit)
+-------------------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
 
