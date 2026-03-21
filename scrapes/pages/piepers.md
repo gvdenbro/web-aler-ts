@@ -64,6 +64,28 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden,  Ini's JNM Brussel
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+3.05 - 3.05.2026
+
+[Piep activiteit 03/05](https://jnm.be/nl/activiteiten/piep-activiteit-0305)
+----------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+17.05 - 17.05.2026
+
+[Flexi activiteit 17/05](https://jnm.be/nl/activiteiten/flexi-activiteit-1705)
+------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
+
 ![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
 
 Afdelingskamp
