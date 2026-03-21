@@ -1,25 +1,61 @@
-Upcoming opportunities
-----------------------
+---
+- title: epso
+- url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
+- heading "Upcoming opportunities" [level=2]
+- list:
+  - listitem:
+    - strong: Auditors
+    - text: (grade AD7) - 14 April
+- paragraph:
+  - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published tentatively in
+  - strong: "2026"
+  - text: (month and
+  - strong: date to be confirmed
+  - text: "):"
+- list:
+  - listitem:
+    - strong: Secretaries
+    - text: (
+    - link "grade AST/SC":
+      - /url: /en/eu-careers/staff-categories
+    - text: )
+  - listitem:
+    - strong: IT experts 3 fields
+    - text: (grade AD - IT Infrastructure, Project management, Clouds and networks)
+  - listitem:
+    - strong: IT experts 3 fields
+    - text: (grade AD - AI, Data science, Cybersecurity)
+  - listitem:
+    - strong: Lawyer-Linguists
+    - text: for the European Court of Justice (grade AD)
+  - listitem:
+    - strong: Assistants for Parliamentary body
+    - text: (grade AST)
+  - listitem:
+    - strong: Data management experts
+    - text: (grade AST)
+  - listitem:
+    - strong: Lawyers 3 fields
+    - text: (grade AD - Competition law, Financial and EMU law, Litigation law)
+  - listitem:
+    - strong: Lawyers 3 fields
+    - text: (grade AD - AI Law, Criminal Law, Energy Law)
+  - listitem:
+    - strong: Lawyer-Linguists
+    - text: for the European Parliament, the Council of the EU and the European Commission (grade AD)
+  - listitem:
+    - strong: International affairs specialists
+    - text: (grade AD)
+  - listitem:
+    - strong: Translators
+    - text: (grade AD)
+  - listitem:
+    - strong: ICT experts 3 fields
+    - text: (grade AST - IT Infrastructure, cloud and networks, Software development, User support)
+  - listitem:
+    - paragraph:
+      - strong: Nuclear inspectors
+      - text: (grade AST)
+    - paragraph
+---
 
-* **Auditors** (grade AD7) - 14 April
-
-In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published tentatively in **2026** (month and **date to be confirmed**):
-
-* **Secretaries** ([grade AST/SC](/en/eu-careers/staff-categories "EU staff categories"))
-* **IT experts 3 fields** (grade AD - IT Infrastructure, Project management, Clouds and networks)
-* **IT experts 3 fields** (grade AD - AI, Data science, Cybersecurity)
-* **Lawyer-Linguists** for the European Court of Justice (grade AD)
-* **Assistants for Parliamentary body** (grade AST)
-* **Data management experts** (grade AST)
-* **Lawyers 3 fields** (grade AD - Competition law, Financial and EMU law, Litigation law)
-* **Lawyers 3 fields** (grade AD - AI Law, Criminal Law, Energy Law)
-* **Lawyer-Linguists** for the European Parliament, the Council of the EU and the European Commission (grade AD)
-* **International affairs specialists** (grade AD)
-* **Translators** (grade AD)
-* **ICT experts 3 fields** (grade AST - IT Infrastructure, cloud and networks, Software development, User support)
-* **Nuclear inspectors** (grade AST)
-    
-    &nbsp;
-    
-
-[Source](https://eu-careers.europa.eu/en/upcoming-selection-procedures)
