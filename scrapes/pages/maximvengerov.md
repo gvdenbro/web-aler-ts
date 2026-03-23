@@ -2,6 +2,24 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Mar 22
+  - heading "London Concert" [level=1]:
+    - link "London Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-8ca8x
+  - list:
+    - listitem:
+      - time: 3:00 PM
+      - text: –
+      - time: 5:00 PM
+    - listitem:
+      - text: Royal Festive Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Belvedere Road London, England, SE1 8XX United Kingdom
+  - paragraph: Program Tchaikovsky Violin Concerto
+  - paragraph: Performers Mark Wigglesworth, conductor Maxim Vengerov, violin Philharmonia Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-8ca8x
+- article:
   - text: Apr 12
   - heading "Hamburg Concert" [level=1]:
     - link "Hamburg Concert":
@@ -176,24 +194,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
 - separator
-- article:
-  - text: Mar 22
-  - heading "London Concert" [level=1]:
-    - link "London Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-8ca8x
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Royal Festive Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=Belvedere Road London, England, SE1 8XX United Kingdom
-  - paragraph: Program Tchaikovsky Violin Concerto
-  - paragraph: Performers Mark Wigglesworth, conductor Maxim Vengerov, violin Philharmonia Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-8ca8x
 - article:
   - text: Mar 14
   - heading "Recital Stockholm" [level=1]:
@@ -743,5 +743,25 @@
   - paragraph: Performers Marios Papadopoulos, conductor Maxim Vengerov, violin Oxford Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/cyprus-concert
+- article:
+  - text: Sep 9
+  - heading "Lubljana Concert" [level=1]:
+    - link "Lubljana Concert":
+      - /url: /events/fermo-recital-l7rhf-3f7c2-4fwz3
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Gallus Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Prešernova cesta Ljubljana, Ljubljana, 1000 Slovenia
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers
+  - paragraph: Kakhi Solomnishvili, conductor Maxim Vengerov, violin Slovenian Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/fermo-recital-l7rhf-3f7c2-4fwz3
 ---
 

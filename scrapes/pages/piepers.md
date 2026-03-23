@@ -79,6 +79,17 @@ Activiteit
 
 Activiteit
 
+3.05 - 3.05.2026
+
+[Buiten theater voorstelling 'BOS' (met Bronks)](https://jnm.be/nl/activiteiten/buiten-theater-voorstelling-bos-met-bronks)
+---------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Piepers JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 17.05 - 17.05.2026
 
 [Flexi activiteit 17/05](https://jnm.be/nl/activiteiten/flexi-activiteit-1705)
