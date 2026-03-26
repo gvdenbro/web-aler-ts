@@ -94,6 +94,16 @@ Sold out Cancelled Postponed
 
 #### LIVE MAGAZINE
 
+[](/en/calendar/live-magazine-kids-2023)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3029449_rfabienne_antomarchi_3_1200x550px.jpg?h=e845b32d&itok=2p-ywn79)
+
+Sold out Cancelled Postponed
+
+30 Sept.'23
+
+#### Live Magazine for kids 2023
+
 [](/en/calendar/live-magazine-autumn-edition-25)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3543075_dsc04131_large.jpeg?h=7cbb28ba&itok=PG8mqt36)
@@ -104,16 +114,6 @@ Sold out Cancelled Postponed
 Nov.'25
 
 #### Live Magazine autumn edition '25
-
-[](/en/calendar/live-magazine-kids-2023)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3029449_rfabienne_antomarchi_3_1200x550px.jpg?h=e845b32d&itok=2p-ywn79)
-
-Sold out Cancelled Postponed
-
-30 Sept.'23
-
-#### Live Magazine for kids 2023
 
 [](/en/calendar/live-magazine-kids-2025)
 
