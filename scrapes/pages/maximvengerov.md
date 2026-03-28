@@ -157,6 +157,21 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
 - article:
+  - text: Jun 14
+  - heading "Fundraising Recital in Monaco" [level=1]:
+    - link "Fundraising Recital in Monaco":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47-sdbew
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+  - paragraph: Program
+  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47-sdbew
+- article:
   - text: Jun 25
   - heading "Beethoven Festival Teplice Czechoslovakia" [level=1]:
     - link "Beethoven Festival Teplice Czechoslovakia":
