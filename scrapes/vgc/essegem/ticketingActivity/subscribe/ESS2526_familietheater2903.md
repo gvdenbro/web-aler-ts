@@ -15,7 +15,7 @@ Tjok tjok tjok. Wie komt daar aangesjokt? Het is Solita! Met haar karretje en ha
 <br/>In 'Solita', een muzikale objecttheatervoorstelling zonder woorden, ontpopt zich een eigen kleine wereld vol circusspektakel en muziek. Maak kennis met een personage dat, in al haar gekke eenzaamheid, een lach en een traan ontlokt.  
 <br/>**Leuk voor families met kinderen vanaf 3 jaar**.  
 <br/>**VOLZET. Mail of bel ons voor een plaats op de wachtlijst.*  
-<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+<br/>**Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -31,8 +31,8 @@ Tjok tjok tjok. Wie komt daar aangesjokt? Het is Solita! Met haar karretje en ha
 
 1.  09/07/2025 09:00 tot 29/03/2026 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater2903)
