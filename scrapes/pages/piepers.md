@@ -1,14 +1,3 @@
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
-29.03 - 29.03.2026
-
-[PADDOCALYPS -- De Brusselse natuur nam over ...](https://jnm.be/nl/activiteiten/paddocalyps-de-brusselse-natuur-nam-over)
---------------------------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Pini's,  Ini's,  Gewone leden JNM Zuidwest-Brabant
-
 ![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
 
 Weekendje
