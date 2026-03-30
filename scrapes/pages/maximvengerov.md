@@ -172,6 +172,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47-sdbew
 - article:
+  - text: Jun 20
+  - heading "Martha Argerich Festival Hamburg" [level=1]:
+    - link "Martha Argerich Festival Hamburg":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
+  - list:
+    - listitem:
+      - time: 6:30 PM
+      - text: –
+      - time: 8:30 PM
+    - listitem:
+      - text: Laeiszhalle Hamburg
+      - link "(map)":
+        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
+  - paragraph: Program
+  - paragraph: Beethoven Violin Sonatas No. 1 & 2
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
+- article:
   - text: Jun 25
   - heading "Beethoven Festival Teplice Czechoslovakia" [level=1]:
     - link "Beethoven Festival Teplice Czechoslovakia":
