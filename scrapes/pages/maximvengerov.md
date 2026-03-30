@@ -158,8 +158,8 @@
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
 - article:
   - text: Jun 14
-  - heading "Fundraising Recital in Monaco" [level=1]:
-    - link "Fundraising Recital in Monaco":
+  - heading "Fundraising Recital Monaco" [level=1]:
+    - link "Fundraising Recital Monaco":
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47-sdbew
   - list:
     - listitem:
