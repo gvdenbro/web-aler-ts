@@ -11,6 +11,8 @@ De inschrijvingen zijn nog niet begonnen.
 Massembre  
 Massembre 84, 5543 Hastière
 
+**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
+
 Volle dag
 
 ESS2526_ZomerweekIII_Kazou
