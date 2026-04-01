@@ -68,6 +68,17 @@ Activiteit
 
 Activiteit
 
+8.05 - 9.05.2026
+
+[100 JAAR ATTENBOROUGH](https://jnm.be/nl/activiteiten/100-jaar-attenborough)
+-----------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden,  Steunleden JNM Zuidwest-Brabant
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 17.05 - 17.05.2026
 
 [Flexi activiteit 17/05](https://jnm.be/nl/activiteiten/flexi-activiteit-1705)
