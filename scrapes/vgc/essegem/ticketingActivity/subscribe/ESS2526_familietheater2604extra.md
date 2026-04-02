@@ -14,7 +14,11 @@ Vanaf 12:30 tot 13:30
 Een danseres, geluidseffecten en textielcreaties. Meer heeft 'Babysses' niet nodig om een magische onderwaterwereld op te roepen. Kom, kom wat dichterbij. Voel je hoe alles tot leven komt, vibreert, ademt en fluctueert?  
 <br/>Duik mee en ontdek het mysterie van de afgrond. In deze interactieve dansvoorstelling komt het betoverende universum van de diepzee tot leven.  
 <br/>**Leuk voor families met kinderen vanaf 2,5 jaar**.  
-<br/>***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+*  
+Online verkoop stopt één uur voor aanvang van de voorstelling.  
+Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+*  
+***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Prijslijst
 
