@@ -133,7 +133,7 @@
       - link "(map)":
         - /url: http://maps.google.com?q=628 Cerrito Buenos Aires, Cdad. Autónoma de Buenos Aires, C1010 Argentina
   - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
+  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47
@@ -152,7 +152,7 @@
       - link "(map)":
         - /url: http://maps.google.com?q=7th Avenue New York, NY, 10019 United States
   - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
+  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
