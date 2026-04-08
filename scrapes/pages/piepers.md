@@ -81,8 +81,8 @@ Afdelingskamp
 
 4.07 - 11.07.2026
 
-[Kamp 2026 Piepers](https://jnm.be/nl/activiteiten/kamp-2026-piepers)
----------------------------------------------------------------------
+[De coalitie van Catan - PIEPERS](https://jnm.be/nl/activiteiten/de-coalitie-van-catan-piepers)
+-----------------------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
