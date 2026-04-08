@@ -97,4 +97,15 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Nationaal
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+30.04.2030 - 30.04.2040
+
+[project bermuda(Test niet echt!!!!)](https://jnm.be/nl/activiteiten/project-bermudatest-niet-echt)
+---------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/globe.svg) Buitenlandse activiteit![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Gewone leden,  Steunleden,  Piepers JNM Leievallei, JNM Nationaal
+
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
