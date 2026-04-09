@@ -2,6 +2,8 @@
 - title: epso
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=2]
+- article:
+  - img "2026 planning"
 - list:
   - listitem:
     - strong: Auditors
