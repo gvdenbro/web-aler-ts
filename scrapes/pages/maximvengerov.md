@@ -270,6 +270,25 @@
   - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb
+- article:
+  - text: Jul 24
+  - heading "Recital Pietrasanta" [level=1]:
+    - link "Recital Pietrasanta":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
+  - list:
+    - listitem:
+      - time: 9:15 PM
+      - text: –
+      - time: 11:15 PM
+    - listitem:
+      - text: Pietrasanta
+      - link "(map)":
+        - /url: http://maps.google.com?q=Via Sant' Agostino Pietrasanta, Toscana, 55045 Italy
+  - paragraph: Program
+  - paragraph: Beethoven Violin Sonatas No. 2, 3, 4 & 6
+  - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo , piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
 - separator
 - article:
   - text: Mar 22
