@@ -2,6 +2,50 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Apr 12
+  - heading "Hamburg Concert" [level=1]:
+    - link "Hamburg Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
+  - list:
+    - listitem:
+      - time: 11:00 AM
+      - text: –
+      - time: 1:00 PM
+    - listitem:
+      - text: Laeiszhalle
+      - link "(map)":
+        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
+  - paragraph: Program
+  - paragraph:
+    - text: Glinka
+    - strong
+    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
+  - paragraph: Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Hamburg Symphony
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
+- article:
+  - text: Apr 14
+  - heading "Potsdam Concert" [level=1]:
+    - link "Potsdam Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Nikolaisaal Potsdam
+      - link "(map)":
+        - /url: http://maps.google.com?q=10-11 Wilhelm-Staab-Straße Potsdam, BB, 14467 Germany
+  - paragraph: Program
+  - paragraph:
+    - text: Glinka
+    - strong
+    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
+  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
+- article:
   - text: Apr 15
   - heading "Berlin Concert" [level=1]:
     - link "Berlin Concert":
@@ -246,50 +290,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
 - separator
-- article:
-  - text: Apr 14
-  - heading "Potsdam Concert" [level=1]:
-    - link "Potsdam Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Nikolaisaal Potsdam
-      - link "(map)":
-        - /url: http://maps.google.com?q=10-11 Wilhelm-Staab-Straße Potsdam, BB, 14467 Germany
-  - paragraph: Program
-  - paragraph:
-    - text: Glinka
-    - strong
-    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
-  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
-- article:
-  - text: Apr 12
-  - heading "Hamburg Concert" [level=1]:
-    - link "Hamburg Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 1:00 PM
-    - listitem:
-      - text: Laeiszhalle
-      - link "(map)":
-        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
-  - paragraph: Program
-  - paragraph:
-    - text: Glinka
-    - strong
-    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
-  - paragraph: Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Hamburg Symphony
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
 - article:
   - text: Mar 22
   - heading "London Concert" [level=1]:
@@ -818,5 +818,44 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/recital-teramo-italy-3gd8c
+- article:
+  - text: Oct 2
+  - heading "Tashkent Concert" [level=1]:
+    - link "Tashkent Concert":
+      - /url: /events/tashkent-concert
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Turkistan Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=2 Navoiy shoh ko'chasi Тоshkent, Toshkent, 100000 Uzbekistan
+  - paragraph: Program
+  - paragraph: Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
+  - paragraph: Performers
+  - paragraph: Alibek Kabdurakhmanov, conductor Maxim Vengerov, violin National Symphony Orchestra of Uzbekistan
+  - link "View Event →":
+    - /url: /events/tashkent-concert
+- article:
+  - text: Sep 27
+  - heading "Cyprus Concert" [level=1]:
+    - link "Cyprus Concert":
+      - /url: /events/cyprus-concert
+  - list:
+    - listitem:
+      - time: 8:30 PM
+      - text: –
+      - time: 10:30 PM
+    - listitem:
+      - text: Strovolos Municipal Theatre
+      - link "(map)":
+        - /url: http://maps.google.com?q=Strovolos Municipal Theatre Strovolos, Lefkosia, 2042 Cyprus
+  - paragraph: Program
+  - paragraph: Tchaikovsky Violin Concerto
+  - paragraph: Performers Marios Papadopoulos, conductor Maxim Vengerov, violin Oxford Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/cyprus-concert
 ---
 
