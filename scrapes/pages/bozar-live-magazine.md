@@ -35,6 +35,19 @@ Sold out Cancelled Postponed
 
 ##### Online event
 
+[](/en/calendar/live-magazine-0)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2440573_photo_1.jpg?h=7b81ddb8&itok=GxUG3A8b)
+
+Sold out Cancelled Postponed
+
+8 Dec.'20  
+\- 20:30
+
+#### Live Magazine
+
+##### Autumn Edition - free online event
+
 [](/en/calendar/live-magazine-kids-0)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2628374_photo_1.jpg?h=804eb763&itok=K2VzUR_B)
@@ -69,19 +82,6 @@ Sold out Cancelled Postponed
 June'24
 
 #### Live Magazine summer edition '24
-
-[](/en/calendar/live-magazine-0)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/2440573_photo_1.jpg?h=7b81ddb8&itok=GxUG3A8b)
-
-Sold out Cancelled Postponed
-
-8 Dec.'20  
-\- 20:30
-
-#### Live Magazine
-
-##### Autumn Edition - free online event
 
 [](/en/calendar/live-magazine-7)
 
