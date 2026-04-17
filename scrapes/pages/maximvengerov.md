@@ -2,6 +2,24 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Apr 15
+  - heading "Berlin Concert" [level=1]:
+    - link "Berlin Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Berlin Philharmonie
+      - link "(map)":
+        - /url: http://maps.google.com?q=1 Herbert-von-Karajan-Straße Berlin, BE, 10785 Germany
+  - paragraph: Program Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Beethoven Symphony No. 7
+  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
+- article:
   - text: Apr 26
   - heading "Prague Concert" [level=1]:
     - link "Prague Concert":
@@ -228,24 +246,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
 - separator
-- article:
-  - text: Apr 15
-  - heading "Berlin Concert" [level=1]:
-    - link "Berlin Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Berlin Philharmonie
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Herbert-von-Karajan-Straße Berlin, BE, 10785 Germany
-  - paragraph: Program Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Beethoven Symphony No. 7
-  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
 - article:
   - text: Apr 14
   - heading "Potsdam Concert" [level=1]:
@@ -803,5 +803,20 @@
   - paragraph: Performers Lawrence Foster, conductor Maxim Vengerov, violin Monte-Carlo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/recital-teramo-italy-3gd8c-w5szy
+- article:
+  - text: Oct 18
+  - heading "BEMUS Festival Belgrade" [level=1]:
+    - link "BEMUS Festival Belgrade":
+      - /url: /events/recital-teramo-italy-3gd8c
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+  - paragraph: Program
+  - paragraph: Shostakovich Violin Sonata Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/recital-teramo-italy-3gd8c
 ---
 
