@@ -13,10 +13,10 @@ Activiteit
 
 Activiteit
 
-26.04 - 26.04.2026
+25.04 - 25.04.2026
 
-[1000 soortenweekend](https://jnm.be/nl/activiteiten/1000-soortenweekend-4)
----------------------------------------------------------------------------
+[1000 soortendag](https://jnm.be/nl/activiteiten/1000-soortendag-18)
+--------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden,  Ini's JNM Brussel
 
