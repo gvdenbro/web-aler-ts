@@ -2,17 +2,6 @@
 
 Activiteit
 
-19.04 - 19.04.2026
-
-[De zoemende bijen flexi-activiteit](https://jnm.be/nl/activiteiten/de-zoemende-bijen-flexi-activiteit)
--------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 25.04 - 25.04.2026
 
 [1000 soortendag](https://jnm.be/nl/activiteiten/1000-soortendag-18)
