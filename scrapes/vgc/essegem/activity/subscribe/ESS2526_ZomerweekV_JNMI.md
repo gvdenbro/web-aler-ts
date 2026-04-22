@@ -7,8 +7,6 @@
 Koning Boudewijnpark, 1ste fase  
 Jules Lorgesquare 10, 1090 Jette
 
-**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
-
 Volle dag
 
 ESS2526_ZomerweekV_JNMI
