@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/69a7fad69f0ca_Sportweek.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 22/04/2026 09:00 tot 26/06/2026 09:00 (Iedereen)
-
 2017 - 2019
 
 Sint-Pieterscollege basischool  

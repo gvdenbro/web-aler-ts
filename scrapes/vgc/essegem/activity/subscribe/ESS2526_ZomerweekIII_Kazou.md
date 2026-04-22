@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/67c87049073b7_BXLAdventure.png)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 22/04/2026 09:00 tot 29/06/2026 09:00 (Iedereen)
-
 2014 - 2019
 
 Massembre  

@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/67c6ed64c008e_Foto_JNM.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 22/04/2026 09:00 tot 14/08/2026 09:00 (Iedereen)
-
 01/09/2015 - 31/08/2019
 
 Koning Boudewijnpark, 1ste fase  
