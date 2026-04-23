@@ -243,9 +243,28 @@
         - /url: http://maps.google.com?q=1 Strandgade København, 1401 Denmark
   - paragraph: Program
   - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
-  - paragraph: Performers Maxim Vengerov, violin Pauline Vengerova, cello Elisabeth Vengerova, piano
+  - paragraph: Performers Maxim Vengerov, violin
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
+- article:
+  - text: Aug 4
+  - heading "Spetses Greece Concert" [level=1]:
+    - link "Spetses Greece Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
+  - list:
+    - listitem:
+      - time: 9:00 PM
+      - text: –
+      - time: 11:00 PM
+    - listitem:
+      - text: Open theater of the Anargyrios and Korgialenios School of Spetses
+      - link "(map)":
+        - /url: http://maps.google.com?q= Ligoneri, 180 50 Greece
+  - paragraph: Program
+  - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
+  - paragraph: Performers Maxim Vengerov, violin
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - separator
 - article:
   - text: Apr 15
