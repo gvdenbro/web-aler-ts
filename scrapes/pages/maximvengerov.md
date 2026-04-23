@@ -227,6 +227,25 @@
   - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo , piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
+- article:
+  - text: Aug 2
+  - heading "Copenhagen Summer Festival" [level=1]:
+    - link "Copenhagen Summer Festival":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
+  - list:
+    - listitem:
+      - time: 4:30 PM
+      - text: –
+      - time: 6:30 PM
+    - listitem:
+      - text: Christians Church
+      - link "(map)":
+        - /url: http://maps.google.com?q=1 Strandgade København, 1401 Denmark
+  - paragraph: Program
+  - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
+  - paragraph: Performers Maxim Vengerov, violin Pauline Vengerova, cello Elisabeth Vengerova, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
 - separator
 - article:
   - text: Apr 15
