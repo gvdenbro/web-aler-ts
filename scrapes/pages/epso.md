@@ -2,8 +2,6 @@
 - title: epso
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=2]
-- article:
-  - img "2026 planning"
 - list:
   - listitem:
     - strong: 6 May - IT experts 4 fields
@@ -22,8 +20,8 @@
       - /url: /en/eu-careers/staff-categories
     - text: )
   - listitem:
-    - strong: IT experts 3 fields
-    - text: (grade AD - AI, Cybersecurity)
+    - strong: IT experts 2 fields
+    - text: (grade AD8 - AI, Cybersecurity)
   - listitem:
     - strong: Lawyer-Linguists
     - text: for the European Court of Justice (grade AD)
