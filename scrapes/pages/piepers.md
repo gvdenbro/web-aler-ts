@@ -15,6 +15,8 @@ Activiteit
 
 3.05 - 3.05.2026
 
+Volzet
+
 [Buiten theater voorstelling 'BOS' (met Bronks)](https://jnm.be/nl/activiteiten/buiten-theater-voorstelling-bos-met-bronks)
 ---------------------------------------------------------------------------------------------------------------------------
 
