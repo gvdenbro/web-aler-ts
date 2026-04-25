@@ -2,17 +2,6 @@
 
 Activiteit
 
-25.04 - 25.04.2026
-
-[1000 soortendag](https://jnm.be/nl/activiteiten/1000-soortendag-18)
---------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Gewone leden,  Ini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 3.05 - 3.05.2026
 
 [Piep activiteit 03/05 GEANNULEERD](https://jnm.be/nl/activiteiten/piep-activiteit-0305-geannuleerd)
