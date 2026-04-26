@@ -18,7 +18,7 @@ Een danseres, geluidseffecten en textielcreaties. Meer heeft 'Babysses' niet nod
 Online verkoop stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
 *  
-***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -34,8 +34,8 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 1.  20/03/2026 11:00 tot 26/04/2026 10:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2526_familietheater2604extra)
