@@ -18,10 +18,7 @@
 - list:
   - listitem:
     - strong: Secretaries
-    - text: (
-    - link "grade AST/SC":
-      - /url: /en/eu-careers/staff-categories
-    - text: )
+    - text: (grade AST/SC)
   - listitem:
     - strong: Lawyer-Linguists
     - text: for the European Court of Justice (grade AD)
