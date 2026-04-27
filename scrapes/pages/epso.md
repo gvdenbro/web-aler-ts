@@ -6,6 +6,9 @@
   - listitem:
     - strong: 6 May - IT experts 4 fields
     - text: (grade AD7 – ICT infrastructure, ICT project management, Clouds and networks, Data science)
+  - listitem:
+    - strong: September - IT experts 2 fields
+    - text: (grade AD8 - AI, Cybersecurity)
 - paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published tentatively in
   - strong: "2026"
@@ -19,9 +22,6 @@
     - link "grade AST/SC":
       - /url: /en/eu-careers/staff-categories
     - text: )
-  - listitem:
-    - strong: IT experts 2 fields
-    - text: (grade AD8 - AI, Cybersecurity)
   - listitem:
     - strong: Lawyer-Linguists
     - text: for the European Court of Justice (grade AD)

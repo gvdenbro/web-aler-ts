@@ -2,24 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Apr 26
-  - heading "Prague Concert" [level=1]:
-    - link "Prague Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Smetana Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=1090 Náměstí Republiky Praha 1, Hlavní město Praha, 110 00 Czechia
-  - paragraph: Program
-  - paragraph: Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Prague Philharmonia
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
-- article:
   - text: May 14
   - heading "Recital Teramo" [level=1]:
     - link "Recital Teramo":
@@ -266,6 +248,24 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - separator
+- article:
+  - text: Apr 26
+  - heading "Prague Concert" [level=1]:
+    - link "Prague Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Smetana Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=1090 Náměstí Republiky Praha 1, Hlavní město Praha, 110 00 Czechia
+  - paragraph: Program
+  - paragraph: Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Prague Philharmonia
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
 - article:
   - text: Apr 15
   - heading "Berlin Concert" [level=1]:
@@ -822,24 +822,5 @@
   - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/antwerp-concert
-- article:
-  - text: Oct 19
-  - heading "Monaco Concert" [level=1]:
-    - link "Monaco Concert":
-      - /url: /events/recital-teramo-italy-3gd8c-w5szy
-  - list:
-    - listitem:
-      - time: 6:00 PM
-      - text: –
-      - time: 8:00 PM
-    - listitem:
-      - text: Grimaldi Forum, Monaco
-      - link "(map)":
-        - /url: http://maps.google.com?q=10 Avenue Princesse Grâce Monaco, 98000 Monaco
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers Lawrence Foster, conductor Maxim Vengerov, violin Monte-Carlo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/recital-teramo-italy-3gd8c-w5szy
 ---
 
