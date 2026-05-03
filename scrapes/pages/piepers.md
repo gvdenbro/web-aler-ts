@@ -4,17 +4,6 @@ Activiteit
 
 3.05 - 3.05.2026
 
-[Piep activiteit 03/05 GEANNULEERD](https://jnm.be/nl/activiteiten/piep-activiteit-0305-geannuleerd)
-----------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
-3.05 - 3.05.2026
-
 Volzet
 
 [Buiten theater voorstelling 'BOS' (met Bronks)](https://jnm.be/nl/activiteiten/buiten-theater-voorstelling-bos-met-bronks)
