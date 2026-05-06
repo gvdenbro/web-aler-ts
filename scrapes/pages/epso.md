@@ -4,9 +4,6 @@
 - heading "Upcoming opportunities" [level=2]
 - list:
   - listitem:
-    - strong: 6 May - IT experts 4 fields
-    - text: (grade AD7 – ICT infrastructure, ICT project management, Clouds and networks, Data science)
-  - listitem:
     - strong: September - IT experts 2 fields
     - text: (grade AD8 - AI, Cybersecurity)
 - paragraph:
