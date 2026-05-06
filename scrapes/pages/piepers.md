@@ -4,8 +4,8 @@ Activiteit
 
 17.05 - 17.05.2026
 
-[Flexi activiteit 17/05](https://jnm.be/nl/activiteiten/flexi-activiteit-1705)
-------------------------------------------------------------------------------
+[Natuurknustels](https://jnm.be/nl/activiteiten/natuurknustels)
+---------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
 
