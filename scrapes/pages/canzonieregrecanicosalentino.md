@@ -1,6 +1,43 @@
 TOUR
 ====
 
+**2026**
+========
+
+25/01 Milano, IT  
+26/01 Lubiana, SI  
+14/02 Putignano (Ba), IT  
+11/04 Paris, FR  
+13/04 Pagani (Sa), IT  
+26/04 Roma, IT  
+03/05 Ravenna, IT  
+14/05 Castellaneta Marina (Ta), IT – private event  
+16/05 Teatro Apollo – Lecce, IT – il mito  
+20/05 Seattle, WA  
+21/05 Stanford, CA  
+29/05 San Vito dei Normanni (Br), IT  
+02/06 Algiers, DZ  
+11/06 Milano, IT – w Inude  
+03/07 Pisa, IT + inude  
+05/07 Locorotondo (Br), IT  
+09/07 Vieste (Fg), IT  
+10/07 Busso (Cb), IT  
+17/07 Merine (Le), IT  
+22/07 Trentinara (Sa), IT  
+24/07 Collepasso (Le), IT  
+26/07 Pulsano (Ta), IT – il mito  
+08/08 Bagnolo del Salento (Le), IT  
+09/08 Vignacastrisi (Le), IT  
+12/08 Urbisaglia (Mc), IT  
+13/08 Depressa (Le), IT – il mito  
+14/08 Ostuni (Br), IT  
+15/08 Ogliastro Cilento (Sa), IT  
+29/08 Paupisi (Bn), IT  
+01/09 Campi (Le), IT – il mito  
+12/09 Riccia (Cb), IT  
+10/10 Philarmoniker – Berlin, DE  
+12/12 Lisbon, PT
+
 **2025**
 ========
 
