@@ -2,43 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: May 14
-  - heading "Recital Teramo" [level=1]:
-    - link "Recital Teramo":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
-  - list:
-    - listitem:
-      - time: 8:30 PM
-      - text: –
-      - time: 10:30 PM
-    - listitem:
-      - text: Aula Magna University of Teramo
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Via Renato Balzarini Teramo, Abruzzo, 64100 Italy
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata Shostakovich-Dreznin From Jewish Folk Poetry, suite op. 79
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
-- article:
-  - text: May 15
-  - heading "Masterclass Terni" [level=1]:
-    - link "Masterclass Terni":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 1:00 PM
-    - listitem:
-      - text: Teatro Secci
-      - link "(map)":
-        - /url: http://maps.google.com?q=Via Giandimartalo da Vitalone Terni, Umbria, 05100 Italy
-  - paragraph: Program
-  - paragraph: Masterclass with Maxim Vengerov
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d
-- article:
   - text: May 18
   - heading "Recital Teatro Colon" [level=1]:
     - link "Recital Teatro Colon":
@@ -248,6 +211,43 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - separator
+- article:
+  - text: May 15
+  - heading "Masterclass Terni" [level=1]:
+    - link "Masterclass Terni":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d
+  - list:
+    - listitem:
+      - time: 11:00 AM
+      - text: –
+      - time: 1:00 PM
+    - listitem:
+      - text: Teatro Secci
+      - link "(map)":
+        - /url: http://maps.google.com?q=Via Giandimartalo da Vitalone Terni, Umbria, 05100 Italy
+  - paragraph: Program
+  - paragraph: Masterclass with Maxim Vengerov
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d
+- article:
+  - text: May 14
+  - heading "Recital Teramo" [level=1]:
+    - link "Recital Teramo":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
+  - list:
+    - listitem:
+      - time: 8:30 PM
+      - text: –
+      - time: 10:30 PM
+    - listitem:
+      - text: Aula Magna University of Teramo
+      - link "(map)":
+        - /url: http://maps.google.com?q=1 Via Renato Balzarini Teramo, Abruzzo, 64100 Italy
+  - paragraph: Program
+  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata Shostakovich-Dreznin From Jewish Folk Poetry, suite op. 79
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
 - article:
   - text: Apr 26
   - heading "Prague Concert" [level=1]:
@@ -782,45 +782,5 @@
   - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/antwerp-concert-cfxfr-9s43f
-- article:
-  - text: Nov 3
-  - heading "Toulouse Concert" [level=1]:
-    - link "Toulouse Concert":
-      - /url: /events/antwerp-concert-cfxfr
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: La Halle aux Grains
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Place Dupuy Toulouse, Occitanie, 31000 France
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers
-  - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/antwerp-concert-cfxfr
-- article:
-  - text: Nov 1
-  - heading "Antwerp Concert" [level=1]:
-    - link "Antwerp Concert":
-      - /url: /events/antwerp-concert
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: De Singel
-      - link "(map)":
-        - /url: http://maps.google.com?q=25 Desguinlei Antwerpen, Vlaanderen, 2018 Belgium
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers
-  - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/antwerp-concert
 ---
 
