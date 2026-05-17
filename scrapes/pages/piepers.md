@@ -1,14 +1,3 @@
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
-17.05 - 17.05.2026
-
-[Natuurknustels](https://jnm.be/nl/activiteiten/natuurknustels)
----------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
 ![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
 
 Afdelingskamp
