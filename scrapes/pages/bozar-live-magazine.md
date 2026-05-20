@@ -126,17 +126,4 @@ Sold out Cancelled Postponed
 
 #### Live Magazine for kids 2025
 
-[](/en/calendar/live-magazine-6)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1765753_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=G7KrA6Fw)
-
-Sold out Cancelled Postponed
-
-3 May'17  
-\- 17:00
-
-#### Live Magazine
-
-##### THE “LIVING MAGAZINE” WITHOUT PAPER OR SCREEN
-
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
