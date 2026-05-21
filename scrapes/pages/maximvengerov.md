@@ -2,6 +2,25 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: May 18
+  - heading "Recital Teatro Colon" [level=1]:
+    - link "Recital Teatro Colon":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Teatro Colon
+      - link "(map)":
+        - /url: http://maps.google.com?q=628 Cerrito Buenos Aires, Cdad. Autónoma de Buenos Aires, C1010 Argentina
+  - paragraph: Program
+  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47
+- article:
   - text: May 27
   - heading "Recital Carnegie Hall" [level=1]:
     - link "Recital Carnegie Hall":
@@ -192,25 +211,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - separator
-- article:
-  - text: May 18
-  - heading "Recital Teatro Colon" [level=1]:
-    - link "Recital Teatro Colon":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Teatro Colon
-      - link "(map)":
-        - /url: http://maps.google.com?q=628 Cerrito Buenos Aires, Cdad. Autónoma de Buenos Aires, C1010 Argentina
-  - paragraph: Program
-  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-mza47
 - article:
   - text: May 15
   - heading "Masterclass Terni" [level=1]:
@@ -762,5 +762,25 @@
   - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7
+- article:
+  - text: Nov 6
+  - heading "Barcelona Concert" [level=1]:
+    - link "Barcelona Concert":
+      - /url: /events/antwerp-concert-cfxfr-9s43f
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Palau de la Música Catalana
+      - link "(map)":
+        - /url: http://maps.google.com?q=4-6 Carrer del Palau de la Música Barcelona, CT, 08003 Spain
+  - paragraph: Program
+  - paragraph: Tchaikovsky Violin Concerto
+  - paragraph: Performers
+  - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/antwerp-concert-cfxfr-9s43f
 ---
 
