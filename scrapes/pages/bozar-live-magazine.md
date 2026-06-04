@@ -1,3 +1,16 @@
+[](/en/calendar/live-magazine-anthology)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3638987_dsc04131_large.jpeg?h=bf5d81ba&itok=8vLz0ZI3)
+
+Sold out Cancelled Postponed
+
+2 + 3  
+June'26
+
+#### Live Magazine : Anthology
+
+##### 10 years of Live Magazine at Bozar
+
 [](/en/calendar/live-magazine-autumn-edition-23)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3016797_quentin_bruno-7845.jpeg?h=1c9b88c9&itok=fNRX7cDe)
@@ -112,18 +125,5 @@ Sold out Cancelled Postponed
 \- 16:30
 
 #### Live Magazine for kids 2025
-
-[](/en/calendar/live-magazine-6)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1765753_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=G7KrA6Fw)
-
-Sold out Cancelled Postponed
-
-3 May'17  
-\- 17:00
-
-#### Live Magazine
-
-##### THE “LIVING MAGAZINE” WITHOUT PAPER OR SCREEN
 
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
