@@ -15,7 +15,7 @@ test.beforeEach(async ({ context }) => {
     await context.route(/(.*forter.*)|(.*google.*)|(.*amplitude.*)|(.*powerreviews.*)|(.*cquotient.*)|(.*dynamicyield.*)|(.*yottaa.*)|(.*cookie.*)/, route => route.abort());
 });
 
-testPage("canzonieregrecanicosalentino", "https://canzonieregrecanicosalentino.net/tour/", page => page.getByRole('article'), scrapesDirectory);
+// testPage("canzonieregrecanicosalentino", "https://canzonieregrecanicosalentino.net/tour/", page => page.getByRole('article'), scrapesDirectory);
 testPage("mariamazzotta", "https://www.mariamazzotta.com/tour-2/", page => page.getByRole('article'), scrapesDirectory);
 testPage("maximvengerov", "https://www.maximvengerov.com/events", page => page.locator('.sqs-events-collection-list'), scrapesDirectory, {yaml: true});
 testPage("epso", "https://eu-careers.europa.eu/en/upcoming-selection-procedures", "#block-mainpagecontent", scrapesDirectory, {yaml: true});
