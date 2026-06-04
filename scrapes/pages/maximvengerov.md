@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: May 27
-  - heading "Recital Carnegie Hall" [level=1]:
-    - link "Recital Carnegie Hall":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Carnegie Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=7th Avenue New York, NY, 10019 United States
-  - paragraph: Program
-  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
-- article:
   - text: Jun 20
   - heading "Martha Argerich Festival Hamburg" [level=1]:
     - link "Martha Argerich Festival Hamburg":
@@ -192,6 +173,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - separator
+- article:
+  - text: May 27
+  - heading "Recital Carnegie Hall" [level=1]:
+    - link "Recital Carnegie Hall":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Carnegie Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=7th Avenue New York, NY, 10019 United States
+  - paragraph: Program
+  - paragraph: "Franz Schubert : Violin Sonata in G Minor, D. 408 Dmitri Shostakovich : Violin Sonata, Op. 134 Johannes Brahms : Violin Sonata No. 3 in D Minor, Op. 108"
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4
 - article:
   - text: May 18
   - heading "Recital Teatro Colon" [level=1]:
@@ -742,25 +742,5 @@
   - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll
-- article:
-  - text: Nov 8
-  - heading "Vienna Concert" [level=1]:
-    - link "Vienna Concert":
-      - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Wiener Konzerthaus
-      - link "(map)":
-        - /url: http://maps.google.com?q=20 Lothringerstraße Wien, Wien, 1030 Austria
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers
-  - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7
 ---
 
