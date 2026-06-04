@@ -19,7 +19,8 @@
 - paragraph:
   - strong: Entrée gratuite.
 - paragraph
-- paragraph: Programme TBA
+- heading "Programme" [level=2]
+- paragraph
 - paragraph
 - heading "Profitez de nombreux avantages et réductions" [level=4]
 - img

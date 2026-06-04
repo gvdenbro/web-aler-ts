@@ -13,10 +13,7 @@
   - article:
     - heading "Planning groepen 2025-2026" [level=3]
   - heading "Atelier in de pianofabriek" [level=2]
-  - paragraph:
-    - text: BRONKS trekt er ook graag op uit. Samen met Pianofabriek en Brede School Sint-Gillis organiseren we al enkele jaren theaterateliers voor kinderen vanaf het 2de leerjaar. Deze ateliers vinden plaats in de Pianofabriek en worden begeleid door Pascal Buyse.
-    - link "Schrijf je in via de Pianofabriek.":
-      - /url: https://www.pianofabriek.be/activiteiten/allemaal-acteur-8-11-jaar
+  - paragraph: BRONKS trekt er ook graag op uit. Samen met Pianofabriek en Brede School Sint-Gillis organiseren we al enkele jaren theaterateliers voor kinderen vanaf het 2de leerjaar. Deze ateliers vinden plaats in de Pianofabriek en worden begeleid door Pascal Buyse. Schrijf je binnenkort in via de Pianofabriek.
   - link "bekijk de planning":
     - /url: https://www.bronks.be/nl/ateliers/jaarwerking/atelier-in-de-pianofabriek
   - heading "praktische info" [level=2]
