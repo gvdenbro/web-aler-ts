@@ -4,7 +4,7 @@
 
 De inschrijvingen zijn nog niet begonnen.
 
-* 08/06/2026 09:00 tot 30/09/2026 14:00 (Iedereen)
+* 15/06/2026 09:00 tot 30/09/2026 14:00 (Iedereen)
 
 2015 - 2020
 
@@ -34,7 +34,7 @@ Buiten spelen, knutselen, op uitstap gaan, gezelschapsspelletjes spelen ... In h
 
 ###### Inschrijvingsdata
 
-1.  08/06/2026 09:00 tot 30/09/2026 14:00 (Iedereen)
+1.  15/06/2026 09:00 tot 30/09/2026 14:00 (Iedereen)
 
 Gelieve uw login gegevens in te vullen:
 
