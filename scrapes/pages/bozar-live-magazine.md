@@ -126,4 +126,17 @@ Sold out Cancelled Postponed
 
 ##### THE “LIVING MAGAZINE” WITHOUT PAPER OR SCREEN
 
+[](/en/calendar/live-magazine-5)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1755908_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=8lN43n8J)
+
+Sold out Cancelled Postponed
+
+25 Apr.'17  
+\- 20:00
+
+#### Live Magazine
+
+##### The “living magazine” without paper or screen
+
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
