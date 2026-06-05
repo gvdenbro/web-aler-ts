@@ -2,13 +2,29 @@
 - title: epso
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=2]
+- paragraph:
+  - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
+  - strong: "2026"
+  - text: ":"
 - list:
   - listitem:
-    - strong: September - IT experts 2 fields
-    - text: (grade AD8 - AI, Cybersecurity)
+    - strong: IT experts 2 fields
+    - text: (grade AD8 - AI, Cybersecurity) - September
+  - listitem:
+    - strong: Data management experts
+    - text: (grade AST) - month and
+    - strong: date to be confirmed
+  - listitem:
+    - strong: Lawyer-Linguists
+    - text: for the European Court of Justice (grade AD) - month and
+    - strong: date to be confirmed
+  - listitem:
+    - strong: Lawyer-Linguists
+    - text: for the European Parliament, the Council of the EU and the European Commission (grade AD) - month and
+    - strong: date to be confirmed
 - paragraph:
-  - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for competitions in the following fields to be published tentatively in
-  - strong: "2026"
+  - text: The following competitions will most likely be published in
+  - strong: "2027"
   - text: (month and
   - strong: date to be confirmed
   - text: "):"
@@ -17,13 +33,7 @@
     - strong: Secretaries
     - text: (grade AST/SC)
   - listitem:
-    - strong: Lawyer-Linguists
-    - text: for the European Court of Justice (grade AD)
-  - listitem:
     - strong: Assistants for Parliamentary body
-    - text: (grade AST)
-  - listitem:
-    - strong: Data management experts
     - text: (grade AST)
   - listitem:
     - strong: Lawyers 3 fields
@@ -31,9 +41,6 @@
   - listitem:
     - strong: Lawyers 3 fields
     - text: (grade AD - AI Law, Criminal Law, Energy Law)
-  - listitem:
-    - strong: Lawyer-Linguists
-    - text: for the European Parliament, the Council of the EU and the European Commission (grade AD)
   - listitem:
     - strong: International affairs specialists
     - text: (grade AD)
