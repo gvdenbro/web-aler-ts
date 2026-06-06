@@ -1,3 +1,16 @@
+[](/en/calendar/live-magazine-anthology)
+
+Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3638987_dsc04131_large.jpeg?h=bf5d81ba&itok=8vLz0ZI3)
+
+Sold out Cancelled Postponed
+
+2 + 3  
+June'26
+
+#### Live Magazine : Anthology
+
+##### 10 years of Live Magazine at Bozar
+
 [](/en/calendar/live-magazine-autumn-edition-23)
 
 Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/3016797_quentin_bruno-7845.jpeg?h=1c9b88c9&itok=fNRX7cDe)
@@ -125,18 +138,5 @@ Sold out Cancelled Postponed
 #### Live Magazine
 
 ##### THE “LIVING MAGAZINE” WITHOUT PAPER OR SCREEN
-
-[](/en/calendar/live-magazine-5)
-
-Last Tickets ![](https://www.bozar.be/sites/default/files/styles/small_card_landscape/public/efficy/images/1755908_veronique_besnard_-_copy_c_veronique_besnard.jpg?h=222b92f9&itok=8lN43n8J)
-
-Sold out Cancelled Postponed
-
-25 Apr.'17  
-\- 20:00
-
-#### Live Magazine
-
-##### The “living magazine” without paper or screen
 
 [Source](https://www.bozar.be/en/search?contentType=all&searchQuery=bozar%20live%20magazine)
