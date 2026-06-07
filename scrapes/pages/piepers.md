@@ -1,3 +1,14 @@
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+21.06 - 21.06.2026
+
+[EINDACTIVITEIT + POTLUCK](https://jnm.be/nl/activiteiten/eindactiviteit-potluck)
+---------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden,  Steunleden JNM Brussel
+
 ![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
 
 Afdelingskamp
