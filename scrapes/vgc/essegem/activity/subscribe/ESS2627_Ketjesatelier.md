@@ -11,6 +11,8 @@ De inschrijvingen zijn nog niet begonnen.
 GC Essegem  
 Leopold I-straat 329, 1090 Jette
 
+**Let op:** niet alle beschikbare plaatsen zijn voor alle tarieven beschikbaar.
+
 Namiddag
 
 ESS2627_Ketjesatelier
@@ -24,6 +26,8 @@ Gaat niet door op:
 Van 14:00 tot 17:00
 
 *Prijs: € 220.00  
+Prijs 2de kind: €190,00 geldig vanaf 08/06/2026 tot 23/09/2026  
+Paspartoe-Kansentarief: €88,00 geldig vanaf 08/06/2026 tot 23/09/2026  
 *
 
 Buiten spelen, knutselen, op uitstap gaan, gezelschapsspelletjes spelen ... In het Ketjesatelier is er altijd wel iets te beleven. Het liefst trekken we eropuit, de parken, de bossen, de stad in. Maar ook binnen is het leuk knutselen en spelen. Doe jij mee?
