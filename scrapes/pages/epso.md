@@ -30,9 +30,6 @@
   - text: "):"
 - list:
   - listitem:
-    - strong: Secretaries
-    - text: (grade AST/SC)
-  - listitem:
     - strong: Assistants for Parliamentary body
     - text: (grade AST)
   - listitem:
