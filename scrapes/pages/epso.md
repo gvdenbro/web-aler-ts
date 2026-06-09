@@ -33,11 +33,11 @@
     - strong: Assistants for Parliamentary body
     - text: (grade AST)
   - listitem:
-    - strong: Lawyers 3 fields
-    - text: (grade AD - Competition law, Financial and EMU law, Litigation law)
+    - strong: Lawyers 4 fields
+    - text: (grade AD – Competition law, Financial law, Economic and monetary union law, Energy law)
   - listitem:
-    - strong: Lawyers 3 fields
-    - text: (grade AD - AI Law, Criminal Law, Energy Law)
+    - strong: Lawyers 4 fields
+    - text: (grade AD – Artificial intelligence law, Criminal law, Procurement law, Litigation)
   - listitem:
     - strong: International affairs specialists
     - text: (grade AD)
