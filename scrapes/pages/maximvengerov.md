@@ -35,8 +35,8 @@
       - link "(map)":
         - /url: http://maps.google.com?q=2950 Mírové náměstí Teplice 1, Ústecký kraj, 415 01 Czechia
   - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers Petr Voronsky, conductor Maxim Vengerov, violin North Czech Philharmonic
+  - paragraph: Bach Double Violin Concerto Sibelius Violin Concerto
+  - paragraph: Performers Petr Voronsky, conductor Maxim Vengerov, violin Sungmin Cho, violin North Czech Philharmonic
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
 - article:
@@ -172,6 +172,51 @@
   - paragraph: Performers Maxim Vengerov, violin
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
+- article:
+  - text: Aug 22
+  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
+    - link "Recital Teatro Marrucino, Chieti":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Grand Duo Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
+- article:
+  - text: Aug 23
+  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
+    - link "Recital Teatro Marrucino, Chieti":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Grand Duo Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
+- article:
+  - text: Aug 25
+  - heading "Recital Teatro dei Marsi, Avezzano" [level=1]:
+    - link "Recital Teatro dei Marsi, Avezzano":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Grand Duo Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
 - separator
 - article:
   - text: May 27
