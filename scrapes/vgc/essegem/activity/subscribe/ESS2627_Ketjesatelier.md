@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6a2150f9cfacd_ketjesatelier.jpg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 15/06/2026 09:00 tot 30/09/2026 14:00 (Iedereen)
-
 2015 - 2020
 
 GC Essegem  

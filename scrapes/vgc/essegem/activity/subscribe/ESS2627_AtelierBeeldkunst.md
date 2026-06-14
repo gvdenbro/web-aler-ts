@@ -2,10 +2,6 @@
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6a21512915c27_WhatsApp_Image_2026-01-10_at_20.21.06.jpeg)
 
-De inschrijvingen zijn nog niet begonnen.
-
-* 15/06/2026 09:00 tot 03/10/2026 10:00 (Iedereen)
-
 2015 - 2018
 
 GC Essegem  
