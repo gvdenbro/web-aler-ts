@@ -21,7 +21,8 @@ Prijs 2de kind: €150,00
 Paspartoe-Kansentarief: €40,00  
 *
 
-Klaar voor een vakantie in eigen land? Met de bus rijden we helemaal naar de Ardennen. We overnachten in het mooie Massembre, voor een vakantie vol plezier. We trekken op avontuur en doen te gekke activiteiten in het bos. Om het helemaal af te maken doen we een deathride: adrenaline verzekerd!
+Klaar voor een vakantie in eigen land? Met de bus rijden we helemaal naar de Ardennen. We overnachten in het mooie Massembre, voor een vakantie vol plezier. We trekken op avontuur en doen te gekke activiteiten in het bos. Om het helemaal af te maken doen we een deathride: adrenaline verzekerd!  
+<br/>*In samenwerking met Kazou, GC De Kroon, GC Den Dam & GC Nohva*
 
 * Voor kinderen geboren in **2014 tot 2019**.
 * Vakantie mét overnachting: maaltijden, vervoer en overnachting zijn inbegrepen in de prijs.
