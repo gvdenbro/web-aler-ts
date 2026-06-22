@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Jun 20
-  - heading "Martha Argerich Festival Hamburg" [level=1]:
-    - link "Martha Argerich Festival Hamburg":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
-  - list:
-    - listitem:
-      - time: 6:30 PM
-      - text: –
-      - time: 8:30 PM
-    - listitem:
-      - text: Laeiszhalle Hamburg
-      - link "(map)":
-        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
-  - paragraph: Program
-  - paragraph: Beethoven Violin Sonatas No. 1 & 2
-  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
-- article:
   - text: Jun 25
   - heading "Beethoven Festival Teplice Czechoslovakia" [level=1]:
     - link "Beethoven Festival Teplice Czechoslovakia":
@@ -218,6 +199,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
 - separator
+- article:
+  - text: Jun 20
+  - heading "Martha Argerich Festival Hamburg" [level=1]:
+    - link "Martha Argerich Festival Hamburg":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
+  - list:
+    - listitem:
+      - time: 6:30 PM
+      - text: –
+      - time: 8:30 PM
+    - listitem:
+      - text: Laeiszhalle Hamburg
+      - link "(map)":
+        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
+  - paragraph: Program
+  - paragraph: Beethoven Violin Sonatas No. 1 & 2
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d
 - article:
   - text: May 27
   - heading "Recital Carnegie Hall" [level=1]:
@@ -767,25 +767,5 @@
   - paragraph: Sascha Goetzel, conductor Maxim Vengerov, violin Ulsan Phiharmonic
   - link "View Event →":
     - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz
-- article:
-  - text: Nov 10
-  - heading "Lugano Concert" [level=1]:
-    - link "Lugano Concert":
-      - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: LAC Lugano Arte e Cultura
-      - link "(map)":
-        - /url: http://maps.google.com?q=6 Piazza Bernardino Luini Lugano, TI, 6900 Switzerland
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers
-  - paragraph: Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll
 ---
 
