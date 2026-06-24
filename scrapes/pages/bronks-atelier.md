@@ -17,7 +17,7 @@
   - text: Eva Michiels
   - heading "Atelier in de pianofabriek" [level=2]
   - paragraph:
-    - text: BRONKS trekt er ook graag op uit. Samen met Pianofabriek en Brede School Sint-Gillis organiseren we al enkele jaren theaterateliers voor kinderen vanaf het 2de leerjaar. Deze ateliers vinden plaats in de Pianofabriek en worden begeleid door Pascal Buyse.
+    - text: BRONKS trekt er ook graag op uit. Samen met Pianofabriek en Brede School Sint-Gillis organiseren we al enkele jaren theaterateliers voor kinderen vanaf het 3de leerjaar. Deze ateliers vinden plaats in de Pianofabriek en worden begeleid door Pascal Buyse.
     - link "Schrijf je in via de Pianofabriek.":
       - /url: https://www.pianofabriek.be/activiteiten/allemaal-acteur-8-11j
   - link "bekijk de planning":
