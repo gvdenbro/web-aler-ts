@@ -1,7 +1,7 @@
 ---
 - title: epso
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
-- heading "Upcoming opportunities" [level=2]
+- heading "Upcoming opportunities" [level=1]
 - paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
