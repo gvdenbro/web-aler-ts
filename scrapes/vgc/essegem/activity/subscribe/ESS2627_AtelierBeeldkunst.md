@@ -26,7 +26,7 @@ Prijs 2de kind: €110,00 geldig vanaf 08/06/2026 tot 26/09/2026
 Paspartoe-Kansentarief: €37,50 geldig vanaf 08/06/2026 tot 26/09/2026  
 *
 
-Ontdek hoe echte artiesten kunstwerken maken. We experimenteren erop los: tekenen, schilderen, boetseren, graffiti spuiten ...In het groot, in het klein, in 2D, in 3D ... Amuseer je met creativiteit en fantasie. Op het eind organiseren we een expo met eigen werk.  
+We ontdekken hoe echte artiesten kunstwerken maken en experimenteren erop los: tekenen, schilderen, boetseren, graffiti spuiten ... We ontketenen onze creativiteit en fantasie. In het groot, in het klein, in 2D, in 3D …  
 
 *Voor kinderen uit het 3de tot 6de leerjaar van het Nederlandstalig onderwijs (of met een Nederlandstalige ouder). Niet op feestdagen en tijdens schoolvakanties.  
 <br/>In 2x *betalen is mogelijk, neem contact met ons op.  

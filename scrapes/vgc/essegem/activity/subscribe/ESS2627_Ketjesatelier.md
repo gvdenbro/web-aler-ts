@@ -24,7 +24,7 @@ Prijs 2de kind: €190,00 geldig vanaf 08/06/2026 tot 23/09/2026
 Paspartoe-Kansentarief: €88,00 geldig vanaf 08/06/2026 tot 23/09/2026  
 *
 
-Buiten spelen, knutselen, op uitstap gaan, gezelschapsspelletjes spelen ... In het Ketjesatelier is er altijd wel iets te beleven. Het liefst trekken we eropuit, de parken, de bossen, de stad in. Maar ook binnen is het leuk knutselen en spelen. Doe jij mee?
+Buitenspelen, op uitstap gaan, gezelschapsspelletjes spelen... In het Ketjesatelier is er altijd wel iets te beleven. Het liefst trekken we eropuit, de parken, de bossen, de stad in. Maar ook binnen is het leuk knutselen en spelen. Doet jouw kind mee?
 
 *Voor kinderen uit het 1ste tot 6de leerjaar van het Nederlandstalig onderwijs (of met een Nederlandstalige ouder). Niet op feestdagen en tijdens schoolvakanties. Er is opvang voorzien voor (vanaf 13.30 uur) en na (tot 17.30 uur) de activiteit. Aantrekken: kleren om in te spelen. Meebrengen: een goede regenjas.*  
 <br/>*In 2x betalen is mogelijk, neem contact met ons op.*  
