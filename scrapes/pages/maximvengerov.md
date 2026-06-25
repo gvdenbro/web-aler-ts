@@ -2,6 +2,25 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Jun 25
+  - heading "Beethoven Festival Teplice Czechoslovakia" [level=1]:
+    - link "Beethoven Festival Teplice Czechoslovakia":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Concert Hall of the House of Culture in Teplice
+      - link "(map)":
+        - /url: http://maps.google.com?q=2950 Mírové náměstí Teplice 1, Ústecký kraj, 415 01 Czechia
+  - paragraph: Program
+  - paragraph: Bach Double Violin Concerto Sibelius Violin Concerto
+  - paragraph: Performers Petr Voronsky, conductor Maxim Vengerov, violin Sungmin Cho, violin North Czech Philharmonic
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
+- article:
   - text: Jun 27
   - heading "Martha Argerich Festival Hamburg" [level=1]:
     - link "Martha Argerich Festival Hamburg":
@@ -207,25 +226,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
 - separator
-- article:
-  - text: Jun 25
-  - heading "Beethoven Festival Teplice Czechoslovakia" [level=1]:
-    - link "Beethoven Festival Teplice Czechoslovakia":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
-  - list:
-    - listitem:
-      - time: 7:00 PM
-      - text: –
-      - time: 9:00 PM
-    - listitem:
-      - text: Concert Hall of the House of Culture in Teplice
-      - link "(map)":
-        - /url: http://maps.google.com?q=2950 Mírové náměstí Teplice 1, Ústecký kraj, 415 01 Czechia
-  - paragraph: Program
-  - paragraph: Bach Double Violin Concerto Sibelius Violin Concerto
-  - paragraph: Performers Petr Voronsky, conductor Maxim Vengerov, violin Sungmin Cho, violin North Czech Philharmonic
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-k5gn2
 - article:
   - text: Jun 20
   - heading "Martha Argerich Festival Hamburg" [level=1]:
@@ -774,5 +774,25 @@
   - paragraph: Sascha Goetzel, conductor Maxim Vengerov, violin Ulsan Phiharmonic
   - link "View Event →":
     - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz-yyx3r
+- article:
+  - text: Nov 14
+  - heading "Ulsan Philharmonic" [level=1]:
+    - link "Ulsan Philharmonic":
+      - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Gyeongju Art Center
+      - link "(map)":
+        - /url: http://maps.google.com?q= Gyeongju, Gyeongsangbuk-do South Korea
+  - paragraph: Program
+  - paragraph: Tchaikovsky Violin Concerto
+  - paragraph: Performers
+  - paragraph: Sascha Goetzel, conductor Maxim Vengerov, violin Ulsan Phiharmonic
+  - link "View Event →":
+    - /url: /events/antwerp-concert-cfxfr-9s43f-krfw7-tr4ll-z8mys-er7hz
 ---
 
