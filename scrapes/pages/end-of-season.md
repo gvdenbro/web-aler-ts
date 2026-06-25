@@ -10,7 +10,7 @@
 - img
 - text: Du samedi 13 au dimanche 14 juin 2026 - 17h00
 - img
-- text: P.A.R.T.S. - Avenue Van Volxem 164, 1190 Forêt SAM 13/06 DIM 14/06
+- text: VK - 76 Rue de l'École 1080 Molenbeek-Saint-Jean SAM 13/06 DIM 14/06
 - paragraph: Le End of Season est le festival annuel de Muziekpublique où les élèves de l’académie s’emparent de la scène. Ils et elles sont nombreux·ses à partirciper à plus de 50 cours de musique et de danse traditionnelle du monde entier.
 - paragraph: Certain·e·s y apprennent le oud, la kora, la qanun, la calebasse, le tango, le chant carnatique, les percussions orientales, l’accordéon chromatique, le gaita, ou bien la danse flamenco. D’autres apprennent à jouer ensemble les répertoires de musiques afro-colombiennes, de musiques des Balkans, du Samba & Choro, ou de la folk d’Europe. Ils et elles se perfectionnent dans un instrument et découvrent par ce biais la richesse d’une culture, puis partagent des moments de musique avec leurs professeur.es et d’autres élèves.
 - paragraph: Traditionnellement, le temps d’un week-end, le End Of Season met à l’honneur les élèves et leurs professeur·e·s. Lors de deux sessions de spectacle, ils et elles présenteront leur travail, fruit de plusieurs semaines de cours, et feront résonner de manière unique les cultures musicales qui vivent, s’épanouissent et se mélangent à Bruxelles.
