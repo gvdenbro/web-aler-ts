@@ -2,14 +2,15 @@
 - title: epso
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=1]
+- list:
+  - listitem:
+    - strong: IT experts 2 fields
+    - text: (grade AD8 - AI, Cybersecurity) – 8 September
 - paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
   - text: ":"
 - list:
-  - listitem:
-    - strong: IT experts 2 fields
-    - text: (grade AD8 - AI, Cybersecurity) - September
   - listitem:
     - strong: Data management experts
     - text: (grade AST) - month and
