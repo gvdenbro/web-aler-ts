@@ -2,44 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Jun 29
-  - heading "Martha Argerich Festival Hamburg" [level=1]:
-    - link "Martha Argerich Festival Hamburg":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Laeiszhalle Hamburg
-      - link "(map)":
-        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
-  - paragraph: Program
-  - paragraph: Beethoven Violin Sonata Part IV
-  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y
-- article:
-  - text: Jun 30
-  - heading "Martha Argerich Festival Hamburg" [level=1]:
-    - link "Martha Argerich Festival Hamburg":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Laeiszhalle Hamburg
-      - link "(map)":
-        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
-  - paragraph: Program
-  - paragraph: Beethoven Violin Sonata Part V
-  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb
-- article:
   - text: Jul 24
   - heading "Recital Pietrasanta" [level=1]:
     - link "Recital Pietrasanta":
@@ -169,6 +131,44 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
 - separator
+- article:
+  - text: Jun 30
+  - heading "Martha Argerich Festival Hamburg" [level=1]:
+    - link "Martha Argerich Festival Hamburg":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Laeiszhalle Hamburg
+      - link "(map)":
+        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
+  - paragraph: Program
+  - paragraph: Beethoven Violin Sonata Part V
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb
+- article:
+  - text: Jun 29
+  - heading "Martha Argerich Festival Hamburg" [level=1]:
+    - link "Martha Argerich Festival Hamburg":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Laeiszhalle Hamburg
+      - link "(map)":
+        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
+  - paragraph: Program
+  - paragraph: Beethoven Violin Sonata Part IV
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y
 - article:
   - text: Jun 28
   - heading "Martha Argerich Festival Hamburg" [level=1]:
@@ -697,43 +697,5 @@
   - paragraph: Finnegan Downie, conductor Maxim Vengerov, violin Steven Isserliss, cellist Teodosia Nthokou, piano Athens State Symphony Orchestra
   - link "View Event →":
     - /url: /events/athens-concert
-- article:
-  - text: Nov 30
-  - heading "Recital Salerno" [level=1]:
-    - link "Recital Salerno":
-      - /url: /events/recital-teramo-italy-3t6aj-jmdm5
-  - list:
-    - listitem:
-      - time: 6:00 PM
-      - text: –
-      - time: 8:00 PM
-    - listitem:
-      - text: TEATRO VERDI (SALERNO)
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Piazza Matteo Luciani Salerno, Campania, 84121 Italy
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Evgenia Startseva, piano
-  - link "View Event →":
-    - /url: /events/recital-teramo-italy-3t6aj-jmdm5
-- article:
-  - text: Nov 22
-  - heading "Recital Seong Nam" [level=1]:
-    - link "Recital Seong Nam":
-      - /url: /events/recital-teramo-italy-3t6aj
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Seong-Nam Art Center
-      - link "(map)":
-        - /url: http://maps.google.com?q= Seongnam-si, Gyeonggi-do, 463-070 South Korea
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Evgenia Startseva, piano
-  - link "View Event →":
-    - /url: /events/recital-teramo-italy-3t6aj
 ---
 
