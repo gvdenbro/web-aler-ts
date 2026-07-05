@@ -143,7 +143,7 @@
     - listitem:
       - text: Auditorio Nacional
       - link "(map)":
-        - /url: http://maps.google.com?q=50 Avenida Paseo de la Reforma Ciudad de México, Ciudad de México, 11580 Mexico
+        - /url: http://maps.google.com?q=146 Calle del Príncipe de Vergara Madrid, Comunidad de Madrid, 28002 Spain
   - paragraph: Program
   - paragraph: Sibelius Violin Concerto
   - paragraph: Performers Manuel Tivar, conductor Maxim Vengerov, violin Atlantida Chamber Orchestra
