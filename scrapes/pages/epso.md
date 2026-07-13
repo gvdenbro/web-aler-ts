@@ -14,7 +14,7 @@
   - listitem:
     - strong: Data management experts 3 fields
     - text: (grade AST3) -
-    - strong: 6 October
+    - strong: 6 October (to be confirmed)
 - paragraph: "- Data processing, analytics, and statistics"
 - paragraph: "- Librarianship and information science"
 - paragraph: "- Records and archives management"
@@ -23,20 +23,20 @@
   - listitem:
     - strong: Lawyer-Linguists
     - text: for the European Court of Justice (grade AD7) -
-    - strong: 21 October
+    - strong: 21 October (to be confirmed)
 - paragraph: Bulgarian/German/Greek/Spanish/Irish/Maltese/Dutch/Romanian
 - list:
   - listitem:
     - paragraph:
       - strong: Lawyer-Linguists/legal-revisers
       - text: for the European Parliament, the Council of the EU and the European Commission (grade AD7) -
-      - strong: 4 November
+      - strong: 4 November (to be confirmed)
     - paragraph: Spanish-/Finnish-/Irish-/Italian-/Latvian-/Maltese-/Portuguese-/Swedish
   - listitem:
     - paragraph:
       - strong: Law
       - text: (grade AD7) -
-      - strong: 9 December
+      - strong: 9 December (to be confirmed)
     - paragraph: "- Artificial intelligence law"
 - paragraph: "- Criminal law"
 - paragraph: "- Procurement law"
