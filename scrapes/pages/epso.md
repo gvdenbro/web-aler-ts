@@ -18,7 +18,7 @@
       - cell "DEADLINE FOR APPLICATION":
         - paragraph:
           - strong: DEADLINE FOR APPLICATION
-    - 'row "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity 8 September 13 October"':
+    - 'row "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity 8 September* 13 October*"':
       - 'cell "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity"':
         - paragraph:
           - strong: ICT experts
@@ -26,13 +26,15 @@
           - strong: "EPSO/AD/430/26 – Administrators (AD 8) in the following fields:"
         - paragraph: 1. Artificial intelligence (AI)
         - paragraph: 2. Cybersecurity
-      - cell "8 September":
+      - cell "8 September*":
         - paragraph:
           - strong: 8 September
-      - cell "13 October":
+          - emphasis: "*"
+      - cell "13 October*":
         - paragraph:
           - strong: 13 October
-    - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October 11 November"':
+          - emphasis: "*"
+    - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October* 11 November*"':
       - 'cell "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management"':
         - paragraph:
           - strong: Data Management experts
@@ -41,35 +43,41 @@
         - paragraph: 1. Data processing, analytics, and statistics
         - paragraph: 2. Librarianship and information science
         - paragraph: 3. Records and archives management
-      - cell "6 October":
+      - cell "6 October*":
         - paragraph:
           - strong: 6 October
-      - cell "11 November":
+          - emphasis: "*"
+      - cell "11 November*":
         - paragraph:
           - strong: 11 November
-    - row "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October 25 November":
+          - emphasis: "*"
+    - row "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October* 25 November*":
       - cell "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)":
         - paragraph:
           - strong: Lawyer Linguists CJEU
         - paragraph:
           - strong: EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)
-      - cell "21 October":
+      - cell "21 October*":
         - paragraph:
           - strong: 21 October
-      - cell "25 November":
+          - emphasis: "*"
+      - cell "25 November*":
         - paragraph:
           - strong: 25 November
-    - row "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November 8 December":
+          - emphasis: "*"
+    - row "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November* 8 December*":
       - cell "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
         - strong: Lawyer Linguists other inst.
         - strong: EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)
-      - cell "4 November":
+      - cell "4 November*":
         - paragraph:
           - strong: 4 November
-      - cell "8 December":
+          - emphasis: "*"
+      - cell "8 December*":
         - paragraph:
           - strong: 8 December
-    - 'row "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation 9 December 20 January"':
+          - emphasis: "*"
+    - 'row "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation 9 December* 20 January*"':
       - 'cell "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation"':
         - paragraph:
           - strong: Lawyers
@@ -79,12 +87,17 @@
         - paragraph: 2. Criminal law
         - paragraph: 3. Procurement law
         - paragraph: 4. Litigation
-      - cell "9 December":
+      - cell "9 December*":
         - paragraph:
           - strong: 9 December
-      - cell "20 January":
+          - emphasis: "*"
+      - cell "20 January*":
         - paragraph:
           - strong: 20 January
+          - emphasis: "*"
+- paragraph:
+  - emphasis: "* Dates to be confirmed"
+- paragraph
 - paragraph:
   - text: The planning for
   - strong: "2027"
