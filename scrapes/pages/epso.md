@@ -6,65 +6,88 @@
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
   - text: ":"
-- list:
-  - listitem:
-    - strong: IT experts 2 fields
-    - text: (grade AD8 - AI, Cybersecurity) –
-    - strong: 8 September
-  - listitem:
-    - strong: Data management experts 3 fields
-    - text: (grade AST3) -
-    - strong: 6 October (to be confirmed)
-- paragraph: "- Data processing, analytics, and statistics"
-- paragraph: "- Librarianship and information science"
-- paragraph: "- Records and archives management"
-- paragraph
-- list:
-  - listitem:
-    - strong: Lawyer-Linguists
-    - text: for the European Court of Justice (grade AD7) -
-    - strong: 21 October (to be confirmed)
-- paragraph: Bulgarian/German/Greek/Spanish/Irish/Maltese/Dutch/Romanian
-- list:
-  - listitem:
-    - paragraph:
-      - strong: Lawyer-Linguists/legal-revisers
-      - text: for the European Parliament, the Council of the EU and the European Commission (grade AD7) -
-      - strong: 4 November (to be confirmed)
-    - paragraph: Spanish-/Finnish-/Irish-/Italian-/Latvian-/Maltese-/Portuguese-/Swedish
-  - listitem:
-    - paragraph:
-      - strong: Law
-      - text: (grade AD7) -
-      - strong: 9 December (to be confirmed)
-    - paragraph: "- Artificial intelligence law"
-- paragraph: "- Criminal law"
-- paragraph: "- Procurement law"
-- paragraph: "- Litigation"
+- table:
+  - rowgroup:
+    - row "COMPETITION PUBLICATION DATE DEADLINE FOR APPLICATION":
+      - cell "COMPETITION":
+        - paragraph:
+          - strong: COMPETITION
+      - cell "PUBLICATION DATE":
+        - paragraph:
+          - strong: PUBLICATION DATE
+      - cell "DEADLINE FOR APPLICATION":
+        - paragraph:
+          - strong: DEADLINE FOR APPLICATION
+    - 'row "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity 8 September 13 October"':
+      - 'cell "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity"':
+        - paragraph:
+          - strong: ICT experts
+        - paragraph:
+          - strong: "EPSO/AD/430/26 – Administrators (AD 8) in the following fields:"
+        - paragraph: 1. Artificial intelligence (AI)
+        - paragraph: 2. Cybersecurity
+      - cell "8 September":
+        - paragraph:
+          - strong: 8 September
+      - cell "13 October":
+        - paragraph:
+          - strong: 13 October
+    - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October 11 November"':
+      - 'cell "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management"':
+        - paragraph:
+          - strong: Data Management experts
+        - paragraph:
+          - strong: "EPSO/AST/158/26 – Assistants (AST 3) in the following fields:"
+        - paragraph: 1. Data processing, analytics, and statistics
+        - paragraph: 2. Librarianship and information science
+        - paragraph: 3. Records and archives management
+      - cell "6 October":
+        - paragraph:
+          - strong: 6 October
+      - cell "11 November":
+        - paragraph:
+          - strong: 11 November
+    - row "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October 25 November":
+      - cell "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)":
+        - paragraph:
+          - strong: Lawyer Linguists CJEU
+        - paragraph:
+          - strong: EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)
+      - cell "21 October":
+        - paragraph:
+          - strong: 21 October
+      - cell "25 November":
+        - paragraph:
+          - strong: 25 November
+    - row "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November 8 December":
+      - cell "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
+        - strong: Lawyer Linguists other inst.
+        - strong: EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)
+      - cell "4 November":
+        - paragraph:
+          - strong: 4 November
+      - cell "8 December":
+        - paragraph:
+          - strong: 8 December
+    - 'row "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation 9 December 20 January"':
+      - 'cell "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation"':
+        - paragraph:
+          - strong: Lawyers
+        - paragraph:
+          - strong: "EPSO/AD/433/26 – Administrators (AD 7) in the following fields:"
+        - paragraph: 1. Artificial intelligence law
+        - paragraph: 2. Criminal law
+        - paragraph: 3. Procurement law
+        - paragraph: 4. Litigation
+      - cell "9 December":
+        - paragraph:
+          - strong: 9 December
+      - cell "20 January":
+        - paragraph:
+          - strong: 20 January
 - paragraph:
-  - text: The following competitions will most likely be published in
+  - text: The planning for
   - strong: "2027"
-  - text: (month and
-  - strong: date to be confirmed
-  - text: "):"
-- list:
-  - listitem:
-    - strong: Assistants for Parliamentary body
-    - text: (grade AST)
-  - listitem:
-    - strong: Lawyers 4 fields
-    - text: (grade AD – Competition law, Financial law, Economic and monetary union law, Energy law)
-  - listitem:
-    - strong: International affairs specialists
-    - text: (grade AD)
-  - listitem:
-    - strong: Translators
-    - text: (grade AD)
-  - listitem:
-    - strong: ICT experts 3 fields
-    - text: (grade AST - IT Infrastructure, cloud and networks, Software development, User support)
-  - listitem:
-    - strong: Nuclear inspectors
-    - text: (grade AST)
+  - text: will be published in the nearest future following the endorsement of EPSO/EuSA Management Board.
 ---
 
