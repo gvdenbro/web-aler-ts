@@ -51,10 +51,10 @@
         - paragraph:
           - strong: 11 November
           - emphasis: "*"
-    - row "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October* 25 November*":
-      - cell "Lawyer Linguists CJEU EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)":
+    - row "Lawyer Linguists (Court of Justice) EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October* 25 November*":
+      - cell "Lawyer Linguists (Court of Justice) EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)":
         - paragraph:
-          - strong: Lawyer Linguists CJEU
+          - strong: Lawyer Linguists (Court of Justice)
         - paragraph:
           - strong: EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)
       - cell "21 October*":
@@ -65,9 +65,9 @@
         - paragraph:
           - strong: 25 November
           - emphasis: "*"
-    - row "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November* 8 December*":
-      - cell "Lawyer Linguists other inst. EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
-        - strong: Lawyer Linguists other inst.
+    - row "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November* 8 December*":
+      - cell "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
+        - strong: Lawyer Linguists (European Parliament, Council of the European Union and European Commission)
         - strong: EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)
       - cell "4 November*":
         - paragraph:
