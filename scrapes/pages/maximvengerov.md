@@ -92,7 +92,7 @@
       - link "(map)":
         - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
   - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
   - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
@@ -111,7 +111,7 @@
       - link "(map)":
         - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
   - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
   - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
@@ -126,10 +126,29 @@
       - text: –
       - time: 11:00 PM
   - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
   - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
+- article:
+  - text: Sep 12
+  - heading "Thessaloniki Concert" [level=1]:
+    - link "Thessaloniki Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
+  - list:
+    - listitem:
+      - time: 8:30 PM
+      - text: –
+      - time: 10:30 PM
+    - listitem:
+      - text: Thessaloniki Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=& 25is Martiou Thessaloniki, 546 46 Greece
+  - paragraph: Program
+  - paragraph: Beethoven Triple Concerto
+  - paragraph: Performers Michalis Oikonomou, conductor Maxim Vengerov, violin Timotheos Petrin, cello Theodosia Ntokou, piano Thessaloniki State Symphony Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
 - article:
   - text: Oct 7
   - heading "Madrid Concert" [level=1]:
@@ -206,6 +225,25 @@
   - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda
+- article:
+  - text: Oct 20
+  - heading "Busan Korea Concert" [level=1]:
+    - link "Busan Korea Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Busan Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Dongpyeong-ro Busanjin District, Busan South Korea
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x
 - separator
 - article:
   - text: Jun 30
