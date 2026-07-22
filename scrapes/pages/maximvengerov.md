@@ -297,7 +297,7 @@
       - link "(map)":
         - /url: http://maps.google.com?q= Xi'An, Shaanxi, 710063 China
   - paragraph: Program
-  - paragraph: "Kreisler \"Schön Rosmarin\" & \"Liebeslied\" Beethoven: Violin Sonata in A Major, Op. 47 \"Kreutzer\""
+  - paragraph: Kreisler "Schön Rosmarin" & "Liebeslied" Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
   - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
