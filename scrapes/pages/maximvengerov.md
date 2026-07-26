@@ -2,6 +2,25 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Jul 24
+  - heading "Recital Pietrasanta" [level=1]:
+    - link "Recital Pietrasanta":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
+  - list:
+    - listitem:
+      - time: 9:15 PM
+      - text: –
+      - time: 11:15 PM
+    - listitem:
+      - text: Pietrasanta
+      - link "(map)":
+        - /url: http://maps.google.com?q=Via Sant' Agostino Pietrasanta, Toscana, 55045 Italy
+  - paragraph: Program
+  - paragraph: Bach Chaconne Beethoven Violin Sonatas No. 3 & 4 Schubert Violin Sonata No. 4 (Grand Duo)
+  - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
+- article:
   - text: Jul 27
   - heading "Recital Brussels" [level=1]:
     - link "Recital Brussels":
@@ -302,25 +321,6 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59
 - separator
-- article:
-  - text: Jul 24
-  - heading "Recital Pietrasanta" [level=1]:
-    - link "Recital Pietrasanta":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
-  - list:
-    - listitem:
-      - time: 9:15 PM
-      - text: –
-      - time: 11:15 PM
-    - listitem:
-      - text: Pietrasanta
-      - link "(map)":
-        - /url: http://maps.google.com?q=Via Sant' Agostino Pietrasanta, Toscana, 55045 Italy
-  - paragraph: Program
-  - paragraph: Bach Chaconne Beethoven Violin Sonatas No. 3 & 4 Schubert Violin Sonata No. 4 (Grand Duo)
-  - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d
 - article:
   - text: Jun 30
   - heading "Martha Argerich Festival Hamburg" [level=1]:
@@ -867,5 +867,25 @@
   - paragraph: Takash-Nagi, conductor Maxim Vengerov, violin MÁV Symphony Orchestra
   - link "View Event →":
     - /url: /events/budapest-concert
+- article:
+  - text: Dec 5
+  - heading "Athens Concert" [level=1]:
+    - link "Athens Concert":
+      - /url: /events/athens-concert
+  - list:
+    - listitem:
+      - time: 8:30 PM
+      - text: –
+      - time: 10:30 PM
+    - listitem:
+      - text: The Athens Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=& Petrou Kokkali Athina, 115 21 Greece
+  - paragraph: Program
+  - paragraph: Beethoven Triple Concerto
+  - paragraph: Performers
+  - paragraph: Finnegan Downie, conductor Maxim Vengerov, violin Steven Isserliss, cellist Teodosia Nthokou, piano Athens State Symphony Orchestra
+  - link "View Event →":
+    - /url: /events/athens-concert
 ---
 
