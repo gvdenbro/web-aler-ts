@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Jul 27
-  - heading "Recital Brussels" [level=1]:
-    - link "Recital Brussels":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Musica Mundi School
-      - link "(map)":
-        - /url: http://maps.google.com?q=21a Rue de la Croix Waterloo, Région wallonne, 1410 Belgium
-  - paragraph: Program
-  - paragraph: Bach Chaconne Beethoven Violin Sonatas No. 3 & 4 Schubert Violin Sonata No. 4 (Grand Duo)
-  - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb
-- article:
   - text: Aug 2
   - heading "Copenhagen Summer Festival" [level=1]:
     - link "Copenhagen Summer Festival":
@@ -39,25 +20,6 @@
   - paragraph: Performers Maxim Vengerov, violin
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
-- article:
-  - text: Aug 4
-  - heading "Spetses Greece Concert" [level=1]:
-    - link "Spetses Greece Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
-  - list:
-    - listitem:
-      - time: 9:00 PM
-      - text: –
-      - time: 11:00 PM
-    - listitem:
-      - text: Open theater of the Anargyrios and Korgialenios School of Spetses
-      - link "(map)":
-        - /url: http://maps.google.com?q= Ligoneri, 180 50 Greece
-  - paragraph: Program
-  - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
-  - paragraph: Performers Maxim Vengerov, violin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55
 - article:
   - text: Aug 22
   - heading "Recital Teatro Marrucino, Chieti" [level=1]:
@@ -302,6 +264,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59
 - separator
+- article:
+  - text: Jul 27
+  - heading "Recital Brussels" [level=1]:
+    - link "Recital Brussels":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Musica Mundi School
+      - link "(map)":
+        - /url: http://maps.google.com?q=21a Rue de la Croix Waterloo, Région wallonne, 1410 Belgium
+  - paragraph: Program
+  - paragraph: Bach Chaconne Beethoven Violin Sonatas No. 3 & 4 Schubert Violin Sonata No. 4 (Grand Duo)
+  - paragraph: Performers Maxim Vengerov, violin Sergio Tiempo, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb
 - article:
   - text: Jul 24
   - heading "Recital Pietrasanta" [level=1]:
@@ -847,25 +828,5 @@
   - paragraph: Maxim Vengerov, violin Vilde Frang, violin James Ehnes, viola Daniel Müller-Schott, cello Anthony McGill, clarinet Yefim Bronfman, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert
-- article:
-  - text: Dec 11
-  - heading "Budapest Concert" [level=1]:
-    - link "Budapest Concert":
-      - /url: /events/budapest-concert
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: National Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Komor Marcell utca Budapest, 1095 Hungary
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers
-  - paragraph: Takash-Nagi, conductor Maxim Vengerov, violin MÁV Symphony Orchestra
-  - link "View Event →":
-    - /url: /events/budapest-concert
 ---
 
