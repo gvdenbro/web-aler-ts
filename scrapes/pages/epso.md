@@ -96,11 +96,29 @@
           - strong: 20 January
           - emphasis: "*"
 - paragraph:
-  - emphasis: "* Dates to be confirmed"
-- paragraph
-- paragraph:
-  - text: The planning for
+  - text: For
   - strong: "2027"
-  - text: will be published in the nearest future following the endorsement of EPSO/EuSA Management Board.
+  - text: ", EPSO is planning to open for application the following competitions:"
+- list:
+  - listitem:
+    - strong: "February*: LAW – 4 fields (AD)"
+  - listitem:
+    - strong: "March*: Assistants in the field of parliamentary work (AST)"
+  - listitem:
+    - strong: "April*: Security, Defence & International Affairs (AD)"
+  - listitem:
+    - strong: "May*: Proofreaders/editors (Luxembourg) – 8 languages (AST)"
+  - listitem:
+    - strong: "June*: Translators – BG, DE, FI, GA, HR, PT, SL, SV (AD)"
+  - listitem:
+    - strong: "July*: Lawyer-linguists (AD - European Parliament, Council of the European Union and European Commission)"
+  - listitem:
+    - strong: "September*: Financial Management (AD)"
+  - listitem:
+    - paragraph:
+      - strong: "November*: ICT (AST)"
+    - paragraph
+- paragraph:
+  - emphasis: "* Dates to be confirmed"
 ---
 
