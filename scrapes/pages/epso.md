@@ -102,23 +102,25 @@
 - list:
   - listitem:
     - strong: "February*: LAW – 4 fields (AD)"
+    - text: "**"
   - listitem:
-    - strong: "March*: Assistants in the field of parliamentary work (AST)"
+    - strong: "March*: Assistants in the field of parliamentary work (AST)**"
   - listitem:
-    - strong: "April*: Security, Defence & International Affairs (AD)"
+    - strong: "April*: Security, Defence & International Affairs (AD)**"
   - listitem:
-    - strong: "May*: Proofreaders/editors (Luxembourg) – 8 languages (AST)"
+    - strong: "May*: Proofreaders/editors (Luxembourg) – 8 languages (AST)**"
   - listitem:
     - strong: "June*: Translators – BG, DE, FI, GA, HR, PT, SL, SV (AD)"
+    - text: "**"
   - listitem:
-    - strong: "July*: Lawyer-linguists (AD - European Parliament, Council of the European Union and European Commission)"
+    - strong: "July*: Lawyer-linguists (AD - European Parliament, Council of the European Union and European Commission)**"
   - listitem:
     - strong: "September*: Financial Management (AD)"
+    - text: "**"
   - listitem:
-    - paragraph:
-      - strong: "November*: ICT (AST)"
-    - paragraph
+    - strong: "November*: ICT (AST)**"
 - paragraph:
   - emphasis: "* Dates to be confirmed"
+  - emphasis: "** Fields and grades to be confirmed"
 ---
 
