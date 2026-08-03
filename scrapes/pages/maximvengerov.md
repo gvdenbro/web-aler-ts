@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Aug 2
-  - heading "Copenhagen Summer Festival" [level=1]:
-    - link "Copenhagen Summer Festival":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
-  - list:
-    - listitem:
-      - time: 4:30 PM
-      - text: –
-      - time: 6:30 PM
-    - listitem:
-      - text: Christians Church
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Strandgade København, 1401 Denmark
-  - paragraph: Program
-  - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
-  - paragraph: Performers Maxim Vengerov, violin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
-- article:
   - text: Aug 22
   - heading "Recital Teatro Marrucino, Chieti" [level=1]:
     - link "Recital Teatro Marrucino, Chieti":
@@ -232,9 +213,9 @@
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
   - list:
     - listitem:
-      - time: 7:30 PM
+      - time: 7:45 PM
       - text: –
-      - time: 9:30 PM
+      - time: 9:45 PM
     - listitem:
       - text: Xi'an Grand Concert Hall
       - link "(map)":
@@ -264,6 +245,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59
 - separator
+- article:
+  - text: Aug 2
+  - heading "Copenhagen Summer Festival" [level=1]:
+    - link "Copenhagen Summer Festival":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
+  - list:
+    - listitem:
+      - time: 4:30 PM
+      - text: –
+      - time: 6:30 PM
+    - listitem:
+      - text: Christians Church
+      - link "(map)":
+        - /url: http://maps.google.com?q=1 Strandgade København, 1401 Denmark
+  - paragraph: Program
+  - paragraph: Haydn Gypsy Trio Beethoven Trio in c minor
+  - paragraph: Performers Maxim Vengerov, violin
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn
 - article:
   - text: Jul 27
   - heading "Recital Brussels" [level=1]:
@@ -808,25 +808,5 @@
   - paragraph: Lin Daye, conductor Maxim Vengerov, violin Wuxi Symphony Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh
-- article:
-  - text: Dec 16
-  - heading "Maxim Vengerov & Friends" [level=1]:
-    - link "Maxim Vengerov & Friends":
-      - /url: /events/the-annual-isaac-stern-memorial-concert
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Carnegie Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=7th Avenue New York, NY, 10019 United States
-  - paragraph: Program
-  - paragraph: ALL-BRAHMS PROGRAM - Piano Quintet - Clarinet Quintet
-  - paragraph: Performers
-  - paragraph: Maxim Vengerov, violin Vilde Frang, violin James Ehnes, viola Daniel Müller-Schott, cello Anthony McGill, clarinet Yefim Bronfman, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert
 ---
 
