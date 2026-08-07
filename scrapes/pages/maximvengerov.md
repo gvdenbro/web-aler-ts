@@ -282,6 +282,59 @@
   - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
+- article:
+  - text: Nov 8
+  - heading "Baku Azerbaijan Concert" [level=1]:
+    - link "Baku Azerbaijan Concert":
+      - /url: /events/xsnh3c7a52l586b
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Baku Azerbaijan State Academic Philharmonic Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=İstiqlaliyyət Bakı Azerbaijan
+  - paragraph: Program
+  - paragraph: Franck Violin Sonata Shostakovich 10 Preludes Sheherezade (Violin Solos)
+  - paragraph: Performers Fuad Ibrahimov, conductor Maxim Vengerov, violin Baku Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b
+- article:
+  - text: Nov 13
+  - heading "Masterclass Madrid" [level=1]:
+    - link "Masterclass Madrid":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Conservatoire Rue de Madrid
+      - link "(map)":
+        - /url: http://maps.google.com?q=14 Rue de Madrid Paris, Île-de-France, 75008 France
+  - paragraph: Masterclass with Maxim Vengerov
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
+- article:
+  - text: Nov 16
+  - heading "Masterclass Paris" [level=1]:
+    - link "Masterclass Paris":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Ecole Normal de Musique Paris
+      - link "(map)":
+        - /url: http://maps.google.com?q=114bis Boulevard Malesherbes Paris, Île-de-France, 75017 France
+  - paragraph: Masterclass with Maxim Vengerov
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
 - separator
 - article:
   - text: Aug 2
