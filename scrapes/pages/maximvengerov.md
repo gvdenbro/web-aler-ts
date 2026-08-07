@@ -244,6 +244,44 @@
   - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59
+- article:
+  - text: Nov 1
+  - heading "Changsha Chamber Music Concert" [level=1]:
+    - link "Changsha Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Changsha Grand Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Xiang Jiang Bei Lu Chang Sha Shi, 410022 China
+  - paragraph: Program
+  - paragraph: Mahler Piano Quartet in A Minor Mozart Violin Sonata in E Minor, K304/300c Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
+- article:
+  - text: Nov 4
+  - heading "Guangzhou Xinghai Chamber Music Concert" [level=1]:
+    - link "Guangzhou Xinghai Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Guangzhou Xinghai Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Hai Shan Jie Guang Zhou Shi, Guang Dong Sheng, 510105 China
+  - paragraph: Program
+  - paragraph: Mahler Piano Quartet in A Minor Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
 - separator
 - article:
   - text: Aug 2
