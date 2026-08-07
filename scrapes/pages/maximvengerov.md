@@ -289,9 +289,9 @@
       - /url: /events/xsnh3c7a52l586b
   - list:
     - listitem:
-      - time: 7:30 PM
+      - time: 7:00 PM
       - text: –
-      - time: 9:30 PM
+      - time: 9:00 PM
     - listitem:
       - text: Baku Azerbaijan State Academic Philharmonic Hall
       - link "(map)":
