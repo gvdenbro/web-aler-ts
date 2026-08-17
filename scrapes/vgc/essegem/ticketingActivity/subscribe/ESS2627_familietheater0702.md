@@ -16,7 +16,7 @@ slapen, kruipen, lopen, springen.
 Zomer na lente na winter na herfst.  
 Voorbij? Toe … nog even!  
 Ik heb de tijd van m’n leven.  
-<br/>‘Ik werd als eerste wakker’ is een speelse en warme vertelling voor de allerkleinsten over opgroeien, seizoenen en de wonderlijke ontdekking van de wereld door de ogen van een klein meisje. Een verhaal over één meisje, twee oma’s en drie … nee ... vier seizoenen! Het Geen particulier verhaal, maar het verhaal van ons allemaal.  
+<br/>‘Ik werd als eerste wakker’ is een speelse en warme vertelling voor de allerkleinsten over opgroeien, seizoenen en de wonderlijke ontdekking van de wereld door de ogen van een klein meisje. Een verhaal over één meisje, twee oma’s en drie … nee ... vier seizoenen! Geen particulier verhaal, maar het verhaal van ons allemaal.  
 <br/>**Leuk voor kinderen vanaf 2,5 jaar én hun families**.  
 *  
 Online verkoop stopt één uur voor aanvang van de voorstelling.  
