@@ -308,9 +308,9 @@
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
   - list:
     - listitem:
-      - time: 8:00 PM
+      - time: 2:00 PM
       - text: –
-      - time: 10:00 PM
+      - time: 4:00 PM
     - listitem:
       - text: Conservatoire Rue de Madrid
       - link "(map)":
