@@ -2,44 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Aug 22
-  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
-    - link "Recital Teatro Marrucino, Chieti":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
-  - list:
-    - listitem:
-      - time: 9:00 PM
-      - text: –
-      - time: 11:00 PM
-    - listitem:
-      - text: Teatro Marrucino, Chieti
-      - link "(map)":
-        - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
-  - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
-  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
-- article:
-  - text: Aug 23
-  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
-    - link "Recital Teatro Marrucino, Chieti":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
-  - list:
-    - listitem:
-      - time: 9:00 PM
-      - text: –
-      - time: 11:00 PM
-    - listitem:
-      - text: Teatro Marrucino, Chieti
-      - link "(map)":
-        - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
-  - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
-  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
-- article:
   - text: Aug 25
   - heading "Recital Teatro dei Marsi, Avezzano" [level=1]:
     - link "Recital Teatro dei Marsi, Avezzano":
@@ -336,6 +298,44 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
 - separator
+- article:
+  - text: Aug 23
+  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
+    - link "Recital Teatro Marrucino, Chieti":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
+  - list:
+    - listitem:
+      - time: 9:00 PM
+      - text: –
+      - time: 11:00 PM
+    - listitem:
+      - text: Teatro Marrucino, Chieti
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345
+- article:
+  - text: Aug 22
+  - heading "Recital Teatro Marrucino, Chieti" [level=1]:
+    - link "Recital Teatro Marrucino, Chieti":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
+  - list:
+    - listitem:
+      - time: 9:00 PM
+      - text: –
+      - time: 11:00 PM
+    - listitem:
+      - text: Teatro Marrucino, Chieti
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Via Cesare de Lollis Chieti, Abruzzo, 66100 Italy
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf
 - article:
   - text: Aug 2
   - heading "Copenhagen Summer Festival" [level=1]:
@@ -864,40 +864,5 @@
   - paragraph: Performers Maxim Vengerov, violin Evgenia Startseva, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs
-- article:
-  - text: Jan 9
-  - heading "Cartagena Colombia Recital" [level=1]:
-    - link "Cartagena Colombia Recital":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 12:00 PM
-  - paragraph: Program
-  - paragraph: Shostakovich Violin Sonata Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Valse Scherzo
-  - paragraph: Performers Maxim Vengerov, violin Evgenia Startseva, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz
-- article:
-  - text: Jan 1
-  - heading "Wuxi New Hall Opening Concert" [level=1]:
-    - link "Wuxi New Hall Opening Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Wuxi Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=4 Hu Bin Lu Wu Xi Shi, Jiang Su Sheng, 214061 China
-  - paragraph: Program
-  - paragraph: Ravel Tzigane Massenet Meditation from Thaïs
-  - paragraph: Performers
-  - paragraph: Lin Daye, conductor Maxim Vengerov, violin Wuxi Symphony Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh
 ---
 
