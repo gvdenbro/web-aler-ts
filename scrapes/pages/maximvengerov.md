@@ -2,21 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Aug 25
-  - heading "Recital Teatro dei Marsi, Avezzano" [level=1]:
-    - link "Recital Teatro dei Marsi, Avezzano":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
-  - list:
-    - listitem:
-      - time: 9:00 PM
-      - text: –
-      - time: 11:00 PM
-  - paragraph: Program
-  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
-  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
-- article:
   - text: Sep 12
   - heading "Thessaloniki Concert" [level=1]:
     - link "Thessaloniki Concert":
@@ -298,6 +283,21 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
 - separator
+- article:
+  - text: Aug 25
+  - heading "Recital Teatro dei Marsi, Avezzano" [level=1]:
+    - link "Recital Teatro dei Marsi, Avezzano":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
+  - list:
+    - listitem:
+      - time: 9:00 PM
+      - text: –
+      - time: 11:00 PM
+  - paragraph: Program
+  - paragraph: Mozart Violin Sonata in E minor, KV 304 Schubert Violin Sonata No. 4 (Grand Duo) Alexey Shor Violin Sonata No. 1 Tchaikovsky Souvenir d’un lieu cher Beethoven Spring Sonata
+  - paragraph: Performers Maxim Vengerov, violin Mikhail Pletnev, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-gz3lf-rz345-l433m
 - article:
   - text: Aug 23
   - heading "Recital Teatro Marrucino, Chieti" [level=1]:
@@ -849,20 +849,5 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf
-- article:
-  - text: Jan 10
-  - heading "Cartagena Colombia Recital" [level=1]:
-    - link "Cartagena Colombia Recital":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 12:00 PM
-  - paragraph: Program
-  - paragraph: Brahms Violin Sonata No. 3 Brahms Hungarian Dances No. 1, 2, 5 & 17 Wieniawski Scherzo Tarantella Sarasate Introduction and Tarantella
-  - paragraph: Performers Maxim Vengerov, violin Evgenia Startseva, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-j5ygs
 ---
 
