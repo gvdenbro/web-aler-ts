@@ -3,7 +3,7 @@
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=1]
 - paragraph:
-  - emphasis: "Last update: 31/07/2026"
+  - emphasis: "Last update: 26/08/2026"
 - paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
@@ -20,7 +20,7 @@
       - cell "DEADLINE FOR APPLICATION":
         - paragraph:
           - strong: DEADLINE FOR APPLICATION
-    - 'row "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity 8 September* 13 October*"':
+    - 'row "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity 8 September 13 October"':
       - 'cell "ICT experts EPSO/AD/430/26 – Administrators (AD 8) in the following fields: 1. Artificial intelligence (AI) 2. Cybersecurity"':
         - paragraph:
           - strong: ICT experts
@@ -28,14 +28,12 @@
           - strong: "EPSO/AD/430/26 – Administrators (AD 8) in the following fields:"
         - paragraph: 1. Artificial intelligence (AI)
         - paragraph: 2. Cybersecurity
-      - cell "8 September*":
+      - cell "8 September":
         - paragraph:
           - strong: 8 September
-          - emphasis: "*"
-      - cell "13 October*":
+      - cell "13 October":
         - paragraph:
           - strong: 13 October
-          - emphasis: "*"
     - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October* 11 November*"':
       - 'cell "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management"':
         - paragraph:
