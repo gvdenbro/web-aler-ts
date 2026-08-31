@@ -13,14 +13,12 @@ Vanaf 11:00 tot 11:50
 
 Er is hier, er is daar. Er is binnen, er is buiten. Er zijn hoeken en vier randen. Er is rondom, er is ik, er is jij. Van de een naar de ander: kleine feestjes om te beleven, vrolijke spelletjes om te vieren. Het bijna niets dat tot alles leidt. Het hier van de wereld, van jou tot ons. En tot ver weg.  
 <br/>‘hip hip hip’ is een voorstelling die jonge kinderen laat spelen, ontdekken én stralen. Twee actrices laten zich inspireren door de wereld van het jonge kind: helemaal in het moment zijn, voelen wat er leeft, spelen, luisteren en op elkaar inspelen. In elk kind schuilt een vrolijk plekje dat ontdekt mag worden. Ga samen met je kleuters op pad naar dat plekje. Met liedjes, spelletjes en dansrituelen beleven jullie een verrassende en onvoorspelbare reis.  
-<br/>**Leuk voor kinderen vanaf 1,5 jaar én hun families**.  
+<br/>**Leuk voor kinderen vanaf 1,5 jaar én hun families. In het kader van Kunstendag voor Kinderen.**  
 *  
-Online verkoop stopt één uur voor aanvang van de voorstelling.  
+Online inschrijven stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
 *  
 ***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
-
-###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
 
 #### Prijslijst
 
