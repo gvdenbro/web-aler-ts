@@ -5,9 +5,9 @@
 Laarbeekbos  
 Bosstraat 10, 1083 Ganshoren
 
-03/10/2026
+04/10/2026
 
-ESS22627_SamenVeerkrachtig0310
+ESS22627_SamenVeerkrachtig0410
 
 Vanaf 14:00 tot 16:00
 
@@ -51,4 +51,4 @@ Familienaam \*
 
 Volgende
 
-[Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS22627_SamenVeerkrachtig0310)
+[Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS22627_SamenVeerkrachtig0410)
