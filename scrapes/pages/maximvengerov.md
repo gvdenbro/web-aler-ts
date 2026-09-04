@@ -282,6 +282,82 @@
   - paragraph: Masterclass with Maxim Vengerov
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
+- article:
+  - text: Dec 3
+  - heading "Johannesburg Concert" [level=1]:
+    - link "Johannesburg Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Linder Auditorium, Wits University
+      - link "(map)":
+        - /url: http://maps.google.com?q=27 Saint Andrews Road Johannesburg, Gauteng, 2193 South Africa
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Josef Young, conductor Maxim Vengerov, violin Mzansi National Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2
+- article:
+  - text: Dec 6
+  - heading "Cape Town Concert" [level=1]:
+    - link "Cape Town Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-xsan5
+  - list:
+    - listitem:
+      - time: 6:00 PM
+      - text: –
+      - time: 8:00 PM
+    - listitem:
+      - text: Cape Town, City Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Darling Street Cape Town, Western Cape, 8001 South Africa
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Josef Young, conductor Maxim Vengerov, violin Mzansi National Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-xsan5
+- article:
+  - text: Dec 8
+  - heading "Port Elizabeth Concert" [level=1]:
+    - link "Port Elizabeth Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-xsan5-p8ya7
+  - list:
+    - listitem:
+      - time: 6:30 PM
+      - text: –
+      - time: 8:30 PM
+    - listitem:
+      - text: Feather Market Theatre
+      - link "(map)":
+        - /url: http://maps.google.com?q=86 Baakens Street Gqeberha, Eastern Cape, 6001 South Africa
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Josef Young, conductor Maxim Vengerov, violin Mzansi National Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-xsan5-p8ya7
+- article:
+  - text: Dec 13
+  - heading "Mannheim Concert" [level=1]:
+    - link "Mannheim Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Rosengarten Mannheim, Museum Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=2 Rosengartenplatz Mannheim, Baden-Württemberg, 68161 Germany
+  - paragraph: Program
+  - paragraph: Prokofiev Violin Concerto No. 1
+  - paragraph: Performers Boian Videnoff, conductor Maxim Vengerov, violin Mannheimer Philharmoniker
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78
 - separator
 - article:
   - text: Aug 25
