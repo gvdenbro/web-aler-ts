@@ -27,16 +27,16 @@
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
   - list:
     - listitem:
-      - time: 8:00 PM
+      - time: 7:30 PM
       - text: –
-      - time: 10:00 PM
+      - time: 9:30 PM
     - listitem:
       - text: Auditorio Nacional
       - link "(map)":
         - /url: http://maps.google.com?q=146 Calle del Príncipe de Vergara Madrid, Comunidad de Madrid, 28002 Spain
   - paragraph: Program
   - paragraph: Sibelius Violin Concerto
-  - paragraph: Performers Manuel Tivar, conductor Maxim Vengerov, violin Atlantida Chamber Orchestra
+  - paragraph: Performers Manuel Tévar, conductor Maxim Vengerov, violin Atlantida Chamber Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
 - article:
