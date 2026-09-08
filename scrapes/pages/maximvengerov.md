@@ -17,7 +17,7 @@
         - /url: http://maps.google.com?q=& 25is Martiou Thessaloniki, 546 46 Greece
   - paragraph: Program
   - paragraph: Beethoven Triple Concerto
-  - paragraph: Performers Michalis Oikonomou, conductor Maxim Vengerov, violin Timotheos Petrin, cello Theodosia Ntokou, piano Thessaloniki State Symphony Orchestra
+  - paragraph: Performers Michalis Oikonomou, conductor Maxim Vengerov, violin Péter Somodari, cello Theodosia Ntokou, piano Thessaloniki State Symphony Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
 - article:
