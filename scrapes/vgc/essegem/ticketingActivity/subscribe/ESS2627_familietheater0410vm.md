@@ -15,9 +15,9 @@ Soms ben ik dichter. En soms zelfs te dicht. Dan ben ik gesloten. En zwaar in ge
 Dan wil ik graag verder. Zo ver als ik wou. Tot verder weer dicht wordt. En dichter bij jou  
 <br/>‘Dichter’ is een speelse, poëtische en muzikale danstheatervoorstelling over hoe ‘ver’ en ‘dicht’ ver uit elkaar, maar ook net dicht bij elkaar kan liggen. Hoe ze niet alleen tegengesteld zijn, maar ook met elkaar in ver-binding kunnen staan. Over hoe we verder komen door dichter bij elkaar en onszelf te staan. Over het belang van ver-woorden en ver-anderen. ‘Dichter’ neemt je mee op een visuele, auditieve en interactieve reis van ver naar dicht, of net van dicht naar ver. Van ver naar verder tot ver daar voorbij. Samen dichten, samen dansen en samen verder denken. Ver, verder, verst …  
 <br/>**Leuk voor kinderen vanaf 5 jaar én hun families**.  
-*  
-Online verkoop stopt één uur voor aanvang van de voorstelling.  
+*Online verkoop stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+Of boek tickets voor de* *[voorstelling in de namiddag](https://tickets.vgc.be/essegem/ticketingActivity/subscribe?id=ESS2627_familietheater0410nm)**, om 13:30.  
 *  
 ***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 

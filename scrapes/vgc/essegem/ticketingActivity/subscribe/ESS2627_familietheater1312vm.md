@@ -21,6 +21,7 @@ PopPopPop! Gooi die confetti! Het feest gaat beginnen!
 *  
 Online verkoop stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
+*Of boek tickets voor de* *[voorstelling in de namiddag](https://tickets.vgc.be/essegem/ticketingActivity/subscribe?id=ESS2627_familietheater1312nm)**, om 13:30.*  
 *  
 ***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
