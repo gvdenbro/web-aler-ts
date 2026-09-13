@@ -2,6 +2,25 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
+  - text: Sep 12
+  - heading "Thessaloniki Concert" [level=1]:
+    - link "Thessaloniki Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
+  - list:
+    - listitem:
+      - time: 8:30 PM
+      - text: –
+      - time: 10:30 PM
+    - listitem:
+      - text: Thessaloniki Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=& 25is Martiou Thessaloniki, 546 46 Greece
+  - paragraph: Program
+  - paragraph: Beethoven Triple Concerto
+  - paragraph: Performers Michalis Oikonomou, conductor Maxim Vengerov, violin Péter Somodari, cello Theodosia Ntokou, piano Thessaloniki State Symphony Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
+- article:
   - text: Oct 7
   - heading "Madrid Concert" [level=1]:
     - link "Madrid Concert":
@@ -340,25 +359,6 @@
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78
 - separator
-- article:
-  - text: Sep 12
-  - heading "Thessaloniki Concert" [level=1]:
-    - link "Thessaloniki Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
-  - list:
-    - listitem:
-      - time: 8:30 PM
-      - text: –
-      - time: 10:30 PM
-    - listitem:
-      - text: Thessaloniki Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=& 25is Martiou Thessaloniki, 546 46 Greece
-  - paragraph: Program
-  - paragraph: Beethoven Triple Concerto
-  - paragraph: Performers Michalis Oikonomou, conductor Maxim Vengerov, violin Péter Somodari, cello Theodosia Ntokou, piano Thessaloniki State Symphony Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-gz8sy
 - article:
   - text: Aug 25
   - heading "Recital Teatro dei Marsi, Avezzano" [level=1]:
@@ -906,5 +906,24 @@
   - paragraph: Masterclass with Maxim Vengerov
   - link "View Event →":
     - /url: /events/recital-teramo-italy-3gd8c-w5szy-p2y2b
+- article:
+  - text: Jan 24
+  - heading "Recital Italy" [level=1]:
+    - link "Recital Italy":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Cagliari Teatro Lirico
+      - link "(map)":
+        - /url: http://maps.google.com?q=Via Sant'Alenixedda Cagliari, Sardegna, 09128 Italy
+  - paragraph: Program
+  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
+  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-h4kyf
 ---
 
