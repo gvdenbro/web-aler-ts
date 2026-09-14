@@ -20,8 +20,6 @@ Of boek tickets voor de* *[voorstelling in de namiddag](https://tickets.vgc.be/e
 *  
 ***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
-###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
-
 #### Prijslijst
 
 * ###### Ticket:
@@ -34,28 +32,8 @@ Of boek tickets voor de* *[voorstelling in de namiddag](https://tickets.vgc.be/e
 
 1.  14/08/2026 09:00 tot 15/11/2026 10:00 (Iedereen)
 
-Stap 1 van 3
+### Volzet
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_familietheater1511vm)
