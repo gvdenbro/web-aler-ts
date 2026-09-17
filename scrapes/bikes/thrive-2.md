@@ -1,6 +1,3 @@
-Current price: 849,00 €
+Current price: 1.199,00 €
 
-Prix le plus bas dans les 30 jours précédant la réduction: 1.199,00 €  \-29%  
-Prix régulier: 1.199,00 € \- 29%
-
-[Source](https://www.liv-cycling.com/fr-be/thrive-2-2025)
+[Source](https://www.liv-cycling.com/fr-be/thrive-2-2027)
