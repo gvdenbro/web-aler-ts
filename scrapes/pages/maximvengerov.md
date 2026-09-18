@@ -226,7 +226,7 @@
         - /url: http://maps.google.com?q=İstiqlaliyyət Bakı Azerbaijan
   - paragraph: Program
   - paragraph: Franck Violin Sonata Shostakovich 10 Preludes Sheherezade (Violin Solos)
-  - paragraph: Performers Fuad Ibrahimov, conductor Maxim Vengerov, violin Baku Philharmonic Orchestra
+  - paragraph: Performers Fuad Ibrahimov, conductor Maxim Vengerov, violin Evgenia Startseva, piano Baku Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b
 - article:
