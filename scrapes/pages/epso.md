@@ -3,7 +3,7 @@
 - url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=1]
 - paragraph:
-  - emphasis: "Last update: 08/09/2026"
+  - emphasis: "Last update: 22/09/2026"
 - paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
@@ -20,7 +20,7 @@
       - cell "DEADLINE FOR APPLICATION":
         - paragraph:
           - strong: DEADLINE FOR APPLICATION
-    - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October* 11 November*"':
+    - 'row "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management 6 October 11 November"':
       - 'cell "Data Management experts EPSO/AST/158/26 – Assistants (AST 3) in the following fields: 1. Data processing, analytics, and statistics 2. Librarianship and information science 3. Records and archives management"':
         - paragraph:
           - strong: Data Management experts
@@ -29,28 +29,24 @@
         - paragraph: 1. Data processing, analytics, and statistics
         - paragraph: 2. Librarianship and information science
         - paragraph: 3. Records and archives management
-      - cell "6 October*":
+      - cell "6 October":
         - paragraph:
           - strong: 6 October
-          - emphasis: "*"
-      - cell "11 November*":
+      - cell "11 November":
         - paragraph:
           - strong: 11 November
-          - emphasis: "*"
-    - row "Lawyer Linguists (Court of Justice) EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October* 25 November*":
+    - row "Lawyer Linguists (Court of Justice) EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7) 21 October 25 November":
       - cell "Lawyer Linguists (Court of Justice) EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)":
         - paragraph:
           - strong: Lawyer Linguists (Court of Justice)
         - paragraph:
           - strong: EPSO/AD/431/26 – Bulgarian-/ German-/ Greek-/ Spanish-/ Irish-/ Maltese-/ Dutch-/ Romanian-language lawyer-linguists (AD 7)
-      - cell "21 October*":
+      - cell "21 October":
         - paragraph:
           - strong: 21 October
-          - emphasis: "*"
-      - cell "25 November*":
+      - cell "25 November":
         - paragraph:
           - strong: 25 November
-          - emphasis: "*"
     - row "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November* 8 December*":
       - cell "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
         - strong: Lawyer Linguists (European Parliament, Council of the European Union and European Commission)
