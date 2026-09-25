@@ -27,8 +27,13 @@
   - heading "Itinéraire du parcours enchanté" [level=2]
   - paragraph: "Notre parcours gratuit fera étape :"
   - list:
-    - listitem: Les dates et les lieux seront dévoilés prochainement
-  - heading [level=2]
+    - listitem: Verviers, le 10 octobre
+    - listitem: Boussu (les inscriptions ouvriront prochainement)
+    - listitem: Jette (les inscriptions ouvriront prochainement)
+    - listitem: Seraing (les inscriptions ouvriront prochainement)
+    - listitem: Oupeye (les inscriptions ouvriront prochainement)
+    - listitem: Moha (les inscriptions ouvriront prochainement)
+    - listitem: Ans (les inscriptions ouvriront prochainement)
   - heading "Pour petits et grands" [level=2]
   - paragraph: De 15h à 18h, les activités proposées seront adaptées aux plus petits.
   - paragraph: "De 19h30 à 20h30, on y proposera des animations en ambiance nocturne adaptées aux enfants plus téméraires (Age maximum conseillé pour l’activité : 12 ans)."
@@ -47,7 +52,10 @@
     - listitem: Si le créneau que vous avez choisi ne vous permet pas de réserver + d'une place, c'est qu'il est complet.
     - listitem: Une fois que vous avez reçu vos billets, il n'est PAS possible de changer de créneau.
   - paragraph
-  - paragraph: "Pour participer à l'un des parcours, il faut vous inscrire via le module de réservation ci-dessous : les réservations ouvriront prochainement !"
+  - paragraph: "Pour participer à l'un des parcours, il faut vous inscrire via le module de réservation ci-dessous :"
+  - iframe
+  - link "Powered by Weezevent":
+    - /url: https://www.weezevent.com/widget_multi.php?254393.15.1.bo
   - link "Ecoutez notre web radio Céline !":
     - /url: https://www.nostalgie.be/radioplayer/celine
     - img "Ecoutez notre web radio Céline !"
