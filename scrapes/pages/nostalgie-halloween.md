@@ -1,0 +1,62 @@
+---
+- title: nostalgie-halloween
+- url: https://www.nostalgie.be/parcourshalloween
+- main:
+  - navigation:
+    - link "ÉVÉNEMENTS":
+      - /url: "#"
+    - link " Le parcours enchanté d'Halloween":
+      - /url: https://www.nostalgie.be/evenements
+    - text:  Le parcours enchanté d'Halloween
+  - heading "Le parcours enchanté d'Halloween" [level=1]
+  - img "Le parcours enchanté d'Halloween"
+  - heading "Une animation ensorcelante à partager en famille" [level=2]
+  - link "":
+    - /url: https://www.nostalgie.behttps://www.nostalgie.be/parcourshalloween
+  - link:
+    - /url: https://www.nostalgie.behttps://www.nostalgie.be/parcourshalloween
+  - link "":
+    - /url: "mailto:?subject=Article envoyé depuis nostalgie.be Le parcours enchanté d'Halloween&body=J'ai lu cet article sur le site d'Nostalgie et j'aimerais le partager avec toi. Tu peux le consulter ici : https://www.nostalgie.behttps://www.nostalgie.be/parcourshalloween"
+  - paragraph
+  - paragraph
+  - paragraph: Nostalgie présente le parcours enchanté d’Halloween !
+  - paragraph: A l'occasion de la célèbre fête automnale, venez vous amuser en famille dans un parcours rempli de défis, de gentils monstres et de vilaines sorcières...
+  - link "FAQ Halloween":
+    - /url: https://www.nostalgie.be/foire-aux-questions-halloween
+    - img "FAQ Halloween"
+  - heading "Itinéraire du parcours enchanté" [level=2]
+  - paragraph: "Notre parcours gratuit fera étape :"
+  - list:
+    - listitem: Les dates et les lieux seront dévoilés prochainement
+  - heading [level=2]
+  - heading "Pour petits et grands" [level=2]
+  - paragraph: De 15h à 18h, les activités proposées seront adaptées aux plus petits.
+  - paragraph: "De 19h30 à 20h30, on y proposera des animations en ambiance nocturne adaptées aux enfants plus téméraires (Age maximum conseillé pour l’activité : 12 ans)."
+  - paragraph:
+    - text: À l’arrivée, toute la famille repart avec ses bonbons
+    - link "Lutti":
+      - /url: https://www.lutti.be/fr/
+    - link:
+      - /url: https://www.lutti.be/fr/
+    - text: gagnés durant la traversée du parcours.
+  - heading "Réservations" [level=2]
+  - paragraph: "L’inscription préalable est obligatoire:"
+  - list:
+    - listitem: Vous recevrez 1 ticket pour chaque personne inscrite (max 5 tickets par famille)
+    - listitem: La présence d'un adulte est requise sur place
+    - listitem: Si le créneau que vous avez choisi ne vous permet pas de réserver + d'une place, c'est qu'il est complet.
+    - listitem: Une fois que vous avez reçu vos billets, il n'est PAS possible de changer de créneau.
+  - paragraph
+  - paragraph: "Pour participer à l'un des parcours, il faut vous inscrire via le module de réservation ci-dessous : les réservations ouvriront prochainement !"
+  - link "Ecoutez notre web radio Céline !":
+    - /url: https://www.nostalgie.be/radioplayer/celine
+    - img "Ecoutez notre web radio Céline !"
+  - link:
+    - /url: https://www.nostalgie.be/radio/comment-ecouter-nostalgie
+  - link "Ecoutez notre web radio Céline !":
+    - /url: https://www.nostalgie.be/radioplayer/celine
+    - img "Ecoutez notre web radio Céline !"
+  - link:
+    - /url: /inscription
+---
+
