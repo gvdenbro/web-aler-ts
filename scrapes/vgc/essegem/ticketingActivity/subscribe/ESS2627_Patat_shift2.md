@@ -13,14 +13,34 @@ Vanaf 13:30 tot 15:00
 
 Bestel hier je porties voor de **tweede shift**.  
 <br/>In oktober slaan de 22 Brusselse gemeenschapscentra de handen in elkaar voor een warme stad waar iedereen mee kan. Met een stevige Patat Tegen Armoede maken we armoede zichtbaar, brengen we mensen samen en zamelen we geld in voor de 8 Brusselse organisaties die dagelijks werken met mensen in armoede. Ook Essegem en Taverne Ter Linden maken een vuist tegen armoede. Wij serveren vandaag wortelstoemp met worst.  
-<br/>***Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
+<br/>***Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
 #### Reservatie data
 
-1.  19/09/2023 00:00 tot 23/11/2023 12:00 (Iedereen)
+1.  07/09/2026 00:00 tot 24/10/2026 15:00 (Iedereen)
 
-#### Inschrijven niet mogelijk
+Stap 1 van 3
 
-[Terug](/activity/index)
+ 
+
+### Persoonlijke info
+
+Om tickets te kopen gelieve eerst uw e-mailadres in te geven
+
+  
+
+E-mail \* 
+
+Verifieer e-mail \* 
+
+Volgende
+
+### Gelieve uw voor en achternaam op te geven.
+
+Voornaam \* 
+
+Familienaam \* 
+
+Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_Patat_shift2)
