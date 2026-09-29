@@ -1,6 +1,6 @@
 ---
 - title: epso
-- url: https://eu-careers.europa.eu/en/upcoming-selection-procedures
+- url: https://selection.eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=1]
 - paragraph:
   - emphasis: "Last update: 22/09/2026"
