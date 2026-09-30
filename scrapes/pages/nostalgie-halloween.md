@@ -47,7 +47,7 @@
   - heading "Réservations" [level=2]
   - paragraph: "L’inscription préalable est obligatoire:"
   - list:
-    - listitem: Vous recevrez 1 ticket pour chaque personne inscrite (max 5 tickets par famille)
+    - listitem: Vous recevrez 1 ticket pour chaque personne inscrite (max 5 tickets par famille, enfants ET adultes doivent avoir leur ticket)
     - listitem: La présence d'un adulte est requise sur place
     - listitem: Si le créneau que vous avez choisi ne vous permet pas de réserver + d'une place, c'est qu'il est complet.
     - listitem: Une fois que vous avez reçu vos billets, il n'est PAS possible de changer de créneau.

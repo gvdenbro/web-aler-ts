@@ -9,6 +9,28 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+11.10 - 11.10.2026
+
+[KLIMAATMARS: JNM BXL](https://jnm.be/nl/activiteiten/klimaatmars-jnm-bxl)
+--------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+18.10 - 18.10.2026
+
+[Pak de droogte aan! Mars in de Hoge Venen](https://jnm.be/nl/activiteiten/pak-de-droogte-aan-mars-in-de-hoge-venen-1)
+----------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden,  Steunleden JNM Brussel
+
 ![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
 
 Weekendje
