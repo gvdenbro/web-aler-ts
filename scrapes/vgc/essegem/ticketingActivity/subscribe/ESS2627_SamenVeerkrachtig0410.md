@@ -15,6 +15,8 @@ Natuurgidsen Joseph en Karen nemen je mee voor een trage wandeling door het bos.
 <br/>Vrije bijdrage, die je de dag zelf betaalt. Afspraak aan het bankje aan Jules Lorgesquare 10, vlakbij de ingang van het Koning Boudewijnpark.  
 <br/>***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
 
+###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
+
 #### Prijslijst
 
 * ###### Ticket:
