@@ -27,7 +27,7 @@ Natuurgidsen Joseph en Karen nemen je mee voor een trage wandeling door het bos.
 
 #### Reservatie data
 
-1.  26/08/2026 09:00 tot 02/10/2026 13:00 (Iedereen)
+1.  26/08/2026 09:00 tot 04/10/2026 13:00 (Iedereen)
 
 Stap 1 van 3
 
