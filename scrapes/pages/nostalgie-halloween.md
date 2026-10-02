@@ -28,7 +28,7 @@
   - paragraph: "Notre parcours gratuit fera étape :"
   - list:
     - listitem: Verviers, le 10 octobre
-    - listitem: Boussu (les inscriptions ouvriront prochainement)
+    - listitem: Boussu, le 17 octobre
     - listitem: Jette (les inscriptions ouvriront prochainement)
     - listitem: Seraing (les inscriptions ouvriront prochainement)
     - listitem: Oupeye (les inscriptions ouvriront prochainement)
