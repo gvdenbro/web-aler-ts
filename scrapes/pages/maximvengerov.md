@@ -231,8 +231,8 @@
     - /url: /events/xsnh3c7a52l586b
 - article:
   - text: Nov 13
-  - heading "Masterclass Madrid" [level=1]:
-    - link "Masterclass Madrid":
+  - heading "Paris Masterclass" [level=1]:
+    - link "Paris Masterclass":
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
   - list:
     - listitem:
@@ -240,10 +240,10 @@
       - text: –
       - time: 4:00 PM
     - listitem:
-      - text: Conservatoire Rue de Madrid
+      - text: Conservatoire à Rayonnement Régional - Ida Rubinstein
       - link "(map)":
         - /url: http://maps.google.com?q=14 Rue de Madrid Paris, Île-de-France, 75008 France
-  - paragraph: Masterclass with Maxim Vengerov
+  - paragraph: Masterclass with Maxim Vengerov Admission by Reservation
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
 - article:
