@@ -19,7 +19,7 @@ Dan wil ik graag verder. Zo ver als ik wou. Tot verder weer dicht wordt. En dich
 Online verkoop stopt één uur voor aanvang van de voorstelling.  
 Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.  
 *  
-***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -35,28 +35,8 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 1.  14/08/2026 09:00 tot 04/10/2026 12:30 (Iedereen)
 
-Stap 1 van 3
+#### Inschrijven niet mogelijk
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_familietheater0410nm)
