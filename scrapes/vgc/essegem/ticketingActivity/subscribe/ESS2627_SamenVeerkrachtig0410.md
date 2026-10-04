@@ -13,9 +13,7 @@ Vanaf 14:00 tot 16:00
 
 Natuurgidsen Joseph en Karen nemen je mee voor een trage wandeling door het bos. Hoor, zie, voel en ruik de natuur. Gedichten en boombeleving zorgen voor een frisse ontmoeting.  
 <br/>Vrije bijdrage, die je de dag zelf betaalt. Afspraak aan het bankje aan Jules Lorgesquare 10, vlakbij de ingang van het Koning Boudewijnpark.  
-<br/>***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***  
-
-###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
+<br/>***Info: [essegem@vgc.be](http://mailto:essegem@vgc.be/) - 02 427 80 39***
 
 #### Prijslijst
 
@@ -29,28 +27,8 @@ Natuurgidsen Joseph en Karen nemen je mee voor een trage wandeling door het bos.
 
 1.  26/08/2026 09:00 tot 04/10/2026 13:00 (Iedereen)
 
-Stap 1 van 3
+#### Inschrijven niet mogelijk
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_SamenVeerkrachtig0410)

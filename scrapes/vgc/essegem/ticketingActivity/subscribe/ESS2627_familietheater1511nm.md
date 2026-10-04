@@ -20,7 +20,7 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 *  
 ***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
 
-###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
+###### *Sorry, deze activiteit is volledig uitverkocht.*
 
 #### Prijslijst
 
@@ -33,29 +33,5 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 #### Reservatie data
 
 1.  14/08/2026 09:00 tot 15/11/2026 12:30 (Iedereen)
-
-Stap 1 van 3
-
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_familietheater1511nm)
