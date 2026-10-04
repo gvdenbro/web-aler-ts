@@ -2,17 +2,6 @@
 
 Activiteit
 
-4.10 - 4.10.2026
-
-[Natuurstudie en kaartlezen](https://jnm.be/nl/activiteiten/natuurstudie-en-kaartlezen)
----------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 11.10 - 11.10.2026
 
 [KLIMAATMARS: JNM BXL](https://jnm.be/nl/activiteiten/klimaatmars-jnm-bxl)
