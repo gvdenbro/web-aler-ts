@@ -31,17 +31,6 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden,  Steunleden JNM Brussel
 
-![Type kampweekend](https://jnm.be/img/activity-type/weekend.png)
-
-Weekendje
-
-23.10 - 25.10.2026
-
-[Herfstweekend 2026!](https://jnm.be/nl/activiteiten/herfstweekend-2026)
-------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
-
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
 Activiteit
