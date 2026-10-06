@@ -29,11 +29,11 @@
   - list:
     - listitem: Verviers, le 10 octobre
     - listitem: Boussu, le 17 octobre
-    - listitem: Jette (les inscriptions ouvriront prochainement)
-    - listitem: Seraing (les inscriptions ouvriront prochainement)
-    - listitem: Oupeye (les inscriptions ouvriront prochainement)
-    - listitem: Moha (les inscriptions ouvriront prochainement)
-    - listitem: Ans (les inscriptions ouvriront prochainement)
+    - listitem: Jette, le 24 octobre (les inscriptions ouvriront prochainement)
+    - listitem: Seraing, le 25 octobre (les inscriptions ouvriront prochainement)
+    - listitem: Oupeye, le 28 octobre (les inscriptions ouvriront prochainement)
+    - listitem: Moha, le 30 octobre (les inscriptions ouvriront prochainement)
+    - listitem: Ans, le 31 octobre (les inscriptions ouvriront prochainement)
   - heading "Pour petits et grands" [level=2]
   - paragraph: De 15h à 18h, les activités proposées seront adaptées aux plus petits.
   - paragraph: "De 19h30 à 20h30, on y proposera des animations en ambiance nocturne adaptées aux enfants plus téméraires (Age maximum conseillé pour l’activité : 12 ans)."
