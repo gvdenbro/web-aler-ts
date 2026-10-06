@@ -248,8 +248,8 @@
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
 - article:
   - text: Nov 16
-  - heading "Masterclass Paris" [level=1]:
-    - link "Masterclass Paris":
+  - heading "Paris Masterclass" [level=1]:
+    - link "Paris Masterclass":
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
   - list:
     - listitem:
@@ -339,6 +339,82 @@
   - paragraph: Performers Boian Videnoff, conductor Maxim Vengerov, violin Mannheimer Philharmoniker
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78
+- article:
+  - text: Jan 1
+  - heading "Crans Montana Concert" [level=1]:
+    - link "Crans Montana Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-zksr5
+  - list:
+    - listitem:
+      - time: 5:00 PM
+      - text: –
+      - time: 7:00 PM
+    - listitem:
+      - text: Sports Center Le Regent
+      - link "(map)":
+        - /url: http://maps.google.com?q=4 Rue du Zier Crans-Montana, Valais, 3963 Switzerland
+  - paragraph: Program
+  - paragraph: Beethoven Violin Concerto in D major, op.61
+  - paragraph: Performers Ion Marin, conductor Maxim Vengerov, violin Cameristi della Scala Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-zksr5
+- article:
+  - text: Jan 28
+  - heading "New York Concert" [level=1]:
+    - link "New York Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Avery Fisher Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Lincoln Center Plaza New York, New York, 10023 United States
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Mirga Gražinytė-Tyla, conductor Maxim Vengerov, violin New York Philharmonic
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9
+- article:
+  - text: Jan 29
+  - heading "New York Concert" [level=1]:
+    - link "New York Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Avery Fisher Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Lincoln Center Plaza New York, New York, 10023 United States
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Mirga Gražinytė-Tyla, conductor Maxim Vengerov, violin New York Philharmonic
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky
+- article:
+  - text: Jan 30
+  - heading "New York Concert" [level=1]:
+    - link "New York Concert":
+      - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Avery Fisher Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=10 Lincoln Center Plaza New York, New York, 10023 United States
+  - paragraph: Program
+  - paragraph: Brahms Violin Concerto
+  - paragraph: Performers Mirga Gražinytė-Tyla, conductor Maxim Vengerov, violin New York Philharmonic
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - separator
 - article:
   - text: Sep 12
