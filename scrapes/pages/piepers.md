@@ -40,7 +40,7 @@ Activiteit
 [Filem'On](https://jnm.be/nl/activiteiten/filemon)
 --------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
 
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
