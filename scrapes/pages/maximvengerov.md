@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Oct 7
-  - heading "Madrid Concert" [level=1]:
-    - link "Madrid Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Auditorio Nacional
-      - link "(map)":
-        - /url: http://maps.google.com?q=146 Calle del Príncipe de Vergara Madrid, Comunidad de Madrid, 28002 Spain
-  - paragraph: Program
-  - paragraph: Sibelius Violin Concerto
-  - paragraph: Performers Manuel Tévar, conductor Maxim Vengerov, violin Atlantida Chamber Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
-- article:
   - text: Oct 15
   - heading "Tokyo Suntory Hall Concert" [level=1]:
     - link "Tokyo Suntory Hall Concert":
@@ -416,6 +397,25 @@
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - separator
+- article:
+  - text: Oct 7
+  - heading "Madrid Concert" [level=1]:
+    - link "Madrid Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Auditorio Nacional
+      - link "(map)":
+        - /url: http://maps.google.com?q=146 Calle del Príncipe de Vergara Madrid, Comunidad de Madrid, 28002 Spain
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers Manuel Tévar, conductor Maxim Vengerov, violin Atlantida Chamber Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx
 - article:
   - text: Sep 12
   - heading "Thessaloniki Concert" [level=1]:
@@ -965,22 +965,5 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf
-- article:
-  - text: Jan 27
-  - heading "Masterclass Trinity Laban Conservatory of Greenwich" [level=1]:
-    - link "Masterclass Trinity Laban Conservatory of Greenwich":
-      - /url: /events/recital-teramo-italy-3gd8c-w5szy-p2y2b
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Trinity Laban Conservatory of Greenwich
-      - link "(map)":
-        - /url: http://maps.google.com?q=Romney Road London, England, SE10 9JF United Kingdom
-  - paragraph: Masterclass with Maxim Vengerov
-  - link "View Event →":
-    - /url: /events/recital-teramo-italy-3gd8c-w5szy-p2y2b
 ---
 
