@@ -1,4 +1,4 @@
-### Cabaret Pop Secret (3+) - Notch Company
+### Cabaret Pop Secret (3+) - Audrey Dero & Oriane Varak
 
 ![](https://s3-eu-west-1.amazonaws.com/os-kwdo/prod/vgc/images/activity/6a7f0c9fbf061_Pop_Secret_©_Audrey_Dero_%281%29-1.png)
 
