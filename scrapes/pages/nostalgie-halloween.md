@@ -56,8 +56,14 @@
   - iframe
   - link "Powered by Weezevent":
     - /url: https://www.weezevent.com/widget_multi.php?254393.15.1.bo
+  - link "Ecoutez notre web radio Céline !":
+    - /url: https://www.nostalgie.be/radioplayer/celine
+    - img "Ecoutez notre web radio Céline !"
   - link:
     - /url: https://www.nostalgie.be/radio/comment-ecouter-nostalgie
+  - link "Ecoutez notre web radio Céline !":
+    - /url: https://www.nostalgie.be/radioplayer/celine
+    - img "Ecoutez notre web radio Céline !"
   - link:
     - /url: /inscription
 ---
