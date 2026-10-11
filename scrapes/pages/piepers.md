@@ -64,4 +64,15 @@ Activiteit
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+24.01 - 24.01.2027
+
+[Dikke vogel](https://jnm.be/nl/activiteiten/dikke-vogel)
+---------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
