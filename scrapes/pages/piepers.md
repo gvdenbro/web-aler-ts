@@ -57,6 +57,17 @@ Activiteit
 
 Activiteit
 
+13.12 - 13.12.2026
+
+[Winterknutsels](https://jnm.be/nl/activiteiten/winterknutsels)
+---------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
 24.01 - 24.01.2027
 
 [Dikke vogel](https://jnm.be/nl/activiteiten/dikke-vogel)
