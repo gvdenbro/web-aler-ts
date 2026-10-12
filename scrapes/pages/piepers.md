@@ -15,6 +15,8 @@ Weekendje
 
 23.10 - 25.10.2026
 
+Volzet
+
 [Herfstweekend 2026 (piepers)](https://jnm.be/nl/activiteiten/herfstweekend-2026-piepers)
 -----------------------------------------------------------------------------------------
 
