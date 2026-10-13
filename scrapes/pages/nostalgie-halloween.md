@@ -29,8 +29,8 @@
   - list:
     - listitem: Verviers, le 10 octobre
     - listitem: Boussu, le 17 octobre
-    - listitem: Jette, le 24 octobre (les inscriptions ouvriront prochainement)
-    - listitem: Seraing, le 25 octobre (les inscriptions ouvriront prochainement)
+    - listitem: Jette, le 24 octobre
+    - listitem: Seraing, le 25 octobre
     - listitem: Oupeye, le 28 octobre (les inscriptions ouvriront prochainement)
     - listitem: Moha, le 30 octobre (les inscriptions ouvriront prochainement)
     - listitem: Ans, le 31 octobre (les inscriptions ouvriront prochainement)
