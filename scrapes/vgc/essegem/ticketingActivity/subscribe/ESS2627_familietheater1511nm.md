@@ -24,7 +24,7 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 #### Prijslijst
 
-* ###### Ticket + film:
+* ###### Ticket:
     
     * Standaardprijs: €0,00
 

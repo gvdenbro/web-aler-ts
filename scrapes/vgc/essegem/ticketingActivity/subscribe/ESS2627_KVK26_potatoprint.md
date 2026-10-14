@@ -17,7 +17,7 @@ Speciaal voor Kunstendag voor kinderen opent ons wekelijks atelier beeldende kun
 
 #### Prijslijst
 
-* ###### Ticket + film:
+* ###### Ticket:
     
     * Standaardprijs: €0,00
 
