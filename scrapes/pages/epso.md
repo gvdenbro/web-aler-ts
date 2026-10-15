@@ -32,36 +32,16 @@
       - cell "25 November":
         - paragraph:
           - strong: 25 November
-    - row "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 4 November* 8 December*":
+    - row "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7) 9 December 20 January":
       - cell "Lawyer Linguists (European Parliament, Council of the European Union and European Commission) EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)":
         - strong: Lawyer Linguists (European Parliament, Council of the European Union and European Commission)
         - strong: EPSO/AD/432/26 – Spanish-/ Finnish-/ Irish-/ Italian-/ Latvian-/ Maltese-/ Portuguese-/ Swedish-language lawyer-linguists/legal revisers (AD 7)
-      - cell "4 November*":
-        - paragraph:
-          - strong: 4 November
-          - emphasis: "*"
-      - cell "8 December*":
-        - paragraph:
-          - strong: 8 December
-          - emphasis: "*"
-    - 'row "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation 9 December* 20 January*"':
-      - 'cell "Lawyers EPSO/AD/433/26 – Administrators (AD 7) in the following fields: 1. Artificial intelligence law 2. Criminal law 3. Procurement law 4. Litigation"':
-        - paragraph:
-          - strong: Lawyers
-        - paragraph:
-          - strong: "EPSO/AD/433/26 – Administrators (AD 7) in the following fields:"
-        - paragraph: 1. Artificial intelligence law
-        - paragraph: 2. Criminal law
-        - paragraph: 3. Procurement law
-        - paragraph: 4. Litigation
-      - cell "9 December*":
+      - cell "9 December":
         - paragraph:
           - strong: 9 December
-          - emphasis: "*"
-      - cell "20 January*":
+      - cell "20 January":
         - paragraph:
           - strong: 20 January
-          - emphasis: "*"
 - paragraph:
   - text: For
   - strong: "2027"
