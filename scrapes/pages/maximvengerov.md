@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Oct 15
-  - heading "Tokyo Suntory Hall Concert" [level=1]:
-    - link "Tokyo Suntory Hall Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7
-  - list:
-    - listitem:
-      - time: 7:00 PM
-      - text: –
-      - time: 9:00 PM
-    - listitem:
-      - text: Tokyo Suntory Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=13 Minato City, Tokyo, 107-0052 Japan
-  - paragraph: Program
-  - paragraph: Sibelius Violin Concerto
-  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7
-- article:
   - text: Oct 16
   - heading "Tokyo Opera City Concert" [level=1]:
     - link "Tokyo Opera City Concert":
@@ -397,6 +378,25 @@
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - separator
+- article:
+  - text: Oct 15
+  - heading "Tokyo Suntory Hall Concert" [level=1]:
+    - link "Tokyo Suntory Hall Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Tokyo Suntory Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=13 Minato City, Tokyo, 107-0052 Japan
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7
 - article:
   - text: Oct 7
   - heading "Madrid Concert" [level=1]:
@@ -946,24 +946,5 @@
   - paragraph: Performers Marios Papadopoulos, conductor Maxim Vengerov, violin Oxford Philharmonic Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl
-- article:
-  - text: Jan 28
-  - heading "Recital London Barbican" [level=1]:
-    - link "Recital London Barbican":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: The Barbican Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=Silk Street London, England, EC2Y 8DS United Kingdom
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf
 ---
 
