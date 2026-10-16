@@ -48,7 +48,9 @@
   - text: ", EPSO is planning to open for application the following competitions:"
 - list:
   - listitem:
-    - strong: "February*: LAW – 4 fields (AD)"
+    - strong: "January*: Lawyers 1 – 4 fields (AD 7)**"
+  - listitem:
+    - strong: "February*: Lawyers 2 – 4 fields (AD)"
     - text: "**"
   - listitem:
     - strong: "March*: Assistants in the field of parliamentary work (AST)**"
