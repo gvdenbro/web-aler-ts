@@ -22,7 +22,7 @@ Of boek tickets voor de* *[voorstelling in de namiddag](https://tickets.vgc.be/e
 
 #### Prijslijst
 
-* ###### Ticket:
+* ###### Ticket.:
     
     * Standaardprijs: €0,00
 

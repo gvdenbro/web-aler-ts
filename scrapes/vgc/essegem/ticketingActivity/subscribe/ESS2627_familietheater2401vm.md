@@ -23,7 +23,7 @@ Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
 
 #### Prijslijst
 
-* ###### Ticket:
+* ###### Ticket.:
     
     * Standaardprijs: €8,00
     * Paspartoe-Kansentarief: €2,00
