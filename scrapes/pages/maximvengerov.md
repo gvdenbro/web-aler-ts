@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Oct 16
-  - heading "Tokyo Opera City Concert" [level=1]:
-    - link "Tokyo Opera City Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-36cf4
-  - list:
-    - listitem:
-      - time: 7:00 PM
-      - text: –
-      - time: 9:00 PM
-    - listitem:
-      - text: Tokyo Opera City
-      - link "(map)":
-        - /url: http://maps.google.com?q=20 Shinjuku City, Tokyo, 163-1403 Japan
-  - paragraph: Program
-  - paragraph: Sibelius Violin Concerto
-  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-36cf4
-- article:
   - text: Oct 18
   - heading "Tokyo Orchard Hall Concert" [level=1]:
     - link "Tokyo Orchard Hall Concert":
@@ -378,6 +359,25 @@
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - separator
+- article:
+  - text: Oct 16
+  - heading "Tokyo Opera City Concert" [level=1]:
+    - link "Tokyo Opera City Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-36cf4
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Tokyo Opera City
+      - link "(map)":
+        - /url: http://maps.google.com?q=20 Shinjuku City, Tokyo, 163-1403 Japan
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-36cf4
 - article:
   - text: Oct 15
   - heading "Tokyo Suntory Hall Concert" [level=1]:
@@ -927,24 +927,5 @@
   - paragraph: Performers Ivan Fischer, conductor Maxim Vengerov, violin Budapest Festival Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4
-- article:
-  - text: Feb 2
-  - heading "Oxford Concert" [level=1]:
-    - link "Oxford Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Sheldonian Theatre Oxford
-      - link "(map)":
-        - /url: http://maps.google.com?q=Broad Street Oxford, England, OX1 3AZ United Kingdom
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers Marios Papadopoulos, conductor Maxim Vengerov, violin Oxford Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl
 ---
 
