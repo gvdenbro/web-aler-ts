@@ -2,25 +2,6 @@
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
 - article:
-  - text: Oct 18
-  - heading "Tokyo Orchard Hall Concert" [level=1]:
-    - link "Tokyo Orchard Hall Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Tokyo Orchard Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=24 Shibuya, Tokyo, 150-8507 Japan
-  - paragraph: Program
-  - paragraph: Sibelius Violin Concerto
-  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda
-- article:
   - text: Oct 20
   - heading "Busan Korea Concert" [level=1]:
     - link "Busan Korea Concert":
@@ -359,6 +340,25 @@
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - separator
+- article:
+  - text: Oct 18
+  - heading "Tokyo Orchard Hall Concert" [level=1]:
+    - link "Tokyo Orchard Hall Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda
+  - list:
+    - listitem:
+      - time: 3:00 PM
+      - text: –
+      - time: 5:00 PM
+    - listitem:
+      - text: Tokyo Orchard Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=24 Shibuya, Tokyo, 150-8507 Japan
+  - paragraph: Program
+  - paragraph: Sibelius Violin Concerto
+  - paragraph: Performers Myung-Whun Chung, conductor Maxim Vengerov, violin Tokyo Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda
 - article:
   - text: Oct 16
   - heading "Tokyo Opera City Concert" [level=1]:
@@ -908,24 +908,5 @@
   - paragraph: Performers Kristian Sallinen, conductor Maxim Vengerov, violin National Symphony Orchestra Ireland
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-jemnb
-- article:
-  - text: Feb 6
-  - heading "Carnegie Hall Concert" [level=1]:
-    - link "Carnegie Hall Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Stern Auditorium / Perelman Stage
-      - link "(map)":
-        - /url: http://maps.google.com?q=881 7th Avenue New York, NY, 10019 United States
-  - paragraph: Program
-  - paragraph: Tchaikovsky Violin Concerto
-  - paragraph: Performers Ivan Fischer, conductor Maxim Vengerov, violin Budapest Festival Orchestra
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4
 ---
 
