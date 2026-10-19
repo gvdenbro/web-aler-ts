@@ -22,7 +22,7 @@ Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Reservatie data
 
-1.  07/09/2026 00:00 tot 24/10/2026 13:30 (Iedereen)
+1.  07/09/2026 00:00 tot 24/10/2026 11:00 (Iedereen)
 
 Stap 1 van 3
 

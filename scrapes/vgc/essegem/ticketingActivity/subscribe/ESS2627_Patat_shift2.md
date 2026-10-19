@@ -17,7 +17,7 @@ Bestel hier je porties voor de **tweede shift**.
 
 #### Reservatie data
 
-1.  07/09/2026 00:00 tot 24/10/2026 15:00 (Iedereen)
+1.  07/09/2026 00:00 tot 24/10/2026 12:30 (Iedereen)
 
 Stap 1 van 3
 
