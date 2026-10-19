@@ -1,6 +1,7 @@
 ---
 - title: maximvengerov
 - url: https://www.maximvengerov.com/events
+- text: Upcoming
 - article:
   - text: Oct 20
   - heading "Busan Korea Concert" [level=1]:
@@ -339,6 +340,7 @@
   - paragraph: Performers Mirga Gražinytė-Tyla, conductor Maxim Vengerov, violin New York Philharmonic
   - link "View Event →":
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
+- text: Past
 - separator
 - article:
   - text: Oct 18

@@ -17,8 +17,8 @@ Activiteit
 
 1.11 - 1.11.2026
 
-[Filem'On](https://jnm.be/nl/activiteiten/filemon)
---------------------------------------------------
+[Met JNM naar Filem'On!](https://jnm.be/nl/activiteiten/met-jnm-naar-filemon-1)
+-------------------------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
 
