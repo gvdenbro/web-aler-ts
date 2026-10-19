@@ -4,6 +4,8 @@ Weekendje
 
 23.10 - 25.10.2026
 
+Volzet
+
 [Herfstweekend 2026 (piepers)](https://jnm.be/nl/activiteiten/herfstweekend-2026-piepers)
 -----------------------------------------------------------------------------------------
 
@@ -19,6 +21,17 @@ Activiteit
 --------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
+
+![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
+
+Activiteit
+
+8.11 - 8.11.2026
+
+[De JNM BXL Ouderavond / La soirée des parents de JNM BXL](https://jnm.be/nl/activiteiten/de-jnm-bxl-ouderavond-la-soiree-des-parents-de-jnm-bxl)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
 
 ![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
 
