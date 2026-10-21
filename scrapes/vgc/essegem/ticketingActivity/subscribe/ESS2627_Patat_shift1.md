@@ -24,28 +24,8 @@ Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 1.  07/09/2026 00:00 tot 24/10/2026 11:00 (Iedereen)
 
-Stap 1 van 3
+### Volzet
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_Patat_shift1)
