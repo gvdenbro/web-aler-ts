@@ -1,7 +1,7 @@
 name: bikes
 on:
-  schedule:
-    - cron: "41 4-22/4 * * *"
+  # schedule:
+    # - cron: "41 4-22/4 * * *"
   workflow_dispatch:
 jobs:
   tests:
