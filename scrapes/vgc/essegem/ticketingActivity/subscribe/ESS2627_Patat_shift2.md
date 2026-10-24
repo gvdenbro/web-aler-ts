@@ -17,30 +17,10 @@ Bestel hier je porties voor de **tweede shift**.
 
 #### Reservatie data
 
-1.  07/09/2026 00:00 tot 24/10/2026 12:30 (Iedereen)
+1.  07/09/2026 09:00 tot 24/10/2026 13:30 (Iedereen)
 
-Stap 1 van 3
+### Volzet
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_Patat_shift2)

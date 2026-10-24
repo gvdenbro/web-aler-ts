@@ -18,14 +18,14 @@ Bestel hier je porties voor de **eerste shift**.
 *Niet genoeg porties beschikbaar? Bestel er voor de [2de shift (vanaf 13:30)](https://tickets.vgc.be/essegem/ticketingActivity/subscribe?id=ESS2627_Patat_shift2).*  
 
 ***  
-Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***  
+Contact: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39***
 
 #### Reservatie data
 
 1.  07/09/2026 00:00 tot 24/10/2026 11:00 (Iedereen)
 
-### Volzet
+#### Inschrijven niet mogelijk
 
-Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
+[Terug](/activity/index)
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_Patat_shift1)
