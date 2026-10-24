@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Oct 24
-  - heading "Shanghai Chamber Music Concert" [level=1]:
-    - link "Shanghai Chamber Music Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Shanghai Oriental Art Center
-      - link "(map)":
-        - /url: http://maps.google.com?q=425号 Ding Xiang Lu Pu Dong Xin Qu, Shang Hai Shi, 201204 China
-  - paragraph: Program
-  - paragraph: Brahms Scherzo from FAE Sonata Tchaikovsky Souvenir d’un lieu cher Mahler Piano Quartet in A Minor Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
-  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Steven Isserlis, cello Martha Argerich, piano Marios Papadopoulos, piano Theodosia Ntokou, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp
-- article:
   - text: Oct 25
   - heading "Shanghai Chamber Music Concert" [level=1]:
     - link "Shanghai Chamber Music Concert":
@@ -323,6 +304,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Oct 24
+  - heading "Shanghai Chamber Music Concert" [level=1]:
+    - link "Shanghai Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Shanghai Oriental Art Center
+      - link "(map)":
+        - /url: http://maps.google.com?q=425号 Ding Xiang Lu Pu Dong Xin Qu, Shang Hai Shi, 201204 China
+  - paragraph: Program
+  - paragraph: Brahms Scherzo from FAE Sonata Tchaikovsky Souvenir d’un lieu cher Mahler Piano Quartet in A Minor Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Steven Isserlis, cello Martha Argerich, piano Marios Papadopoulos, piano Theodosia Ntokou, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp
 - article:
   - text: Oct 20
   - heading "Busan Korea Concert" [level=1]:
@@ -872,24 +872,5 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s
-- article:
-  - text: Feb 28
-  - heading "Concerto Masterclass with Maxim Vengerov & NSOI" [level=1]:
-    - link "Concerto Masterclass with Maxim Vengerov & NSOI":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 2:00 PM
-    - listitem:
-      - text: National Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=Earlsfort Terrace Dublin, D, D02 N527 Ireland
-  - paragraph: Program
-  - paragraph: Mendelssohn Concerto Masterclass with Maxim Vengerov & NSOI
-  - paragraph: Performers Kristian Sallinen, conductor Maxim Vengerov, violin National Symphony Orchestra Ireland
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj
 ---
 
