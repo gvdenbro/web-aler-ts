@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Oct 25
-  - heading "Shanghai Chamber Music Concert" [level=1]:
-    - link "Shanghai Chamber Music Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Shanghai Oriental Art Center
-      - link "(map)":
-        - /url: http://maps.google.com?q=425号 Ding Xiang Lu Pu Dong Xin Qu, Shang Hai Shi, 201204 China
-  - paragraph: Program
-  - paragraph: Kreisler "Schön Rosmarin" & "Liebeslied" Brahms Violin Sonata No. 3, Op. 108
-  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano Marios Papadopoulos, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s
-- article:
   - text: Oct 28
   - heading "Xi’an Chamber Music Concert" [level=1]:
     - link "Xi’an Chamber Music Concert":
@@ -304,6 +285,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Oct 25
+  - heading "Shanghai Chamber Music Concert" [level=1]:
+    - link "Shanghai Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Shanghai Oriental Art Center
+      - link "(map)":
+        - /url: http://maps.google.com?q=425号 Ding Xiang Lu Pu Dong Xin Qu, Shang Hai Shi, 201204 China
+  - paragraph: Program
+  - paragraph: Kreisler "Schön Rosmarin" & "Liebeslied" Brahms Violin Sonata No. 3, Op. 108
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano Marios Papadopoulos, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s
 - article:
   - text: Oct 24
   - heading "Shanghai Chamber Music Concert" [level=1]:
@@ -853,24 +853,5 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
-- article:
-  - text: Mar 12
-  - heading "Recital Bari" [level=1]:
-    - link "Recital Bari":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s
-  - list:
-    - listitem:
-      - time: 8:30 PM
-      - text: –
-      - time: 10:30 PM
-    - listitem:
-      - text: Petruzzelli Teatro Bari
-      - link "(map)":
-        - /url: http://maps.google.com?q=12 Corso Cavour Bari, Puglia, 70122 Italy
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s
 ---
 
