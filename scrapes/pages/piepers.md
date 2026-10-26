@@ -37,8 +37,8 @@ Activiteit
 
 29.11 - 29.11.2026
 
-[Piepactiviteit](https://jnm.be/nl/activiteiten/piepactiviteit-10)
-------------------------------------------------------------------
+[Piepactiviteit](https://jnm.be/nl/activiteiten/piepactiviteit-5)
+-----------------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
 
@@ -63,5 +63,27 @@ Activiteit
 ---------------------------------------------------------
 
  ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Brussel
+
+![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
+
+Afdelingskamp
+
+3.07 - 10.07.2027
+
+[Kamp 2027 JNM Leievallei ( het beste kamp van je leven)](https://jnm.be/nl/activiteiten/kamp-2027-jnm-leievallei-het-beste-kamp-van-je-leven-1)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Leievallei
+
+![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
+
+Afdelingskamp
+
+3.07 - 10.07.2027
+
+[Kamp 2027 JNM Leievallei ( het beste kamp van je leven)](https://jnm.be/nl/activiteiten/kamp-2027-jnm-leievallei-het-beste-kamp-van-je-leven)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+ ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Pini's JNM Leievallei
 
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
