@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Oct 28
-  - heading "Xi’an Chamber Music Concert" [level=1]:
-    - link "Xi’an Chamber Music Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
-  - list:
-    - listitem:
-      - time: 7:45 PM
-      - text: –
-      - time: 9:45 PM
-    - listitem:
-      - text: Xi'an Grand Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q= Xi'An, Shaanxi, 710063 China
-  - paragraph: Program
-  - paragraph: Kreisler "Schön Rosmarin" & "Liebeslied" Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
-  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
-- article:
   - text: Oct 30
   - heading "Wuhan Qintai Chamber Music Concert" [level=1]:
     - link "Wuhan Qintai Chamber Music Concert":
@@ -285,6 +266,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Oct 28
+  - heading "Xi’an Chamber Music Concert" [level=1]:
+    - link "Xi’an Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
+  - list:
+    - listitem:
+      - time: 7:45 PM
+      - text: –
+      - time: 9:45 PM
+    - listitem:
+      - text: Xi'an Grand Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q= Xi'An, Shaanxi, 710063 China
+  - paragraph: Program
+  - paragraph: Kreisler "Schön Rosmarin" & "Liebeslied" Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Martha Argerich, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-lp58s-m6a9j
 - article:
   - text: Oct 25
   - heading "Shanghai Chamber Music Concert" [level=1]:
@@ -834,24 +834,5 @@
   - paragraph: Performers Mark Wigglesworth, conductor Maxim Vengerov, violin Philharmonia Orchestra
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-8ca8x
-- article:
-  - text: Mar 14
-  - heading "Recital Stockholm" [level=1]:
-    - link "Recital Stockholm":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
-  - list:
-    - listitem:
-      - time: 3:00 PM
-      - text: –
-      - time: 5:00 PM
-    - listitem:
-      - text: Stockholm Konzerthaus
-      - link "(map)":
-        - /url: http://maps.google.com?q=8 Hötorget Stockholm, Stockholms län, 103 87 Sweden
-  - paragraph: Program
-  - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata
-  - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae
 ---
 
