@@ -25,7 +25,7 @@ Laat in het atelier met Illustrator Laure Allain je creativiteit de vrije loop m
 
 #### Reservatie data
 
-1.  30/09/2026 09:00 tot 15/11/2026 10:00 (Iedereen)
+1.  30/09/2026 09:00 tot 15/11/2026 13:00 (Iedereen)
 
 Stap 1 van 3
 
