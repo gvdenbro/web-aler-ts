@@ -2,17 +2,6 @@
 
 Activiteit
 
-1.11 - 1.11.2026
-
-[Met JNM naar Filem'On!](https://jnm.be/nl/activiteiten/met-jnm-naar-filemon-1)
--------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 8.11 - 8.11.2026
 
 [De JNM BXL Ouderavond / La soirée des parents de JNM BXL](https://jnm.be/nl/activiteiten/de-jnm-bxl-ouderavond-la-soiree-des-parents-de-jnm-bxl)
