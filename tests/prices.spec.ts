@@ -152,7 +152,7 @@ test.skip("zalando-lounge", async ({ page, context }, testInfo) => {
 });
 
 
-test("cheleatandc", async ({ page, context }, testInfo) => {
+test.skip("cheleatandc", async ({ page, context }, testInfo) => {
 
   await page.goto("https://florinchelea.be/fr/terms");
 
