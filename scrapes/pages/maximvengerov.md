@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Nov 1
-  - heading "Changsha Chamber Music Concert" [level=1]:
-    - link "Changsha Chamber Music Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Changsha Grand Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=Xiang Jiang Bei Lu Chang Sha Shi, 410022 China
-  - paragraph: Program
-  - paragraph: Mahler Piano Quartet in A Minor Mozart Violin Sonata in E Minor, K304/300c Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
-  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
-- article:
   - text: Nov 4
   - heading "Guangzhou Xinghai Chamber Music Concert" [level=1]:
     - link "Guangzhou Xinghai Chamber Music Concert":
@@ -247,6 +228,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Nov 1
+  - heading "Changsha Chamber Music Concert" [level=1]:
+    - link "Changsha Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Changsha Grand Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Xiang Jiang Bei Lu Chang Sha Shi, 410022 China
+  - paragraph: Program
+  - paragraph: Mahler Piano Quartet in A Minor Mozart Violin Sonata in E Minor, K304/300c Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4
 - article:
   - text: Oct 30
   - heading "Wuhan Qintai Chamber Music Concert" [level=1]:
@@ -794,27 +794,5 @@
   - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
-- article:
-  - text: Apr 12
-  - heading "Hamburg Concert" [level=1]:
-    - link "Hamburg Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
-  - list:
-    - listitem:
-      - time: 11:00 AM
-      - text: –
-      - time: 1:00 PM
-    - listitem:
-      - text: Laeiszhalle
-      - link "(map)":
-        - /url: http://maps.google.com?q=Johannes-Brahms-Platz Hamburg, HH, 20355 Germany
-  - paragraph: Program
-  - paragraph:
-    - text: Glinka
-    - strong
-    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
-  - paragraph: Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Hamburg Symphony
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9
 ---
 
