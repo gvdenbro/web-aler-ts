@@ -62,7 +62,7 @@ Afdelingskamp
 [Kamp 2027 JNM Leievallei ( het beste kamp van je leven)](https://jnm.be/nl/activiteiten/kamp-2027-jnm-leievallei-het-beste-kamp-van-je-leven-1)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Leievallei
+ ![](https://jnm.be/img/icons/user-gray.svg) Piepers JNM Nationaal
 
 ![Type kampdepartment_camp](https://jnm.be/img/activity-type/department_camp.png)
 
@@ -73,6 +73,6 @@ Afdelingskamp
 [Kamp 2027 JNM Leievallei ( het beste kamp van je leven)](https://jnm.be/nl/activiteiten/kamp-2027-jnm-leievallei-het-beste-kamp-van-je-leven)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
- ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Pini's JNM Leievallei
+ ![](https://jnm.be/img/icons/user-gray.svg) Ini's,  Pini's JNM Nationaal
 
 [Source](https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel)
