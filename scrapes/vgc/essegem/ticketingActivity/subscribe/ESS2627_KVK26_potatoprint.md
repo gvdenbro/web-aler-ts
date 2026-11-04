@@ -12,7 +12,8 @@ ESS2627_KVK26_potatoprint
 Vanaf 10:00 tot 12:00
 
 Speciaal voor Kunstendag voor kinderen opent ons wekelijks atelier beeldende kunst haar deuren. Vandaag maken we samen met Lars en Maria-Isabel potato prints: aardappelstempels! We drukken erop los: op papier, textiel… Samen ontdekken we welke vormen en patronen kunnen ontstaan. Ontketen je creativiteit en fantasie en experimenteer erop los...  
-<br/>*Duo-workshop, leuk voor een (groot)ouder/meter/peter/oom/tante met een kind vanaf 3 jaar. *Reserveer 2 tickets, en vul op de volgende pagina de naam van het kind en jouw naam (of van de volwassene die het kind zal vergezellen) in.*  
+<br/>*Duo-workshop, leuk voor een (groot)ouder/meter/peter/oom/tante met een kind vanaf 3 jaar. *Reserveer 2 tickets, en vul op de volgende pagina de naam van het kind en jouw naam (of van de volwassene die het kind zal vergezellen) in.  
+<br/>***Volzet? Contacteer ons voor een plaats op de wachtlijst of doe mee aan de duo-workshop '[Getekende vingeroefeningen](https://tickets.vgc.be/essegem/ticketingActivity/subscribe?id=ESS2627_KVK26_vingeroefeningen)', om 13:00.**  
 <br/>***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 
 #### Prijslijst
@@ -27,28 +28,8 @@ Speciaal voor Kunstendag voor kinderen opent ons wekelijks atelier beeldende kun
 
 1.  30/09/2026 09:00 tot 15/11/2026 10:00 (Iedereen)
 
-Stap 1 van 3
+### Volzet
 
- 
-
-### Persoonlijke info
-
-Om tickets te kopen gelieve eerst uw e-mailadres in te geven
-
-  
-
-E-mail \* 
-
-Verifieer e-mail \* 
-
-Volgende
-
-### Gelieve uw voor en achternaam op te geven.
-
-Voornaam \* 
-
-Familienaam \* 
-
-Volgende
+Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
 
 [Source](https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_KVK26_potatoprint)
