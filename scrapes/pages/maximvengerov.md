@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Nov 4
-  - heading "Guangzhou Xinghai Chamber Music Concert" [level=1]:
-    - link "Guangzhou Xinghai Chamber Music Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
-  - list:
-    - listitem:
-      - time: 7:30 PM
-      - text: –
-      - time: 9:30 PM
-    - listitem:
-      - text: Guangzhou Xinghai Concert Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=Hai Shan Jie Guang Zhou Shi, Guang Dong Sheng, 510105 China
-  - paragraph: Program
-  - paragraph: Mahler Piano Quartet in A Minor Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
-  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
-- article:
   - text: Nov 8
   - heading "Baku Azerbaijan Concert" [level=1]:
     - link "Baku Azerbaijan Concert":
@@ -228,6 +209,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Nov 4
+  - heading "Guangzhou Xinghai Chamber Music Concert" [level=1]:
+    - link "Guangzhou Xinghai Chamber Music Concert":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
+  - list:
+    - listitem:
+      - time: 7:30 PM
+      - text: –
+      - time: 9:30 PM
+    - listitem:
+      - text: Guangzhou Xinghai Concert Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=Hai Shan Jie Guang Zhou Shi, Guang Dong Sheng, 510105 China
+  - paragraph: Program
+  - paragraph: Mahler Piano Quartet in A Minor Tchaikovsky Souvenir d’un lieu cher Beethoven Violin Sonata in A Major, Op. 47 "Kreutzer"
+  - paragraph: Performers Maxim Vengerov, violin Lyda Chen-Argerich, viola Edgar Moreau, cello Martha Argerich, piano Iddo Bar-Shai, piano Theodosia Ntokou, piano
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na-kebn4-9zf2d-njp3g-x2prm-zd63y-xnyjb-npfcb-3z26d-rdczb-a8jmn-jae55-s22bx-t5dw7-fndda-5y9f4-atp7x-jrdcp-gkw59-s4wd4-32lsc
 - article:
   - text: Nov 1
   - heading "Changsha Chamber Music Concert" [level=1]:
@@ -772,27 +772,5 @@
   - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
-- article:
-  - text: Apr 14
-  - heading "Potsdam Concert" [level=1]:
-    - link "Potsdam Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Nikolaisaal Potsdam
-      - link "(map)":
-        - /url: http://maps.google.com?q=10-11 Wilhelm-Staab-Straße Potsdam, BB, 14467 Germany
-  - paragraph: Program
-  - paragraph:
-    - text: Glinka
-    - strong
-    - text: Overture Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto
-  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy
 ---
 
