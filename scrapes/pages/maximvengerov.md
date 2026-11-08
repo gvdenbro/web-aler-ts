@@ -3,25 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Nov 8
-  - heading "Baku Azerbaijan Concert" [level=1]:
-    - link "Baku Azerbaijan Concert":
-      - /url: /events/xsnh3c7a52l586b
-  - list:
-    - listitem:
-      - time: 7:00 PM
-      - text: –
-      - time: 9:00 PM
-    - listitem:
-      - text: Baku Azerbaijan State Academic Philharmonic Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=İstiqlaliyyət Bakı Azerbaijan
-  - paragraph: Program
-  - paragraph: Franck Violin Sonata Shostakovich 10 Preludes Sheherezade (Violin Solos)
-  - paragraph: Performers Fuad Ibrahimov, conductor Maxim Vengerov, violin Evgenia Startseva, piano Baku Philharmonic Orchestra
-  - link "View Event →":
-    - /url: /events/xsnh3c7a52l586b
-- article:
   - text: Nov 13
   - heading "Paris Masterclass" [level=1]:
     - link "Paris Masterclass":
@@ -209,6 +190,25 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n
 - text: Past
 - separator
+- article:
+  - text: Nov 8
+  - heading "Baku Azerbaijan Concert" [level=1]:
+    - link "Baku Azerbaijan Concert":
+      - /url: /events/xsnh3c7a52l586b
+  - list:
+    - listitem:
+      - time: 7:00 PM
+      - text: –
+      - time: 9:00 PM
+    - listitem:
+      - text: Baku Azerbaijan State Academic Philharmonic Hall
+      - link "(map)":
+        - /url: http://maps.google.com?q=İstiqlaliyyət Bakı Azerbaijan
+  - paragraph: Program
+  - paragraph: Franck Violin Sonata Shostakovich 10 Preludes Sheherezade (Violin Solos)
+  - paragraph: Performers Fuad Ibrahimov, conductor Maxim Vengerov, violin Evgenia Startseva, piano Baku Philharmonic Orchestra
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b
 - article:
   - text: Nov 4
   - heading "Guangzhou Xinghai Chamber Music Concert" [level=1]:
@@ -754,23 +754,5 @@
   - paragraph: Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Prague Philharmonia
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
-- article:
-  - text: Apr 15
-  - heading "Berlin Concert" [level=1]:
-    - link "Berlin Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Berlin Philharmonie
-      - link "(map)":
-        - /url: http://maps.google.com?q=1 Herbert-von-Karajan-Straße Berlin, BE, 10785 Germany
-  - paragraph: Program Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Beethoven Symphony No. 7
-  - paragraph: Performers Christoph Koncz, conductor Maxim Vengerov, violin Deutsches Symphonie-Orchester Berlin
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-39mwy-2rck8
 ---
 

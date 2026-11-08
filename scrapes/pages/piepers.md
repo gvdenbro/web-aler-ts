@@ -2,17 +2,6 @@
 
 Activiteit
 
-8.11 - 8.11.2026
-
-[De JNM BXL Ouderavond / La soirée des parents de JNM BXL](https://jnm.be/nl/activiteiten/de-jnm-bxl-ouderavond-la-soiree-des-parents-de-jnm-bxl)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
- ![](https://jnm.be/img/icons/user-gray.svg) Piepers,  Ini's,  Gewone leden JNM Brussel
-
-![Type kampactivity](https://jnm.be/img/activity-type/activity.png)
-
-Activiteit
-
 15.11 - 15.11.2026
 
 [Flexactiviteit](https://jnm.be/nl/activiteiten/flexactiviteit)
