@@ -15,6 +15,8 @@ Laat in het atelier met Illustrator Laure Allain je creativiteit de vrije loop m
 <br/>*Duo-workshop, leuk voor een (groot)ouder/meter/peter/oom/tante met een kind vanaf 3 jaar. Reserveer 2 tickets, en vul op de volgende pagina de naam van het kind en jouw naam (of van de volwassene die het kind zal vergezellen) in.  
 <br/>***Info: [essegem@vgc.be](mailto:essegem@vgc.be) - 02 427 80 39****  
 
+###### *Er zijn nog een beperkt aantal plaatsen beschikbaar.*
+
 #### Prijslijst
 
 * ###### Ticket:
