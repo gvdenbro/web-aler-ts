@@ -37,6 +37,25 @@
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
 - article:
+  - text: Nov 18
+  - heading "Paris Concert" [level=1]:
+    - link "Paris Concert":
+      - /url: /events/xsnh3c7a52l586b-adgca
+  - list:
+    - listitem:
+      - time: 8:00 PM
+      - text: –
+      - time: 10:00 PM
+    - listitem:
+      - text: Theatre des Champs Elysees Paris
+      - link "(map)":
+        - /url: http://maps.google.com?q=15 Avenue Montaigne Paris, Île-de-France, 75008 France
+  - paragraph: Program
+  - paragraph: Tchaikovsky Violin Concerto Bach Double Violin Concerto Tchaikovsky Souvenir d’un lieu cher Tchaikovsky Romeo & Juliet
+  - paragraph: Performers Bastien Stil, conductor Maxim Vengerov, 1st violin Winner of the Competition, 2nd violin Orchestra de la Garde Républicane
+  - link "View Event →":
+    - /url: /events/xsnh3c7a52l586b-adgca
+- article:
   - text: Dec 3
   - heading "Johannesburg Concert" [level=1]:
     - link "Johannesburg Concert":
