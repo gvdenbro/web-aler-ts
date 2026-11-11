@@ -3,8 +3,6 @@
 - url: https://selection.eu-careers.europa.eu/en/upcoming-selection-procedures
 - heading "Upcoming opportunities" [level=1]
 - paragraph:
-  - emphasis: "Last update: 22/09/2026"
-- paragraph:
   - text: In line with the needs expressed by the EU institutions, EPSO is making preparations for the following competitions to be published in
   - strong: "2026"
   - text: ":"
