@@ -3,23 +3,6 @@
 - url: https://www.maximvengerov.com/events
 - text: Upcoming
 - article:
-  - text: Nov 13
-  - heading "Paris Masterclass" [level=1]:
-    - link "Paris Masterclass":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
-  - list:
-    - listitem:
-      - time: 2:00 PM
-      - text: –
-      - time: 4:00 PM
-    - listitem:
-      - text: Conservatoire à Rayonnement Régional - Ida Rubinstein
-      - link "(map)":
-        - /url: http://maps.google.com?q=14 Rue de Madrid Paris, Île-de-France, 75008 France
-  - paragraph: Masterclass with Maxim Vengerov Admission by Reservation
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
-- article:
   - text: Nov 16
   - heading "Paris Masterclass" [level=1]:
     - link "Paris Masterclass":
@@ -321,6 +304,23 @@
     - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n-xxcx2-5fkjy-yn7xx-bs5ad
 - text: Past
 - separator
+- article:
+  - text: Nov 13
+  - heading "Paris Masterclass" [level=1]:
+    - link "Paris Masterclass":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
+  - list:
+    - listitem:
+      - time: 2:00 PM
+      - text: –
+      - time: 4:00 PM
+    - listitem:
+      - text: Conservatoire à Rayonnement Régional - Ida Rubinstein
+      - link "(map)":
+        - /url: http://maps.google.com?q=14 Rue de Madrid Paris, Île-de-France, 75008 France
+  - paragraph: Masterclass with Maxim Vengerov Admission by Reservation
+  - link "View Event →":
+    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp-yydb7
 - article:
   - text: Nov 8
   - heading "Baku Azerbaijan Concert" [level=1]:
@@ -867,23 +867,5 @@
   - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
   - link "View Event →":
     - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
-- article:
-  - text: Apr 26
-  - heading "Prague Concert" [level=1]:
-    - link "Prague Concert":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
-  - list:
-    - listitem:
-      - time: 8:00 PM
-      - text: –
-      - time: 10:00 PM
-    - listitem:
-      - text: Smetana Hall
-      - link "(map)":
-        - /url: http://maps.google.com?q=1090 Náměstí Republiky Praha 1, Hlavní město Praha, 110 00 Czechia
-  - paragraph: Program
-  - paragraph: Alexey Shor Violin concerto No. 6 “Carpe diem” Tchaikovsky Violin Concerto Performers Emanuelle Vuillaume, conductor Maxim Vengerov, violin Prague Philharmonia
-  - link "View Event →":
-    - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-kdxae-h3r9m-44yn9-z83kk
 ---
 
