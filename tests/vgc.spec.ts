@@ -1,9 +1,10 @@
 import { test, expect } from '@playwright/test';
 import { removeDirectory } from './fs-utils';
-import { createMarkdown } from './md-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const age: number = ~~((Date.now().valueOf() - new Date('2017-07-20').valueOf()) / 31557600000);
 const scrapesDirectory: string = './scrapes/vgc'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 interface Dienst {
   naam: string;
@@ -62,16 +63,21 @@ for (const dienst of diensten) {
         if (await metaTag.count() > 0) {
   
           const ogUrl = await metaTag.getAttribute("content");
-  
-          expect(ogUrl).toBeDefined();
+
+          expect(ogUrl).toBeTruthy();
+
+          // og:url is a site-absolute path (e.g. /activity/subscribe/...); keep it relative to the scrape set.
+          const artifactName = [dienst.naam, ...ogUrl!.split('/').filter(Boolean)].join('/');
   
           await page.evaluate(() => {
             document.querySelectorAll(".badge").forEach(el => el.remove());
           });
   
-          const htmlContent = await mainContent.innerHTML();
-  
-          createMarkdown(`${scrapesDirectory}/${dienst.naam}/${ogUrl}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+          await artifacts.record({
+            name: artifactName,
+            url: page.url(),
+            content: await mainContent.innerHTML(),
+          });
         }
   
         page.context().clearCookies(); // clear cookies because otherwise we end up in an error because of some bug on the website

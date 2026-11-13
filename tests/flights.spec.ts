@@ -2,6 +2,7 @@ import { test } from '@playwright/test';
 import { removeFiles } from './fs-utils';
 import { simpleGraph } from './graph-utils';
 import { matrixSavedSearch } from "./flights-utils";
+import { scrapeArtifacts } from './scrape-artifact';
 // import { addExtra } from 'playwright-extra';
 // import stealth from 'puppeteer-extra-plugin-stealth';
 // import { chromium } from 'playwright';
@@ -10,6 +11,7 @@ import { matrixSavedSearch } from "./flights-utils";
 // playwright.use(stealth());
 
 const scrapesDirectory: string = './scrapes/flights'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
@@ -30,12 +32,12 @@ test.skip("cambodia-xmas", async ({ browser }, testInfo) => {
 
     const savedSearch = '[{"type":"round-trip","slices":[{"origin":["BRU"],"dest":["PNH"],"dates":{"searchDateType":"specific","departureDate":"2025-12-24","departureDateType":"depart","departureDateModifier":"1","departureDatePreferredTimes":[],"duration":"7","returnDate":"2026-01-04","returnDateType":"arrive","returnDateModifier":"10","returnDatePreferredTimes":[]}}],"options":{"cabin":"COACH","stops":"1","extraStops":"0","allowAirportChanges":"false","showOnlyAvailable":"true"},"pax":{"adults":"2","children":"1"}}]';
 
-    await matrixSavedSearch(browser, testInfo, scrapesDirectory, savedSearch);
+    await matrixSavedSearch(browser, testInfo, artifacts, savedSearch);
 });
 
 test.skip("japan-easter", async ({ browser }, testInfo) => {
 
     const savedSearch = '[{"type":"round-trip","slices":[{"origin":["BRU"],"dest":["TYO","OSA"],"routing":"","ext":"","routingRet":"","extRet":"","dates":{"searchDateType":"specific","departureDate":"2026-04-04","departureDateType":"depart","departureDateModifier":"1","departureDatePreferredTimes":[],"returnDate":"2026-04-19","returnDateType":"arrive","returnDateModifier":"10","returnDatePreferredTimes":[]}}],"options":{"cabin":"COACH","stops":"1","extraStops":"1","allowAirportChanges":"false","showOnlyAvailable":"true"},"pax":{"adults":"2","children":"1"}}]';
 
-    await matrixSavedSearch(browser, testInfo, scrapesDirectory, savedSearch);
+    await matrixSavedSearch(browser, testInfo, artifacts, savedSearch);
 });

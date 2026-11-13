@@ -1,8 +1,8 @@
 import {Browser, BrowserContextOptions, TestInfo} from "@playwright/test";
-import {createMarkdown} from "./md-utils";
 import {appendPriceAsString} from "./prices-utils";
+import {ScrapeArtifacts} from "./scrape-artifact";
 
-export async function matrixSavedSearch(browser: Browser, testInfo: TestInfo, scrapesDirectory: string, savedSearch: string) {
+export async function matrixSavedSearch(browser: Browser, testInfo: TestInfo, artifacts: ScrapeArtifacts, savedSearch: string) {
     const contextOptions: BrowserContextOptions = {
         storageState: {
             cookies: [],
@@ -31,6 +31,10 @@ export async function matrixSavedSearch(browser: Browser, testInfo: TestInfo, sc
 
     const cheapestPrice = await page.locator('matrix-result-set-panel').locator('tbody').locator('tr td').first().textContent();
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${cheapestPrice}</div>`);
-    appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}`, cheapestPrice);
+    await artifacts.record({
+        name: testInfo.title,
+        url: page.url(),
+        content: cheapestPrice ?? '',
+    });
+    appendPriceAsString(`${artifacts.directory}/prices.csv`, `${testInfo.title}`, cheapestPrice);
 }

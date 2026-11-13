@@ -1,8 +1,9 @@
 import { test, expect } from '@playwright/test';
 import { removeDirectory } from './fs-utils';
-import { createMarkdown } from './md-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/taiwan'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
@@ -46,7 +47,7 @@ test.skip('emirates', async ({ page }) => {
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/emirates.png` });
+    const screenshot = await gridResultPage.screenshot();
 
     await page.evaluate(() => {
         document.querySelectorAll(".visually-hidden").forEach(el => el.remove());
@@ -57,7 +58,13 @@ test.skip('emirates', async ({ page }) => {
         document.querySelectorAll(".lowest-price").forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/emirates.md`, `<table>${await gridResultPage.locator("table").innerHTML()}</table><img src="emirates.png"></img>`, { handleTables: true });
+    await artifacts.record({
+        name: 'emirates',
+        url: page.url(),
+        format: 'table',
+        content: `<table>${await gridResultPage.locator("table").innerHTML()}</table>`,
+        screenshot: async () => screenshot,
+    });
 });
 
 test.skip('turkish-airlines', async ({ page }) => {
@@ -104,13 +111,19 @@ test.skip('turkish-airlines', async ({ page }) => {
 
     await expect(gridResultPage).toBeVisible({ timeout: 30000 });
 
-    await gridResultPage.screenshot({ path: `${scrapesDirectory}/turkish-airlines.png` });
+    const screenshot = await gridResultPage.screenshot();
 
     await page.evaluate(() => {
         document.querySelectorAll(".price-column-currency").forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/turkish-airlines.md`, `<table>${await gridResultPage.innerHTML()}</table><img src="turkish-airlines.png"></img>`, { handleTables: true });
+    await artifacts.record({
+        name: 'turkish-airlines',
+        url: page.url(),
+        format: 'table',
+        content: `<table>${await gridResultPage.innerHTML()}</table>`,
+        screenshot: async () => screenshot,
+    });
 });
 
 test.skip('singapore-airlines', async ({ page, context }) => {

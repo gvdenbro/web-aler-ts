@@ -1,8 +1,9 @@
 import { test, expect } from '@playwright/test';
 import { removeDirectory } from './fs-utils';
-import { createMarkdown } from './md-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/buienradar'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeEach(async ({ context }) => {
   // block cookie consent popup
@@ -33,9 +34,10 @@ test("buienradar-jette-3-uur", async ({ page, context }, testInfo) => {
     }
   }
 
-  const htmlContent = await rainLabel.innerHTML();
-
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await rainBox.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: await rainLabel.innerHTML(),
+    screenshot: () => rainBox.screenshot(),
+  });
 });

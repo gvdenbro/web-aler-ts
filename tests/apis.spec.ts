@@ -1,8 +1,10 @@
 import { test, expect } from '@playwright/test';
 import { removeFiles } from './fs-utils';
-import { createMarkdown } from './md-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/apis'
+const artifacts = scrapeArtifacts(scrapesDirectory);
+const digiInfrastructureUrl = 'https://api.digi-belgium.be/v1/address/infrastructure';
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
@@ -13,7 +15,7 @@ test.beforeAll(async ({ }, testInfo) => {
 
 test('digi belgium available', async ({ request }, testInfo) => {
 
-    const response = await request.put('https://api.digi-belgium.be/v1/address/infrastructure', {
+    const response = await request.put(digiInfrastructureUrl, {
       data: {
         cityId: 21010,
         countryId: 99,
@@ -44,5 +46,9 @@ test('digi belgium available', async ({ request }, testInfo) => {
       return value; // Include all other properties
     };
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><pre><code>${JSON.stringify(jsonResponse, replacer, 2)}</code></pre></div>`);
+    await artifacts.record({
+      name: testInfo.title,
+      url: digiInfrastructureUrl,
+      content: `<pre><code>${JSON.stringify(jsonResponse, replacer, 2)}</code></pre>`,
+    });
   });

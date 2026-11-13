@@ -30,11 +30,17 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
+      name: 'unit',
+      testMatch: /.*\.unit\.ts$/,
+    },
+    {
       name: 'chromium',
+      testIgnore: /.*\.unit\.ts$/,
       use: devices['Desktop Chrome'],
     },
     {
       name: 'firefox',
+      testIgnore: /.*\.unit\.ts$/,
       use: {
         ...devices['Desktop Firefox'],
         viewport: { width: 1920, height: 1080 },

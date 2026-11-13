@@ -9,5 +9,9 @@
           }
         }
       },
-      "data": []
+      "data": {
+        "serviceType": "internet"
+      }
     }
+
+[Source](https://api.digi-belgium.be/v1/address/infrastructure)

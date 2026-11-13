@@ -1,10 +1,11 @@
 import { test, expect, Page, TestInfo } from '@playwright/test';
 import { removeFiles } from './fs-utils';
-import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
 import { generateSvg } from './graph-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/prices'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
@@ -38,7 +39,7 @@ test.afterAll(async ({ }) => {
       },
       resolve: { scale: { color: 'independent', y: 'independent', x: 'independent' } },// make sure each facet has its own legend
       config: {
-        font: "Liberation Mono"
+        font: 'Liberation Mono'
       }
     }
   });
@@ -75,9 +76,12 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
 
   const htmlContent = await page.locator('.d-none > .prices > .price').innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('.product-option-box').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: htmlContent,
+    screenshot: () => page.locator('.product-option-box').screenshot(),
+  });
 }
 
 test.skip("vandenborre-SMI4ECS28E", async ({ page, context }, testInfo) => {
@@ -86,9 +90,12 @@ test.skip("vandenborre-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   const htmlContent = await page.locator('.pdhe-extra-info').innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('.product-detail-header-expanded').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: htmlContent,
+    screenshot: () => page.locator('.product-detail-header-expanded').screenshot(),
+  });
 });
 
 test.skip("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
@@ -101,9 +108,12 @@ test.skip("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   const htmlContent = await page.locator(".lg\\:ml-20").innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('div.gap-4:nth-child(3)').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: htmlContent,
+    screenshot: () => page.locator('div.gap-4:nth-child(3)').screenshot(),
+  });
 });
 
 test.skip("coolblue-SMI4ECS28E", async ({ page, context }, testInfo) => {
@@ -114,9 +124,12 @@ test.skip("coolblue-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   const htmlContent = await page.locator("#main-content form").innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('#main-content form').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: htmlContent,
+    screenshot: () => page.locator('#main-content form').screenshot(),
+  });
 });
 
 test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
@@ -127,9 +140,12 @@ test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
   const htmlContent = await page.locator('.trcquant').innerHTML();
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-  await page.locator('#center_column .primary_block.row').screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: htmlContent,
+    screenshot: () => page.locator('#center_column .primary_block.row').screenshot(),
+  });
 });
 
 test.skip("zalando-lounge", async ({ page, context }, testInfo) => {
@@ -144,10 +160,12 @@ test.skip("zalando-lounge", async ({ page, context }, testInfo) => {
 
   if (await match.isVisible()) {
 
-    const htmlContent = await match.innerHTML();
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><img src="${testInfo.title}.png"></img></p><p><a href="${page.url()}">Source</a></p></div>`);
-
-    await match.screenshot({ path: `${scrapesDirectory}/${testInfo.title}.png` });
+    await artifacts.record({
+      name: testInfo.title,
+      url: page.url(),
+      content: await match.innerHTML(),
+      screenshot: () => match.screenshot(),
+    });
   }
 });
 
@@ -160,9 +178,11 @@ test.skip("cheleatandc", async ({ page, context }, testInfo) => {
 
   expect(container).toBeVisible();
 
-  const htmlContent = await container.innerHTML();
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
-
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: await container.innerHTML(),
+  });
 });
 
 test.skip("zalando-teva-42", async ({ page }, testInfo) => {
@@ -190,7 +210,11 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
     const title = (await locator.locator('h3').nth(1).textContent())?.trim().replace(/\s|\//g, "_");
     const price = (await locator.locator('section > p').first().textContent()) || '';
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}-${title}.md`, `<div><div>${price.match(/\d+/g)?.join('') || ''}</div><p><a href="${page.url()}">Source</a></p></div>`);
+    await artifacts.record({
+      name: `${testInfo.title}-${title}`,
+      url: page.url(),
+      content: price.match(/\d+/g)?.join('') || '',
+    });
 
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
   }
@@ -222,8 +246,11 @@ test.skip("immoweb", async ({ page, context }, testInfo) => {
     document.querySelectorAll('.flag-list__text').forEach(el => el.remove());
   });
 
-  const htmlContent = await mainContent.innerHTML();
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: await mainContent.innerHTML(),
+  });
 
 });
 
@@ -263,60 +290,10 @@ test.skip("immovlan", async ({ page, context }, testInfo) => {
   // load lazy images
   await page.evaluate(scroll, {direction: "down", speed: "slow"});
 
-  const htmlContent = await mainContent.innerHTML();
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: await mainContent.innerHTML(),
+  });
 
 });
-
-// test("zimmo", async ({ page, context }, testInfo) => {
-
-//   await page.goto("https://www.zimmo.be/fr/");
-
-//   try {
-//     const popup = page.getByLabel('Accepter & Fermer: Accepter');
-//     await expect(popup).toBeVisible();
-//     await popup.click();
-//   } catch(err) {
-//     // ignore - sometimes we don't get the popup
-//   }
-
-//   await page.getByRole('button', { name: 'À louer' }).click();
-//   await page.getByPlaceholder('Commune ou code postal').click();
-//   await page.getByPlaceholder('Commune ou code postal').fill('1090');
-//   await page.getByText('Jette (1090)').click();
-//   await page.getByRole('button', { name: 'Type' }).click();
-//   await page.locator('label').filter({ hasText: 'Appartement' }).click();
-//   await page.getByRole('button', { name: 'Prix' }).click();
-//   await page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...').click();
-//   await page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...').fill('750');
-//   await page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...').click();
-//   await page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...').fill('1150');
-//   await page.getByRole('button', { name: 'Rechercher' }).click();
-
-//   // await page.getByRole('button', { name: 'Modifier les critères de' }).click();
-//   // await page.getByRole('button', { name: 'à vendre' }).click();
-//   // await page.getByText('à louer', { exact: true }).click();
-//   // await page.locator('app-query-price-selector').getByRole('button', { name: 'Faites votre choix' }).click();
-//   // const minPrice = page.locator('li').filter({ hasText: 'Min.€--' }).getByPlaceholder('Entrez ou sélectionnez...');
-//   // await minPrice.click();
-//   // await minPrice.fill('750');
-//   // const maxPrice = page.locator('li').filter({ hasText: 'Max.€--' }).getByPlaceholder('Entrez ou sélectionnez...');
-//   // await maxPrice.click();
-//   // await maxPrice.fill('1150');
-//   // await page.locator('app-query-type-selector').getByRole('button', { name: 'Faites votre choix' }).click();
-//   // await page.locator('label').filter({ hasText: 'Appartement' }).click();
-//   // await page.getByPlaceholder('Commune ou code postal').click();
-//   // await page.getByPlaceholder('Commune ou code postal').fill('1090');
-//   // await page.getByText('Jette (1090)').click();
-  
-//   const mainContent = page.locator("#search-results");
-
-//   expect(mainContent).toBeVisible();
-
-//   // load lazy images
-//   await page.evaluate(scroll, {direction: "down", speed: "slow"});
-
-//   const htmlContent = await mainContent.innerHTML();
-//   createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${htmlContent}</div><p><a href="${page.url()}">Source</a></p></div>`);
-
-// });

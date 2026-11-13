@@ -1,10 +1,11 @@
 import { test, expect, Page, TestInfo } from '@playwright/test';
 import { removeFiles } from './fs-utils';
-import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
 import { generateSvg } from './graph-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/states'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
@@ -119,7 +120,11 @@ async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Befo
         document.querySelectorAll('[data-test="fare-button--wanna-get-away-plus"]').forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}</div>`);
+    await artifacts.record({
+        name: testInfo.title,
+        url: page.url(),
+        content: await gridResultPage.innerHTML(),
+    });
 
     const locators = await gridResultPage.getByRole('listitem').all();
 
@@ -179,7 +184,11 @@ async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening
         document.querySelectorAll('[aria-describedby="MIN-BUSINESS-OR-FIRST"]').forEach(el => el.remove());
     });
 
-    createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div>${await gridResultPage.innerHTML()}</div>`);
+    await artifacts.record({
+        name: testInfo.title,
+        url: page.url(),
+        content: await gridResultPage.innerHTML(),
+    });
 
     const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).filter({hasNotText: "Operated by JSX Air"}).all();
 

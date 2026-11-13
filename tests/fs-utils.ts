@@ -17,11 +17,3 @@ export function removeFiles(directoryPath: string, extension: string): void {
     fs.unlinkSync(path.resolve(directoryPath, file));
   });
 }
-
-export function createFile(filePath: string, content: string | NodeJS.ArrayBufferView): void {
-
-  const dir = path.dirname(filePath);
-
-  fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(filePath, content);
-}

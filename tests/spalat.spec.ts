@@ -1,10 +1,11 @@
 import { test, expect, Page, TestInfo } from '@playwright/test';
 import { removeFiles } from './fs-utils';
-import { createMarkdown } from './md-utils';
 import { appendPriceAsString } from './prices-utils';
 import { generateSvg } from './graph-utils';
+import { scrapeArtifacts } from './scrape-artifact';
 
 const scrapesDirectory: string = './scrapes/spalat'
+const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.use({
   locale: 'ro-RO,en;q=0.5',
@@ -63,7 +64,11 @@ async function altex(page: Page, testInfo: TestInfo, url: string) {
 
   const price = (await page.locator(".items-start span.Price-int.leading-none").last().textContent()) || '';
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${price.match(/\d+/g)?.join('') || ''}</div><p><a href="${page.url()}">Source</a></p></div>`);
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: price.match(/\d+/g)?.join('') || '',
+  });
 
   appendPriceAsString(`${scrapesDirectory}/spalat.csv`, `${testInfo.title}`, price);
 }
@@ -95,7 +100,11 @@ async function emag(page: Page, testInfo: TestInfo, url: string) {
 
   const price = (((await page.locator(".pricing-block .product-new-price").last().textContent()) || '').match(/\d+/g)?.join('') || '').slice(0, -2);
 
-  createMarkdown(`${scrapesDirectory}/${testInfo.title}.md`, `<div><div>${price}</div><p><a href="${page.url()}">Source</a></p></div>`);
+  await artifacts.record({
+    name: testInfo.title,
+    url: page.url(),
+    content: price,
+  });
 
   appendPriceAsString(`${scrapesDirectory}/spalat.csv`, `${testInfo.title}`, price);
 }
