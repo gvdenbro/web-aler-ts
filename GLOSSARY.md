@@ -16,6 +16,10 @@ _Avoid_: source, site, URL
 A named group of scrapes that share an output directory, schedule, and notification.
 _Avoid_: workflow, category, collection
 
+**Scrape set registry**:
+The single list that defines each active scrape set's schedule, spec, output directory, and notification image.
+_Avoid_: workflow matrix, config, manifest
+
 **Scrape artifact**:
 The durable record of one scrape: a markdown file, an optional image, and a link to the source.
 _Avoid_: output, result, file, page

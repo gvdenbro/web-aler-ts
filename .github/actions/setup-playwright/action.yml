@@ -1,0 +1,30 @@
+name: setup playwright
+description: Install Node, project dependencies, and a Playwright browser.
+
+inputs:
+  browser:
+    description: Playwright browser to install.
+    required: false
+    default: firefox
+  node-version:
+    description: Node version to use.
+    required: false
+    default: "22"
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-node@v4
+      with:
+        node-version: ${{ inputs.node-version }}
+    - uses: actions/cache@v4
+      id: playwright-cache
+      with:
+        path: |
+          ~/.cache/ms-playwright
+        key: ${{ runner.os }}-playwright-${{ inputs.browser }}-${{ hashFiles('**/package-lock.json') }}
+    - run: npm ci
+      shell: bash
+    - run: npx playwright install --with-deps ${{ inputs.browser }}
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
+      shell: bash

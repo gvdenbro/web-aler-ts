@@ -1,0 +1,106 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "33 4-21 * * *" # pages
+    - cron: "7 4-22 * * *" # prices
+    - cron: "37 4-22/4 * * *" # flights
+    - cron: "5 4-21 * * *" # vgc
+  workflow_dispatch:
+    inputs:
+      set:
+        description: Scrape set name, or all
+        required: false
+        default: all
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  resolve:
+    name: resolve scrape sets
+    runs-on: ubuntu-latest
+    outputs:
+      sets: ${{ steps.resolve.outputs.sets }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve scrape sets
+        id: resolve
+        run: node scripts/scrape-sets.mjs resolve "${{ github.event.schedule }}" "${{ inputs.set }}" >> "$GITHUB_OUTPUT"
+
+  scrape:
+    name: scrape ${{ matrix.name }}
+    needs: resolve
+    if: ${{ needs.resolve.outputs.sets != '[]' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        include: ${{ fromJSON(needs.resolve.outputs.sets) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup-playwright
+        with:
+          browser: firefox
+          node-version: "22"
+
+      - name: Run Playwright tests
+        run: npx playwright test ${{ matrix.spec }} --project=firefox
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-outcome-${{ matrix.name }}
+          path: |
+            playwright-report
+            test-results
+          retention-days: 15
+
+      - name: Commit and push if changes occurred
+        id: publish
+        if: success()
+        run: |-
+          git config --global user.name 'gvdenbro from gh action'
+          git config --global user.email 'gvdenbro@users.noreply.github.com'
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest scraping ${{ matrix.name }}: ${timestamp}" || exit 0
+          node scripts/scrape-sets.mjs changes "${{ matrix.directory }}" >> "$GITHUB_OUTPUT"
+          echo "url=${{ github.server_url }}/${{ github.repository }}/commit/$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          git pull --no-rebase
+          git push
+
+      - name: Check notification image
+        id: image
+        if: ${{ success() && steps.publish.outputs.changed != '' && matrix.image != '' }}
+        run: |-
+          if [ -f "${{ matrix.image }}" ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Notify Telegram
+        uses: appleboy/telegram-action@master
+        if: ${{ success() && steps.publish.outputs.changed != '' && steps.image.outputs.exists != 'true' }}
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "[${{ matrix.name }} web alerts - view changes](${{ steps.publish.outputs.url }}):\n${{ steps.publish.outputs.changed }}"
+          format: markdown
+
+      - name: Notify Telegram with image
+        uses: appleboy/telegram-action@master
+        if: ${{ success() && steps.publish.outputs.changed != '' && steps.image.outputs.exists == 'true' }}
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "[${{ matrix.name }} web alerts - view changes](${{ steps.publish.outputs.url }}):\n${{ steps.publish.outputs.changed }}"
+          format: markdown
+          photo: ${{ matrix.image }}
