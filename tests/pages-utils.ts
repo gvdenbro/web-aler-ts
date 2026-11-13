@@ -18,6 +18,8 @@ export function testPage(title: string, url: string, locator: string | ((page: P
 
         const container = typeof locator === 'string' ? page.locator(locator) : locator(page);
 
+        expect(container).toBeAttached();
+        await container.scrollIntoViewIfNeeded();
         expect(container).toBeVisible();
 
         if (options && options.yaml) {

@@ -39,6 +39,9 @@ export default defineConfig({
         ...devices['Desktop Firefox'],
         viewport: { width: 1920, height: 1080 },
         userAgent: "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0",
+        launchOptions: {
+          firefoxUserPrefs: { 'network.proxy.type': 0 },
+        },
       },
     },
   ],

@@ -24,3 +24,4 @@ testPage("piepers", "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm
 // testPage("coolblue-yamaha-ns-f-51-black", "https://www.coolblue.be/en/product/644101/yamaha-ns-f-51-black-per-pair.html", 'form[class^="main-"]', scrapesDirectory, {cookie: {name: "cookie-preferences", value: "eyJ2ZXJzaW9uIjoiMjAyMzExMDciLCJmdW5jdGlvbmFsIjp0cnVlLCJhbmFseXRpY2FsIjpmYWxzZSwibWFya2V0aW5nIjpmYWxzZX0%3D"}, yaml: true});
 // testPage("bronks-atelier", "https://www.bronks.be/nl/ateliers/jaarwerking", "main", scrapesDirectory, {yaml: true})
 // testPage("nostalgie-halloween", "https://www.nostalgie.be/parcourshalloween", "main", scrapesDirectory, {yaml: true})
+testPage("mat", "https://kurma-yoga.com/nl/product/core-black-yogamat/?attribute_pa_size=200-cm-x-80-cm-6-5-mm-ca-4-kg-nl","form.cart .woocommerce-variation-price", scrapesDirectory, {yaml: true});
