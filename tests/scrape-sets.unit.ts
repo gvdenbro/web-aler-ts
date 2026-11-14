@@ -32,6 +32,17 @@ test('scheduled crons match the workflow triggers', async () => {
   expect([...new Set(crons)].sort()).toEqual([...new Set(scrapeSets.map(set => set.cron))].sort());
 });
 
+test('run-name maps each scheduled set to its name', async () => {
+
+  const workflow = fs.readFileSync(path.join(process.cwd(), '.github', 'workflows', 'scrape.yml'), 'utf8');
+  const runName = workflow.match(/^run-name:\s*"([^"]+)"\s*$/m)?.[1] ?? '';
+
+  expect(runName).toContain('inputs.set');
+  for (const set of scrapeSets) {
+    expect(runName).toContain(`github.event.schedule == '${set.cron}' && '${set.name}'`);
+  }
+});
+
 test('resolves a schedule to its set', async () => {
 
   expect(resolveSets({ schedule: '33 4-21 * * *' })).toEqual([{

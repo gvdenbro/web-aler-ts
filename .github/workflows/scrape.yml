@@ -1,4 +1,5 @@
 name: scrape
+run-name: "scrape ${{ inputs.set || github.event.schedule == '33 4-21 * * *' && 'pages' || github.event.schedule == '7 4-22 * * *' && 'prices' || github.event.schedule == '37 4-22/4 * * *' && 'flights' || github.event.schedule == '5 4-21 * * *' && 'vgc' || 'all' }}"
 
 on:
   schedule:
