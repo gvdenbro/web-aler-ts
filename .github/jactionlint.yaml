@@ -1,0 +1,2 @@
+# Correctness only: workflow syntax and expressions. Security/pinning policy is separate.
+profile: correctness

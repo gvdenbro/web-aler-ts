@@ -1,2 +1,12 @@
 [tools]
+jactionlint = "2.6.0"
 node = "22"
+
+[tasks.typecheck]
+run = "npx tsc --noEmit"
+
+[tasks."lint:workflows"]
+run = "jactionlint"
+
+[tasks.check]
+run = "mise run typecheck && mise run lint:workflows && npx playwright test --project=unit"

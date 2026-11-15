@@ -1,12 +1,22 @@
 name: _pull request
 on: pull_request
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  tests:
-    name: playwright tests
-    timeout-minutes: 25
+  checks:
+    name: checks
+    timeout-minutes: 10
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: ./.github/actions/setup-playwright
-    - name: Run Playwright tests
-      run: npx playwright test --project=unit --project=firefox
+      with:
+        persist-credentials: false
+    - uses: jdx/mise-action@v2
+    - run: npm ci
+    - run: mise run check

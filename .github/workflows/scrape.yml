@@ -16,26 +16,34 @@ on:
         type: string
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   resolve:
     name: resolve scrape sets
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     outputs:
       sets: ${{ steps.resolve.outputs.sets }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Resolve scrape sets
         id: resolve
-        run: node scripts/scrape-sets.mjs resolve "${{ github.event.schedule }}" "${{ inputs.set }}" >> "$GITHUB_OUTPUT"
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          REQUESTED_SET: ${{ inputs.set }}
+        run: node scripts/scrape-sets.mjs resolve "$SCHEDULE" "$REQUESTED_SET" >> "$GITHUB_OUTPUT"
 
   scrape:
     name: scrape ${{ matrix.name }}
     needs: resolve
+    permissions:
+      contents: write
     if: ${{ needs.resolve.outputs.sets != '[]' }}
     runs-on: ubuntu-latest
     timeout-minutes: 25

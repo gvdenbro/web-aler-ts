@@ -25,6 +25,8 @@ runs:
         key: ${{ runner.os }}-playwright-${{ inputs.browser }}-${{ hashFiles('**/package-lock.json') }}
     - run: npm ci
       shell: bash
-    - run: npx playwright install --with-deps ${{ inputs.browser }}
+    - run: npx playwright install --with-deps "$BROWSER"
       if: steps.playwright-cache.outputs.cache-hit != 'true'
       shell: bash
+      env:
+        BROWSER: ${{ inputs.browser }}
