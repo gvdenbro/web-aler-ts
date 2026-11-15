@@ -3,13 +3,6 @@ url: "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel"
 snapshot:
   - img "Type kampactivity"
   - paragraph: Activiteit
-  - time: 15.11 - 15.11.2026
-  - heading "Flexactiviteit" [level=2]:
-    - link "Flexactiviteit":
-      - /url: https://jnm.be/nl/activiteiten/flexactiviteit
-  - paragraph: Ini's, Piepers  JNM Brussel
-  - img "Type kampactivity"
-  - paragraph: Activiteit
   - time: 29.11 - 29.11.2026
   - heading "Piepactiviteit" [level=2]:
     - link "Piepactiviteit":
