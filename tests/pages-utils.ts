@@ -1,12 +1,12 @@
 import { test, expect, Page, Locator } from '@playwright/test';
-import { ArtifactFormat, ScrapeArtifacts } from './scrape-artifact';
+import { ScrapeArtifacts } from './scrape-artifact';
 
 export function testPage(
     artifacts: ScrapeArtifacts,
     title: string,
     url: string,
     locator: string | ((page: Page) => Locator),
-    options?: { cookie?: { name: string; value: string; url?: string; }; format?: Extract<ArtifactFormat, 'html' | 'aria'> }
+    options?: { cookie?: { name: string; value: string; url?: string; } }
 ): void {
 
     test(title, async ({ page, context }, testInfo) => {
@@ -24,14 +24,11 @@ export function testPage(
         await container.scrollIntoViewIfNeeded();
         expect(container).toBeVisible();
 
-        const format = options?.format ?? 'html';
-
         await artifacts.record({
             name: testInfo.title,
             title,
             url: page.url(),
-            content: format === 'aria' ? await container.ariaSnapshot() : await container.innerHTML(),
-            format,
+            snapshot: await container.ariaSnapshot(),
         });
     });
 }

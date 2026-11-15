@@ -9,7 +9,7 @@ const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-    removeFiles(scrapesDirectory, 'md');
+    removeFiles(scrapesDirectory, 'yaml');
     removeFiles(scrapesDirectory, 'png');
   }
 });
@@ -74,12 +74,12 @@ async function scrapeTevaURL(context, page, testInfo, tevaUrl: string) {
 
   await expect(page.locator('.d-none > .prices > .price')).toBeVisible({ timeout: 30000 });
 
-  const htmlContent = await page.locator('.d-none > .prices > .price').innerHTML();
+  const price = page.locator('.d-none > .prices > .price');
 
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: htmlContent,
+    snapshot: await price.ariaSnapshot(),
     screenshot: () => page.locator('.product-option-box').screenshot(),
   });
 }
@@ -88,12 +88,10 @@ test.skip("vandenborre-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.vandenborre.be/fr/lave-vaisselle-encastrable/bosch-smi4ecs28e-serie-4-extradry", {timeout: 120000});
 
-  const htmlContent = await page.locator('.pdhe-extra-info').innerHTML();
-
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: htmlContent,
+    snapshot: await page.locator('.pdhe-extra-info').ariaSnapshot(),
     screenshot: () => page.locator('.product-detail-header-expanded').screenshot(),
   });
 });
@@ -106,12 +104,10 @@ test.skip("krefel-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   await page.locator('data-testid="widget-button"').isVisible();
 
-  const htmlContent = await page.locator(".lg\\:ml-20").innerHTML();
-
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: htmlContent,
+    snapshot: await page.locator(".lg\\:ml-20").ariaSnapshot(),
     screenshot: () => page.locator('div.gap-4:nth-child(3)').screenshot(),
   });
 });
@@ -122,12 +118,10 @@ test.skip("coolblue-SMI4ECS28E", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.coolblue.be/nl/product/959431/bosch-smi4ecs28e.html");
 
-  const htmlContent = await page.locator("#main-content form").innerHTML();
-
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: htmlContent,
+    snapshot: await page.locator("#main-content form").ariaSnapshot(),
     screenshot: () => page.locator('#main-content form').screenshot(),
   });
 });
@@ -138,12 +132,10 @@ test.skip("briare-cotemosaique", async ({ page, context }, testInfo) => {
 
   await page.goto("https://www.cotemosaique.com/emaux-de-briare-harmonie-en-vrac/32-mosaique-emaux-briare-prunelle-ag11-noir-3760286710884.html");
 
-  const htmlContent = await page.locator('.trcquant').innerHTML();
-
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: htmlContent,
+    snapshot: await page.locator('.trcquant').ariaSnapshot(),
     screenshot: () => page.locator('#center_column .primary_block.row').screenshot(),
   });
 });
@@ -163,7 +155,7 @@ test.skip("zalando-lounge", async ({ page, context }, testInfo) => {
     await artifacts.record({
       name: testInfo.title,
       url: page.url(),
-      content: await match.innerHTML(),
+      snapshot: await match.ariaSnapshot(),
       screenshot: () => match.screenshot(),
     });
   }
@@ -181,7 +173,7 @@ test.skip("cheleatandc", async ({ page, context }, testInfo) => {
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: await container.innerHTML(),
+    snapshot: await container.ariaSnapshot(),
   });
 });
 
@@ -213,7 +205,7 @@ async function zalando(page: Page, testInfo: TestInfo, url: string, filter: RegE
     await artifacts.record({
       name: `${testInfo.title}-${title}`,
       url: page.url(),
-      content: price.match(/\d+/g)?.join('') || '',
+      snapshot: await locator.ariaSnapshot(),
     });
 
     appendPriceAsString(`${scrapesDirectory}/prices.csv`, `${testInfo.title}-${title}`, price, [testInfo.title, title]);
@@ -249,7 +241,7 @@ test.skip("immoweb", async ({ page, context }, testInfo) => {
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: await mainContent.innerHTML(),
+    snapshot: await mainContent.ariaSnapshot(),
   });
 
 });
@@ -293,7 +285,7 @@ test.skip("immovlan", async ({ page, context }, testInfo) => {
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: await mainContent.innerHTML(),
+    snapshot: await mainContent.ariaSnapshot(),
   });
 
 });

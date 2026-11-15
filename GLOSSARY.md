@@ -21,7 +21,7 @@ The single list that defines each active scrape set's schedule, spec, output dir
 _Avoid_: workflow matrix, config, manifest
 
 **Scrape artifact**:
-The durable record of one scrape: a markdown file, an optional image, and a link to the source.
+The durable record of one scrape: a YAML file, an optional image, and a link to the source.
 _Avoid_: output, result, file, page
 
 **Artifact name**:
@@ -29,8 +29,12 @@ The relative path that identifies a scrape artifact within its scrape set.
 _Avoid_: filename, slug, test title
 
 **Display title**:
-The human-readable label for a scrape artifact, used in notifications and frontmatter.
+The human-readable label for a scrape artifact, used in notifications and the artifact header.
 _Avoid_: name, heading
+
+**Snapshot**:
+The ARIA representation of what a scrape target exposes to assistive technology.
+_Avoid_: HTML, DOM, page source
 
 **Price history**:
 The append-only record of prices observed for a scrape set over time.

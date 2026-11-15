@@ -37,7 +37,7 @@ test("buienradar-jette-3-uur", async ({ page, context }, testInfo) => {
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: await rainLabel.innerHTML(),
+    snapshot: await rainLabel.ariaSnapshot(),
     screenshot: () => rainBox.screenshot(),
   });
 });

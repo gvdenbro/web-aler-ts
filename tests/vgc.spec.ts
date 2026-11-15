@@ -76,7 +76,7 @@ for (const dienst of diensten) {
           await artifacts.record({
             name: artifactName,
             url: page.url(),
-            content: await mainContent.innerHTML(),
+            snapshot: await mainContent.ariaSnapshot(),
           });
         }
   

@@ -14,7 +14,7 @@ test.use({
 
 test.beforeAll(async ({ }, testInfo) => {
   if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-    removeFiles(scrapesDirectory, 'md');
+    removeFiles(scrapesDirectory, 'yaml');
     removeFiles(scrapesDirectory, 'png');
   }
 });
@@ -62,12 +62,13 @@ async function altex(page: Page, testInfo: TestInfo, url: string) {
 
   await page.goto(url);
 
-  const price = (await page.locator(".items-start span.Price-int.leading-none").last().textContent()) || '';
+  const priceLocator = page.locator(".items-start span.Price-int.leading-none").last();
+  const price = (await priceLocator.textContent()) || '';
 
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: price.match(/\d+/g)?.join('') || '',
+    snapshot: await priceLocator.ariaSnapshot(),
   });
 
   appendPriceAsString(`${scrapesDirectory}/spalat.csv`, `${testInfo.title}`, price);
@@ -98,12 +99,14 @@ async function emag(page: Page, testInfo: TestInfo, url: string) {
     await page.getByText("Validează").click();
   }
 
-  const price = (((await page.locator(".pricing-block .product-new-price").last().textContent()) || '').match(/\d+/g)?.join('') || '').slice(0, -2);
+  const priceLocator = page.locator(".pricing-block .product-new-price").last();
+  const priceText = (await priceLocator.textContent()) || '';
+  const price = ((priceText.match(/\d+/g)?.join('') || '')).slice(0, -2);
 
   await artifacts.record({
     name: testInfo.title,
     url: page.url(),
-    content: price,
+    snapshot: await priceLocator.ariaSnapshot(),
   });
 
   appendPriceAsString(`${scrapesDirectory}/spalat.csv`, `${testInfo.title}`, price);

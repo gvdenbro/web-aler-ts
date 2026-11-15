@@ -9,7 +9,7 @@ const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-        removeFiles(scrapesDirectory, 'md');
+        removeFiles(scrapesDirectory, 'yaml');
         removeFiles(scrapesDirectory, 'png');
     }
 });
@@ -123,7 +123,7 @@ async function southwest(page: Page, testInfo: TestInfo, date: Date, when: 'Befo
     await artifacts.record({
         name: testInfo.title,
         url: page.url(),
-        content: await gridResultPage.innerHTML(),
+        snapshot: await gridResultPage.ariaSnapshot(),
     });
 
     const locators = await gridResultPage.getByRole('listitem').all();
@@ -187,7 +187,7 @@ async function united(page: Page, testInfo: TestInfo, date: Date, when: 'Evening
     await artifacts.record({
         name: testInfo.title,
         url: page.url(),
-        content: await gridResultPage.innerHTML(),
+        snapshot: await gridResultPage.ariaSnapshot(),
     });
 
     const locators = await gridResultPage.getByRole('row').filter({ hasText: "NONSTOP" }).filter({hasNotText: "Operated by JSX Air"}).all();

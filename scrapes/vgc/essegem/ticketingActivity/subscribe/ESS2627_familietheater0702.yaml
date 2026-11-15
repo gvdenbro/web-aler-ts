@@ -1,0 +1,35 @@
+title: "ESS2627_familietheater0702"
+url: "https://tickets.vgc.be/ticketingActivity/subscribe/ESS2627_familietheater0702"
+snapshot:
+  - heading "Ik werd als eerste wakker (2,5+) - Klein Drama" [level=3]
+  - figure
+  - iframe
+  - text:  GC Essegem Leopold I-straat 329, 1090 Jette  07/02/2027  ESS2627_familietheater0702  Vanaf 11:00 tot 11:40 Huilen, lachen, praten, zingen, slapen, kruipen, lopen, springen. Zomer na lente na winter na herfst. Voorbij? Toe … nog even! Ik heb de tijd van m’n leven. ‘Ik werd als eerste wakker’ is een speelse en warme vertelling voor de allerkleinsten over opgroeien, seizoenen en de wonderlijke ontdekking van de wereld door de ogen van een klein meisje. Een verhaal over één meisje, twee oma’s en drie … nee ... vier seizoenen! Geen particulier verhaal, maar het verhaal van ons allemaal.
+  - strong: Leuk voor kinderen vanaf 2,5 jaar én hun families
+  - text: .
+  - emphasis: Online verkoop stopt één uur voor aanvang van de voorstelling. Voorstelling volzet? Mail of bel ons voor een plaats op de wachtlijst.
+  - emphasis:
+    - strong:
+      - text: "Info:"
+      - link "essegem@vgc.be":
+        - /url: mailto:essegem@vgc.be
+      - text: "- 02 427 80 39"
+  - heading [level=6]
+  - heading "Prijslijst" [level=4]
+  - list:
+    - listitem:
+      - heading "Ticket.:" [level=6]
+      - list:
+        - listitem: "Standaardprijs: €8,00"
+        - listitem: "Paspartoe-Kansentarief: €2,00"
+        - listitem: "-12 jaar: €6,00"
+  - heading "Reservatie data" [level=4]
+  - list:
+    - listitem:  14/08/2026 09:00 tot 07/02/2027 10:00 (Iedereen)
+  - text: Stap 1 van 3
+  - heading "Persoonlijke info" [level=3]
+  - text: Om tickets te kopen gelieve eerst uw e-mailadres in te geven E-mail *
+  - textbox "E-mail *"
+  - text: Verifieer e-mail *
+  - textbox "Verifieer e-mail *"
+  - button "Volgende"

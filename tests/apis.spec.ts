@@ -8,7 +8,7 @@ const digiInfrastructureUrl = 'https://api.digi-belgium.be/v1/address/infrastruc
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-      removeFiles(scrapesDirectory, 'md');
+      removeFiles(scrapesDirectory, 'yaml');
       removeFiles(scrapesDirectory, 'png');
     }
   });
@@ -48,7 +48,8 @@ test('digi belgium available', async ({ request }, testInfo) => {
 
     await artifacts.record({
       name: testInfo.title,
+      title: testInfo.title,
       url: digiInfrastructureUrl,
-      content: `<pre><code>${JSON.stringify(jsonResponse, replacer, 2)}</code></pre>`,
+      data: JSON.stringify(jsonResponse, replacer, 2),
     });
   });

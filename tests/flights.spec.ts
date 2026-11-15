@@ -15,7 +15,7 @@ const artifacts = scrapeArtifacts(scrapesDirectory);
 
 test.beforeAll(async ({ }, testInfo) => {
     if (!testInfo.retry) { // on failure workers can be restarted and then beforeAll called again which might mess up the directory cleaning
-        removeFiles(scrapesDirectory, 'md');
+        removeFiles(scrapesDirectory, 'yaml');
         removeFiles(scrapesDirectory, 'png');
     }
 });

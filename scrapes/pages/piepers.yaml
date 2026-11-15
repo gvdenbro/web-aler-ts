@@ -1,0 +1,31 @@
+title: "piepers"
+url: "https://jnm.be/nl/activiteiten?group=Piepers&department=jnm-brussel"
+snapshot:
+  - img "Type kampactivity"
+  - paragraph: Activiteit
+  - time: 15.11 - 15.11.2026
+  - heading "Flexactiviteit" [level=2]:
+    - link "Flexactiviteit":
+      - /url: https://jnm.be/nl/activiteiten/flexactiviteit
+  - paragraph: Ini's, Piepers  JNM Brussel
+  - img "Type kampactivity"
+  - paragraph: Activiteit
+  - time: 29.11 - 29.11.2026
+  - heading "Piepactiviteit" [level=2]:
+    - link "Piepactiviteit":
+      - /url: https://jnm.be/nl/activiteiten/piepactiviteit-5
+  - paragraph: Piepers  JNM Brussel
+  - img "Type kampactivity"
+  - paragraph: Activiteit
+  - time: 13.12 - 13.12.2026
+  - heading "Winterknutsels" [level=2]:
+    - link "Winterknutsels":
+      - /url: https://jnm.be/nl/activiteiten/winterknutsels
+  - paragraph: Piepers, Ini's  JNM Brussel
+  - img "Type kampactivity"
+  - paragraph: Activiteit
+  - time: 24.01 - 24.01.2027
+  - heading "Dikke vogel" [level=2]:
+    - link "Dikke vogel":
+      - /url: https://jnm.be/nl/activiteiten/dikke-vogel
+  - paragraph: Piepers  JNM Brussel

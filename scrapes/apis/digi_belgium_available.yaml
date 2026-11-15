@@ -1,0 +1,18 @@
+title: "digi belgium available"
+url: "https://api.digi-belgium.be/v1/address/infrastructure"
+data: |
+  {
+    "meta": {
+      "appLocalTimezone": "Europe/Brussels",
+      "status": {
+        "error": false,
+        "code": 0,
+        "message": {
+          "success": "Success!"
+        }
+      }
+    },
+    "data": {
+      "serviceType": "internet"
+    }
+  }

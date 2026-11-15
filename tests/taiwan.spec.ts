@@ -61,8 +61,7 @@ test.skip('emirates', async ({ page }) => {
     await artifacts.record({
         name: 'emirates',
         url: page.url(),
-        format: 'table',
-        content: `<table>${await gridResultPage.locator("table").innerHTML()}</table>`,
+        snapshot: await gridResultPage.locator("table").ariaSnapshot(),
         screenshot: async () => screenshot,
     });
 });
@@ -120,8 +119,7 @@ test.skip('turkish-airlines', async ({ page }) => {
     await artifacts.record({
         name: 'turkish-airlines',
         url: page.url(),
-        format: 'table',
-        content: `<table>${await gridResultPage.innerHTML()}</table>`,
+        snapshot: await gridResultPage.ariaSnapshot(),
         screenshot: async () => screenshot,
     });
 });

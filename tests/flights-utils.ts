@@ -29,12 +29,13 @@ export async function matrixSavedSearch(browser: Browser, testInfo: TestInfo, ar
 
     await page.getByRole('button', {name: 'Search'}).click();
 
-    const cheapestPrice = await page.locator('matrix-result-set-panel').locator('tbody').locator('tr td').first().textContent();
+    const results = page.locator('matrix-result-set-panel');
+    const cheapestPrice = await results.locator('tbody').locator('tr td').first().textContent();
 
     await artifacts.record({
         name: testInfo.title,
         url: page.url(),
-        content: cheapestPrice ?? '',
+        snapshot: await results.ariaSnapshot(),
     });
     appendPriceAsString(`${artifacts.directory}/prices.csv`, `${testInfo.title}`, cheapestPrice);
 }

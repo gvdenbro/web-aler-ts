@@ -100,8 +100,8 @@ export function formatChangedFiles(files, directory) {
   const prefix = `${directory.replace(/\/+$/, '')}/`;
 
   const names = files
-    .filter(file => file.startsWith(prefix) && file.endsWith('.md'))
-    .map(file => file.slice(prefix.length, -'.md'.length))
+    .filter(file => file.startsWith(prefix) && file.endsWith('.yaml'))
+    .map(file => file.slice(prefix.length, -'.yaml'.length))
     .filter(Boolean);
 
   return [...new Set(names)].map(escapeTelegram).join(', ');

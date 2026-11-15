@@ -77,19 +77,19 @@ test('rejects an unknown schedule or set', async () => {
 test('formats changed artifacts for Telegram', async () => {
 
   expect(formatChangedFiles([
-    'scrapes/pages/a.md',
-    'scrapes/pages/b_c.md',
-    'scrapes/pages/c[1].md',
+    'scrapes/pages/a.yaml',
+    'scrapes/pages/b_c.yaml',
+    'scrapes/pages/c[1].yaml',
     'scrapes/pages/x.png',
-    'other/z.md',
+    'other/z.yaml',
   ], 'scrapes/pages')).toBe('a, b\\_c, c\\[1]');
 });
 
 test('keeps nested artifact paths and drops duplicates', async () => {
 
   expect(formatChangedFiles([
-    'scrapes/vgc/essegem/activity/x.md',
-    'scrapes/vgc/essegem/activity/x.md',
+    'scrapes/vgc/essegem/activity/x.yaml',
+    'scrapes/vgc/essegem/activity/x.yaml',
   ], 'scrapes/vgc')).toBe('essegem/activity/x');
 });
 
