@@ -11,12 +11,19 @@ runs:
   using: composite
   steps:
     - uses: actions/cache@v4
+      id: npm-cache
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-npm-
+    - uses: actions/cache@v4
       id: playwright-cache
       with:
         path: |
           ~/.cache/ms-playwright
         key: ${{ runner.os }}-playwright-${{ inputs.browser }}-${{ hashFiles('**/package-lock.json') }}
-    - run: npm ci
+    - run: npm ci --prefer-offline
       shell: bash
     - run: npx playwright install --with-deps "$BROWSER"
       if: steps.playwright-cache.outputs.cache-hit != 'true'
