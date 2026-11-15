@@ -4,3 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    ignore:
+      # Keep @types/node on the Node 24 line; Node 25+ types describe a different runtime.
+      - dependency-name: "@types/node"
+        versions:
+          - ">=25.0.0"

@@ -1,6 +1,6 @@
 [tools]
 jactionlint = "2.6.0"
-node = "22"
+node = "24"
 
 [tasks.typecheck]
 run = "npx tsc --noEmit"
