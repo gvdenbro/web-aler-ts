@@ -13,7 +13,6 @@ snapshot:
         - link "essegem@vgc.be":
           - /url: mailto:essegem@vgc.be
         - text: "- 02 427 80 39"
-  - heading [level=6]
   - heading "Prijslijst" [level=4]
   - list:
     - listitem:
@@ -23,6 +22,6 @@ snapshot:
   - heading "Reservatie data" [level=4]
   - list:
     - listitem:  30/09/2026 09:00 tot 15/11/2026 13:00 (Iedereen)
-  - heading "Volzet" [level=3]
-  - text: Deze activiteit is volzet. Er is geen wachtlijst mogelijk.
-  - heading [level=3]
+  - heading "Inschrijven niet mogelijk" [level=4]
+  - link "Terug":
+    - /url: /activity/index
