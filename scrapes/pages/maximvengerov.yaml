@@ -3,23 +3,6 @@ url: "https://www.maximvengerov.com/events"
 snapshot:
   - text: Upcoming
   - article:
-    - text: Nov 16
-    - heading "Paris Masterclass" [level=1]:
-      - link "Paris Masterclass":
-        - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
-    - list:
-      - listitem:
-        - time: 8:00 PM
-        - text: –
-        - time: 10:00 PM
-      - listitem:
-        - text: Ecole Normal de Musique Paris
-        - link "(map)":
-          - /url: http://maps.google.com?q=114bis Boulevard Malesherbes Paris, Île-de-France, 75017 France
-    - paragraph: Masterclass with Maxim Vengerov
-    - link "View Event →":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
-  - article:
     - text: Nov 18
     - heading "Paris Concert" [level=1]:
       - link "Paris Concert":
@@ -304,6 +287,23 @@ snapshot:
       - /url: /events/xsnh3c7a52l586b-lfe78-mjmy2-ahsm9-3tgky-apd8n-xxcx2-5fkjy-yn7xx-bs5ad
   - text: Past
   - separator
+  - article:
+    - text: Nov 16
+    - heading "Paris Masterclass" [level=1]:
+      - link "Paris Masterclass":
+        - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
+    - list:
+      - listitem:
+        - time: 8:00 PM
+        - text: –
+        - time: 10:00 PM
+      - listitem:
+        - text: Ecole Normal de Musique Paris
+        - link "(map)":
+          - /url: http://maps.google.com?q=114bis Boulevard Malesherbes Paris, Île-de-France, 75017 France
+    - paragraph: Masterclass with Maxim Vengerov
+    - link "View Event →":
+      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d-wflyp
   - article:
     - text: Nov 13
     - heading "Paris Masterclass" [level=1]:
@@ -848,22 +848,3 @@ snapshot:
     - paragraph: Masterclass with Maxim Vengerov
     - link "View Event →":
       - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-c5yfl-e2jd4-ykcc4-2y4xj-2lg3d
-  - article:
-    - text: May 14
-    - heading "Recital Teramo" [level=1]:
-      - link "Recital Teramo":
-        - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
-    - list:
-      - listitem:
-        - time: 8:30 PM
-        - text: –
-        - time: 10:30 PM
-      - listitem:
-        - text: Aula Magna University of Teramo
-        - link "(map)":
-          - /url: http://maps.google.com?q=1 Via Renato Balzarini Teramo, Abruzzo, 64100 Italy
-    - paragraph: Program
-    - paragraph: Schubert Violin Sonata No. 3 Brahms Violin Sonata No. 3 Shostakovich Violin Sonata Shostakovich-Dreznin From Jewish Folk Poetry, suite op. 79
-    - paragraph: Performers Maxim Vengerov, violin Polina Osetinskaya, piano
-    - link "View Event →":
-      - /url: /events/the-annual-isaac-stern-memorial-concert-nz3yh-8xdcz-bkba8-bg8xf-68g9s-b65na
