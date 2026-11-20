@@ -22,3 +22,10 @@ snapshot:
     - link "Dikke vogel":
       - /url: https://jnm.be/nl/activiteiten/dikke-vogel
   - paragraph: Piepers  JNM Brussel
+  - img "Type kampactivity"
+  - paragraph: Activiteit
+  - time: 21.03 - 21.03.2027
+  - heading "HET IS LENTE!!!!!!!" [level=2]:
+    - link "HET IS LENTE!!!!!!!":
+      - /url: https://jnm.be/nl/activiteiten/het-is-lente-1
+  - paragraph: Piepers  JNM Brussel
