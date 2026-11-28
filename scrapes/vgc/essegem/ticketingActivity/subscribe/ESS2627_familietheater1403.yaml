@@ -14,7 +14,7 @@ snapshot:
       - link "essegem@vgc.be":
         - /url: mailto:essegem@vgc.be
       - text: "- 02 427 80 39"
-  - heading "Er zijn nog een beperkt aantal plaatsen beschikbaar." [level=6]
+  - heading "Sorry, deze activiteit is volledig uitverkocht." [level=6]
   - heading "Prijslijst" [level=4]
   - list:
     - listitem:
@@ -26,10 +26,3 @@ snapshot:
   - heading "Reservatie data" [level=4]
   - list:
     - listitem:  14/08/2026 09:00 tot 14/03/2027 12:30 (Iedereen)
-  - text: Stap 1 van 3
-  - heading "Persoonlijke info" [level=3]
-  - text: Om tickets te kopen gelieve eerst uw e-mailadres in te geven E-mail *
-  - textbox "E-mail *"
-  - text: Verifieer e-mail *
-  - textbox "Verifieer e-mail *"
-  - button "Volgende"
